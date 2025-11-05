@@ -1,0 +1,1121 @@
+{
+  "SceneMiniMap": {
+    "Datas": [
+      {
+        "ID": 1,
+        "MiniMapName": "Assets/ResBundle/MiniMap/SceneBattle001_1/MiniMap.prefab",
+        "MiniMapTypeID": 1
+      },
+      {
+        "ID": 2,
+        "MiniMapName": "Assets/ResBundle/MiniMap/SceneBattle002_1/MiniMap.prefab",
+        "MiniMapTypeID": 2
+      },
+      {
+        "ID": 3,
+        "MiniMapName": "Assets/ResBundle/MiniMap/SceneBattle001_2/MiniMap.prefab",
+        "MiniMapTypeID": 3
+      },
+      {
+        "ID": 4,
+        "MiniMapTypeID": 4
+      },
+      {
+        "ID": 5,
+        "MiniMapName": "Assets/ResBundle/MiniMap/SceneBattle003_1/MiniMap.prefab",
+        "MiniMapTypeID": 5
+      },
+      {
+        "ID": 6,
+        "MiniMapTypeID": 6
+      },
+      {
+        "ID": 100,
+        "MiniMapName": "Assets/ResBundle/MiniMap/SceneGuide/MiniMap.prefab",
+        "MiniMapTypeID": 100
+      },
+      {
+        "ID": 1001,
+        "MiniMapName": "Assets/ResBundle/MiniMap/SceneChristmas/MiniMap.prefab",
+        "MiniMapTypeID": 1001
+      },
+      {
+        "ID": 1002,
+        "MiniMapName": "Assets/ResBundle/MiniMap/SceneHotpot/MiniMap.prefab",
+        "MiniMapTypeID": 1002
+      },
+      {
+        "ID": 1003,
+        "MiniMapName": "Assets/ResBundle/MiniMap/SceneSchool/MiniMap.prefab",
+        "MiniMapTypeID": 1003
+      },
+      {
+        "ID": 9999,
+        "MiniMapTypeID": 9999
+      }
+    ]
+  },
+  "MinimapType": {
+    "Datas": [
+      {
+        "ID": 1,
+        "MiniMapTypeInfo": [
+          {
+            "ItemID": 100002112,
+            "TextID": 100002112,
+            "NewMiniMapType": 5
+          },
+          {
+            "ItemID": 100002101,
+            "TextID": 100002101,
+            "NewMiniMapType": 101
+          },
+          {
+            "ItemID": 100002102,
+            "TextID": 100002102,
+            "NewMiniMapType": 102
+          },
+          {
+            "ItemID": 100002103,
+            "TextID": 100002103,
+            "NewMiniMapType": 106
+          },
+          {
+            "ItemID": 100002104,
+            "TextID": 100002104,
+            "NewMiniMapType": 103
+          },
+          {
+            "ItemID": 100002105,
+            "TextID": 100002105,
+            "NewMiniMapType": 104
+          },
+          {
+            "ItemID": 100002107,
+            "TextID": 100002107,
+            "NewMiniMapType": 105
+          },
+          {
+            "ItemID": 100002108,
+            "TextID": 100002108,
+            "NewMiniMapType": 108
+          },
+          {
+            "NewMiniMapType": 109
+          },
+          {
+            "NewMiniMapType": 107
+          },
+          {
+            "ItemID": 100002114,
+            "TextID": 100002114,
+            "NewMiniMapType": 201
+          },
+          {
+            "ItemID": 100002114,
+            "TextID": 100002114,
+            "NewMiniMapType": 202
+          },
+          {
+            "ItemID": 100002114,
+            "TextID": 100002114,
+            "NewMiniMapType": 203
+          },
+          {
+            "ItemID": 100002114,
+            "TextID": 100002114,
+            "NewMiniMapType": 204
+          },
+          {
+            "ItemID": 100002113,
+            "TextID": 100002113,
+            "NewMiniMapType": 301
+          },
+          {
+            "ItemID": 100002113,
+            "TextID": 100002113,
+            "NewMiniMapType": 302
+          },
+          {
+            "ItemID": 100002113,
+            "TextID": 100002113,
+            "NewMiniMapType": 303
+          },
+          {
+            "ItemID": 100002113,
+            "TextID": 100002113,
+            "NewMiniMapType": 304
+          },
+          {
+            "ItemID": 100002113,
+            "TextID": 100002113,
+            "NewMiniMapType": 305
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "MiniMapTypeInfo": [
+          {
+            "ItemID": 100002212,
+            "TextID": 100002212,
+            "NewMiniMapType": 5
+          },
+          {
+            "ItemID": 100002201,
+            "TextID": 100002201,
+            "NewMiniMapType": 101
+          },
+          {
+            "ItemID": 100002202,
+            "TextID": 100002202,
+            "NewMiniMapType": 102
+          },
+          {
+            "ItemID": 100002203,
+            "TextID": 100002203,
+            "NewMiniMapType": 106
+          },
+          {
+            "ItemID": 100002204,
+            "TextID": 100002204,
+            "NewMiniMapType": 103
+          },
+          {
+            "ItemID": 100002205,
+            "TextID": 100002205,
+            "NewMiniMapType": 104
+          },
+          {
+            "ItemID": 100002207,
+            "TextID": 100002207,
+            "NewMiniMapType": 105
+          },
+          {
+            "ItemID": 100002208,
+            "TextID": 100002208,
+            "NewMiniMapType": 108
+          },
+          {
+            "NewMiniMapType": 109
+          },
+          {
+            "NewMiniMapType": 107
+          },
+          {
+            "ItemID": 100002214,
+            "TextID": 100002214,
+            "NewMiniMapType": 201
+          },
+          {
+            "ItemID": 100002214,
+            "TextID": 100002214,
+            "NewMiniMapType": 202
+          },
+          {
+            "ItemID": 100002214,
+            "TextID": 100002214,
+            "NewMiniMapType": 203
+          },
+          {
+            "ItemID": 100002214,
+            "TextID": 100002214,
+            "NewMiniMapType": 205
+          },
+          {
+            "ItemID": 100002214,
+            "TextID": 100002214,
+            "NewMiniMapType": 206
+          },
+          {
+            "ItemID": 100002213,
+            "TextID": 100002213,
+            "NewMiniMapType": 306
+          },
+          {
+            "ItemID": 100002213,
+            "TextID": 100002213,
+            "NewMiniMapType": 307
+          },
+          {
+            "ItemID": 100002213,
+            "TextID": 100002213,
+            "NewMiniMapType": 308
+          },
+          {
+            "ItemID": 100002213,
+            "TextID": 100002213,
+            "NewMiniMapType": 309
+          },
+          {
+            "ItemID": 100002213,
+            "TextID": 100002213,
+            "NewMiniMapType": 310
+          }
+        ]
+      },
+      {
+        "ID": 3,
+        "MiniMapTypeInfo": [
+          {
+            "ItemID": 100002312,
+            "TextID": 100002312,
+            "NewMiniMapType": 5
+          },
+          {
+            "ItemID": 100002301,
+            "TextID": 100002301,
+            "NewMiniMapType": 101
+          },
+          {
+            "ItemID": 100002302,
+            "TextID": 100002302,
+            "NewMiniMapType": 102
+          },
+          {
+            "ItemID": 100002303,
+            "TextID": 100002303,
+            "NewMiniMapType": 106
+          },
+          {
+            "ItemID": 100002304,
+            "TextID": 100002304,
+            "NewMiniMapType": 103
+          },
+          {
+            "ItemID": 100002305,
+            "TextID": 100002305,
+            "NewMiniMapType": 104
+          },
+          {
+            "ItemID": 100002307,
+            "TextID": 100002307,
+            "NewMiniMapType": 105
+          },
+          {
+            "ItemID": 100002308,
+            "TextID": 100002308,
+            "NewMiniMapType": 108
+          },
+          {
+            "NewMiniMapType": 109
+          },
+          {
+            "NewMiniMapType": 107
+          },
+          {
+            "ItemID": 100002314,
+            "TextID": 100002314,
+            "NewMiniMapType": 201
+          },
+          {
+            "ItemID": 100002314,
+            "TextID": 100002314,
+            "NewMiniMapType": 202
+          },
+          {
+            "ItemID": 100002314,
+            "TextID": 100002314,
+            "NewMiniMapType": 203
+          },
+          {
+            "ItemID": 100002314,
+            "TextID": 100002314,
+            "NewMiniMapType": 207
+          },
+          {
+            "ItemID": 100002313,
+            "TextID": 100002313,
+            "NewMiniMapType": 302
+          },
+          {
+            "ItemID": 100002313,
+            "TextID": 100002313,
+            "NewMiniMapType": 303
+          },
+          {
+            "ItemID": 100002313,
+            "TextID": 100002313,
+            "NewMiniMapType": 311
+          },
+          {
+            "ItemID": 100002313,
+            "TextID": 100002313,
+            "NewMiniMapType": 312
+          },
+          {
+            "ItemID": 100002313,
+            "TextID": 100002313,
+            "NewMiniMapType": 313
+          }
+        ]
+      },
+      {
+        "ID": 4,
+        "MiniMapTypeInfo": [
+          {
+            "ItemID": 100002412,
+            "TextID": 100002412,
+            "NewMiniMapType": 5
+          },
+          {
+            "ItemID": 100002401,
+            "TextID": 100002401,
+            "NewMiniMapType": 101
+          },
+          {
+            "ItemID": 100002402,
+            "TextID": 100002402,
+            "NewMiniMapType": 102
+          },
+          {
+            "ItemID": 100002403,
+            "TextID": 100002403,
+            "NewMiniMapType": 106
+          },
+          {
+            "ItemID": 100002404,
+            "TextID": 100002404,
+            "NewMiniMapType": 103
+          },
+          {
+            "ItemID": 100002405,
+            "TextID": 100002405,
+            "NewMiniMapType": 104
+          },
+          {
+            "ItemID": 100002407,
+            "TextID": 100002407,
+            "NewMiniMapType": 105
+          },
+          {
+            "ItemID": 100002408,
+            "TextID": 100002408,
+            "NewMiniMapType": 108
+          },
+          {
+            "NewMiniMapType": 109
+          },
+          {
+            "NewMiniMapType": 107
+          },
+          {
+            "ItemID": 100002414,
+            "TextID": 100002414,
+            "NewMiniMapType": 201
+          },
+          {
+            "ItemID": 100002414,
+            "TextID": 100002414,
+            "NewMiniMapType": 202
+          },
+          {
+            "ItemID": 100002414,
+            "TextID": 100002414,
+            "NewMiniMapType": 203
+          },
+          {
+            "ItemID": 100002414,
+            "TextID": 100002414,
+            "NewMiniMapType": 204
+          },
+          {
+            "ItemID": 100002414,
+            "TextID": 100002414,
+            "NewMiniMapType": 205
+          },
+          {
+            "ItemID": 100002414,
+            "TextID": 100002414,
+            "NewMiniMapType": 206
+          },
+          {
+            "ItemID": 100002413,
+            "TextID": 100002413,
+            "NewMiniMapType": 301
+          },
+          {
+            "ItemID": 100002413,
+            "TextID": 100002413,
+            "NewMiniMapType": 302
+          },
+          {
+            "ItemID": 100002413,
+            "TextID": 100002413,
+            "NewMiniMapType": 303
+          },
+          {
+            "ItemID": 100002413,
+            "TextID": 100002413,
+            "NewMiniMapType": 304
+          },
+          {
+            "ItemID": 100002413,
+            "TextID": 100002413,
+            "NewMiniMapType": 305
+          },
+          {
+            "ItemID": 100002413,
+            "TextID": 100002413,
+            "NewMiniMapType": 306
+          },
+          {
+            "ItemID": 100002413,
+            "TextID": 100002413,
+            "NewMiniMapType": 307
+          },
+          {
+            "ItemID": 100002413,
+            "TextID": 100002413,
+            "NewMiniMapType": 308
+          },
+          {
+            "ItemID": 100002413,
+            "TextID": 100002413,
+            "NewMiniMapType": 309
+          },
+          {
+            "ItemID": 100002413,
+            "TextID": 100002413,
+            "NewMiniMapType": 310
+          }
+        ]
+      },
+      {
+        "ID": 5,
+        "MiniMapTypeInfo": [
+          {
+            "ItemID": 100002512,
+            "TextID": 100002512,
+            "NewMiniMapType": 5
+          },
+          {
+            "ItemID": 100002501,
+            "TextID": 100002501,
+            "NewMiniMapType": 101
+          },
+          {
+            "ItemID": 100002502,
+            "TextID": 100002502,
+            "NewMiniMapType": 102
+          },
+          {
+            "ItemID": 100002503,
+            "TextID": 100002503,
+            "NewMiniMapType": 106
+          },
+          {
+            "ItemID": 100002504,
+            "TextID": 100002504,
+            "NewMiniMapType": 103
+          },
+          {
+            "ItemID": 100002505,
+            "TextID": 100002505,
+            "NewMiniMapType": 104
+          },
+          {
+            "ItemID": 100002507,
+            "TextID": 100002507,
+            "NewMiniMapType": 105
+          },
+          {
+            "ItemID": 100002508,
+            "TextID": 100002508,
+            "NewMiniMapType": 108
+          },
+          {
+            "NewMiniMapType": 109
+          },
+          {
+            "NewMiniMapType": 107
+          },
+          {
+            "ItemID": 100002514,
+            "TextID": 100002514,
+            "NewMiniMapType": 201
+          },
+          {
+            "ItemID": 100002514,
+            "TextID": 100002514,
+            "NewMiniMapType": 202
+          },
+          {
+            "ItemID": 100002514,
+            "TextID": 100002514,
+            "NewMiniMapType": 203
+          },
+          {
+            "ItemID": 100002514,
+            "TextID": 100002514,
+            "NewMiniMapType": 211
+          },
+          {
+            "ItemID": 100002514,
+            "TextID": 100002514,
+            "NewMiniMapType": 212
+          },
+          {
+            "ItemID": 100002514,
+            "TextID": 100002514,
+            "NewMiniMapType": 213
+          },
+          {
+            "ItemID": 100002514,
+            "TextID": 100002514,
+            "NewMiniMapType": 206
+          },
+          {
+            "ItemID": 100002513,
+            "TextID": 100002513,
+            "NewMiniMapType": 320
+          },
+          {
+            "ItemID": 100002513,
+            "TextID": 100002513,
+            "NewMiniMapType": 321
+          },
+          {
+            "ItemID": 100002513,
+            "TextID": 100002513,
+            "NewMiniMapType": 304
+          }
+        ]
+      },
+      {
+        "ID": 6,
+        "MiniMapTypeInfo": [
+          {
+            "NewMiniMapType": 5
+          },
+          {
+            "NewMiniMapType": 101
+          },
+          {
+            "NewMiniMapType": 102
+          },
+          {
+            "NewMiniMapType": 106
+          },
+          {
+            "NewMiniMapType": 103
+          },
+          {
+            "NewMiniMapType": 104
+          },
+          {
+            "NewMiniMapType": 105
+          },
+          {
+            "NewMiniMapType": 108
+          },
+          {
+            "NewMiniMapType": 109
+          },
+          {
+            "NewMiniMapType": 107
+          },
+          {
+            "NewMiniMapType": 110
+          },
+          {
+            "NewMiniMapType": 201
+          },
+          {
+            "NewMiniMapType": 202
+          },
+          {
+            "NewMiniMapType": 203
+          },
+          {
+            "NewMiniMapType": 204
+          },
+          {
+            "NewMiniMapType": 205
+          },
+          {
+            "NewMiniMapType": 206
+          },
+          {
+            "NewMiniMapType": 301
+          },
+          {
+            "NewMiniMapType": 302
+          },
+          {
+            "NewMiniMapType": 303
+          },
+          {
+            "NewMiniMapType": 304
+          },
+          {
+            "NewMiniMapType": 305
+          },
+          {
+            "NewMiniMapType": 306
+          },
+          {
+            "NewMiniMapType": 307
+          },
+          {
+            "NewMiniMapType": 308
+          },
+          {
+            "NewMiniMapType": 309
+          },
+          {
+            "NewMiniMapType": 310
+          }
+        ]
+      },
+      {
+        "ID": 100,
+        "MiniMapTypeInfo": [
+          {
+            "NewMiniMapType": 5
+          },
+          {
+            "NewMiniMapType": 101
+          },
+          {
+            "NewMiniMapType": 102
+          },
+          {
+            "NewMiniMapType": 106
+          },
+          {
+            "NewMiniMapType": 103
+          },
+          {
+            "NewMiniMapType": 104
+          },
+          {
+            "NewMiniMapType": 105
+          },
+          {
+            "NewMiniMapType": 108
+          },
+          {
+            "NewMiniMapType": 109
+          },
+          {
+            "NewMiniMapType": 107
+          },
+          {
+            "NewMiniMapType": 110
+          },
+          {
+            "NewMiniMapType": 201
+          },
+          {
+            "NewMiniMapType": 202
+          },
+          {
+            "NewMiniMapType": 203
+          },
+          {
+            "NewMiniMapType": 204
+          },
+          {
+            "NewMiniMapType": 205
+          },
+          {
+            "NewMiniMapType": 206
+          },
+          {
+            "NewMiniMapType": 301
+          },
+          {
+            "NewMiniMapType": 302
+          },
+          {
+            "NewMiniMapType": 303
+          },
+          {
+            "NewMiniMapType": 304
+          },
+          {
+            "NewMiniMapType": 305
+          },
+          {
+            "NewMiniMapType": 306
+          },
+          {
+            "NewMiniMapType": 307
+          },
+          {
+            "NewMiniMapType": 308
+          },
+          {
+            "NewMiniMapType": 309
+          },
+          {
+            "NewMiniMapType": 310
+          }
+        ]
+      },
+      {
+        "ID": 1001,
+        "MiniMapTypeInfo": [
+          {
+            "ItemID": 100010112,
+            "TextID": 100010112,
+            "NewMiniMapType": 5
+          },
+          {
+            "ItemID": 100010101,
+            "TextID": 100010101,
+            "NewMiniMapType": 101
+          },
+          {
+            "ItemID": 100010102,
+            "TextID": 100010102,
+            "NewMiniMapType": 102
+          },
+          {
+            "ItemID": 100010103,
+            "TextID": 100010103,
+            "NewMiniMapType": 106
+          },
+          {
+            "ItemID": 100010104,
+            "TextID": 100010104,
+            "NewMiniMapType": 103
+          },
+          {
+            "ItemID": 100010105,
+            "TextID": 100010105,
+            "NewMiniMapType": 104
+          },
+          {
+            "ItemID": 100010107,
+            "TextID": 100010107,
+            "NewMiniMapType": 105
+          },
+          {
+            "ItemID": 100010108,
+            "TextID": 100010108,
+            "NewMiniMapType": 108
+          },
+          {
+            "NewMiniMapType": 109
+          },
+          {
+            "NewMiniMapType": 107
+          },
+          {
+            "ItemID": 100010114,
+            "TextID": 100010114,
+            "NewMiniMapType": 110
+          },
+          {
+            "ItemID": 100010114,
+            "TextID": 100010114,
+            "NewMiniMapType": 201
+          },
+          {
+            "ItemID": 100010114,
+            "TextID": 100010114,
+            "NewMiniMapType": 202
+          },
+          {
+            "ItemID": 100010114,
+            "TextID": 100010114,
+            "NewMiniMapType": 203
+          },
+          {
+            "ItemID": 100010113,
+            "TextID": 100010113,
+            "NewMiniMapType": 204
+          },
+          {
+            "ItemID": 100010113,
+            "TextID": 100010113,
+            "NewMiniMapType": 314
+          },
+          {
+            "ItemID": 100010113,
+            "TextID": 100010113,
+            "NewMiniMapType": 315
+          }
+        ]
+      },
+      {
+        "ID": 1002,
+        "MiniMapTypeInfo": [
+          {
+            "ItemID": 100010212,
+            "TextID": 100010212,
+            "NewMiniMapType": 5
+          },
+          {
+            "ItemID": 100010201,
+            "TextID": 100010201,
+            "NewMiniMapType": 101
+          },
+          {
+            "ItemID": 100010202,
+            "TextID": 100010202,
+            "NewMiniMapType": 102
+          },
+          {
+            "ItemID": 100010203,
+            "TextID": 100010203,
+            "NewMiniMapType": 106
+          },
+          {
+            "ItemID": 100010204,
+            "TextID": 100010204,
+            "NewMiniMapType": 103
+          },
+          {
+            "ItemID": 100010205,
+            "TextID": 100010205,
+            "NewMiniMapType": 104
+          },
+          {
+            "ItemID": 100010207,
+            "TextID": 100010207,
+            "NewMiniMapType": 105
+          },
+          {
+            "ItemID": 100010208,
+            "TextID": 100010208,
+            "NewMiniMapType": 108
+          },
+          {
+            "NewMiniMapType": 109
+          },
+          {
+            "NewMiniMapType": 107
+          },
+          {
+            "ItemID": 100010214,
+            "TextID": 100010214,
+            "NewMiniMapType": 110
+          },
+          {
+            "ItemID": 100010214,
+            "TextID": 100010214,
+            "NewMiniMapType": 201
+          },
+          {
+            "ItemID": 100010214,
+            "TextID": 100010214,
+            "NewMiniMapType": 202
+          },
+          {
+            "ItemID": 100010214,
+            "TextID": 100010214,
+            "NewMiniMapType": 203
+          },
+          {
+            "ItemID": 100010214,
+            "TextID": 100010214,
+            "NewMiniMapType": 209
+          },
+          {
+            "ItemID": 100010214,
+            "TextID": 100010214,
+            "NewMiniMapType": 210
+          },
+          {
+            "ItemID": 100010213,
+            "TextID": 100010213,
+            "NewMiniMapType": 204
+          },
+          {
+            "ItemID": 100010213,
+            "TextID": 100010213,
+            "NewMiniMapType": 314
+          },
+          {
+            "ItemID": 100010213,
+            "TextID": 100010213,
+            "NewMiniMapType": 315
+          },
+          {
+            "ItemID": 100010213,
+            "TextID": 100010213,
+            "NewMiniMapType": 316
+          },
+          {
+            "ItemID": 100010213,
+            "TextID": 100010213,
+            "NewMiniMapType": 317
+          },
+          {
+            "ItemID": 100010213,
+            "TextID": 100010213,
+            "NewMiniMapType": 318
+          },
+          {
+            "ItemID": 100010213,
+            "TextID": 100010213,
+            "NewMiniMapType": 319
+          }
+        ]
+      },
+      {
+        "ID": 1003,
+        "MiniMapTypeInfo": [
+          {
+            "NewMiniMapType": 5
+          },
+          {
+            "NewMiniMapType": 101
+          },
+          {
+            "NewMiniMapType": 102
+          },
+          {
+            "NewMiniMapType": 106
+          },
+          {
+            "NewMiniMapType": 103
+          },
+          {
+            "NewMiniMapType": 104
+          },
+          {
+            "NewMiniMapType": 105
+          },
+          {
+            "NewMiniMapType": 108
+          },
+          {
+            "NewMiniMapType": 109
+          },
+          {
+            "NewMiniMapType": 107
+          },
+          {
+            "NewMiniMapType": 110
+          },
+          {
+            "NewMiniMapType": 201
+          },
+          {
+            "NewMiniMapType": 202
+          },
+          {
+            "NewMiniMapType": 203
+          },
+          {
+            "NewMiniMapType": 209
+          },
+          {
+            "NewMiniMapType": 210
+          },
+          {
+            "NewMiniMapType": 204
+          },
+          {
+            "NewMiniMapType": 314
+          },
+          {
+            "NewMiniMapType": 315
+          },
+          {
+            "NewMiniMapType": 316
+          },
+          {
+            "NewMiniMapType": 317
+          },
+          {
+            "NewMiniMapType": 318
+          },
+          {
+            "NewMiniMapType": 319
+          }
+        ]
+      },
+      {
+        "ID": 9999,
+        "MiniMapTypeInfo": [
+          {
+            "NewMiniMapType": 5
+          },
+          {
+            "NewMiniMapType": 101
+          },
+          {
+            "NewMiniMapType": 102
+          },
+          {
+            "NewMiniMapType": 106
+          },
+          {
+            "NewMiniMapType": 103
+          },
+          {
+            "NewMiniMapType": 104
+          },
+          {
+            "NewMiniMapType": 105
+          },
+          {
+            "NewMiniMapType": 108
+          },
+          {
+            "NewMiniMapType": 109
+          },
+          {
+            "NewMiniMapType": 107
+          },
+          {
+            "NewMiniMapType": 110
+          },
+          {
+            "NewMiniMapType": 201
+          },
+          {
+            "NewMiniMapType": 202
+          },
+          {
+            "NewMiniMapType": 203
+          },
+          {
+            "NewMiniMapType": 204
+          },
+          {
+            "NewMiniMapType": 205
+          },
+          {
+            "NewMiniMapType": 206
+          },
+          {
+            "NewMiniMapType": 301
+          },
+          {
+            "NewMiniMapType": 302
+          },
+          {
+            "NewMiniMapType": 303
+          },
+          {
+            "NewMiniMapType": 304
+          },
+          {
+            "NewMiniMapType": 305
+          },
+          {
+            "NewMiniMapType": 306
+          },
+          {
+            "NewMiniMapType": 307
+          },
+          {
+            "NewMiniMapType": 308
+          },
+          {
+            "NewMiniMapType": 309
+          },
+          {
+            "NewMiniMapType": 310
+          }
+        ]
+      }
+    ]
+  }
+}

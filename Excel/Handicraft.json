@@ -1,0 +1,5071 @@
+{
+  "HandicraftLevel": {
+    "Datas": [
+      {
+        "ID": 1,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 1000,
+        "HandicraftLevelAchieve": [
+          {
+            "AchieveConditionID": 100510101,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100510102,
+            "Proficiency": 200,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100510103,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          },
+          {
+            "AchieveConditionID": 100510104,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "UpgradeLevelByProficiency": 8000,
+        "NeedItemID": 101,
+        "NeedItemCount": 2000,
+        "HandicraftLevelAchieve": [
+          {
+            "AchieveConditionID": 100510201,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          },
+          {
+            "AchieveConditionID": 100510202,
+            "Proficiency": 100,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100510203,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100510204,
+            "Proficiency": 2000,
+            "CompleteLimit": 2
+          }
+        ]
+      },
+      {
+        "ID": 3,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 3000,
+        "HandicraftLevelAchieve": [
+          {
+            "AchieveConditionID": 100510301,
+            "Proficiency": 100,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100510302,
+            "Proficiency": 600,
+            "CompleteLimit": 5
+          },
+          {
+            "AchieveConditionID": 100510303,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100510304,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          }
+        ]
+      },
+      {
+        "ID": 4,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 5000,
+        "HandicraftLevelAchieve": [
+          {
+            "AchieveConditionID": 100510401,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100510402,
+            "Proficiency": 200,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100510403,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          },
+          {
+            "AchieveConditionID": 100510404,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          }
+        ]
+      },
+      {
+        "ID": 5,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 8000,
+        "HandicraftLevelAchieve": [
+          {
+            "AchieveConditionID": 100510501,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          },
+          {
+            "AchieveConditionID": 100510502,
+            "Proficiency": 100,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100510503,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100510504,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          }
+        ]
+      },
+      {
+        "ID": 6,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 10000,
+        "HandicraftLevelAchieve": [
+          {
+            "AchieveConditionID": 100510601,
+            "Proficiency": 100,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100510602,
+            "Proficiency": 600,
+            "CompleteLimit": 5
+          },
+          {
+            "AchieveConditionID": 100510603,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100510604,
+            "Proficiency": 1000,
+            "CompleteLimit": 4
+          }
+        ]
+      },
+      {
+        "ID": 7,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 15000,
+        "HandicraftLevelAchieve": [
+          {
+            "AchieveConditionID": 100510701,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100510702,
+            "Proficiency": 200,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100510703,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          },
+          {
+            "AchieveConditionID": 100510704,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          }
+        ]
+      },
+      {
+        "ID": 8,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 20000,
+        "HandicraftLevelAchieve": [
+          {
+            "AchieveConditionID": 100510801,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          },
+          {
+            "AchieveConditionID": 100510802,
+            "Proficiency": 100,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100510803,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100510804,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          }
+        ]
+      },
+      {
+        "ID": 9,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 30000,
+        "HandicraftLevelAchieve": [
+          {
+            "AchieveConditionID": 100510901,
+            "Proficiency": 100,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100510902,
+            "Proficiency": 600,
+            "CompleteLimit": 5
+          },
+          {
+            "AchieveConditionID": 100510903,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100510904,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          }
+        ]
+      },
+      {
+        "ID": 10,
+        "UpgradeLevelByProficiency": 10000
+      }
+    ]
+  },
+  "HandicraftItem": {
+    "Datas": [
+      {
+        "ID": 5052001,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031106,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 3001,
+            "ItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.8,
+        "GetItemID": 5052001,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520011,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150520012,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150520013,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150520014,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052002,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031104,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 3002,
+            "ItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.75,
+        "GetItemID": 5052002,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520021,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150520022,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150520023,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150520024,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052003,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031114,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 3002,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.85,
+        "GetItemID": 5052003,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520031,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150520032,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150520033,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150520034,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052004,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031107,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 3004,
+            "ItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.85,
+        "GetItemID": 5052004,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520041,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150520042,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150520043,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150520044,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052005,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031105,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 3006,
+            "ItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.75,
+        "GetItemID": 5052005,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520051,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150520052,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150520053,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150520054,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052006,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031114,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20200001,
+            "ItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.8,
+        "GetItemID": 5052006,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520061,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150520062,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150520063,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150520064,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052007,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031106,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 20300001,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5052007,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520071,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150520072,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150520073,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150520074,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052008,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031101,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 3005,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5052008,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520081,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150520082,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150520083,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150520084,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052009,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031109,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20300001,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.75,
+        "GetItemID": 5052009,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520091,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150520092,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150520093,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150520094,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052010,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031111,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 3003,
+            "ItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.75,
+        "GetItemID": 5052010,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520101,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150520102,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150520103,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150520104,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052011,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031112,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 3003,
+            "ItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.8,
+        "GetItemID": 5052011,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520111,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150520112,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150520113,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150520114,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052012,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031108,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 3001,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5052012,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520121,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150520122,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150520123,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150520124,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052013,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031110,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 3001,
+            "ItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.75,
+        "GetItemID": 5052013,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520131,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150520132,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150520133,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150520134,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052014,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031114,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20300001,
+            "ItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.85,
+        "GetItemID": 5052014,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520141,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150520142,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150520143,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150520144,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052015,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031107,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 3003,
+            "ItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.75,
+        "GetItemID": 5052015,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520151,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150520152,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150520153,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150520154,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052016,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031114,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 3005,
+            "ItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.8,
+        "GetItemID": 5052016,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520161,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150520162,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150520163,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150520164,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052017,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031104,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 3006,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5052017,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520171,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150520172,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150520173,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150520174,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052018,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031113,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 3004,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.8,
+        "GetItemID": 5052018,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520181,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150520182,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150520183,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150520184,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052019,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031112,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 20200001,
+            "ItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.85,
+        "GetItemID": 5052019,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520191,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150520192,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150520193,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150520194,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052020,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031111,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 3001,
+            "ItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5052020,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520201,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150520202,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150520203,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150520204,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052021,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031115,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 3002,
+            "ItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.75,
+        "GetItemID": 5052021,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520211,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150520212,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150520213,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150520214,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052022,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031102,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 3002,
+            "ItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.75,
+        "GetItemID": 5052022,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520221,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150520222,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150520223,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150520224,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052023,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031103,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 3003,
+            "ItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.85,
+        "GetItemID": 5052023,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520231,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150520232,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150520233,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150520234,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 5052024,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 5031114,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 20300001,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.85,
+        "GetItemID": 5052024,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 150520241,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150520242,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150520243,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150520244,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 4
+      },
+      {
+        "ID": 801,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400101,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400201,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 801,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008011,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008012,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008013,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008014,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 802,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400101,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 20400205,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 802,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008021,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008022,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008023,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008024,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 803,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400101,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400206,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 803,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008031,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 100008032,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008033,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 100008034,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 804,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400101,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400102,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400207,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 804,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008041,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008042,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008043,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008044,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 805,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400101,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400102,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 805,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008051,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008052,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008053,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008054,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 806,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400101,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 806,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008061,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 100008062,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008063,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 100008064,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 807,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400101,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 807,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008071,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008072,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008073,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008074,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 808,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400101,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 808,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008081,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008082,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008083,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008084,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 811,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400102,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400202,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 811,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008111,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008112,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008113,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008114,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 812,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400102,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400201,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 812,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008121,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008122,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008123,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 100008124,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 813,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400102,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400201,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400205,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 813,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008131,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 100008132,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008133,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008134,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 814,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400102,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 814,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008141,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008142,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008143,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008144,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 815,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400102,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400207,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 815,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008151,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008152,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008153,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008154,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 816,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400102,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400101,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 816,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008161,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 100008162,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008163,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 100008164,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 817,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400102,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400104,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 817,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008171,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008172,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008173,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008174,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 818,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400102,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 818,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008181,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008182,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008183,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008184,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 821,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400103,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 821,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008211,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 100008212,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008213,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008214,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 822,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400103,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 822,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008221,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008222,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008223,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 100008224,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 823,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400103,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400207,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 823,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008231,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008232,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008233,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008234,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 824,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400103,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400106,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400205,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 824,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008241,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 100008242,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008243,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008244,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 825,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400103,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400104,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400206,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 825,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008251,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008252,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008253,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 100008254,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 826,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400103,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400206,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 826,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008261,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008262,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008263,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008264,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 827,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400103,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400101,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400207,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 827,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008271,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008272,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008273,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008274,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 828,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400103,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400201,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 828,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008281,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008282,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008283,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008284,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 831,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400104,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 831,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008311,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008312,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008313,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008314,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 832,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400104,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400101,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400201,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 832,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008321,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008322,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008323,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008324,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 833,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400104,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400202,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 833,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008331,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 100008332,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008333,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 100008334,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 834,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400104,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400206,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400207,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 834,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008341,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008342,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008343,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008344,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 835,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400104,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400202,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400201,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 835,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008351,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008352,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008353,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008354,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 836,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400104,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400201,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 836,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008361,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 100008362,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008363,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 100008364,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 837,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400104,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 837,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008371,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008372,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008373,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008374,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 838,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400104,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400202,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400206,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 838,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008381,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008382,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008383,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008384,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 841,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400105,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400205,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 841,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008411,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008412,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008413,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008414,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 842,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400105,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400101,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400202,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 842,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008421,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008422,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008423,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008424,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 843,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400105,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 843,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008431,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 100008432,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008433,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 100008434,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 844,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400105,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400206,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 844,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008441,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008442,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008443,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008444,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 845,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400105,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400206,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 845,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008451,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008452,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008453,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008454,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 846,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400105,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400202,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400206,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 846,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008461,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 100008462,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008463,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 100008464,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 847,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400105,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400201,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 847,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008471,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008472,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008473,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008474,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 848,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400105,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400107,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400207,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 848,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008481,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008482,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008483,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008484,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 851,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400106,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400206,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 851,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008511,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008512,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008513,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008514,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 852,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400106,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400207,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 852,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008521,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008522,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008523,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008524,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 853,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400106,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400205,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400202,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 853,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008531,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 100008532,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008533,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008534,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 854,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400106,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400206,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 854,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008541,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008542,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008543,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008544,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 855,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400106,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 855,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008551,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008552,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008553,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 100008554,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 856,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400106,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400202,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400207,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 856,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008561,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 100008562,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008563,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008564,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 857,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400106,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400107,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 857,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008571,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008572,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008573,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008574,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 858,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400106,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400207,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400205,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 858,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008581,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008582,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008583,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 100008584,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 861,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400107,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400207,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 861,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008611,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008612,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008613,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008614,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 862,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400107,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400201,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 862,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008621,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008622,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008623,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008624,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 863,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400107,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400201,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 863,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008631,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 100008632,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008633,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008634,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 864,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400107,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 864,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008641,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008642,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008643,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 100008644,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 865,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400107,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 865,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008651,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008652,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008653,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 100008654,
+            "RewardID": 10140
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 866,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400107,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400201,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400203,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 866,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008661,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 100008662,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 100008663,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008664,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 867,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400107,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 20400205,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 867,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008671,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 100008672,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 100008673,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 100008674,
+            "RewardID": 10340
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 868,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20400107,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 20400204,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400202,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 868,
+        "HandicraftAchieveRewards": [
+          {
+            "AchieveConditionID": 100008681,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 100008682,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 100008683,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 100008684,
+            "RewardID": 10240
+          }
+        ],
+        "NewHandicraftPageType": 5
+      },
+      {
+        "ID": 6018,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "OpeningTime": "2025-03-01 05:00:00",
+        "ClosingTime": "2025-04-14 23:59:59",
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 6015,
+            "ItemCount": 5
+          },
+          {
+            "ItemID": 6016,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 6017,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 6018,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 1102,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 1101,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 1102,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 1103,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 1102,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 1103,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 20200002,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 20200001,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 20200002,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 20300002,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 20300001,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 20300002,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 20500002,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 20,
+        "HandicraftItems": [
+          {
+            "ItemID": 20500001,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 20500002,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 6000080,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "OpeningTime": "2025-10-23 00:00:00",
+        "ClosingTime": "2025-11-10 23:59:59",
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 6009,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 6010,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 6011,
+            "ItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 6000080,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 6000081,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "OpeningTime": "2025-10-23 00:00:00",
+        "ClosingTime": "2025-11-10 23:59:59",
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 6009,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 6010,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 6011,
+            "ItemCount": 4
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 6000080,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 6000082,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "OpeningTime": "2025-10-23 00:00:00",
+        "ClosingTime": "2025-11-10 23:59:59",
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 6009,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 6010,
+            "ItemCount": 5
+          },
+          {
+            "ItemID": 6011,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 6000080,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 5000002,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 5000001,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 5000002,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 5000003,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 5000002,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 5000003,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 5000005,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 5000004,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 5000005,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 5000006,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 5000005,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 5000006,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 5000008,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 5000007,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 5000008,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 5000009,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 5000008,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 5000009,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 5000011,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 5000010,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 5000011,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 5000012,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 5000011,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 5000012,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 5000014,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 5000013,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 5000014,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 5000015,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 5000014,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 5000015,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 1001,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 1000,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 1001,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 1002,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 1001,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 1002,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 1003,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 1002,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 1003,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 1011,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 1010,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 1011,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 1012,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 1011,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 1012,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 1013,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 1012,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 1013,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 1021,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 1020,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 1021,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 1022,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 1021,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 1022,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 1023,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 1022,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 1023,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 1031,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 1030,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 1031,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 1032,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 1031,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 1032,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      },
+      {
+        "ID": 1033,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "HandicraftItems": [
+          {
+            "ItemID": 1032,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 1033,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 6
+      }
+    ]
+  },
+  "HandicraftSpell": {
+    "Datas": [
+      {
+        "ID": 35100,
+        "HandicraftSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 35100,
+            "TextID": 35101,
+            "NewLifeSpellEffectType": 17,
+            "SpellParam1": 0.01,
+            "NeedHandicraftLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 35100,
+            "TextID": 35102,
+            "NewLifeSpellEffectType": 17,
+            "SpellParam1": 0.02,
+            "NeedHandicraftLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 35100,
+            "TextID": 35103,
+            "NewLifeSpellEffectType": 17,
+            "SpellParam1": 0.03,
+            "NeedHandicraftLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 35100,
+            "TextID": 35104,
+            "NewLifeSpellEffectType": 17,
+            "SpellParam1": 0.04,
+            "NeedHandicraftLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 35100,
+            "TextID": 35105,
+            "NewLifeSpellEffectType": 17,
+            "SpellParam1": 0.05,
+            "NeedHandicraftLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 35100,
+            "TextID": 35106,
+            "NewLifeSpellEffectType": 17,
+            "SpellParam1": 0.06,
+            "NeedHandicraftLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 35100,
+            "TextID": 35107,
+            "NewLifeSpellEffectType": 17,
+            "SpellParam1": 0.07,
+            "NeedHandicraftLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 35100,
+            "TextID": 35108,
+            "NewLifeSpellEffectType": 17,
+            "SpellParam1": 0.08,
+            "NeedHandicraftLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 35100,
+            "TextID": 35109,
+            "NewLifeSpellEffectType": 17,
+            "SpellParam1": 0.09,
+            "NeedHandicraftLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 35100,
+            "TextID": 35110,
+            "NewLifeSpellEffectType": 17,
+            "SpellParam1": 0.1,
+            "NeedHandicraftLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 35200,
+        "HandicraftSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 35200,
+            "TextID": 35201,
+            "NewLifeSpellEffectType": 21,
+            "SpellParam1": 0.01,
+            "NeedHandicraftLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 35200,
+            "TextID": 35202,
+            "NewLifeSpellEffectType": 21,
+            "SpellParam1": 0.02,
+            "NeedHandicraftLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 35200,
+            "TextID": 35203,
+            "NewLifeSpellEffectType": 21,
+            "SpellParam1": 0.03,
+            "NeedHandicraftLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 35200,
+            "TextID": 35204,
+            "NewLifeSpellEffectType": 21,
+            "SpellParam1": 0.04,
+            "NeedHandicraftLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 35200,
+            "TextID": 35205,
+            "NewLifeSpellEffectType": 21,
+            "SpellParam1": 0.05,
+            "NeedHandicraftLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 35200,
+            "TextID": 35206,
+            "NewLifeSpellEffectType": 21,
+            "SpellParam1": 0.06,
+            "NeedHandicraftLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 35200,
+            "TextID": 35207,
+            "NewLifeSpellEffectType": 21,
+            "SpellParam1": 0.07,
+            "NeedHandicraftLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 35200,
+            "TextID": 35208,
+            "NewLifeSpellEffectType": 21,
+            "SpellParam1": 0.08,
+            "NeedHandicraftLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 35200,
+            "TextID": 35209,
+            "NewLifeSpellEffectType": 21,
+            "SpellParam1": 0.09,
+            "NeedHandicraftLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 35200,
+            "TextID": 35210,
+            "NewLifeSpellEffectType": 21,
+            "SpellParam1": 0.1,
+            "NeedHandicraftLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 35300,
+        "HandicraftSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 35300,
+            "TextID": 35301,
+            "NewLifeSpellEffectType": 22,
+            "SpellParam1": 0.02,
+            "NeedHandicraftLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 35300,
+            "TextID": 35302,
+            "NewLifeSpellEffectType": 22,
+            "SpellParam1": 0.04,
+            "NeedHandicraftLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 35300,
+            "TextID": 35303,
+            "NewLifeSpellEffectType": 22,
+            "SpellParam1": 0.06,
+            "NeedHandicraftLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 35300,
+            "TextID": 35304,
+            "NewLifeSpellEffectType": 22,
+            "SpellParam1": 0.08,
+            "NeedHandicraftLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 35300,
+            "TextID": 35305,
+            "NewLifeSpellEffectType": 22,
+            "SpellParam1": 0.1,
+            "NeedHandicraftLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 35300,
+            "TextID": 35306,
+            "NewLifeSpellEffectType": 22,
+            "SpellParam1": 0.12,
+            "NeedHandicraftLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 35300,
+            "TextID": 35307,
+            "NewLifeSpellEffectType": 22,
+            "SpellParam1": 0.14,
+            "NeedHandicraftLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 35300,
+            "TextID": 35308,
+            "NewLifeSpellEffectType": 22,
+            "SpellParam1": 0.16,
+            "NeedHandicraftLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 35300,
+            "TextID": 35309,
+            "NewLifeSpellEffectType": 22,
+            "SpellParam1": 0.18,
+            "NeedHandicraftLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 35300,
+            "TextID": 35310,
+            "NewLifeSpellEffectType": 22,
+            "SpellParam1": 0.2,
+            "NeedHandicraftLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 35400,
+        "HandicraftSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 35400,
+            "TextID": 35401,
+            "NewLifeSpellEffectType": 23,
+            "SpellParam1": 1,
+            "NeedHandicraftLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 35400,
+            "TextID": 35402,
+            "NewLifeSpellEffectType": 23,
+            "SpellParam1": 2,
+            "NeedHandicraftLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 35400,
+            "TextID": 35403,
+            "NewLifeSpellEffectType": 23,
+            "SpellParam1": 3,
+            "NeedHandicraftLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 35400,
+            "TextID": 35404,
+            "NewLifeSpellEffectType": 23,
+            "SpellParam1": 4,
+            "NeedHandicraftLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 35400,
+            "TextID": 35405,
+            "NewLifeSpellEffectType": 23,
+            "SpellParam1": 5,
+            "NeedHandicraftLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 35400,
+            "TextID": 35406,
+            "NewLifeSpellEffectType": 23,
+            "SpellParam1": 6,
+            "NeedHandicraftLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 35400,
+            "TextID": 35407,
+            "NewLifeSpellEffectType": 23,
+            "SpellParam1": 7,
+            "NeedHandicraftLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 35400,
+            "TextID": 35408,
+            "NewLifeSpellEffectType": 23,
+            "SpellParam1": 8,
+            "NeedHandicraftLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 35400,
+            "TextID": 35409,
+            "NewLifeSpellEffectType": 23,
+            "SpellParam1": 9,
+            "NeedHandicraftLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 35400,
+            "TextID": 35410,
+            "NewLifeSpellEffectType": 23,
+            "SpellParam1": 10,
+            "NeedHandicraftLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 35500,
+        "HandicraftSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 35500,
+            "TextID": 35501,
+            "NewLifeSpellEffectType": 24,
+            "SpellParam1": 0.1,
+            "SpellParam2": 1,
+            "NeedHandicraftLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 35500,
+            "TextID": 35502,
+            "NewLifeSpellEffectType": 24,
+            "SpellParam1": 0.1,
+            "SpellParam2": 2,
+            "NeedHandicraftLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 35500,
+            "TextID": 35503,
+            "NewLifeSpellEffectType": 24,
+            "SpellParam1": 0.1,
+            "SpellParam2": 3,
+            "NeedHandicraftLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 35500,
+            "TextID": 35504,
+            "NewLifeSpellEffectType": 24,
+            "SpellParam1": 0.1,
+            "SpellParam2": 4,
+            "NeedHandicraftLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000013,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 35500,
+            "TextID": 35505,
+            "NewLifeSpellEffectType": 24,
+            "SpellParam1": 0.1,
+            "SpellParam2": 5,
+            "NeedHandicraftLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 35500,
+            "TextID": 35506,
+            "NewLifeSpellEffectType": 24,
+            "SpellParam1": 0.12,
+            "SpellParam2": 5,
+            "NeedHandicraftLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 35500,
+            "TextID": 35507,
+            "NewLifeSpellEffectType": 24,
+            "SpellParam1": 0.14,
+            "SpellParam2": 5,
+            "NeedHandicraftLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000014,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 35500,
+            "TextID": 35508,
+            "NewLifeSpellEffectType": 24,
+            "SpellParam1": 0.16,
+            "SpellParam2": 5,
+            "NeedHandicraftLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 35500,
+            "TextID": 35509,
+            "NewLifeSpellEffectType": 24,
+            "SpellParam1": 0.18,
+            "SpellParam2": 5,
+            "NeedHandicraftLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 35500,
+            "TextID": 35510,
+            "NewLifeSpellEffectType": 24,
+            "SpellParam1": 0.2,
+            "SpellParam2": 5,
+            "NeedHandicraftLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "HandicraftNeedItem": [
+              {
+                "NeedItemID": 5000015,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

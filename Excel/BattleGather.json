@@ -1,0 +1,608 @@
+{
+  "BattleGather": {
+    "Datas": [
+      {
+        "ID": 160010,
+        "TextID": 1,
+        "IconID": 160010,
+        "AssetFullName": "Level/Gather/TestSceneBattle001/GatherBattle_160010",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 160020,
+        "TextID": 1,
+        "IconID": 160020,
+        "AssetFullName": "Level/Gather/TestSceneBattle001/GatherBattle_160020",
+        "NewUnlockTaskType": 3,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 160030,
+        "TextID": 1,
+        "IconID": 160030,
+        "StartVoiceID": 160030,
+        "AssetFullName": "Level/Gather/TestSceneBattle001/GatherBattle_160030",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 160040,
+        "TextID": 1,
+        "IconID": 160040,
+        "StartVoiceID": 160040,
+        "AssetFullName": "Level/Gather/TestSceneBattle001/GatherBattle_160040",
+        "NewTaskType": 6
+      },
+      {
+        "ID": 160050,
+        "TextID": 1,
+        "IconID": 160050,
+        "StartVoiceID": 160050,
+        "AssetFullName": "Level/Gather/TestSceneBattle001/GatherBattle_160050",
+        "NewTaskType": 6
+      },
+      {
+        "ID": 160060,
+        "TextID": 1,
+        "IconID": 160060,
+        "StartVoiceID": 160060,
+        "AssetFullName": "Level/Gather/TestSceneBattle001/GatherBattle_160060",
+        "NewUnlockTaskType": 3,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 160070,
+        "TextID": 1,
+        "IconID": 160070,
+        "StartVoiceID": 160070,
+        "AssetFullName": "Level/Gather/TestSceneBattle001/GatherBattle_160070",
+        "NewTaskType": 6
+      },
+      {
+        "ID": 160080,
+        "TextID": 1,
+        "IconID": 160080,
+        "StartVoiceID": 160080,
+        "AssetFullName": "Level/Gather/TestSceneBattle001/GatherBattle_160080",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 160090,
+        "TextID": 1,
+        "IconID": 160090,
+        "StartVoiceID": 160090,
+        "AssetFullName": "Level/Gather/TestSceneBattle001/GatherBattle_160090",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 160100,
+        "TextID": 1,
+        "IconID": 160100,
+        "StartVoiceID": 160100,
+        "AssetFullName": "Level/Gather/TestSceneBattle001/GatherBattle_160100",
+        "NewTaskType": 6
+      },
+      {
+        "ID": 160110,
+        "TextID": 1,
+        "IconID": 160110,
+        "AssetFullName": "Level/Gather/TestSceneBattle001/GatherBattle_160110",
+        "NewTaskType": 6
+      },
+      {
+        "ID": 160120,
+        "TextID": 1,
+        "IconID": 160120,
+        "AssetFullName": "Level/Gather/TestSceneBattle001/GatherBattle_160120",
+        "NewUnlockTaskType": 3,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 160130,
+        "TextID": 1,
+        "IconID": 160130,
+        "AssetFullName": "Level/Gather/TestSceneBattle001/GatherBattle_160130",
+        "NewTaskType": 6
+      },
+      {
+        "ID": 260010,
+        "TextID": 1,
+        "IconID": 260010,
+        "StartVoiceID": 260010,
+        "AssetFullName": "Level/Gather/TestSceneBattle002/GatherBattle_260010",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 260020,
+        "TextID": 1,
+        "IconID": 260020,
+        "StartVoiceID": 260020,
+        "AssetFullName": "Level/Gather/TestSceneBattle002/GatherBattle_260020",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 260030,
+        "TextID": 1,
+        "IconID": 260030,
+        "StartVoiceID": 260030,
+        "AssetFullName": "Level/Gather/TestSceneBattle002/GatherBattle_260030",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 260040,
+        "TextID": 1,
+        "IconID": 260040,
+        "StartVoiceID": 260040,
+        "AssetFullName": "Level/Gather/TestSceneBattle002/GatherBattle_260040",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 260050,
+        "TextID": 1,
+        "IconID": 260050,
+        "AssetFullName": "Level/Gather/TestSceneBattle002/GatherBattle_260050",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 260060,
+        "TextID": 1,
+        "IconID": 260060,
+        "AssetFullName": "Level/Gather/TestSceneBattle002/GatherBattle_260060",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 260070,
+        "TextID": 1,
+        "IconID": 260070,
+        "AssetFullName": "Level/Gather/TestSceneBattle002/GatherBattle_260070",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 360010,
+        "TextID": 1,
+        "IconID": 360010,
+        "StartVoiceID": 360010,
+        "AssetFullName": "Level/Gather/TestSceneBattle001_Night/GatherBattle_360010",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 360020,
+        "TextID": 1,
+        "IconID": 360020,
+        "StartVoiceID": 360020,
+        "AssetFullName": "Level/Gather/TestSceneBattle001_Night/GatherBattle_360020",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 360030,
+        "TextID": 1,
+        "IconID": 360030,
+        "StartVoiceID": 360030,
+        "AssetFullName": "Level/Gather/TestSceneBattle001_Night/GatherBattle_360030",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 360040,
+        "TextID": 1,
+        "IconID": 360040,
+        "StartVoiceID": 360040,
+        "AssetFullName": "Level/Gather/TestSceneBattle001_Night/GatherBattle_360040",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 360050,
+        "TextID": 1,
+        "IconID": 360050,
+        "StartVoiceID": 360050,
+        "AssetFullName": "Level/Gather/TestSceneBattle001_Night/GatherBattle_360050",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 360060,
+        "TextID": 1,
+        "IconID": 360060,
+        "StartVoiceID": 360060,
+        "AssetFullName": "Level/Gather/TestSceneBattle001_Night/GatherBattle_360060",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 360070,
+        "TextID": 1,
+        "IconID": 360070,
+        "StartVoiceID": 360070,
+        "AssetFullName": "Level/Gather/TestSceneBattle001_Night/GatherBattle_360070",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 360080,
+        "TextID": 1,
+        "IconID": 360080,
+        "StartVoiceID": 360080,
+        "AssetFullName": "Level/Gather/TestSceneBattle001_Night/GatherBattle_360080",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 360090,
+        "TextID": 1,
+        "IconID": 360090,
+        "AssetFullName": "Level/Gather/TestSceneBattle001_Night/GatherBattle_360090",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 360100,
+        "TextID": 1,
+        "IconID": 360100,
+        "AssetFullName": "Level/Gather/TestSceneBattle001_Night/GatherBattle_360100",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 360110,
+        "TextID": 1,
+        "IconID": 360110,
+        "AssetFullName": "Level/Gather/TestSceneBattle001_Night/GatherBattle_360110",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 460010,
+        "TextID": 1,
+        "IconID": 460010,
+        "AssetFullName": "Level/Gather/TestSceneBattle002_Superstructure/GatherBattle_460010",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 460020,
+        "TextID": 1,
+        "IconID": 460020,
+        "AssetFullName": "Level/Gather/TestSceneBattle002_Superstructure/GatherBattle_460020",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 460030,
+        "TextID": 1,
+        "IconID": 460030,
+        "AssetFullName": "Level/Gather/TestSceneBattle002_Superstructure/GatherBattle_460030",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 460040,
+        "TextID": 1,
+        "IconID": 460040,
+        "AssetFullName": "Level/Gather/TestSceneBattle002_Superstructure/GatherBattle_460040",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 460050,
+        "TextID": 1,
+        "IconID": 460050,
+        "AssetFullName": "Level/Gather/TestSceneBattle002_Superstructure/GatherBattle_460050",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 460060,
+        "TextID": 1,
+        "IconID": 460060,
+        "AssetFullName": "Level/Gather/TestSceneBattle002_Superstructure/GatherBattle_460060",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 560010,
+        "TextID": 1,
+        "IconID": 560010,
+        "StartVoiceID": 560010,
+        "AssetFullName": "Level/Gather/TestSceneBattle003/GatherBattle_560010",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 560020,
+        "TextID": 1,
+        "IconID": 560020,
+        "StartVoiceID": 560020,
+        "AssetFullName": "Level/Gather/TestSceneBattle003/GatherBattle_560020",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 560030,
+        "TextID": 1,
+        "IconID": 560030,
+        "StartVoiceID": 560030,
+        "AssetFullName": "Level/Gather/TestSceneBattle003/GatherBattle_560030",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 560040,
+        "TextID": 1,
+        "IconID": 560040,
+        "StartVoiceID": 560040,
+        "AssetFullName": "Level/Gather/TestSceneBattle003/GatherBattle_560040",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 560050,
+        "TextID": 1,
+        "IconID": 560050,
+        "StartVoiceID": 560050,
+        "AssetFullName": "Level/Gather/TestSceneBattle003/GatherBattle_560050",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 560060,
+        "TextID": 1,
+        "IconID": 560060,
+        "StartVoiceID": 560060,
+        "AssetFullName": "Level/Gather/TestSceneBattle003/GatherBattle_560060",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 560070,
+        "TextID": 1,
+        "IconID": 560070,
+        "StartVoiceID": 560070,
+        "AssetFullName": "Level/Gather/TestSceneBattle003/GatherBattle_560070",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 560080,
+        "TextID": 1,
+        "IconID": 560080,
+        "StartVoiceID": 560080,
+        "AssetFullName": "Level/Gather/TestSceneBattle003/GatherBattle_560080",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100160010,
+        "TextID": 1,
+        "IconID": 100160010,
+        "StartVoiceID": 100160010,
+        "AssetFullName": "Level/Gather/TestSceneBattle1001/GatherBattle_100160010",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100160020,
+        "TextID": 1,
+        "IconID": 100160020,
+        "StartVoiceID": 100160020,
+        "AssetFullName": "Level/Gather/TestSceneBattle1001/GatherBattle_100160020",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100160030,
+        "TextID": 1,
+        "IconID": 100160030,
+        "StartVoiceID": 100110030,
+        "AssetFullName": "Level/Gather/TestSceneBattle1001/GatherBattle_100160030",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100160040,
+        "TextID": 1,
+        "IconID": 100160040,
+        "StartVoiceID": 100160040,
+        "AssetFullName": "Level/Gather/TestSceneBattle1001/GatherBattle_100160040",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100160050,
+        "TextID": 1,
+        "IconID": 100160050,
+        "AssetFullName": "Level/Gather/TestSceneBattle1001/GatherBattle_100160050",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100160060,
+        "TextID": 1,
+        "IconID": 100160060,
+        "AssetFullName": "Level/Gather/TestSceneBattle1001/GatherBattle_100160060",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100260010,
+        "TextID": 1,
+        "IconID": 100260010,
+        "StartVoiceID": 100260010,
+        "AssetFullName": "Level/Gather/TestSceneBattle1002/GatherBattle_100260010",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100260020,
+        "TextID": 1,
+        "IconID": 100260020,
+        "StartVoiceID": 100260020,
+        "AssetFullName": "Level/Gather/TestSceneBattle1002/GatherBattle_100260020",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100260030,
+        "TextID": 1,
+        "IconID": 100260030,
+        "StartVoiceID": 100260030,
+        "AssetFullName": "Level/Gather/TestSceneBattle1002/GatherBattle_100260030",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100260040,
+        "TextID": 1,
+        "IconID": 100260040,
+        "StartVoiceID": 100260040,
+        "AssetFullName": "Level/Gather/TestSceneBattle1002/GatherBattle_100260040",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100260050,
+        "TextID": 1,
+        "IconID": 100260050,
+        "StartVoiceID": 100260050,
+        "AssetFullName": "Level/Gather/TestSceneBattle1002/GatherBattle_100260050",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100260060,
+        "TextID": 1,
+        "IconID": 100260060,
+        "StartVoiceID": 100260060,
+        "AssetFullName": "Level/Gather/TestSceneBattle1002/GatherBattle_100260060",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100260070,
+        "TextID": 1,
+        "IconID": 100260070,
+        "StartVoiceID": 100260070,
+        "AssetFullName": "Level/Gather/TestSceneBattle1002/GatherBattle_100260070",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100260080,
+        "TextID": 1,
+        "IconID": 100260080,
+        "StartVoiceID": 100260080,
+        "AssetFullName": "Level/Gather/TestSceneBattle1002/GatherBattle_100260080",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100260090,
+        "TextID": 1,
+        "IconID": 100260090,
+        "StartVoiceID": 100260090,
+        "AssetFullName": "Level/Gather/TestSceneBattle1002/GatherBattle_100260090",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100260100,
+        "TextID": 1,
+        "IconID": 100260100,
+        "StartVoiceID": 100260100,
+        "AssetFullName": "Level/Gather/TestSceneBattle1002/GatherBattle_100260100",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100260110,
+        "TextID": 1,
+        "IconID": 100260110,
+        "StartVoiceID": 100260110,
+        "AssetFullName": "Level/Gather/TestSceneBattle1002/GatherBattle_100260110",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      },
+      {
+        "ID": 100260120,
+        "TextID": 1,
+        "IconID": 100260120,
+        "StartVoiceID": 100260120,
+        "AssetFullName": "Level/Gather/TestSceneBattle1002/GatherBattle_100260120",
+        "NewUnlockTaskType": 6,
+        "NewTaskType": 6
+      }
+    ]
+  },
+  "BattleGatherItem": {
+    "Datas": [
+      {
+        "ID": 160010,
+        "TextID": 160010
+      },
+      {
+        "ID": 160011,
+        "TextID": 160011
+      },
+      {
+        "ID": 160012,
+        "TextID": 160012
+      },
+      {
+        "ID": 160013,
+        "TextID": 160013
+      },
+      {
+        "ID": 160014,
+        "TextID": 160014
+      },
+      {
+        "ID": 160015,
+        "TextID": 160015
+      },
+      {
+        "ID": 160016,
+        "TextID": 160016
+      },
+      {
+        "ID": 160017,
+        "TextID": 160017
+      },
+      {
+        "ID": 160018,
+        "TextID": 160018
+      },
+      {
+        "ID": 160019,
+        "TextID": 160019
+      },
+      {
+        "ID": 160020,
+        "TextID": 160020
+      },
+      {
+        "ID": 160021,
+        "TextID": 160021
+      },
+      {
+        "ID": 160022,
+        "TextID": 160022
+      },
+      {
+        "ID": 160023,
+        "TextID": 160023
+      }
+    ]
+  }
+}

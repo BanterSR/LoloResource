@@ -1,0 +1,2729 @@
+{
+  "PlayerAbility": {
+    "Datas": [
+      {
+        "ID": 110001011,
+        "Para": 0.05,
+        "SceneIDs": [
+          1
+        ],
+        "NewUnlockAbilityType": 100
+      },
+      {
+        "ID": 110001012,
+        "Para": 4.5,
+        "NewUnlockAbilityType": 104
+      },
+      {
+        "ID": 110001013,
+        "Para": 0.05,
+        "NewUnlockAbilityType": 100
+      },
+      {
+        "ID": 110001021,
+        "Para": 0.02,
+        "NewUnlockAbilityType": 102
+      },
+      {
+        "ID": 110001022,
+        "Para": 0.02,
+        "NewUnlockAbilityType": 102
+      },
+      {
+        "ID": 110001023,
+        "Para": 0.02,
+        "NewUnlockAbilityType": 102
+      },
+      {
+        "ID": 110001024,
+        "Para": 0.02,
+        "NewUnlockAbilityType": 102
+      },
+      {
+        "ID": 110001025,
+        "Para": 0.02,
+        "NewUnlockAbilityType": 102
+      },
+      {
+        "ID": 110001030,
+        "Para": 0.05,
+        "NewUnlockAbilityType": 101
+      },
+      {
+        "ID": 110001031,
+        "Para": 0.05,
+        "NewUnlockAbilityType": 101
+      },
+      {
+        "ID": 110001032,
+        "Para": 0.05,
+        "NewUnlockAbilityType": 101
+      },
+      {
+        "ID": 110001041,
+        "Para": 1,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110001042,
+        "Para": 300,
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110001043,
+        "Para": 100,
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110010101,
+        "Para": 100,
+        "SceneIDs": [
+          1,
+          3
+        ]
+      },
+      {
+        "ID": 110010102,
+        "Para": 100,
+        "SceneIDs": [
+          1,
+          3
+        ]
+      },
+      {
+        "ID": 110010103,
+        "Para": 100,
+        "SceneIDs": [
+          1,
+          3
+        ]
+      },
+      {
+        "ID": 110010104,
+        "Para": 100,
+        "SceneIDs": [
+          1,
+          3
+        ]
+      },
+      {
+        "ID": 110010105,
+        "Para": 100,
+        "SceneIDs": [
+          1,
+          3
+        ]
+      },
+      {
+        "ID": 110010201,
+        "Para": 40
+      },
+      {
+        "ID": 110010202,
+        "Para": 40
+      },
+      {
+        "ID": 110010203,
+        "Para": 40
+      },
+      {
+        "ID": 110010204,
+        "Para": 40
+      },
+      {
+        "ID": 110010205,
+        "Para": 40
+      },
+      {
+        "ID": 110010301,
+        "Para": 4,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110010302,
+        "Para": 4,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110010303,
+        "Para": 4,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110010304,
+        "Para": 4,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110010305,
+        "Para": 4,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110010401,
+        "Para": 12,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110010402,
+        "Para": 12,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110010403,
+        "Para": 12,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110010404,
+        "Para": 12,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110010405,
+        "Para": 12,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110010501,
+        "Para": 0.01,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110010502,
+        "Para": 0.01,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110010503,
+        "Para": 0.01,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110010504,
+        "Para": 0.01,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110010505,
+        "Para": 0.01,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110010601,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110010602,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110010603,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110010604,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110010605,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110010701,
+        "Para": 1,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110010702,
+        "Para": 2,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110010703,
+        "Para": 2,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110020101,
+        "Para": 4,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110020102,
+        "Para": 4,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110020103,
+        "Para": 4,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110020104,
+        "Para": 4,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110020105,
+        "Para": 4,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110020201,
+        "Para": 12,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110020202,
+        "Para": 12,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110020203,
+        "Para": 12,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110020204,
+        "Para": 12,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110020205,
+        "Para": 12,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110020301,
+        "Para": 0.015,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110020302,
+        "Para": 0.015,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110020303,
+        "Para": 0.015,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110020304,
+        "Para": 0.015,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110020305,
+        "Para": 0.015,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110020401,
+        "Para": 0.006,
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110020402,
+        "Para": 0.006,
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110020403,
+        "Para": 0.006,
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110020404,
+        "Para": 0.006,
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110020405,
+        "Para": 0.006,
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110020501,
+        "Para": 0.005,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110020502,
+        "Para": 0.005,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110020503,
+        "Para": 0.005,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110020504,
+        "Para": 0.005,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110020505,
+        "Para": 0.005,
+        "SceneIDs": [
+          2,
+          4
+        ],
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110020601,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110020602,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110020603,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110020604,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110020605,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110020701,
+        "Para": 1,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110020702,
+        "Para": 2,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110020703,
+        "Para": 2,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110030101,
+        "Para": 3,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110030102,
+        "Para": 3,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110030103,
+        "Para": 3,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110030104,
+        "Para": 3,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110030105,
+        "Para": 3,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110030201,
+        "Para": 1,
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110030202,
+        "Para": 1,
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110030203,
+        "Para": 1,
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110030204,
+        "Para": 1,
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110030205,
+        "Para": 1,
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110030301,
+        "Para": 3,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110030302,
+        "Para": 3,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110030303,
+        "Para": 3,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110030304,
+        "Para": 3,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110030305,
+        "Para": 3,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110030401,
+        "Para": 1,
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110030402,
+        "Para": 1,
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110030403,
+        "Para": 1,
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110030404,
+        "Para": 1,
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110030405,
+        "Para": 1,
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110030501,
+        "Para": 4,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110030502,
+        "Para": 4,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110030503,
+        "Para": 4,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110030504,
+        "Para": 4,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110030505,
+        "Para": 4,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110030601,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110030602,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110030603,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110030604,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110030605,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110030701,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 46
+      },
+      {
+        "ID": 110030702,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 46
+      },
+      {
+        "ID": 110030703,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 46
+      },
+      {
+        "ID": 110030704,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 46
+      },
+      {
+        "ID": 110030705,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 46
+      },
+      {
+        "ID": 110030801,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 44
+      },
+      {
+        "ID": 110030802,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 44
+      },
+      {
+        "ID": 110030803,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 44
+      },
+      {
+        "ID": 110030804,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 44
+      },
+      {
+        "ID": 110030805,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 44
+      },
+      {
+        "ID": 110030901,
+        "Para": 12,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110030902,
+        "Para": 12,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110030903,
+        "Para": 12,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110030904,
+        "Para": 12,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110030905,
+        "Para": 12,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110031001,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110031002,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110031003,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110031004,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110031005,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110031101,
+        "Para": 0.025,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110031102,
+        "Para": 0.025,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110031103,
+        "Para": 0.025,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110031104,
+        "Para": 0.025,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110031105,
+        "Para": 0.025,
+        "SceneIDs": [
+          1,
+          3
+        ],
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110031201,
+        "Para": 0.01,
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110031202,
+        "Para": 0.01,
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110031203,
+        "Para": 0.01,
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110031204,
+        "Para": 0.01,
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110031205,
+        "Para": 0.01,
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110031301,
+        "Para": 1,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110031302,
+        "Para": 2,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110031303,
+        "Para": 2,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110050101,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110050102,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110050103,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110050104,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110050105,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110050201,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110050202,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110050203,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110050204,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110050205,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110050301,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110050302,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110050303,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110050304,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110050305,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110050401,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110050402,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110050403,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110050404,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110050405,
+        "Para": 3,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110050501,
+        "Para": 4,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110050502,
+        "Para": 4,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110050503,
+        "Para": 4,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110050504,
+        "Para": 4,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110050505,
+        "Para": 4,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110050601,
+        "Para": 4,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110050602,
+        "Para": 4,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110050603,
+        "Para": 4,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110050604,
+        "Para": 4,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110050605,
+        "Para": 4,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110050701,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110050702,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110050703,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110050704,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110050705,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110050801,
+        "Para": 10,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110050802,
+        "Para": 10,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110050803,
+        "Para": 10,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110050804,
+        "Para": 10,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110050805,
+        "Para": 10,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110050901,
+        "Para": 10,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110050902,
+        "Para": 10,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110050903,
+        "Para": 10,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110050904,
+        "Para": 10,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110050905,
+        "Para": 10,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110051001,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110051002,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110051003,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110051004,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110051005,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110051101,
+        "Para": 0.01,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110051102,
+        "Para": 0.01,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110051103,
+        "Para": 0.01,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110051104,
+        "Para": 0.01,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110051105,
+        "Para": 0.01,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110051201,
+        "Para": 0.01,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110051202,
+        "Para": 0.01,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110051203,
+        "Para": 0.01,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110051204,
+        "Para": 0.01,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110051205,
+        "Para": 0.01,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110051301,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110051302,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110051303,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110051304,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110051305,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110051401,
+        "Para": 0.025,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110051402,
+        "Para": 0.025,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110051403,
+        "Para": 0.025,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110051404,
+        "Para": 0.025,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110051405,
+        "Para": 0.025,
+        "SceneIDs": [
+          5
+        ],
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110051501,
+        "Para": 0.01,
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110051502,
+        "Para": 0.01,
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110051503,
+        "Para": 0.01,
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110051504,
+        "Para": 0.01,
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110051505,
+        "Para": 0.01,
+        "NewUnlockAbilityType": 106
+      },
+      {
+        "ID": 110051601,
+        "Para": 1,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110051602,
+        "Para": 2,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110051603,
+        "Para": 2,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110510101,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110510102,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110510103,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110510104,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110510105,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110510201,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110510202,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110510203,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110510204,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110510205,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110510301,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110510302,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110510303,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110510304,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110510305,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110510401,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110510402,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110510403,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110510404,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110510405,
+        "Para": 3,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110510501,
+        "Para": 4,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110510502,
+        "Para": 4,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110510503,
+        "Para": 4,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110510504,
+        "Para": 4,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110510505,
+        "Para": 4,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110510601,
+        "Para": 4,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110510602,
+        "Para": 4,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110510603,
+        "Para": 4,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110510604,
+        "Para": 4,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110510605,
+        "Para": 4,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110510701,
+        "Para": 10,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110510702,
+        "Para": 10,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110510703,
+        "Para": 10,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110510704,
+        "Para": 10,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110510705,
+        "Para": 10,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110510801,
+        "Para": 10,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110510802,
+        "Para": 10,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110510803,
+        "Para": 10,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110510804,
+        "Para": 10,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110510805,
+        "Para": 10,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110510901,
+        "Para": 0.01,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110510902,
+        "Para": 0.01,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110510903,
+        "Para": 0.01,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110510904,
+        "Para": 0.01,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110510905,
+        "Para": 0.01,
+        "SceneIDs": [
+          1001
+        ],
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110511001,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110511002,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110511003,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110511004,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110511005,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110511101,
+        "Para": 1,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110520101,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110520102,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110520103,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110520104,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110520105,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 205
+      },
+      {
+        "ID": 110520201,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110520202,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110520203,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110520204,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110520205,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 204
+      },
+      {
+        "ID": 110520301,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110520302,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110520303,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110520304,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110520305,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 207
+      },
+      {
+        "ID": 110520401,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110520402,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110520403,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110520404,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110520405,
+        "Para": 3,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 206
+      },
+      {
+        "ID": 110520501,
+        "Para": 4,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110520502,
+        "Para": 4,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110520503,
+        "Para": 4,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110520504,
+        "Para": 4,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110520505,
+        "Para": 4,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110520601,
+        "Para": 4,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110520602,
+        "Para": 4,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110520603,
+        "Para": 4,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110520604,
+        "Para": 4,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110520605,
+        "Para": 4,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 110520701,
+        "Para": 12,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110520702,
+        "Para": 12,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110520703,
+        "Para": 12,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110520704,
+        "Para": 12,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110520705,
+        "Para": 12,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110520801,
+        "Para": 12,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110520802,
+        "Para": 12,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110520803,
+        "Para": 12,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110520804,
+        "Para": 12,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110520805,
+        "Para": 12,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 110520901,
+        "Para": 0.005,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110520902,
+        "Para": 0.005,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110520903,
+        "Para": 0.005,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110520904,
+        "Para": 0.005,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110520905,
+        "Para": 0.005,
+        "SceneIDs": [
+          1002
+        ],
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110521001,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110521002,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110521003,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110521004,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110521005,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110521101,
+        "Para": 1,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 110530101,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110530102,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110530103,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110530104,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110530105,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 1
+      },
+      {
+        "ID": 110530201,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110530202,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110530203,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110530204,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110530205,
+        "Para": 0.004,
+        "NewUnlockAbilityType": 3
+      },
+      {
+        "ID": 110530301,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110530302,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110530303,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110530304,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110530305,
+        "Para": 0.002,
+        "NewUnlockAbilityType": 7
+      },
+      {
+        "ID": 110530401,
+        "Para": 0.006,
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110530402,
+        "Para": 0.006,
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110530403,
+        "Para": 0.006,
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110530404,
+        "Para": 0.006,
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110530405,
+        "Para": 0.006,
+        "NewUnlockAbilityType": 9
+      },
+      {
+        "ID": 110530501,
+        "Para": 1,
+        "NewUnlockAbilityType": 103
+      },
+      {
+        "ID": 120000001,
+        "Para": 1,
+        "NewUnlockAbilityType": 210
+      },
+      {
+        "ID": 120000002,
+        "Para": 1,
+        "NewUnlockAbilityType": 211
+      },
+      {
+        "ID": 120000003,
+        "Para": 1,
+        "NewUnlockAbilityType": 212
+      },
+      {
+        "ID": 120000004,
+        "Para": 1,
+        "NewUnlockAbilityType": 213
+      },
+      {
+        "ID": 120000005,
+        "Para": 1,
+        "NewUnlockAbilityType": 214
+      },
+      {
+        "ID": 120000101,
+        "Para": 20,
+        "NewUnlockAbilityType": 202
+      },
+      {
+        "ID": 120000102,
+        "Para": 20,
+        "NewUnlockAbilityType": 203
+      },
+      {
+        "ID": 130100101,
+        "Para": 1,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100102,
+        "Para": 2,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100103,
+        "Para": 3,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100104,
+        "Para": 4,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100105,
+        "Para": 5,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100106,
+        "Para": 6,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100107,
+        "Para": 7,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100108,
+        "Para": 8,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100109,
+        "Para": 9,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100110,
+        "Para": 10,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100111,
+        "Para": 11,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100112,
+        "Para": 12,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100113,
+        "Para": 13,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100114,
+        "Para": 14,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100115,
+        "Para": 15,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100116,
+        "Para": 16,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100117,
+        "Para": 17,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100118,
+        "Para": 18,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100119,
+        "Para": 19,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100120,
+        "Para": 20,
+        "NewUnlockAbilityType": 2
+      },
+      {
+        "ID": 130100201,
+        "Para": 1,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100202,
+        "Para": 2,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100203,
+        "Para": 3,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100204,
+        "Para": 4,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100205,
+        "Para": 5,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100206,
+        "Para": 6,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100207,
+        "Para": 7,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100208,
+        "Para": 8,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100209,
+        "Para": 9,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100210,
+        "Para": 10,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100211,
+        "Para": 11,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100212,
+        "Para": 12,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100213,
+        "Para": 13,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100214,
+        "Para": 14,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100215,
+        "Para": 15,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100216,
+        "Para": 16,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100217,
+        "Para": 17,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100218,
+        "Para": 18,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100219,
+        "Para": 19,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100220,
+        "Para": 20,
+        "NewUnlockAbilityType": 5
+      },
+      {
+        "ID": 130100301,
+        "Para": 1
+      },
+      {
+        "ID": 130100302,
+        "Para": 2
+      },
+      {
+        "ID": 130100303,
+        "Para": 3
+      },
+      {
+        "ID": 130100304,
+        "Para": 4
+      },
+      {
+        "ID": 130100305,
+        "Para": 5
+      },
+      {
+        "ID": 130100306,
+        "Para": 6
+      },
+      {
+        "ID": 130100307,
+        "Para": 7
+      },
+      {
+        "ID": 130100308,
+        "Para": 8
+      },
+      {
+        "ID": 130100309,
+        "Para": 9
+      },
+      {
+        "ID": 130100310,
+        "Para": 10
+      },
+      {
+        "ID": 130100311,
+        "Para": 11
+      },
+      {
+        "ID": 130100312,
+        "Para": 12
+      },
+      {
+        "ID": 130100313,
+        "Para": 13
+      },
+      {
+        "ID": 130100314,
+        "Para": 14
+      },
+      {
+        "ID": 130100315,
+        "Para": 15
+      },
+      {
+        "ID": 130100316,
+        "Para": 16
+      },
+      {
+        "ID": 130100317,
+        "Para": 17
+      },
+      {
+        "ID": 130100318,
+        "Para": 18
+      },
+      {
+        "ID": 130100319,
+        "Para": 19
+      },
+      {
+        "ID": 130100320,
+        "Para": 20
+      }
+    ]
+  }
+}

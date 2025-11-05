@@ -1,0 +1,952 @@
+{
+  "ActionInfo": {
+    "Datas": [
+      {
+        "ID": 101,
+        "AnimPrefab": "Action/Motion/成功/ActionPlayer@成功"
+      },
+      {
+        "ID": 102,
+        "AnimPrefab": "Action/Motion/失败/ActionPlayer@失败"
+      },
+      {
+        "ID": 1001,
+        "AnimPrefab": "Action/Motion/拍照/ActionPlayer@拍照"
+      },
+      {
+        "ID": 1002,
+        "AnimPrefab": "Action/Motion/扫地/ActionPlayer@扫地"
+      },
+      {
+        "ID": 1003,
+        "AnimPrefab": "Action/Motion/擦玻璃/ActionPlayer@擦玻璃"
+      },
+      {
+        "ID": 1004,
+        "AnimPrefab": "Action/Motion/丢骰子/ActionPlayer@丢骰子"
+      },
+      {
+        "ID": 1005,
+        "AnimPrefab": "Action/Motion/猜拳/ActionPlayer@猜拳"
+      },
+      {
+        "ID": 1010,
+        "AnimPrefab": "Action/Motion/玩手机/ActionPlayer@玩手机开始"
+      },
+      {
+        "ID": 1011,
+        "AnimPrefab": "Action/Motion/玩手机/ActionPlayer@玩手机结束"
+      },
+      {
+        "ID": 1020,
+        "AnimPrefab": "Action/Motion/搬运/ActionPlayer@搬运开始"
+      },
+      {
+        "ID": 1021,
+        "AnimPrefab": "Action/Motion/搬运/ActionPlayer@搬运结束"
+      },
+      {
+        "ID": 1030,
+        "AnimPrefab": "Action/Motion/扔石头/ActionPlayer@扔石头开始"
+      },
+      {
+        "ID": 1031,
+        "AnimPrefab": "Action/Motion/扔石头/ActionPlayer@扔石头扔出"
+      },
+      {
+        "ID": 1040,
+        "AnimPrefab": "Action/Motion/拍照/ActionPlayer@拍照开始"
+      },
+      {
+        "ID": 1041,
+        "AnimPrefab": "Action/Motion/拍照/ActionPlayer@拍照结束"
+      },
+      {
+        "ID": 1050,
+        "AnimPrefab": "Action/Motion/放篝火/ActionPlayer@放篝火",
+        "NewActionType": 1
+      },
+      {
+        "ID": 1051,
+        "AnimPrefab": "Action/Motion/放篝火/ActionPlayer@放篝火",
+        "NewActionType": 1
+      },
+      {
+        "ID": 1052,
+        "AnimPrefab": "Action/Motion/放篝火/ActionPlayer@放篝火",
+        "NewActionType": 1
+      },
+      {
+        "ID": 1060,
+        "AnimPrefab": "Action/Motion/击掌/ActionPlayer@击掌循环"
+      },
+      {
+        "ID": 1061,
+        "AnimPrefab": "Action/Motion/击掌/ActionPlayer@击掌循环接收方"
+      },
+      {
+        "ID": 1062,
+        "AnimPrefab": "Action/Motion/击掌/ActionPlayer@击掌循环中断接收方"
+      },
+      {
+        "ID": 1063,
+        "AnimPrefab": "Action/Motion/击掌/ActionPlayer@击掌达成"
+      },
+      {
+        "ID": 1070,
+        "AnimPrefab": "Action/Motion/纸飞机/ActionPlayer@纸飞机"
+      },
+      {
+        "ID": 1080,
+        "AnimPrefab": "Action/Motion/浇花/ActionPlayer@浇花"
+      },
+      {
+        "ID": 1081,
+        "AnimPrefab": "Action/Motion/浇花/ActionPlayer@浇花"
+      },
+      {
+        "ID": 1082,
+        "AnimPrefab": "Action/Motion/浇花/ActionPlayer@浇花"
+      },
+      {
+        "ID": 1090,
+        "AnimPrefab": "Action/Motion/前摔倒/ActionPlayer@前摔倒"
+      },
+      {
+        "ID": 1100,
+        "AnimPrefab": "Action/Motion/失衡后仰/ActionPlayer@失衡后仰"
+      },
+      {
+        "ID": 1110,
+        "AnimPrefab": "Action/Motion/惊讶/ActionPlayer@惊讶"
+      },
+      {
+        "ID": 1120,
+        "AnimPrefab": "Action/Motion/打招呼/ActionPlayer@打招呼"
+      },
+      {
+        "ID": 1130,
+        "AnimPrefab": "Action/Motion/拍手/ActionPlayer@拍手"
+      },
+      {
+        "ID": 1140,
+        "AnimPrefab": "Action/Motion/捂脸跪下/ActionPlayer@捂脸跪下"
+      },
+      {
+        "ID": 1150,
+        "AnimPrefab": "Action/Motion/生气/ActionPlayer@生气"
+      },
+      {
+        "ID": 1160,
+        "AnimPrefab": "Action/Motion/跪下捶地/ActionPlayer@跪下捶地"
+      },
+      {
+        "ID": 1170,
+        "AnimPrefab": "Action/Motion/孔明灯/ActionPlayer@孔明灯"
+      },
+      {
+        "ID": 1180,
+        "AnimPrefab": "Action/Motion/挖沙子/ActionPlayer@挖沙子_站姿"
+      },
+      {
+        "ID": 1181,
+        "AnimPrefab": "Action/Motion/挖沙子/ActionPlayer@挖沙子_跪姿失败"
+      },
+      {
+        "ID": 1182,
+        "AnimPrefab": "Action/Motion/挖沙子/ActionPlayer@挖沙子_跪姿成功"
+      },
+      {
+        "ID": 1190,
+        "AnimPrefab": "Action/Motion/放烟花/ActionPlayer@扔烟花"
+      },
+      {
+        "ID": 1191,
+        "AnimPrefab": "Action/Motion/放烟花/ActionPlayer@放烟花"
+      },
+      {
+        "ID": 1192,
+        "AnimPrefab": "Action/Motion/放烟花/ActionPlayer@蹲下放烟花"
+      },
+      {
+        "ID": 1200,
+        "AnimPrefab": "Action/Motion/荧光棒/ActionPlayer@荧光棒"
+      },
+      {
+        "ID": 1210,
+        "AnimPrefab": "Action/Motion/蹲下放烟花棒/ActionPlayer@蹲下放烟花棒"
+      },
+      {
+        "ID": 2001,
+        "AnimPrefab": "Action/Motion/制作/ActionPlayer@制作"
+      },
+      {
+        "ID": 2002,
+        "AnimPrefab": "Action/Motion/加工/ActionPlayer@加工"
+      },
+      {
+        "ID": 2003,
+        "AnimPrefab": "Action/Motion/烧烤/ActionPlayer@烧烤"
+      },
+      {
+        "ID": 2004,
+        "AnimPrefab": "Action/Motion/烹饪/ActionPlayer@烹饪"
+      },
+      {
+        "ID": 2005,
+        "AnimPrefab": "Action/Motion/纺纱/ActionPlayer@纺纱"
+      },
+      {
+        "ID": 2006,
+        "AnimPrefab": "Action/Motion/织布/ActionPlayer@织布"
+      },
+      {
+        "ID": 2007,
+        "AnimPrefab": "Action/Motion/钓鱼/ActionPlayer@钓鱼开始"
+      },
+      {
+        "ID": 2008,
+        "AnimPrefab": "Action/Motion/钓鱼/ActionPlayer@钓鱼成功"
+      },
+      {
+        "ID": 2009,
+        "AnimPrefab": "Action/Motion/钓鱼/ActionPlayer@钓鱼失败"
+      },
+      {
+        "ID": 2010,
+        "AnimPrefab": "Action/Motion/钓鱼/ActionPlayer@钓鱼取消"
+      },
+      {
+        "ID": 2011,
+        "AnimPrefab": "Action/Motion/钓鱼/ActionPlayer@钓鱼循环"
+      },
+      {
+        "ID": 2012,
+        "AnimPrefab": "Action/Motion/锯木头/ActionPlayer@锯木头"
+      },
+      {
+        "ID": 2021,
+        "AnimPrefab": "Action/Musical/吉他/ActionPlayer@吉他"
+      },
+      {
+        "ID": 2022,
+        "AnimPrefab": "Action/Musical/大提琴/ActionPlayer@大提琴"
+      },
+      {
+        "ID": 2023,
+        "AnimPrefab": "Action/Musical/小提琴/ActionPlayer@小提琴"
+      },
+      {
+        "ID": 2024,
+        "AnimPrefab": "Action/Musical/架子鼓/ActionPlayer@架子鼓"
+      },
+      {
+        "ID": 2025,
+        "AnimPrefab": "Action/Musical/钢琴/ActionPlayer@钢琴"
+      },
+      {
+        "ID": 2026,
+        "AnimPrefab": "Action/Motion/坐凳子/ActionPlayer@坐凳子"
+      },
+      {
+        "ID": 2027,
+        "AnimPrefab": "Action/Motion/坐凳子/ActionPlayer@下凳子"
+      },
+      {
+        "ID": 2028,
+        "AnimPrefab": "Action/Motion/抽卡/ActionPlayer@抽卡_单次抽出白"
+      },
+      {
+        "ID": 2029,
+        "AnimPrefab": "Action/Motion/抽卡/ActionPlayer@抽卡_单次抽出金"
+      },
+      {
+        "ID": 2030,
+        "AnimPrefab": "Action/Motion/抽卡/ActionPlayer@抽卡_单次抽出彩"
+      },
+      {
+        "ID": 2031,
+        "AnimPrefab": "Action/Motion/抽卡/ActionPlayer@抽卡"
+      },
+      {
+        "ID": 2032,
+        "AnimPrefab": "Action/Motion/抽卡/ActionPlayer@抽卡_End"
+      },
+      {
+        "ID": 2033,
+        "AnimPrefab": "Action/Motion/抽卡/ActionPlayer@抽卡SSR"
+      },
+      {
+        "ID": 2034,
+        "AnimPrefab": "Action/Motion/抽卡/ActionPlayer@时装池抽卡_单次抽出白"
+      },
+      {
+        "ID": 2035,
+        "AnimPrefab": "Action/Motion/抽卡/ActionPlayer@时装池抽卡_单次抽出金"
+      },
+      {
+        "ID": 2036,
+        "AnimPrefab": "Action/Motion/抽卡/ActionPlayer@时装池抽卡_单次抽出彩"
+      },
+      {
+        "ID": 2037,
+        "AnimPrefab": "Action/Motion/抽卡/ActionPlayer@时装池抽卡"
+      },
+      {
+        "ID": 2038,
+        "AnimPrefab": "Action/Motion/抽卡/ActionPlayer@时装池抽卡_End"
+      },
+      {
+        "ID": 2039,
+        "AnimPrefab": "Action/Motion/抽卡/ActionPlayer@时装池抽卡SSR"
+      },
+      {
+        "ID": 2040,
+        "AnimPrefab": "Action/Motion/坐凳子/ActionPlayer@背人_坐凳子"
+      },
+      {
+        "ID": 2041,
+        "AnimPrefab": "Action/Motion/坐凳子/ActionPlayer@背人_下凳子"
+      },
+      {
+        "ID": 3000,
+        "AnimPrefab": "Action/Emoji/加载中/ActionPlayer@加载中"
+      },
+      {
+        "ID": 3005,
+        "AnimPrefab": "Action/Emoji/卧槽/ActionPlayer@卧槽"
+      },
+      {
+        "ID": 3010,
+        "AnimPrefab": "Action/Emoji/吃瓜/ActionPlayer@吃瓜"
+      },
+      {
+        "ID": 3015,
+        "AnimPrefab": "Action/Emoji/威胁/ActionPlayer@威胁"
+      },
+      {
+        "ID": 3020,
+        "AnimPrefab": "Action/Emoji/开心/ActionPlayer@开心"
+      },
+      {
+        "ID": 3025,
+        "AnimPrefab": "Action/Emoji/惊讶/ActionPlayer@惊讶"
+      },
+      {
+        "ID": 3030,
+        "AnimPrefab": "Action/Emoji/憧憬/ActionPlayer@憧憬"
+      },
+      {
+        "ID": 3035,
+        "AnimPrefab": "Action/Emoji/捂脸/ActionPlayer@捂脸"
+      },
+      {
+        "ID": 3040,
+        "AnimPrefab": "Action/Emoji/插刀/ActionPlayer@插刀"
+      },
+      {
+        "ID": 3045,
+        "AnimPrefab": "Action/Emoji/疑惑/ActionPlayer@疑惑"
+      },
+      {
+        "ID": 3050,
+        "AnimPrefab": "Action/Emoji/细节/ActionPlayer@细节"
+      },
+      {
+        "ID": 3055,
+        "AnimPrefab": "Action/Emoji/表情01/ActionPlayer@表情01"
+      },
+      {
+        "ID": 3060,
+        "AnimPrefab": "Action/Emoji/表情09/ActionPlayer@表情09"
+      },
+      {
+        "ID": 3065,
+        "AnimPrefab": "Action/Emoji/表情10/ActionPlayer@表情10"
+      },
+      {
+        "ID": 3070,
+        "AnimPrefab": "Action/Emoji/表情11/ActionPlayer@表情11"
+      },
+      {
+        "ID": 3075,
+        "AnimPrefab": "Action/Emoji/表情12/ActionPlayer@表情12"
+      },
+      {
+        "ID": 3080,
+        "AnimPrefab": "Action/Emoji/表情13/ActionPlayer@表情13"
+      },
+      {
+        "ID": 3085,
+        "AnimPrefab": "Action/Emoji/表情14/ActionPlayer@表情14"
+      },
+      {
+        "ID": 3090,
+        "AnimPrefab": "Action/Emoji/表情16/ActionPlayer@表情16"
+      },
+      {
+        "ID": 3095,
+        "AnimPrefab": "Action/Emoji/表情17/ActionPlayer@表情17"
+      },
+      {
+        "ID": 3100,
+        "AnimPrefab": "Action/Emoji/表情20/ActionPlayer@表情20"
+      },
+      {
+        "ID": 3105,
+        "AnimPrefab": "Action/Emoji/表情23/ActionPlayer@表情23"
+      },
+      {
+        "ID": 3110,
+        "AnimPrefab": "Action/Emoji/表情24/ActionPlayer@表情24"
+      },
+      {
+        "ID": 3115,
+        "AnimPrefab": "Action/Emoji/表情25/ActionPlayer@表情25"
+      },
+      {
+        "ID": 3120,
+        "AnimPrefab": "Action/Emoji/表情26/ActionPlayer@表情26"
+      },
+      {
+        "ID": 3125,
+        "AnimPrefab": "Action/Emoji/表情28/ActionPlayer@表情28"
+      },
+      {
+        "ID": 3130,
+        "AnimPrefab": "Action/Emoji/表情29/ActionPlayer@表情29"
+      },
+      {
+        "ID": 3135,
+        "AnimPrefab": "Action/Emoji/表情31/ActionPlayer@表情31"
+      },
+      {
+        "ID": 3140,
+        "AnimPrefab": "Action/Emoji/表情33/ActionPlayer@表情33"
+      },
+      {
+        "ID": 3145,
+        "AnimPrefab": "Action/Emoji/表情34/ActionPlayer@表情34"
+      },
+      {
+        "ID": 3150,
+        "AnimPrefab": "Action/Emoji/表情41/ActionPlayer@表情41"
+      },
+      {
+        "ID": 3155,
+        "AnimPrefab": "Action/Emoji/表情42/ActionPlayer@表情42"
+      },
+      {
+        "ID": 3160,
+        "AnimPrefab": "Action/Emoji/三人行/ActionPlayer@三人行"
+      },
+      {
+        "ID": 3165,
+        "AnimPrefab": "Action/Emoji/哦捏该/ActionPlayer@哦捏该"
+      },
+      {
+        "ID": 3170,
+        "AnimPrefab": "Action/Emoji/热汤伺候/ActionPlayer@热汤伺候"
+      },
+      {
+        "ID": 3175,
+        "AnimPrefab": "Action/Emoji/表情43_Mujika爬(50_66)/ActionPlayer@表情43_Mujika爬(50_66)"
+      },
+      {
+        "ID": 3180,
+        "AnimPrefab": "Action/Emoji/表情44_醉了/ActionPlayer@表情44_醉了"
+      },
+      {
+        "ID": 3185,
+        "AnimPrefab": "Action/Emoji/表情45_鼓励舞/ActionPlayer@表情45_鼓励舞"
+      },
+      {
+        "ID": 3190,
+        "AnimPrefab": "Action/Emoji/表情46_摇啊摇(45-80)/ActionPlayer@表情46_摇啊摇(45-80)"
+      },
+      {
+        "ID": 3195,
+        "AnimPrefab": "Action/Emoji/表情47_兴奋的跺脚/ActionPlayer@表情47_兴奋的跺脚"
+      },
+      {
+        "ID": 3200,
+        "AnimPrefab": "Action/Emoji/表情48_摇可乐罐(20-80)/ActionPlayer@表情48_摇可乐罐(20-80)"
+      },
+      {
+        "ID": 3205,
+        "AnimPrefab": "Action/Emoji/鼓励舞表情/ActionPlayer@鼓励舞表情"
+      },
+      {
+        "ID": 3210,
+        "AnimPrefab": "Action/Emoji/表情52_篮球A/ActionPlayer@表情52_篮球A"
+      },
+      {
+        "ID": 3215,
+        "AnimPrefab": "Action/Emoji/表情53_篮球B/ActionPlayer@表情53_篮球B"
+      },
+      {
+        "ID": 3220,
+        "AnimPrefab": "Action/Emoji/完美收场表情/ActionPlayer@完美收场表情"
+      },
+      {
+        "ID": 3225,
+        "AnimPrefab": "Action/Emoji/专属表情_格洁塔/ActionPlayer@专属表情_格洁塔"
+      },
+      {
+        "ID": 3230,
+        "AnimPrefab": "Action/Emoji/专属表情_梦纱/ActionPlayer@专属表情_梦纱"
+      },
+      {
+        "ID": 3235,
+        "AnimPrefab": "Action/Emoji/biubiubiu表情/ActionPlayer@biubiubiu表情"
+      },
+      {
+        "ID": 3240,
+        "AnimPrefab": "Action/Emoji/key拉key拉表情/ActionPlayer@key拉key拉表情"
+      },
+      {
+        "ID": 3245,
+        "AnimPrefab": "Action/Emoji/Orz表情/ActionPlayer@Orz表情"
+      },
+      {
+        "ID": 3250,
+        "AnimPrefab": "Action/Emoji/嘿嘿嘿表情/ActionPlayer@嘿嘿嘿表情"
+      },
+      {
+        "ID": 3255,
+        "AnimPrefab": "Action/Emoji/将将将奖表情/ActionPlayer@将将将奖表情"
+      },
+      {
+        "ID": 3260,
+        "AnimPrefab": "Action/Emoji/干杯/ActionPlayer@干杯"
+      },
+      {
+        "ID": 3265,
+        "AnimPrefab": "Action/Emoji/干杯_单手/ActionPlayer@干杯_单手"
+      },
+      {
+        "ID": 3270,
+        "AnimPrefab": "Action/Emoji/心动表情/ActionPlayer@心动表情"
+      },
+      {
+        "ID": 3275,
+        "AnimPrefab": "Action/Emoji/画个圈圈表情/ActionPlayer@画个圈圈表情"
+      },
+      {
+        "ID": 3280,
+        "AnimPrefab": "Action/Emoji/表情49_爱杀片尾舞蹈A(24-116)/ActionPlayer@表情49_爱杀片尾舞蹈A(24-116)"
+      },
+      {
+        "ID": 3285,
+        "AnimPrefab": "Action/Emoji/表情50_爱杀片尾舞蹈B(30-230)/ActionPlayer@表情50_爱杀片尾舞蹈B(30-230)"
+      },
+      {
+        "ID": 3290,
+        "AnimPrefab": "Action/Emoji/表情51_肯恰那(10_110)/ActionPlayer@表情51_肯恰那(10_110)"
+      },
+      {
+        "ID": 3295,
+        "AnimPrefab": "Action/Emoji/表情54_舞蹈/ActionPlayer@表情54_舞蹈"
+      },
+      {
+        "ID": 3300,
+        "AnimPrefab": "Action/Emoji/表情55_奇怪pose/ActionPlayer@表情55_奇怪pose"
+      },
+      {
+        "ID": 3305,
+        "AnimPrefab": "Action/Emoji/讨厌讨厌表情/ActionPlayer@讨厌讨厌表情"
+      },
+      {
+        "ID": 3310,
+        "AnimPrefab": "Action/Emoji/闪亮登场表情/ActionPlayer@闪亮登场表情"
+      },
+      {
+        "ID": 3315,
+        "AnimPrefab": "Action/Emoji/阿门表情/ActionPlayer@阿门表情"
+      },
+      {
+        "ID": 4000,
+        "AnimPrefab": "Action/Emoji/表情_Event_01/ActionPlayer@表情_Event_01"
+      },
+      {
+        "ID": 4001,
+        "AnimPrefab": "Action/Motion/倒火锅汤/ActionPlayer@倒火锅汤"
+      },
+      {
+        "ID": 4500,
+        "AnimPrefab": "Action/Emoji/专属表情_蓝/ActionPlayer@专属表情_蓝"
+      },
+      {
+        "ID": 4505,
+        "AnimPrefab": "Action/Emoji/专属表情_柠檬/ActionPlayer@专属表情_柠檬"
+      },
+      {
+        "ID": 4510,
+        "AnimPrefab": "Action/Emoji/专属表情_潘/ActionPlayer@专属表情_潘"
+      },
+      {
+        "ID": 4515,
+        "AnimPrefab": "Action/Emoji/专属表情_乌娜/ActionPlayer@专属表情_乌娜"
+      },
+      {
+        "ID": 4520,
+        "AnimPrefab": "Action/Emoji/专属表情_琪/ActionPlayer@专属表情_琪"
+      },
+      {
+        "ID": 4525,
+        "AnimPrefab": "Action/Emoji/专属表情_草芥/ActionPlayer@专属表情_草芥"
+      },
+      {
+        "ID": 4530,
+        "AnimPrefab": "Action/Emoji/专属表情_记者/ActionPlayer@专属表情_记者"
+      },
+      {
+        "ID": 4535
+      },
+      {
+        "ID": 4540
+      },
+      {
+        "ID": 4545
+      },
+      {
+        "ID": 4550
+      },
+      {
+        "ID": 4555
+      },
+      {
+        "ID": 4560
+      },
+      {
+        "ID": 4565
+      },
+      {
+        "ID": 4570
+      },
+      {
+        "ID": 4575
+      },
+      {
+        "ID": 4580
+      },
+      {
+        "ID": 4585
+      },
+      {
+        "ID": 4590
+      },
+      {
+        "ID": 4595
+      },
+      {
+        "ID": 5000,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画"
+      },
+      {
+        "ID": 5001,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画_巨斧"
+      },
+      {
+        "ID": 5002,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画_双手剑"
+      },
+      {
+        "ID": 5003,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画_水晶球"
+      },
+      {
+        "ID": 5004,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画_双持"
+      },
+      {
+        "ID": 5005,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画"
+      },
+      {
+        "ID": 5006,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画"
+      },
+      {
+        "ID": 5007,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画"
+      },
+      {
+        "ID": 5008,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画"
+      },
+      {
+        "ID": 5009,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画"
+      },
+      {
+        "ID": 5010,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画"
+      },
+      {
+        "ID": 5011,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画_长矛"
+      },
+      {
+        "ID": 5012,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画_拳铳"
+      },
+      {
+        "ID": 5013,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画_长弓"
+      },
+      {
+        "ID": 5014,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画_双手剑"
+      },
+      {
+        "ID": 5015,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画_法杖"
+      },
+      {
+        "ID": 5016,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画"
+      },
+      {
+        "ID": 5017,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画_步枪"
+      },
+      {
+        "ID": 5018,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画_符卡"
+      },
+      {
+        "ID": 5019,
+        "AnimPrefab": "Action/Motion/复活动画/ActionPlayer@复活动画"
+      },
+      {
+        "ID": 6010,
+        "AnimPrefab": "Action/Motion/打街机/ActionPlayer@打街机A"
+      },
+      {
+        "ID": 6011,
+        "AnimPrefab": "Action/Motion/打街机/ActionPlayer@打街机B"
+      },
+      {
+        "ID": 6012,
+        "AnimPrefab": "Action/Motion/打街机_人物动画/ActionPlayer@打街机A_PlayerOnly"
+      },
+      {
+        "ID": 6013,
+        "AnimPrefab": "Action/Motion/打街机_人物动画/ActionPlayer@打街机B_PlayerOnly"
+      },
+      {
+        "ID": 10000,
+        "AnimPrefab": "Action/Multiexpression/拥抱/ActionPlayer@拥抱_1级_1P_开始等待2P加入"
+      },
+      {
+        "ID": 10001,
+        "AnimPrefab": "Action/Multiexpression/拥抱/ActionPlayer@拥抱_1级_1P_触发拥抱"
+      },
+      {
+        "ID": 10002,
+        "AnimPrefab": "Action/Multiexpression/拥抱/ActionPlayer@拥抱_1级_2P_加入拥抱"
+      },
+      {
+        "ID": 10003,
+        "AnimPrefab": "Action/Multiexpression/拥抱_2级/ActionPlayer@拥抱_2级_1P_开始等待2P加入"
+      },
+      {
+        "ID": 10004,
+        "AnimPrefab": "Action/Multiexpression/拥抱_2级/ActionPlayer@拥抱_2级_1P_触发拥抱"
+      },
+      {
+        "ID": 10005,
+        "AnimPrefab": "Action/Multiexpression/拥抱_2级/ActionPlayer@拥抱_2级_2P_加入拥抱"
+      },
+      {
+        "ID": 10010,
+        "AnimPrefab": "Action/Multiexpression/握手_1级/ActionPlayer@握手_1级_1P_开始等待2P加入"
+      },
+      {
+        "ID": 10011,
+        "AnimPrefab": "Action/Multiexpression/握手_1级/ActionPlayer@握手_1级_1P_触发握手"
+      },
+      {
+        "ID": 10012,
+        "AnimPrefab": "Action/Multiexpression/握手_1级/ActionPlayer@握手_1级_2P_加入握手"
+      },
+      {
+        "ID": 10013,
+        "AnimPrefab": "Action/Multiexpression/握手_2级/ActionPlayer@握手_2级_1P_开始等待2P加入"
+      },
+      {
+        "ID": 10014,
+        "AnimPrefab": "Action/Multiexpression/握手_2级/ActionPlayer@握手_2级_1P_触发握手"
+      },
+      {
+        "ID": 10015,
+        "AnimPrefab": "Action/Multiexpression/握手_2级/ActionPlayer@握手_2级_2P_加入握手"
+      },
+      {
+        "ID": 10020,
+        "AnimPrefab": "Action/Multiexpression/搓脸_1级/ActionPlayer@搓脸_1级_1P_开始等待2P加入"
+      },
+      {
+        "ID": 10021,
+        "AnimPrefab": "Action/Multiexpression/搓脸_1级/ActionPlayer@搓脸_1级_1P_触发搓脸"
+      },
+      {
+        "ID": 10022,
+        "AnimPrefab": "Action/Multiexpression/搓脸_1级/ActionPlayer@搓脸_1级_2P_加入搓脸"
+      },
+      {
+        "ID": 10023,
+        "AnimPrefab": "Action/Multiexpression/搓脸_2级/ActionPlayer@搓脸_2级_1P_开始等待2P加入"
+      },
+      {
+        "ID": 10024,
+        "AnimPrefab": "Action/Multiexpression/搓脸_2级/ActionPlayer@搓脸_2级_1P_触发搓脸"
+      },
+      {
+        "ID": 10025,
+        "AnimPrefab": "Action/Multiexpression/搓脸_2级/ActionPlayer@搓脸_2级_2P_加入搓脸"
+      },
+      {
+        "ID": 10030,
+        "AnimPrefab": "Action/Multiexpression/转圈圈/ActionPlayer@转圈圈_1级_1P_开始等待2P加入"
+      },
+      {
+        "ID": 10031,
+        "AnimPrefab": "Action/Multiexpression/转圈圈/ActionPlayer@转圈圈_1级_1P_触发转圈圈"
+      },
+      {
+        "ID": 10032,
+        "AnimPrefab": "Action/Multiexpression/转圈圈/ActionPlayer@转圈圈_1级_2P_加入转圈圈"
+      },
+      {
+        "ID": 20010,
+        "AnimPrefab": "Action/Musical/键盘/ActionPlayer@键盘Idle"
+      },
+      {
+        "ID": 20011,
+        "AnimPrefab": "Action/Musical/键盘/ActionPlayer@键盘1"
+      },
+      {
+        "ID": 20012,
+        "AnimPrefab": "Action/Musical/键盘/ActionPlayer@键盘2"
+      },
+      {
+        "ID": 20013,
+        "AnimPrefab": "Action/Musical/键盘/ActionPlayer@键盘3"
+      },
+      {
+        "ID": 20014,
+        "AnimPrefab": "Action/Musical/键盘/ActionPlayer@键盘Idle_无动画"
+      },
+      {
+        "ID": 20015,
+        "AnimPrefab": "Action/Musical/键盘/ActionPlayer@键盘1_无动画"
+      },
+      {
+        "ID": 20016,
+        "AnimPrefab": "Action/Musical/键盘/ActionPlayer@键盘2_无动画"
+      },
+      {
+        "ID": 20017,
+        "AnimPrefab": "Action/Musical/键盘/ActionPlayer@键盘3_无动画"
+      },
+      {
+        "ID": 20020,
+        "AnimPrefab": "Action/Musical/吉他/ActionPlayer@吉他Idle"
+      },
+      {
+        "ID": 20021,
+        "AnimPrefab": "Action/Musical/吉他/ActionPlayer@吉他1"
+      },
+      {
+        "ID": 20022,
+        "AnimPrefab": "Action/Musical/吉他/ActionPlayer@吉他2"
+      },
+      {
+        "ID": 20023,
+        "AnimPrefab": "Action/Musical/吉他/ActionPlayer@吉他3"
+      },
+      {
+        "ID": 20030,
+        "AnimPrefab": "Action/Musical/贝斯/ActionPlayer@贝斯Idle"
+      },
+      {
+        "ID": 20031,
+        "AnimPrefab": "Action/Musical/贝斯/ActionPlayer@贝斯1"
+      },
+      {
+        "ID": 20032,
+        "AnimPrefab": "Action/Musical/贝斯/ActionPlayer@贝斯2"
+      },
+      {
+        "ID": 20033,
+        "AnimPrefab": "Action/Musical/贝斯/ActionPlayer@贝斯3"
+      },
+      {
+        "ID": 20040,
+        "AnimPrefab": "Action/Musical/架子鼓/ActionPlayer@架子鼓Idle"
+      },
+      {
+        "ID": 20041,
+        "AnimPrefab": "Action/Musical/架子鼓/ActionPlayer@架子鼓1"
+      },
+      {
+        "ID": 20042,
+        "AnimPrefab": "Action/Musical/架子鼓/ActionPlayer@架子鼓2"
+      },
+      {
+        "ID": 20043,
+        "AnimPrefab": "Action/Musical/架子鼓/ActionPlayer@架子鼓3"
+      },
+      {
+        "ID": 20050,
+        "AnimPrefab": "Action/Musical/麦克风/ActionPlayer@麦克风Idle"
+      },
+      {
+        "ID": 20051,
+        "AnimPrefab": "Action/Musical/麦克风/ActionPlayer@麦克风1"
+      },
+      {
+        "ID": 20052,
+        "AnimPrefab": "Action/Musical/麦克风/ActionPlayer@麦克风2"
+      },
+      {
+        "ID": 20053,
+        "AnimPrefab": "Action/Musical/麦克风/ActionPlayer@麦克风3"
+      },
+      {
+        "ID": 20060,
+        "AnimPrefab": "Action/Musical/桃心麦克风/ActionPlayer@桃心麦克风Idle"
+      },
+      {
+        "ID": 20061,
+        "AnimPrefab": "Action/Musical/桃心麦克风/ActionPlayer@桃心麦克风1"
+      },
+      {
+        "ID": 20062,
+        "AnimPrefab": "Action/Musical/桃心麦克风/ActionPlayer@桃心麦克风2"
+      },
+      {
+        "ID": 20063,
+        "AnimPrefab": "Action/Musical/桃心麦克风/ActionPlayer@桃心麦克风3"
+      },
+      {
+        "ID": 20070,
+        "AnimPrefab": "Action/Musical/柠星麦克风/ActionPlayer@柠星麦克风Idle"
+      },
+      {
+        "ID": 20071,
+        "AnimPrefab": "Action/Musical/柠星麦克风/ActionPlayer@柠星麦克风1"
+      },
+      {
+        "ID": 20072,
+        "AnimPrefab": "Action/Musical/柠星麦克风/ActionPlayer@柠星麦克风2"
+      },
+      {
+        "ID": 20073,
+        "AnimPrefab": "Action/Musical/柠星麦克风/ActionPlayer@柠星麦克风3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1738 @@
+{
+  "Mechanism": {
+    "Datas": [
+      {
+        "ID": 1000111,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100011/Event1000111_进场景触发对话.prefab"
+      },
+      {
+        "ID": 1000112,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100011/Event1000112_引导线.prefab"
+      },
+      {
+        "ID": 1000121,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100011/Event1000121_任务镜头.prefab"
+      },
+      {
+        "ID": 1000211,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Event1000211_芳汀.prefab"
+      },
+      {
+        "ID": 1000212,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Event1000212_芳汀演出.prefab"
+      },
+      {
+        "ID": 1000213,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Event1000213_引导线.prefab"
+      },
+      {
+        "ID": 1000221,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Event1000221_入场镜头.prefab"
+      },
+      {
+        "ID": 1000222,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Event1000221_芳汀.prefab"
+      },
+      {
+        "ID": 1000231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Event1000231_水晶引导点.prefab"
+      },
+      {
+        "ID": 1000232,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Event1000232_地标引导点.prefab"
+      },
+      {
+        "ID": 1000233,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Event1000233_引导线.prefab"
+      },
+      {
+        "ID": 1000241,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Event1000241_地标引导点.prefab"
+      },
+      {
+        "ID": 1000242,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Event1000242_引导线2.prefab"
+      },
+      {
+        "ID": 1000251,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Event1000251_闪光物.prefab"
+      },
+      {
+        "ID": 1000252,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Event1000252_引导线3.prefab"
+      },
+      {
+        "ID": 1000311,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100031/Event1000311_引导线.prefab"
+      },
+      {
+        "ID": 1000341,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100031/Event1000341_二段跳目标点.prefab"
+      },
+      {
+        "ID": 1000351,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100031/Event1000351_缓降检测.prefab"
+      },
+      {
+        "ID": 1000411,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100041/Event1000411_任务坐标检测.prefab"
+      },
+      {
+        "ID": 1000421,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100041/Event1000421_任务坐标检测.prefab"
+      },
+      {
+        "ID": 1000431,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100041/Event1000431_采集引导点.prefab"
+      },
+      {
+        "ID": 1000441,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100041/Event1000441_任务采集.prefab"
+      },
+      {
+        "ID": 1000451,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100041/Event1000451_回溯检测.prefab"
+      },
+      {
+        "ID": 1000531,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100051/Event1000531_战斗.prefab"
+      },
+      {
+        "ID": 1000532,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100051/Event1000532_采集物.prefab"
+      },
+      {
+        "ID": 1000541,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100051/Event1000541_任务引导点.prefab"
+      },
+      {
+        "ID": 1000631,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100061/Event1000631_到达目标点.prefab"
+      },
+      {
+        "ID": 1000641,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100061/Event1000641_战斗.prefab"
+      },
+      {
+        "ID": 1000731,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100071/Event1000731_添水开关a.prefab"
+      },
+      {
+        "ID": 1000732,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100071/Event1000732_添水开关b.prefab"
+      },
+      {
+        "ID": 1000733,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100071/Event1000733_添水开关c.prefab"
+      },
+      {
+        "ID": 1000741,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100071/Movie1000741_水车启动动画.prefab"
+      },
+      {
+        "ID": 1000751,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100071/Movie1000751_水车顶动画.prefab"
+      },
+      {
+        "ID": 1000831,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100081/Event1000831_采集物.prefab"
+      },
+      {
+        "ID": 1000891,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100081/Event1000891_篝火.prefab"
+      },
+      {
+        "ID": 1000901,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100081/Event1000901_点燃篝火.prefab"
+      },
+      {
+        "ID": 1000981,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100081/Movie1000981_烟花动画.prefab"
+      },
+      {
+        "ID": 1010131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101011/Event1010131_任务目的地.prefab"
+      },
+      {
+        "ID": 1010151,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101011/Event1010151_咲.prefab"
+      },
+      {
+        "ID": 1010161,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101011/Event1010161_任务目的地.prefab"
+      },
+      {
+        "ID": 1010181,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101011/Event1010161_咲.prefab"
+      },
+      {
+        "ID": 1010231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101021/Event1010231_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1010251,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101021/Event1010251_咲.prefab"
+      },
+      {
+        "ID": 1010331,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101031/Event1010331_任务采集.prefab"
+      },
+      {
+        "ID": 1010341,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101031/Event1010341_咲.prefab"
+      },
+      {
+        "ID": 1010361,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101031/Event1010361_咲.prefab"
+      },
+      {
+        "ID": 1010441,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101041/Event1010441_咲.prefab"
+      },
+      {
+        "ID": 1010531,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101051/Event1010531_任务采集.prefab"
+      },
+      {
+        "ID": 1010541,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101051/Event1010541_任务目的地.prefab"
+      },
+      {
+        "ID": 1010631,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101061/Event1010631_任务目的地.prefab"
+      },
+      {
+        "ID": 1010641,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101061/Event1010641_任务目的地.prefab"
+      },
+      {
+        "ID": 1010731,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101071/Event1010731_任务目的地.prefab"
+      },
+      {
+        "ID": 1010751,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101071/Event1010751_咲.prefab"
+      },
+      {
+        "ID": 1010831,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101081/Event1010831_任务目的地.prefab"
+      },
+      {
+        "ID": 1010911,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101091/Event1010911_咲.prefab"
+      },
+      {
+        "ID": 1010931,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101091/Event1010931_任务目的地.prefab"
+      },
+      {
+        "ID": 1010941,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101091/Event1010941_篝火.prefab"
+      },
+      {
+        "ID": 1010951,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101091/Event1010951_咲.prefab"
+      },
+      {
+        "ID": 1010961,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101091/Event1010961_镜头对话.prefab"
+      },
+      {
+        "ID": 1010962,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101091/Event1010962_场景变暗.prefab"
+      },
+      {
+        "ID": 1011021,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101101/Event1011021_咲.prefab"
+      },
+      {
+        "ID": 1011041,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101101/Event1011041_咲.prefab"
+      },
+      {
+        "ID": 1011051,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101101/Event1011051_咲.prefab"
+      },
+      {
+        "ID": 1011061,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101101/Event1011061_咲.prefab"
+      },
+      {
+        "ID": 1011081,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101101/Event1011081_咲.prefab"
+      },
+      {
+        "ID": 1011131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101111/Event1011131_任务目的地.prefab"
+      },
+      {
+        "ID": 1011151,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101111/Event1011151_咲.prefab"
+      },
+      {
+        "ID": 1011161,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101111/Event1011161_篝火.prefab"
+      },
+      {
+        "ID": 1011231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101121/Event1011231_任务目的地.prefab"
+      },
+      {
+        "ID": 1011241,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101121/Event1011241_面具.prefab"
+      },
+      {
+        "ID": 1011271,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101121/Event1011271_咲.prefab"
+      },
+      {
+        "ID": 1011321,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101131/Event1011321_咲.prefab"
+      },
+      {
+        "ID": 1020131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102011/Event1020131_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1020151,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102011/Event1020151_任务目的地.prefab"
+      },
+      {
+        "ID": 1020221,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102021/Event1020211_入场镜头.prefab"
+      },
+      {
+        "ID": 1020231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102021/Event1020231_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1020241,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102021/Event1020241_任务采集.prefab"
+      },
+      {
+        "ID": 1020331,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102031/Event1020331_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1020341,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102031/Event1020341_排查小齿轮.prefab"
+      },
+      {
+        "ID": 1020361,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102031/Event1020361_启动柄轴.prefab"
+      },
+      {
+        "ID": 1020431,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102041/Event1020431_收集数据.prefab"
+      },
+      {
+        "ID": 1020441,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102041/Event1020441_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1020531,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102051/Event1020531_收集数据.prefab"
+      },
+      {
+        "ID": 1020541,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102051/Event1020541_收集数据.prefab"
+      },
+      {
+        "ID": 1020631,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102061/Event1020631_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1020641,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102061/Event1020641_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1020731,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102071/Event1020731_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1020751,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102071/Event1020751_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1020831,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102081/Event1020831_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1020931,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102091/Event1020931_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1020932,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102091/Event1020932_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1021031,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102101/Event1021031_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1021041,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102101/Event1021041_任务采集.prefab"
+      },
+      {
+        "ID": 1021051,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102101/Event1021051_任务采集.prefab"
+      },
+      {
+        "ID": 1021131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102111/Event1021031_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1021231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102121/Event1021231_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1021241,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102121/Event1021241_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1021252,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102121/Event1021252_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1021253,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102121/Event1021253_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1021331,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102131/Event1021331_任务采集.prefab"
+      },
+      {
+        "ID": 1021411,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102141/Event1021411_任务目的地_触发对话.prefab"
+      },
+      {
+        "ID": 1030111,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103011/Event1030111_咲.prefab"
+      },
+      {
+        "ID": 1030121,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103011/Event1030121_樱花夜晚场景镜头.prefab"
+      },
+      {
+        "ID": 1030131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103011/Event1030113_咲.prefab"
+      },
+      {
+        "ID": 1030141,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103011/Event1030141_目标位置.prefab"
+      },
+      {
+        "ID": 1030161,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103011/Event1030161_咲.prefab"
+      },
+      {
+        "ID": 1030231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103021/Event1030231_目标位置.prefab"
+      },
+      {
+        "ID": 1030251,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103021/Event1030251_直辉.prefab"
+      },
+      {
+        "ID": 1030261,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103021/GamePos1030261_解谜参考坐标.prefab"
+      },
+      {
+        "ID": 1030271,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103021/Event1030271_目标位置.prefab"
+      },
+      {
+        "ID": 1030291,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103021/Event1030291_直辉.prefab"
+      },
+      {
+        "ID": 1030331,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103031/Event1030331_目标位置.prefab"
+      },
+      {
+        "ID": 1030341,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103031/GamePos1030341_解谜参考坐标.prefab"
+      },
+      {
+        "ID": 1030351,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103031/Event1030351_目标位置.prefab"
+      },
+      {
+        "ID": 1030421,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103041/Event1030421_目标位置.prefab"
+      },
+      {
+        "ID": 1030431,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103041/Event1030431_神秘少女.prefab"
+      },
+      {
+        "ID": 1030441,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103041/Event1030441_神秘少女.prefab"
+      },
+      {
+        "ID": 1030451,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103041/Event1030451_神秘少女.prefab"
+      },
+      {
+        "ID": 1030471,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103041/Event1030471_直辉.prefab"
+      },
+      {
+        "ID": 1030481,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103041/Event1030481_目标位置.prefab"
+      },
+      {
+        "ID": 1030491,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103041/Event1030491_采集物.prefab"
+      },
+      {
+        "ID": 1030541,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103051/Event1030541_目标位置.prefab"
+      },
+      {
+        "ID": 1030551,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103051/Event1030551_目标位置.prefab"
+      },
+      {
+        "ID": 1030561,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103051/GamePos1030561_解谜参考坐标.prefab"
+      },
+      {
+        "ID": 1030621,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103061/Event1030621_咲.prefab"
+      },
+      {
+        "ID": 1030641,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103061/Event1030641_仪器.prefab"
+      },
+      {
+        "ID": 1030661,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103061/Event1030661_仪器.prefab"
+      },
+      {
+        "ID": 1030671,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103061/Event1030671_仪器.prefab"
+      },
+      {
+        "ID": 1030681,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103061/Event1030681_神秘少女.prefab"
+      },
+      {
+        "ID": 1030691,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103061/Event1030691_目标位置.prefab"
+      },
+      {
+        "ID": 1030741,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103071/Event1030741_仪器.prefab"
+      },
+      {
+        "ID": 1030751,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103071/Event1030751_仪器.prefab"
+      },
+      {
+        "ID": 1030761,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103071/Event1030761_目标位置.prefab"
+      },
+      {
+        "ID": 1030771,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103071/Event1030771_神秘少女.prefab"
+      },
+      {
+        "ID": 1030831,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Event1030831_拍摄目标.prefab"
+      },
+      {
+        "ID": 1030841,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Event1030841_拍摄目标.prefab"
+      },
+      {
+        "ID": 1030851,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Event1030851_拍摄目标.prefab"
+      },
+      {
+        "ID": 1030861,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Event1030861_拍摄目标.prefab"
+      },
+      {
+        "ID": 1030871,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Event1030871_拍摄目标.prefab"
+      },
+      {
+        "ID": 1030891,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Event1030891_目标位置.prefab"
+      },
+      {
+        "ID": 1030921,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103091/Event1030921_直辉.prefab"
+      },
+      {
+        "ID": 1030941,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103091/Event1030941_目标位置.prefab"
+      },
+      {
+        "ID": 1030951,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103091/Event1030951_神秘少女.prefab"
+      },
+      {
+        "ID": 1030961,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103091/Event1030961_目标位置.prefab"
+      },
+      {
+        "ID": 1030971,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103091/Event1030971_目标位置.prefab"
+      },
+      {
+        "ID": 1031031,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103101/Event1031031_采集物.prefab"
+      },
+      {
+        "ID": 1031041,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103101/Event1031041_采集物.prefab"
+      },
+      {
+        "ID": 1031051,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103101/Event1031051_采集物.prefab"
+      },
+      {
+        "ID": 1031061,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103101/Event1031061_神秘少女.prefab"
+      },
+      {
+        "ID": 1031071,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103101/Event1031071_神秘少女.prefab"
+      },
+      {
+        "ID": 1031121,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103111/Event1031121_装置.prefab"
+      },
+      {
+        "ID": 1031141,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103111/Event1031141_装置.prefab"
+      },
+      {
+        "ID": 1031151,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103111/Event1031151_装置.prefab"
+      },
+      {
+        "ID": 1031161,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103111/Event1031161_目标位置.prefab"
+      },
+      {
+        "ID": 1031171,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103111/Event1031171_目标位置.prefab"
+      },
+      {
+        "ID": 1031211,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103121/Event1031211_直辉.prefab"
+      },
+      {
+        "ID": 1031241,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103121/Event1031241_目标位置.prefab"
+      },
+      {
+        "ID": 1031261,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103121/Event1031261_目标位置.prefab"
+      },
+      {
+        "ID": 1031271,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103121/Event1031271_目标位置.prefab"
+      },
+      {
+        "ID": 1031311,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103131/Event1031311_目标位置.prefab"
+      },
+      {
+        "ID": 1031321,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103131/Event1031321_目标位置.prefab"
+      },
+      {
+        "ID": 1031331,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103131/Event1031331_神秘少女.prefab"
+      },
+      {
+        "ID": 1031351,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103131/Event1031351_神秘少女.prefab"
+      },
+      {
+        "ID": 1031431,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103141/Event1031431_采集物水晶.prefab"
+      },
+      {
+        "ID": 1031441,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103141/Event1031441_采集物水晶.prefab"
+      },
+      {
+        "ID": 1031461,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103141/Event1031461_直辉.prefab"
+      },
+      {
+        "ID": 1040131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104011/Event1040131_目标位置.prefab"
+      },
+      {
+        "ID": 1040171,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104011/Event1040171_朵拉.prefab"
+      },
+      {
+        "ID": 1040211,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104021/Event1040211_朵拉.prefab"
+      },
+      {
+        "ID": 1040231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104021/Event1040231_目标位置.prefab"
+      },
+      {
+        "ID": 1040251,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104021/Event1040251_目标位置.prefab"
+      },
+      {
+        "ID": 1040261,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104021/GamePos1040261_解谜参考坐标.prefab"
+      },
+      {
+        "ID": 1040331,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104031/Event1040331_目标位置.prefab"
+      },
+      {
+        "ID": 1040411,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104041/Event1040411_朵拉.prefab"
+      },
+      {
+        "ID": 1040431,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104041/Event1040431_目标位置.prefab"
+      },
+      {
+        "ID": 1040461,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104041/Event1040461_采集物.prefab"
+      },
+      {
+        "ID": 1040471,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104041/Event1040471_朵拉.prefab"
+      },
+      {
+        "ID": 1040511,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104051/Event1040511_朵拉.prefab"
+      },
+      {
+        "ID": 1040531,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104051/Event1040531_目标位置.prefab"
+      },
+      {
+        "ID": 1040541,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104051/GamePos1040541_解谜参考坐标.prefab"
+      },
+      {
+        "ID": 1040551,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104051/Event1040551_目标位置.prefab"
+      },
+      {
+        "ID": 1040561,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104051/Event1040561_装置.prefab"
+      },
+      {
+        "ID": 1040581,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104051/Event1040581_朵拉.prefab"
+      },
+      {
+        "ID": 1040631,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104061/Event1040631_目标位置.prefab"
+      },
+      {
+        "ID": 1040651,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104061/Event1040651_目标位置.prefab"
+      },
+      {
+        "ID": 1040661,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104061/GamePos1040661_解谜参考坐标.prefab"
+      },
+      {
+        "ID": 1040671,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104061/Event1040671_朵拉.prefab"
+      },
+      {
+        "ID": 1040681,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104061/Event1040681_目标位置.prefab"
+      },
+      {
+        "ID": 1040731,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104071/Event1040731_目标位置.prefab"
+      },
+      {
+        "ID": 1040811,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104081/Event1040811_朵拉.prefab"
+      },
+      {
+        "ID": 1040831,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104081/Event1040831_目标位置.prefab"
+      },
+      {
+        "ID": 1040851,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104081/Event1040851_目标位置.prefab"
+      },
+      {
+        "ID": 1040861,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104081/GamePos1040861_解谜参考坐标.prefab"
+      },
+      {
+        "ID": 1040871,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104081/Event1040871_朵拉.prefab"
+      },
+      {
+        "ID": 1040931,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104091/Event1040931_目标位置.prefab"
+      },
+      {
+        "ID": 1040941,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104091/Event1040941_目标位置.prefab"
+      },
+      {
+        "ID": 1041031,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104101/Event1041031_装置.prefab"
+      },
+      {
+        "ID": 1041041,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104101/Event1041041_装置.prefab"
+      },
+      {
+        "ID": 1041131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104111/Event1041131_装置.prefab"
+      },
+      {
+        "ID": 1041151,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104111/Event1041151_目标位置.prefab"
+      },
+      {
+        "ID": 1041231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104121/Event1041231_目标位置.prefab"
+      },
+      {
+        "ID": 1041251,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104121/Event1041251_目标位置.prefab"
+      },
+      {
+        "ID": 1041311,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104131/Event1041311_朵拉.prefab"
+      },
+      {
+        "ID": 1041321,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104131/Event1041321_荧荧.prefab"
+      },
+      {
+        "ID": 1041341,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104131/Event1041341_目标位置.prefab"
+      },
+      {
+        "ID": 1041361,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104131/Event1041361_目标位置.prefab"
+      },
+      {
+        "ID": 1041431,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104141/Event1041431_目标位置.prefab"
+      },
+      {
+        "ID": 1041451,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104141/Event1041451_目标位置.prefab"
+      },
+      {
+        "ID": 1050131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105011/Event1050131_采集点.prefab"
+      },
+      {
+        "ID": 1050151,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105011/GamePos105015.prefab"
+      },
+      {
+        "ID": 1050231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105021/Event1050231_采集点.prefab"
+      },
+      {
+        "ID": 1050251,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105021/Event1050251_采集点.prefab"
+      },
+      {
+        "ID": 1050261,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105021/Event1050261_采集点.prefab"
+      },
+      {
+        "ID": 1050271,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105021/GamePos105027.prefab"
+      },
+      {
+        "ID": 1050331,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105031/Event1050331_到达目标点.prefab"
+      },
+      {
+        "ID": 1050351,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105031/Event1050351_到达目标点.prefab"
+      },
+      {
+        "ID": 1050431,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105041/Event1050431_到达目标点.prefab"
+      },
+      {
+        "ID": 1050441,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105041/Event1050441_采集水晶.prefab"
+      },
+      {
+        "ID": 1050461,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105041/Event1050461_采集水晶.prefab"
+      },
+      {
+        "ID": 1050531,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105051/Event1050531_采集水晶.prefab"
+      },
+      {
+        "ID": 1050561,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105051/Event1050561_到达目标点.prefab"
+      },
+      {
+        "ID": 1050631,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105061/Event1050631_到达目标点.prefab"
+      },
+      {
+        "ID": 1050651,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105061/Event1050651_装置.prefab"
+      },
+      {
+        "ID": 1050671,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105061/Event1050671_装置.prefab"
+      },
+      {
+        "ID": 1050731,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105071/Event1050731_到达目标点.prefab"
+      },
+      {
+        "ID": 1050751,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105071/Event1050751_装置.prefab"
+      },
+      {
+        "ID": 1050761,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105071/Event1050761_装置.prefab"
+      },
+      {
+        "ID": 1050781,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105071/Event1050781_天车.prefab"
+      },
+      {
+        "ID": 1050841,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105081/Event1050841_到达目标点.prefab"
+      },
+      {
+        "ID": 1050861,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105081/Event1050861_到达目标点.prefab"
+      },
+      {
+        "ID": 1050881,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105081/Event1050881_到达目标点.prefab"
+      },
+      {
+        "ID": 1050931,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105091/Event1050931_到达目标点.prefab"
+      },
+      {
+        "ID": 1051031,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105101/Event1051031_采集点.prefab"
+      },
+      {
+        "ID": 1051041,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105101/Event1051041_采集点.prefab"
+      },
+      {
+        "ID": 1051131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105111/Event1051131_采集水晶.prefab"
+      },
+      {
+        "ID": 1051161,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105111/GamePos105116.prefab"
+      },
+      {
+        "ID": 1051231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105121/Event1051231_天车破坏.prefab"
+      },
+      {
+        "ID": 1051241,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105121/Event1051241_天车破坏.prefab"
+      },
+      {
+        "ID": 1051251,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105121/Event1051251_天车破坏.prefab"
+      },
+      {
+        "ID": 1060111,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106011/Event1060111_直辉.prefab"
+      },
+      {
+        "ID": 1060131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106011/Event1060131_采集点.prefab"
+      },
+      {
+        "ID": 1060241,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106021/Event1060241_到达目标点.prefab"
+      },
+      {
+        "ID": 1060271,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106021/GamePos106027.prefab"
+      },
+      {
+        "ID": 1060341,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106031/Event1060341_采集点.prefab"
+      },
+      {
+        "ID": 1060361,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106031/Event1060361_采集点.prefab"
+      },
+      {
+        "ID": 1060331,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106031/GamePos106033.prefab"
+      },
+      {
+        "ID": 1060371,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106031/GamePos106037.prefab"
+      },
+      {
+        "ID": 1060431,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106041/Event1060431_到达目标点.prefab"
+      },
+      {
+        "ID": 1060461,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106041/Event1060461_到达目标点.prefab"
+      },
+      {
+        "ID": 1060471,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106041/GamePos106047.prefab"
+      },
+      {
+        "ID": 1060531,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106051/Event1060531_到达目标点.prefab"
+      },
+      {
+        "ID": 1060581,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106051/Event1060581_采集点.prefab"
+      },
+      {
+        "ID": 1060551,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106051/GamePos106055.prefab"
+      },
+      {
+        "ID": 1060571,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106051/GamePos106057.prefab"
+      },
+      {
+        "ID": 1060731,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106071/Event1060731_到达目标点.prefab"
+      },
+      {
+        "ID": 1060751,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106071/Event1060751_到达目标点.prefab"
+      },
+      {
+        "ID": 1060761,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106071/Event1060761_启动转盘.prefab"
+      },
+      {
+        "ID": 1070211,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107021/Event1070211_目的地.prefab"
+      },
+      {
+        "ID": 1070221,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107021/Event1070221_目的地.prefab"
+      },
+      {
+        "ID": 1070231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107021/Event1070231_目的地.prefab"
+      },
+      {
+        "ID": 1070311,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107031/Event1070311_目的地.prefab"
+      },
+      {
+        "ID": 1070321,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107031/GamePos1070321.prefab"
+      },
+      {
+        "ID": 1070341,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107031/Event1070341_目的地.prefab"
+      },
+      {
+        "ID": 1070351,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107031/Event1070351_目的地.prefab"
+      },
+      {
+        "ID": 1070361,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107031/Event1070361_交互物.prefab"
+      },
+      {
+        "ID": 1070421,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107041/Event1070421_目的地.prefab"
+      },
+      {
+        "ID": 1070431,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107041/Event1070431_目的地.prefab"
+      },
+      {
+        "ID": 1070441,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107041/GamePos1070441.prefab"
+      },
+      {
+        "ID": 1070621,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107061/Event1070621_目的地.prefab"
+      },
+      {
+        "ID": 1070631,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107061/Event1070631_目的地.prefab"
+      },
+      {
+        "ID": 1070711,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107071/Event1070711_目的地.prefab"
+      },
+      {
+        "ID": 1070721,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107071/Event1070721_目的地.prefab"
+      },
+      {
+        "ID": 1070731,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107071/Event1070731_目的地.prefab"
+      },
+      {
+        "ID": 1070741,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107071/Event1070741_目的地.prefab"
+      },
+      {
+        "ID": 1070811,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107081/Event1070811_目的地.prefab"
+      },
+      {
+        "ID": 1070821,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107081/Event1070821_目的地.prefab"
+      },
+      {
+        "ID": 1080121,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108011/Event1080121_莉.prefab"
+      },
+      {
+        "ID": 1080131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108011/Event1080131_目的地.prefab"
+      },
+      {
+        "ID": 1080141,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108011/Event1080141_目的地.prefab"
+      },
+      {
+        "ID": 1080151,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108011/Event1080151_格.prefab"
+      },
+      {
+        "ID": 1080221,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108021/Event1080221_莉.prefab"
+      },
+      {
+        "ID": 1080241,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108021/Event1080241_目的地.prefab"
+      },
+      {
+        "ID": 1080261,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108021/Event1080261_拾取道具.prefab"
+      },
+      {
+        "ID": 1080321,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108031/Event1080321_目的地.prefab"
+      },
+      {
+        "ID": 1080411,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108041/Event1080411_目的地.prefab"
+      },
+      {
+        "ID": 1080421,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108041/Event1080421_莉.prefab"
+      },
+      {
+        "ID": 1080422,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108041/Event1080422_格.prefab"
+      },
+      {
+        "ID": 1080431,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108041/Event1080431_目的地.prefab"
+      },
+      {
+        "ID": 1080451,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108041/Event1080451_采集物.prefab"
+      },
+      {
+        "ID": 1080511,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108051/Event1080511_目的地.prefab"
+      },
+      {
+        "ID": 1080521,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108051/Event1080521_目的地.prefab"
+      },
+      {
+        "ID": 1080531,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108051/Event1080531_目的地.prefab"
+      },
+      {
+        "ID": 1080541,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108051/Event1080541_莉.prefab"
+      },
+      {
+        "ID": 1080551,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108051/Event1080551_格.prefab"
+      },
+      {
+        "ID": 1080611,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108061/Event1080611_格.prefab"
+      },
+      {
+        "ID": 1080621,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108061/GamePos1080621.prefab"
+      },
+      {
+        "ID": 1080631,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108061/Event1080631_目的地.prefab"
+      },
+      {
+        "ID": 1080641,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108061/GamePos1080641.prefab"
+      },
+      {
+        "ID": 1080651,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108061/GamePos1080651.prefab"
+      },
+      {
+        "ID": 1080661,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108061/GamePos1080661.prefab"
+      },
+      {
+        "ID": 1080671,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108061/Event1080671_目的地.prefab"
+      },
+      {
+        "ID": 1080721,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108071/Event1080721_目的地.prefab"
+      },
+      {
+        "ID": 1080821,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108081/Event1080821_采集物.prefab"
+      },
+      {
+        "ID": 1080831,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108081/Event1080831_目的地.prefab"
+      },
+      {
+        "ID": 1080841,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108081/Event1080841_格.prefab"
+      },
+      {
+        "ID": 1080911,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108091/Event1080911_采集物.prefab"
+      },
+      {
+        "ID": 1080921,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108091/Event1080921_采集物.prefab"
+      },
+      {
+        "ID": 1080931,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108091/Event1080931_采集物.prefab"
+      },
+      {
+        "ID": 1080941,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108091/Event1080941_采集物.prefab"
+      },
+      {
+        "ID": 1080951,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108091/Event1080951_采集物.prefab"
+      },
+      {
+        "ID": 1081011,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108101/Event1081011_目的地.prefab"
+      },
+      {
+        "ID": 1081021,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108101/Event1081021_采集物.prefab"
+      },
+      {
+        "ID": 1081031,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108101/Event1081031_目的地.prefab"
+      },
+      {
+        "ID": 1081041,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108101/Event1081041_采集物.prefab"
+      },
+      {
+        "ID": 1081131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108111/Event1081131_格.prefab"
+      },
+      {
+        "ID": 1090111,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109011/Event1090111_目的地.prefab"
+      },
+      {
+        "ID": 1090121,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109011/Event1090121_目的地.prefab"
+      },
+      {
+        "ID": 1090131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109011/Event1090131_ 珂.prefab"
+      },
+      {
+        "ID": 1090211,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109021/Event1090211_目的地.prefab"
+      },
+      {
+        "ID": 1090231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109021/Event1090231_目的地.prefab"
+      },
+      {
+        "ID": 1090311,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109031/Event1090311_目的地.prefab"
+      },
+      {
+        "ID": 1090321,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109031/Event1090321_目的地.prefab"
+      },
+      {
+        "ID": 1090331,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109031/Event1090331_镜头.prefab"
+      },
+      {
+        "ID": 1090341,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109031/Event1090341_目的地.prefab"
+      },
+      {
+        "ID": 1090351,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109031/Event1090351_目的地.prefab"
+      },
+      {
+        "ID": 1090411,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109041/Event1090411_莉.prefab"
+      },
+      {
+        "ID": 1090421,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109041/Event1090421_目的地.prefab"
+      },
+      {
+        "ID": 1090431,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109041/Event1090431_莉.prefab"
+      },
+      {
+        "ID": 1090441,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109041/Event1090441_目的地.prefab"
+      },
+      {
+        "ID": 1090451,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109041/Event1090451_调整TOD.prefab"
+      },
+      {
+        "ID": 1090511,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109051/Event1090511_莉.prefab"
+      },
+      {
+        "ID": 1090521,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109051/Event1090521_珂.prefab"
+      },
+      {
+        "ID": 1090531,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109051/Event1090531_调整TOD.prefab"
+      },
+      {
+        "ID": 1090541,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109051/Event1090541_洛.prefab"
+      },
+      {
+        "ID": 1090551,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109051/Event1090551_爱.prefab"
+      },
+      {
+        "ID": 1090611,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109061/Event1090611_光.prefab"
+      },
+      {
+        "ID": 1090621,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109061/Event1090621_辉.prefab"
+      },
+      {
+        "ID": 1090631,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109061/Event1090631_目的地.prefab"
+      },
+      {
+        "ID": 1090641,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109061/Event1090641_咲.prefab"
+      },
+      {
+        "ID": 1090651,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109061/Event1090651_目的地.prefab"
+      },
+      {
+        "ID": 1090661,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109061/Event1090661_调整TOD.prefab"
+      },
+      {
+        "ID": 1090711,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109071/Event1090711_目的地.prefab"
+      },
+      {
+        "ID": 1090721,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109071/Event1090721_调整TOD.prefab"
+      },
+      {
+        "ID": 1090731,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109071/Event1090731_目的地.prefab"
+      },
+      {
+        "ID": 1090741,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109071/Event1090741_目的地.prefab"
+      },
+      {
+        "ID": 1090751,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109071/Event1090751_目的地.prefab"
+      },
+      {
+        "ID": 1090722,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109071/Event1090722_调整TOD.prefab"
+      },
+      {
+        "ID": 1090532,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109051/Event1090532_调整TOD.prefab"
+      },
+      {
+        "ID": 1090662,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109061/Event1090662_调整TOD.prefab"
+      },
+      {
+        "ID": 2000021,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200001/Event200002_入场镜头.prefab"
+      },
+      {
+        "ID": 2000031,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200001/Event200003_收集数据.prefab"
+      },
+      {
+        "ID": 2000051,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200001/Event200005_装置.prefab"
+      },
+      {
+        "ID": 2000061,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200001/Event200006_回收报告.prefab"
+      },
+      {
+        "ID": 2000121,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200011/Event200012_镜头.prefab"
+      },
+      {
+        "ID": 2000131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200011/Event200013_目的地.prefab"
+      },
+      {
+        "ID": 2000211,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200021/Event200021_珂.prefab"
+      },
+      {
+        "ID": 2000221,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200021/Event200022_蛋糕镜头.prefab"
+      },
+      {
+        "ID": 2001211,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200121/Event200121_珂.prefab"
+      },
+      {
+        "ID": 2001221,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200121/Event200122_蛋糕镜头.prefab"
+      },
+      {
+        "ID": 2001311,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200131/Event200131_目的地.prefab"
+      },
+      {
+        "ID": 2001321,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200131/Event200132_咲.prefab"
+      },
+      {
+        "ID": 2001331,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200131/Event200133_部长.prefab"
+      },
+      {
+        "ID": 2200211,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220021/Event220021_咲.prefab"
+      },
+      {
+        "ID": 2200221,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220021/Event220022_咲.prefab"
+      },
+      {
+        "ID": 2200231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220021/Event220023_咲.prefab"
+      },
+      {
+        "ID": 2200311,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220031/Event220031_咲.prefab"
+      },
+      {
+        "ID": 2200321,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220031/Event220032_咲.prefab"
+      },
+      {
+        "ID": 2200411,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220041/Event220041_目的地.prefab"
+      },
+      {
+        "ID": 2200431,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220041/Event220043_光.prefab"
+      },
+      {
+        "ID": 2200441,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220041/Event220044_目的地.prefab"
+      },
+      {
+        "ID": 2200451,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220041/Event220045_目的地.prefab"
+      },
+      {
+        "ID": 2200461,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220041/Event220046_目的地.prefab"
+      },
+      {
+        "ID": 2200471,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220041/Event220047_光.prefab"
+      },
+      {
+        "ID": 2200511,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220051/Event220051_目的地.prefab"
+      },
+      {
+        "ID": 2200531,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220051/Event220053_目的地.prefab"
+      },
+      {
+        "ID": 2200541,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220051/Event220054_目的地.prefab"
+      },
+      {
+        "ID": 2200551,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220051/Event220055_目的地.prefab"
+      },
+      {
+        "ID": 2200611,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220061/Event220061_发光物.prefab"
+      },
+      {
+        "ID": 2200711,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220071/Event220071_目的地.prefab"
+      },
+      {
+        "ID": 2200921,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220091/Event2200921_潘恩.prefab"
+      },
+      {
+        "ID": 2200931,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220091/Event2200931_潘恩.prefab"
+      },
+      {
+        "ID": 2300111,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Event230011_装置.prefab"
+      },
+      {
+        "ID": 2300121,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Event230012_目的地.prefab"
+      },
+      {
+        "ID": 2300131,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Event230013_目的地.prefab"
+      },
+      {
+        "ID": 2300141,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Event230014_装置.prefab"
+      },
+      {
+        "ID": 2300161,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Event230016_目的地.prefab"
+      },
+      {
+        "ID": 2300171,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Event230017_目的地.prefab"
+      },
+      {
+        "ID": 2300181,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Event230018_拍摄目标.prefab"
+      },
+      {
+        "ID": 2300191,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Event230019_博士.prefab"
+      },
+      {
+        "ID": 2300211,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Event230021_目的地.prefab"
+      },
+      {
+        "ID": 2300221,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Event230022_目的地.prefab"
+      },
+      {
+        "ID": 2300231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Event230023_药品食物.prefab"
+      },
+      {
+        "ID": 2300241,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Event230024_小猫.prefab"
+      },
+      {
+        "ID": 2300251,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Event230025_目的地.prefab"
+      },
+      {
+        "ID": 2300261,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Event230026_目的地.prefab"
+      },
+      {
+        "ID": 2300271,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Event230027_目的地.prefab"
+      },
+      {
+        "ID": 2300281,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Event230028_目的地.prefab"
+      },
+      {
+        "ID": 2300311,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230031/Event230031_发光物.prefab"
+      },
+      {
+        "ID": 2300321,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230031/Event230032_咲.prefab"
+      },
+      {
+        "ID": 2300331,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230031/Event230033_光.prefab"
+      },
+      {
+        "ID": 2300351,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230031/Event230035_咲.prefab"
+      },
+      {
+        "ID": 2300361,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230031/Event230036_咲.prefab"
+      },
+      {
+        "ID": 2300362,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230031/Event230036_光.prefab"
+      },
+      {
+        "ID": 2300411,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230041/Event2300411_发光物.prefab"
+      },
+      {
+        "ID": 2300421,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230041/Event2300421_发光物.prefab"
+      },
+      {
+        "ID": 2300431,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230041/Event2300431_发光物.prefab"
+      },
+      {
+        "ID": 2300441,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230041/Event2300441_发光物.prefab"
+      },
+      {
+        "ID": 2300451,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230041/Event2300451_发光物.prefab"
+      },
+      {
+        "ID": 2300461,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230041/Event2300461_发光物.prefab"
+      },
+      {
+        "ID": 2400111,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240011/Event2400111_目的地.prefab"
+      },
+      {
+        "ID": 2400121,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240011/Event2400121_莉.prefab"
+      },
+      {
+        "ID": 2400141,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240011/Event2400141_目的地.prefab"
+      },
+      {
+        "ID": 2400151,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240011/Event2400151_目的地.prefab"
+      },
+      {
+        "ID": 2400161,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240011/Event2400161_目的地.prefab"
+      },
+      {
+        "ID": 2400171,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240011/Event2400171_目的地.prefab"
+      },
+      {
+        "ID": 2400231,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240021/Event2400231_潘恩.prefab"
+      },
+      {
+        "ID": 2400251,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240021/Event2400251_潘恩.prefab"
+      },
+      {
+        "ID": 2400311,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240031/Event2400311_目的地.prefab"
+      },
+      {
+        "ID": 2400321,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240031/Event2400321_目的地.prefab"
+      },
+      {
+        "ID": 2400331,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240031/Event2400331_目的地.prefab"
+      },
+      {
+        "ID": 2400341,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240031/Event2400341_目的地.prefab"
+      },
+      {
+        "ID": 2400351,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240031/Event2400351_目的地.prefab"
+      },
+      {
+        "ID": 2400411,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240041/Event2400411_潘恩.prefab"
+      },
+      {
+        "ID": 2400421,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240041/Event2400421_潘恩.prefab"
+      },
+      {
+        "ID": 2400431,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240041/Event2400431_潘恩.prefab"
+      },
+      {
+        "ID": 2400511,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240051/Event2400511_目的地.prefab"
+      },
+      {
+        "ID": 9101011,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Activity/Halloween_2024_11/Halloween_2024_镜头.prefab"
+      },
+      {
+        "ID": 9101012,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Activity/Halloween_2024_11/Halloween_2024_指引.prefab"
+      },
+      {
+        "ID": 9101111,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Activity/Christmas_2024/Christmas_2024_镜头.prefab"
+      },
+      {
+        "ID": 9101121,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Activity/Christmas_2024/Christmas_2024_门.prefab"
+      },
+      {
+        "ID": 9101211,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Activity/Sakura_2025_04/Sakura_2025_白天.prefab"
+      },
+      {
+        "ID": 9101221,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Activity/Sakura_2025_04/Sakura_2025_夜晚.prefab"
+      },
+      {
+        "ID": 9101311,
+        "QuestAsset": "Assets/ResBundle/QuestAssets/Activity/HuoGuo_2025_05/HuoGuo_2025_05_镜头.prefab"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "NpcQuestInfo": {
+    "Datas": [
+      {
+        "ID": 101,
+        "RefreshTime": 28800,
+        "RefreshCurrency": 102,
+        "RefreshCost": 100,
+        "QuestPoolID": 1,
+        "OpenedDialog": 10101,
+        "NormalDonateDialog": 20101
+      }
+    ]
+  },
+  "NpcQuestPool": {
+    "Datas": [
+      {
+        "ID": 1,
+        "NpcQuestPools": [
+          {
+            "QuestID": 1,
+            "NeedItemID": 3001,
+            "NeedItemMinCount": 1,
+            "NeedItemMaxCount": 3,
+            "AmityAdd": 1,
+            "Weight": 1,
+            "NeedMinLevel": 1,
+            "NeedMaxLevel": 10,
+            "NpcQuestPoolRewardItem": [
+              {
+                "RewardItemID": 101,
+                "RewardItemCount": 200
+              },
+              {
+                "RewardItemID": 101,
+                "RewardItemCount": 1
+              }
+            ]
+          },
+          {
+            "QuestID": 2,
+            "NeedItemID": 3002,
+            "NeedItemMinCount": 1,
+            "NeedItemMaxCount": 3,
+            "AmityAdd": 1,
+            "Weight": 1,
+            "NeedMinLevel": 1,
+            "NeedMaxLevel": 10,
+            "NpcQuestPoolRewardItem": [
+              {
+                "RewardItemID": 101,
+                "RewardItemCount": 300
+              },
+              {
+                "RewardItemID": 101,
+                "RewardItemCount": 2
+              }
+            ]
+          },
+          {
+            "QuestID": 3,
+            "NeedItemID": 3003,
+            "NeedItemMinCount": 1,
+            "NeedItemMaxCount": 3,
+            "AmityAdd": 1,
+            "Weight": 1,
+            "NeedMinLevel": 1,
+            "NeedMaxLevel": 10,
+            "NpcQuestPoolRewardItem": [
+              {
+                "RewardItemID": 101,
+                "RewardItemCount": 400
+              },
+              {
+                "RewardItemID": 101,
+                "RewardItemCount": 3
+              }
+            ]
+          },
+          {
+            "QuestID": 4,
+            "NeedItemID": 3004,
+            "NeedItemMinCount": 1,
+            "NeedItemMaxCount": 3,
+            "AmityAdd": 1,
+            "Weight": 1,
+            "NeedMinLevel": 1,
+            "NeedMaxLevel": 10,
+            "NpcQuestPoolRewardItem": [
+              {
+                "RewardItemID": 101,
+                "RewardItemCount": 500
+              },
+              {
+                "RewardItemID": 101,
+                "RewardItemCount": 1
+              }
+            ]
+          },
+          {
+            "QuestID": 5,
+            "NeedItemID": 3005,
+            "NeedItemMinCount": 1,
+            "NeedItemMaxCount": 3,
+            "AmityAdd": 1,
+            "Weight": 1,
+            "NeedMinLevel": 1,
+            "NeedMaxLevel": 10,
+            "NpcQuestPoolRewardItem": [
+              {
+                "RewardItemID": 101,
+                "RewardItemCount": 600
+              },
+              {
+                "RewardItemID": 101,
+                "RewardItemCount": 2
+              }
+            ]
+          },
+          {
+            "QuestID": 6,
+            "NeedItemID": 3006,
+            "NeedItemMinCount": 1,
+            "NeedItemMaxCount": 3,
+            "AmityAdd": 1,
+            "Weight": 1,
+            "NeedMinLevel": 2,
+            "NeedMaxLevel": 10,
+            "NpcQuestPoolRewardItem": [
+              {
+                "RewardItemID": 101,
+                "RewardItemCount": 700
+              },
+              {
+                "RewardItemID": 101,
+                "RewardItemCount": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

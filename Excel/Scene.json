@@ -1,0 +1,1997 @@
+{
+  "Scene": {
+    "Datas": [
+      {
+        "ID": 100,
+        "ShowIndex": 8,
+        "TextID": 100,
+        "IconID": 100,
+        "SceneName": "Assets/Scenes/SceneGuide/Scene/SceneGuide.unity",
+        "AreaID": 100,
+        "ProgressID": 100,
+        "MinMapID": 100,
+        "NewSceneType": 1
+      },
+      {
+        "ID": 9999,
+        "ShowIndex": 1,
+        "TextID": 9999,
+        "IconID": 9999,
+        "SceneName": "Assets/Scenes/Home/Scene/Home_Day_001_Modify.unity",
+        "ProgressID": 9999,
+        "GatherRuleID": 9999,
+        "GatherLevel": 100,
+        "Para1": 100011,
+        "MinMapID": 9999,
+        "NewSceneUnlockType": 5
+      },
+      {
+        "ID": 1,
+        "ShowIndex": 2,
+        "TextID": 1,
+        "IconID": 1,
+        "SceneName": "Assets/Scenes/SceneBattle001/Scene/白天/SceneBattle001_Day.unity",
+        "AreaID": 1,
+        "ProgressID": 1,
+        "GatherRuleID": 1,
+        "GatherLevel": 101,
+        "Para1": 100021,
+        "SceneMonsterMinLevel": 1,
+        "MinMapID": 1,
+        "NewSceneType": 1,
+        "NewSceneUnlockType": 4
+      },
+      {
+        "ID": 2,
+        "ShowIndex": 3,
+        "TextID": 2,
+        "IconID": 2,
+        "SceneName": "Assets/Scenes/SceneBattle002/Scene/SceneBattle002_1.unity",
+        "AreaID": 2,
+        "ProgressID": 2,
+        "GatherRuleID": 2,
+        "GatherLevel": 101,
+        "Para1": 102021,
+        "SceneMonsterMinLevel": 10,
+        "EncounterMaxDistance": 5,
+        "MinMapID": 2,
+        "NewSceneType": 1,
+        "NewSceneUnlockType": 4
+      },
+      {
+        "ID": 3,
+        "ShowIndex": 4,
+        "TextID": 3,
+        "IconID": 3,
+        "SceneName": "Assets/Scenes/SceneBattle001/Scene/夜晚/SceneBattle001_Night.unity",
+        "AreaID": 3,
+        "ProgressID": 3,
+        "GatherRuleID": 3,
+        "GatherLevel": 101,
+        "Para1": 103012,
+        "SceneMonsterMinLevel": 15,
+        "MinMapID": 3,
+        "NewSceneType": 1,
+        "NewSceneUnlockType": 5
+      },
+      {
+        "ID": 4,
+        "ShowIndex": 5,
+        "TextID": 4,
+        "IconID": 4,
+        "SceneName": "Assets/Scenes/SceneBattle002/Scene/SceneBattle002_2_blue_v2.unity",
+        "AreaID": 4,
+        "ProgressID": 4,
+        "GatherRuleID": 4,
+        "GatherLevel": 101,
+        "Para1": 9001,
+        "ShowPara1": 999,
+        "SceneMonsterMinLevel": 20,
+        "MinMapID": 4,
+        "NewSceneType": 1,
+        "NewSceneUnlockType": 5
+      },
+      {
+        "ID": 5,
+        "ShowIndex": 6,
+        "TextID": 5,
+        "IconID": 5,
+        "SceneName": "Assets/Scenes/SceneBattle003/Scene/SceneBattle003_Day.unity",
+        "AreaID": 5,
+        "ProgressID": 5,
+        "GatherRuleID": 5,
+        "GatherLevel": 101,
+        "Para1": 200121,
+        "SceneMonsterMinLevel": 20,
+        "MinMapID": 5,
+        "NewSceneType": 1,
+        "NewSceneUnlockType": 4
+      },
+      {
+        "ID": 6,
+        "ShowIndex": 7,
+        "TextID": 6,
+        "IconID": 6,
+        "SceneName": "Assets/Scenes/SceneBattle002/Scene/SceneBattle003_V7_night.unity",
+        "AreaID": 6,
+        "ProgressID": 6,
+        "GatherRuleID": 6,
+        "GatherLevel": 101,
+        "Para1": 9001,
+        "ShowPara1": 999,
+        "SceneMonsterMinLevel": 20,
+        "MinMapID": 6,
+        "NewSceneType": 1,
+        "NewSceneUnlockType": 5
+      },
+      {
+        "ID": 1000,
+        "ShowIndex": 100,
+        "TextID": 1000,
+        "IconID": 1000,
+        "SceneName": "Assets/Scenes/SceneLiveStage/Scene/SceneLiveStage_MusicFestival.unity",
+        "Para1": 100094,
+        "ShowPara1": 100094,
+        "NewSceneType": 3,
+        "NewSceneUnlockType": 4,
+        "NewSceneShowType": 4
+      },
+      {
+        "ID": 1001,
+        "ShowIndex": 3,
+        "TextID": 1001,
+        "IconID": 1001,
+        "SceneName": "Assets/Scenes/SceneChristmas/Scene/SceneChristmas.unity",
+        "AreaID": 1001,
+        "ProgressID": 1001,
+        "GatherRuleID": 1001,
+        "GatherLevel": 101,
+        "Para1": 200011,
+        "ShowPara1": 100094,
+        "SceneMonsterMinLevel": 20,
+        "MinMapID": 1001,
+        "NewSceneType": 3,
+        "NewSceneUnlockType": 4,
+        "NewSceneShowType": 4
+      },
+      {
+        "ID": 1002,
+        "ShowIndex": 2,
+        "TextID": 1002,
+        "IconID": 1002,
+        "SceneName": "Assets/Scenes/SceneHotpot/Scene/SceneHotpot.unity",
+        "AreaID": 1002,
+        "ProgressID": 1002,
+        "GatherRuleID": 1002,
+        "GatherLevel": 101,
+        "Para1": 200001,
+        "ShowPara1": 100094,
+        "SceneMonsterMinLevel": 20,
+        "MinMapID": 1002,
+        "NewSceneType": 3,
+        "NewSceneUnlockType": 4,
+        "NewSceneShowType": 4
+      },
+      {
+        "ID": 1003,
+        "ShowIndex": 1,
+        "TextID": 1003,
+        "IconID": 1003,
+        "SceneName": "Assets/Scenes/SceneSchool/Scene/SceneSchool_Tod.unity",
+        "AreaID": 1003,
+        "ProgressID": 1003,
+        "GatherRuleID": 1003,
+        "GatherLevel": 101,
+        "Para1": 200133,
+        "ShowPara1": 100094,
+        "SceneMonsterMinLevel": 20,
+        "MinMapID": 1003,
+        "NewSceneType": 3,
+        "NewSceneUnlockType": 4,
+        "NewSceneShowType": 4
+      },
+      {
+        "ID": 10000,
+        "TextID": 10000,
+        "SceneName": "Assets/Scenes/SceneGameplay/PlayerTry/TestRoom.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10001,
+        "TextID": 10001,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景17/prefab1_17.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10002,
+        "TextID": 10002,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景20/prefab1_20.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10003,
+        "TextID": 10003,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景4/prefab1_4.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10004,
+        "TextID": 10004,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景5/prefab1_5.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10005,
+        "TextID": 10005,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景6/prefab1_6.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10006,
+        "TextID": 10006,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景7/prefab1_7.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10007,
+        "TextID": 10007,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景8/prefab1_8.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10008,
+        "TextID": 10008,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景16/prefab1_16.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10009,
+        "TextID": 10009,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/test1_13/test1_13.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10010,
+        "TextID": 10010,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/test1_15/test1_15.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10011,
+        "TextID": 10011,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/1_5/1_5.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10012,
+        "TextID": 10012,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/K_1_1_test/K_1_1.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10013,
+        "TextID": 10013,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/1_1/1_1.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10014,
+        "TextID": 10014,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景15/prefab1_15.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10015,
+        "TextID": 10015,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/test1_17/test1_17.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10101,
+        "TextID": 10101,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement01_Sakura/Element_Sakura_Thunder.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10102,
+        "TextID": 10102,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement01_Sakura/Element_Sakura_Normal.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10103,
+        "TextID": 10103,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement01_Sakura/Element_Sakura_Fire.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10104,
+        "TextID": 10104,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement01_Sakura/Element_Sakura_Water.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10105,
+        "TextID": 10105,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement01_Sakura/Element_Sakura_Wind.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10106,
+        "TextID": 10106,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement01_Sakura/Element_Sakura_Darkness.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10201,
+        "TextID": 10201,
+        "SceneName": "Assets/Scenes/SceneGameplay/Abyss/SceneAbyss_01.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10202,
+        "TextID": 10202,
+        "SceneName": "Assets/Scenes/SceneGameplay/Abyss/SceneAbyss_02.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10203,
+        "TextID": 10203,
+        "SceneName": "Assets/Scenes/SceneGameplay/Abyss/SceneAbyss_03.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10204,
+        "TextID": 10204,
+        "SceneName": "Assets/Scenes/SceneGameplay/Abyss/SceneAbyss_04.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 10301,
+        "TextID": 10301,
+        "SceneName": "Assets/Scenes/SceneGameplay/ResourceIsland/Scene/ResourceIsland_01_Sakura_Day/ResourceIsland_01_Sakura_Day.unity",
+        "GatherRuleID": 10301,
+        "InfiniteTempBackpack": true,
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20001,
+        "TextID": 20001,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/2_1/2_1.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20002,
+        "TextID": 20002,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/2_2/2_2.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20003,
+        "TextID": 20003,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/2_3/2_3.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20004,
+        "TextID": 20004,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/2_4/2_4.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20005,
+        "TextID": 20005,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/2_5/2_5.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20006,
+        "TextID": 20006,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/K_2_1_test/K_2_1_test.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20007,
+        "TextID": 20007,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/K_2_2_test/K_2_2_test.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20008,
+        "TextID": 20008,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/K_2_3_test/K_2_3_test.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20009,
+        "TextID": 20009,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/K_2_4_test/K_2_4_test.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20010,
+        "TextID": 20010,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/K_2_5_test/K_2_5_test.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20011,
+        "TextID": 20011,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/K_2_6_test/K_2_6_test.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20012,
+        "TextID": 20012,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/K_2_7_test/K_2_7_test.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20013,
+        "TextID": 20013,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/K_2_9_test/K_2_9_test.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20014,
+        "TextID": 20014,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/K_2_10_test/K_2_10_test.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20015,
+        "TextID": 20015,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test2_6/test2_6.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20016,
+        "TextID": 20016,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test2_7/test2_7.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20017,
+        "TextID": 20017,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test2_8/test2_8.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20018,
+        "TextID": 20018,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test2_9/test2_9.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20019,
+        "TextID": 20019,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/预制场景3/prefab2_3.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20020,
+        "TextID": 20020,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/预制场景4/prefab2_4.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20101,
+        "TextID": 20101,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement02_Clock/Element_Clock_Fire.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20102,
+        "TextID": 20102,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement02_Clock/Element_Clock_Water.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20103,
+        "TextID": 20103,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement02_Clock/Element_Clock_Wind.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20104,
+        "TextID": 20104,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement02_Clock/Element_Clock_Light.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20105,
+        "TextID": 20105,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement02_Clock/Element_Clock_Darkness.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20106,
+        "TextID": 20106,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement02_Clock/Element_Clock_Normal.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20107,
+        "TextID": 20107,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement02_Clock/Element_Clock_Thunder.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 20301,
+        "TextID": 20301,
+        "SceneName": "Assets/Scenes/SceneGameplay/ResourceIsland/Scene/ResourceIsland_02_Clock/ResourceIsland_02_Clock.unity",
+        "GatherRuleID": 20301,
+        "InfiniteTempBackpack": true,
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30001,
+        "TextID": 30001,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/1_4/1_4.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30002,
+        "TextID": 30002,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景1/prefab1_1.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30003,
+        "TextID": 30003,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景2/prefab1_2.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30004,
+        "TextID": 30004,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景3/prefab1_3.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30005,
+        "TextID": 30005,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景10/prefab1_10.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30006,
+        "TextID": 30006,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景11/prefab1_11.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30007,
+        "TextID": 30007,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景18/prefab1_18.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30008,
+        "TextID": 30008,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/预制场景19/prefab1_19.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30009,
+        "TextID": 30009,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/K_1_3_test/K_1_3_test.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30010,
+        "TextID": 30010,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/test1_16/test1_16.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30011,
+        "TextID": 30011,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/K_1_4_test/K_1_4_test.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30012,
+        "TextID": 30012,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/test1_9/test1_9.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30013,
+        "TextID": 30013,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/test1_10/test1_10.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30014,
+        "TextID": 30014,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/test1_22/test1_22.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30015,
+        "TextID": 30015,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter1/test1_21/test1_21.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30101,
+        "TextID": 30101,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement01_Sakura/Element_Sakura_冲击模拟.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30102,
+        "TextID": 30102,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement01_Sakura/Element_Sakura_重力模拟.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30103,
+        "TextID": 30103,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement01_Sakura/Element_Sakura_震动模拟.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 30301,
+        "TextID": 30301,
+        "SceneName": "Assets/Scenes/SceneGameplay/ResourceIsland/Scene/ResourceIsland_01_Sakura_Night/ResourceIsland_01_Sakura_Night.unity",
+        "GatherRuleID": 30301,
+        "InfiniteTempBackpack": true,
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40001,
+        "TextID": 40001,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test2_10/test2_10.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40002,
+        "TextID": 40002,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test2_11/test2_11.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40003,
+        "TextID": 40003,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test2_12/test2_12.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40004,
+        "TextID": 40004,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test2_14/test2_14.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40005,
+        "TextID": 40005,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test3_3/test3_3.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40006,
+        "TextID": 40006,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test3_13/test3_13.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40007,
+        "TextID": 40007,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test3_11/test3_11.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40008,
+        "TextID": 40008,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/预制场景6/prefab2_6.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40009,
+        "TextID": 40009,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/预制场景7/prefab2_7.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40010,
+        "TextID": 40010,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/预制场景5/prefab2_5.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40011,
+        "TextID": 40011,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/预制场景12/prefab2_12.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40012,
+        "TextID": 40012,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/预制场景15/prefab2_15.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40013,
+        "TextID": 40013,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test3_15/test3_15.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40014,
+        "TextID": 40014,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test3_5/test3_5.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40015,
+        "TextID": 40015,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test3_8/test3_8.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40016,
+        "TextID": 40016,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/test3_4/test3_4.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40017,
+        "TextID": 40017,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/K_2_11_test/K_2_11_test.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40018,
+        "TextID": 40018,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/预制场景11/prefab2_11.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40019,
+        "TextID": 40019,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/预制场景14/prefab2_14.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40020,
+        "TextID": 40020,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter2/K_2_13_test/K_2_13_test.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50001,
+        "TextID": 50001,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_1/3_1.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50002,
+        "TextID": 50002,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_2/3_2.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50003,
+        "TextID": 50003,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_3/3_3.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50004,
+        "TextID": 50004,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_4/3_4.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50005,
+        "TextID": 50005,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_5/3_5.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50006,
+        "TextID": 50006,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_8/3_8.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50007,
+        "TextID": 50007,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_10/3_10.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50008,
+        "TextID": 50008,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_11/3_11.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50009,
+        "TextID": 50009,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_12/3_12.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50010,
+        "TextID": 50010,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_13/3_13.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50011,
+        "TextID": 50011,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_14/3_14.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50012,
+        "TextID": 50012,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_15/3_15.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50013,
+        "TextID": 50013,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_17/3_17.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50014,
+        "TextID": 50014,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_19/3_19.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50015,
+        "TextID": 50015,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter3/3_21/3_21.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 510001,
+        "TextID": 510001,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_圣诞/圣诞_1/圣诞_1.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 510002,
+        "TextID": 510002,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_圣诞/圣诞_2/圣诞_2.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 510003,
+        "TextID": 510003,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_圣诞/圣诞_3/圣诞_3.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 510004,
+        "TextID": 510004,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_圣诞/圣诞_4/圣诞_4.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 510005,
+        "TextID": 510005,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_圣诞/圣诞_5/圣诞_5.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 520001,
+        "TextID": 520001,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_火锅/火锅_1/火锅_1.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 520002,
+        "TextID": 520002,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_火锅/火锅_2/火锅_2.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 520003,
+        "TextID": 520003,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_火锅/火锅_3/火锅_3.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 520004,
+        "TextID": 520004,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_火锅/火锅_4/火锅_4.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 520005,
+        "TextID": 520005,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_火锅/火锅_5/火锅_5.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 520006,
+        "TextID": 520006,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_火锅/火锅_6/火锅_6.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 520007,
+        "TextID": 520007,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_火锅/火锅_7/火锅_7.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 520008,
+        "TextID": 520008,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_火锅/火锅_8/火锅_8.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 520009,
+        "TextID": 520009,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_火锅/火锅_9/火锅_9.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 520010,
+        "TextID": 520010,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_火锅/火锅_10/火锅_10.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 530001,
+        "TextID": 530001,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_学校/学校_1/学校_1.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 530002,
+        "TextID": 530002,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_学校/学校_2/学校_2.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 530003,
+        "TextID": 530003,
+        "SceneName": "Assets/Scenes/SceneGameplay/Chapter_学校/学校_3/学校_3.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 520101,
+        "TextID": 520101,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement_Dlc_Hotpot/SceneElement_Dlc_Hotpot.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 40301,
+        "TextID": 40301,
+        "SceneName": "Assets/Scenes/SceneGameplay/ResourceIsland/Scene/ResourceIsland_02_Clock_blue/ResourceIsland_02_Clock_Blue.unity",
+        "GatherRuleID": 40301,
+        "InfiniteTempBackpack": true,
+        "NewSceneType": 2
+      },
+      {
+        "ID": 50301,
+        "TextID": 50301,
+        "SceneName": "Assets/Scenes/SceneGameplay/ResourceIsland/Scene/ResourceIsland_03_Cake_Day/ResourceIsland_03_Cake_Day.unity",
+        "GatherRuleID": 50301,
+        "InfiniteTempBackpack": true,
+        "NewSceneType": 2
+      },
+      {
+        "ID": 60301,
+        "TextID": 60301,
+        "SceneName": "Assets/Scenes/SceneGameplay/ResourceIsland/Scene/ResourceIsland_03_Cake_Night/ResourceIsland_03_Cake_Night.unity",
+        "GatherRuleID": 60301,
+        "InfiniteTempBackpack": true,
+        "NewSceneType": 2
+      },
+      {
+        "ID": 100101,
+        "TextID": 100101,
+        "SceneName": "Assets/Scenes/SceneGameplay/EventInstance/菇菇联动副本/BattleScene_gugu.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 100102,
+        "TextID": 100102,
+        "SceneName": "Assets/Scenes/SceneGameplay/EventInstance/万圣节副本/BattleScene_Halloween.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 100103,
+        "TextID": 100103,
+        "SceneName": "Assets/Scenes/SceneGameplay/EventInstance/樱花祭副本/BattleScene_Sakura_Day.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 100104,
+        "TextID": 100104,
+        "SceneName": "Assets/Scenes/SceneGameplay/EventInstance/樱花祭副本/GatheringScene_Sakura_Night.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 100105,
+        "TextID": 100105,
+        "SceneName": "Assets/Scenes/SceneGameplay/EventInstance/火锅副本/BattleScene_Hotpot.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 100201,
+        "TextID": 100201,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement01_Sakura/Element_Sakura_Light.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 100202,
+        "TextID": 100202,
+        "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement02_Clock/Element_Clock_Light.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 100203,
+        "TextID": 100203,
+        "SceneName": "Assets/Scenes/SceneGameplay/PlayerTry/TestRoom.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 100301,
+        "TextID": 100301,
+        "SceneName": "Assets/Scenes/SceneGameplay/BossRush/SceneGameplay_BossRush.unity",
+        "NewSceneType": 2
+      },
+      {
+        "ID": 100302,
+        "TextID": 100301,
+        "SceneName": "Assets/Scenes/SceneGameplay/BossRush/SceneGameplay_BossRush_Sakura.unity",
+        "NewSceneType": 2
+      }
+    ]
+  },
+  "SceneProgress": {
+    "Datas": [
+      {
+        "ID": 9999,
+        "SceneProgressInfo": [
+          {
+            "NewProgressType": 1,
+            "Total": 6
+          },
+          {
+            "NewProgressType": 6,
+            "Total": 5
+          },
+          {
+            "NewProgressType": 7,
+            "Total": 10
+          },
+          {
+            "NewProgressType": 8,
+            "Total": 6
+          },
+          {
+            "NewProgressType": 5,
+            "Total": 10
+          }
+        ]
+      },
+      {
+        "ID": 100,
+        "SceneProgressInfo": [
+          {
+            "NewProgressType": 1,
+            "Total": 3
+          },
+          {
+            "NewProgressType": 6,
+            "Total": 3
+          },
+          {
+            "NewProgressType": 12,
+            "Total": 1
+          },
+          {
+            "NewProgressType": 3,
+            "Total": 2
+          }
+        ]
+      },
+      {
+        "ID": 1,
+        "SceneProgressInfo": [
+          {
+            "NewProgressType": 12,
+            "Total": 8
+          },
+          {
+            "Total": 4
+          },
+          {
+            "NewProgressType": 6,
+            "Total": 17
+          },
+          {
+            "NewProgressType": 1,
+            "Total": 32
+          },
+          {
+            "NewProgressType": 7,
+            "Total": 16
+          },
+          {
+            "NewProgressType": 8,
+            "Total": 30
+          },
+          {
+            "NewProgressType": 9,
+            "Total": 16
+          },
+          {
+            "NewProgressType": 5,
+            "Total": 24
+          },
+          {
+            "NewProgressType": 4,
+            "Total": 16
+          },
+          {
+            "NewProgressType": 3,
+            "Total": 266
+          },
+          {
+            "NewProgressType": 14,
+            "Total": 12
+          },
+          {
+            "NewProgressType": 15,
+            "Total": 15
+          },
+          {
+            "NewProgressType": 13
+          },
+          {
+            "NewProgressType": 2
+          },
+          {
+            "NewProgressType": 11
+          },
+          {
+            "NewProgressType": 10
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "SceneProgressInfo": [
+          {
+            "NewProgressType": 12,
+            "Total": 16
+          },
+          {
+            "Total": 8
+          },
+          {
+            "NewProgressType": 6,
+            "Total": 40
+          },
+          {
+            "NewProgressType": 1,
+            "Total": 70
+          },
+          {
+            "NewProgressType": 7,
+            "Total": 32
+          },
+          {
+            "NewProgressType": 8,
+            "Total": 40
+          },
+          {
+            "NewProgressType": 9,
+            "Total": 24
+          },
+          {
+            "NewProgressType": 5,
+            "Total": 60
+          },
+          {
+            "NewProgressType": 4,
+            "Total": 32
+          },
+          {
+            "NewProgressType": 3,
+            "Total": 571
+          },
+          {
+            "NewProgressType": 14,
+            "Total": 20
+          },
+          {
+            "NewProgressType": 15,
+            "Total": 22
+          },
+          {
+            "NewProgressType": 13
+          },
+          {
+            "NewProgressType": 2
+          },
+          {
+            "NewProgressType": 11
+          },
+          {
+            "NewProgressType": 10
+          }
+        ]
+      },
+      {
+        "ID": 3,
+        "SceneProgressInfo": [
+          {
+            "NewProgressType": 12,
+            "Total": 8
+          },
+          {
+            "Total": 4
+          },
+          {
+            "NewProgressType": 6,
+            "Total": 17
+          },
+          {
+            "NewProgressType": 1,
+            "Total": 43
+          },
+          {
+            "NewProgressType": 7,
+            "Total": 16
+          },
+          {
+            "NewProgressType": 8,
+            "Total": 32
+          },
+          {
+            "NewProgressType": 9,
+            "Total": 16
+          },
+          {
+            "NewProgressType": 5,
+            "Total": 25
+          },
+          {
+            "NewProgressType": 4,
+            "Total": 16
+          },
+          {
+            "NewProgressType": 3,
+            "Total": 264
+          },
+          {
+            "NewProgressType": 14,
+            "Total": 12
+          },
+          {
+            "NewProgressType": 15,
+            "Total": 15
+          },
+          {
+            "NewProgressType": 13
+          },
+          {
+            "NewProgressType": 2
+          },
+          {
+            "NewProgressType": 11
+          },
+          {
+            "NewProgressType": 10
+          }
+        ]
+      },
+      {
+        "ID": 4,
+        "SceneProgressInfo": [
+          {
+            "NewProgressType": 12,
+            "Total": 16
+          },
+          {
+            "Total": 8
+          },
+          {
+            "NewProgressType": 6,
+            "Total": 40
+          },
+          {
+            "NewProgressType": 1,
+            "Total": 70
+          },
+          {
+            "NewProgressType": 7,
+            "Total": 60
+          },
+          {
+            "NewProgressType": 8,
+            "Total": 40
+          },
+          {
+            "NewProgressType": 9,
+            "Total": 19
+          },
+          {
+            "NewProgressType": 5,
+            "Total": 60
+          },
+          {
+            "NewProgressType": 4
+          },
+          {
+            "NewProgressType": 3,
+            "Total": 432
+          },
+          {
+            "NewProgressType": 14,
+            "Total": 15
+          },
+          {
+            "NewProgressType": 15,
+            "Total": 18
+          },
+          {
+            "NewProgressType": 13
+          },
+          {
+            "NewProgressType": 2
+          },
+          {
+            "NewProgressType": 11
+          },
+          {
+            "NewProgressType": 10
+          }
+        ]
+      },
+      {
+        "ID": 5,
+        "SceneProgressInfo": [
+          {
+            "NewProgressType": 12,
+            "Total": 12
+          },
+          {
+            "Total": 6
+          },
+          {
+            "NewProgressType": 6,
+            "Total": 26
+          },
+          {
+            "NewProgressType": 1,
+            "Total": 40
+          },
+          {
+            "NewProgressType": 7,
+            "Total": 24
+          },
+          {
+            "NewProgressType": 8,
+            "Total": 26
+          },
+          {
+            "NewProgressType": 9,
+            "Total": 20
+          },
+          {
+            "NewProgressType": 5,
+            "Total": 30
+          },
+          {
+            "NewProgressType": 4,
+            "Total": 24
+          },
+          {
+            "NewProgressType": 3,
+            "Total": 277
+          },
+          {
+            "NewProgressType": 14,
+            "Total": 28
+          },
+          {
+            "NewProgressType": 15,
+            "Total": 12
+          },
+          {
+            "NewProgressType": 13
+          },
+          {
+            "NewProgressType": 2
+          },
+          {
+            "NewProgressType": 11
+          },
+          {
+            "NewProgressType": 10
+          }
+        ]
+      },
+      {
+        "ID": 6,
+        "SceneProgressInfo": [
+          {
+            "NewProgressType": 12
+          },
+          {},
+          {
+            "NewProgressType": 6
+          },
+          {
+            "NewProgressType": 1
+          },
+          {
+            "NewProgressType": 7
+          },
+          {
+            "NewProgressType": 8
+          },
+          {
+            "NewProgressType": 9
+          },
+          {
+            "NewProgressType": 5
+          },
+          {
+            "NewProgressType": 4
+          },
+          {
+            "NewProgressType": 3
+          },
+          {
+            "NewProgressType": 14
+          },
+          {
+            "NewProgressType": 15
+          },
+          {
+            "NewProgressType": 13
+          },
+          {
+            "NewProgressType": 2
+          },
+          {
+            "NewProgressType": 11
+          },
+          {
+            "NewProgressType": 10
+          }
+        ]
+      },
+      {
+        "ID": 1001,
+        "SceneProgressInfo": [
+          {
+            "NewProgressType": 12,
+            "Total": 4
+          },
+          {
+            "Total": 3
+          },
+          {
+            "NewProgressType": 6,
+            "Total": 12
+          },
+          {
+            "NewProgressType": 1,
+            "Total": 12
+          },
+          {
+            "NewProgressType": 7,
+            "Total": 12
+          },
+          {
+            "NewProgressType": 8,
+            "Total": 7
+          },
+          {
+            "NewProgressType": 9,
+            "Total": 6
+          },
+          {
+            "NewProgressType": 5,
+            "Total": 7
+          },
+          {
+            "NewProgressType": 4,
+            "Total": 12
+          },
+          {
+            "NewProgressType": 3,
+            "Total": 144
+          },
+          {
+            "NewProgressType": 14,
+            "Total": 4
+          },
+          {
+            "NewProgressType": 15,
+            "Total": 6
+          },
+          {
+            "NewProgressType": 13
+          },
+          {
+            "NewProgressType": 2
+          },
+          {
+            "NewProgressType": 11
+          },
+          {
+            "NewProgressType": 10
+          }
+        ]
+      },
+      {
+        "ID": 1002,
+        "SceneProgressInfo": [
+          {
+            "NewProgressType": 12,
+            "Total": 6
+          },
+          {
+            "Total": 6
+          },
+          {
+            "NewProgressType": 6,
+            "Total": 30
+          },
+          {
+            "NewProgressType": 1,
+            "Total": 20
+          },
+          {
+            "NewProgressType": 7,
+            "Total": 24
+          },
+          {
+            "NewProgressType": 8,
+            "Total": 18
+          },
+          {
+            "NewProgressType": 9,
+            "Total": 18
+          },
+          {
+            "NewProgressType": 5,
+            "Total": 28
+          },
+          {
+            "NewProgressType": 4,
+            "Total": 24
+          },
+          {
+            "NewProgressType": 3,
+            "Total": 510
+          },
+          {
+            "NewProgressType": 14,
+            "Total": 15
+          },
+          {
+            "NewProgressType": 15,
+            "Total": 12
+          },
+          {
+            "NewProgressType": 13
+          },
+          {
+            "NewProgressType": 2
+          },
+          {
+            "NewProgressType": 11
+          },
+          {
+            "NewProgressType": 10
+          }
+        ]
+      },
+      {
+        "ID": 1003,
+        "SceneProgressInfo": [
+          {
+            "NewProgressType": 12,
+            "Total": 2
+          },
+          {},
+          {
+            "NewProgressType": 6,
+            "Total": 1
+          },
+          {
+            "NewProgressType": 1
+          },
+          {
+            "NewProgressType": 7
+          },
+          {
+            "NewProgressType": 8,
+            "Total": 19
+          },
+          {
+            "NewProgressType": 9,
+            "Total": 3
+          },
+          {
+            "NewProgressType": 5
+          },
+          {
+            "NewProgressType": 4
+          },
+          {
+            "NewProgressType": 3
+          },
+          {
+            "NewProgressType": 14,
+            "Total": 1
+          },
+          {
+            "NewProgressType": 15
+          },
+          {
+            "NewProgressType": 13
+          },
+          {
+            "NewProgressType": 2
+          },
+          {
+            "NewProgressType": 11
+          },
+          {
+            "NewProgressType": 10
+          }
+        ]
+      }
+    ]
+  },
+  "GatherNumber": {
+    "Datas": [
+      {
+        "ID": 1,
+        "WoodNum": 100,
+        "FlowerNum": 100,
+        "StoneNum": 100,
+        "ButterflyNum": 100,
+        "WaterNum": 100,
+        "PickNum": 100,
+        "LuckyFinishwoodNum": 100,
+        "LuckyFinishflowerNum": 100,
+        "LuckyFinishstoneNum": 100,
+        "LuckyFinishbutterflyNum": 100,
+        "LuckyFinishwaterNum": 100,
+        "LuckyFinishpickNum": 100
+      },
+      {
+        "ID": 2,
+        "WoodNum": 100,
+        "FlowerNum": 100,
+        "StoneNum": 100,
+        "ButterflyNum": 100,
+        "WaterNum": 100,
+        "PickNum": 100,
+        "LuckyFinishwoodNum": 100,
+        "LuckyFinishflowerNum": 100,
+        "LuckyFinishstoneNum": 100,
+        "LuckyFinishbutterflyNum": 100,
+        "LuckyFinishwaterNum": 100,
+        "LuckyFinishpickNum": 100
+      },
+      {
+        "ID": 3,
+        "WoodNum": 100,
+        "FlowerNum": 100,
+        "StoneNum": 100,
+        "ButterflyNum": 100,
+        "WaterNum": 100,
+        "PickNum": 100,
+        "LuckyFinishwoodNum": 100,
+        "LuckyFinishflowerNum": 100,
+        "LuckyFinishstoneNum": 100,
+        "LuckyFinishbutterflyNum": 100,
+        "LuckyFinishwaterNum": 100,
+        "LuckyFinishpickNum": 100
+      },
+      {
+        "ID": 4,
+        "WoodNum": 100,
+        "FlowerNum": 100,
+        "StoneNum": 100,
+        "ButterflyNum": 100,
+        "WaterNum": 100,
+        "PickNum": 100,
+        "LuckyFinishwoodNum": 100,
+        "LuckyFinishflowerNum": 100,
+        "LuckyFinishstoneNum": 100,
+        "LuckyFinishbutterflyNum": 100,
+        "LuckyFinishwaterNum": 100,
+        "LuckyFinishpickNum": 100
+      },
+      {
+        "ID": 5,
+        "WoodNum": 100,
+        "FlowerNum": 100,
+        "StoneNum": 100,
+        "ButterflyNum": 100,
+        "WaterNum": 100,
+        "PickNum": 100,
+        "LuckyFinishwoodNum": 100,
+        "LuckyFinishflowerNum": 100,
+        "LuckyFinishstoneNum": 100,
+        "LuckyFinishbutterflyNum": 100,
+        "LuckyFinishwaterNum": 100,
+        "LuckyFinishpickNum": 100
+      },
+      {
+        "ID": 6,
+        "WoodNum": 100,
+        "FlowerNum": 100,
+        "StoneNum": 100,
+        "ButterflyNum": 100,
+        "WaterNum": 100,
+        "PickNum": 100,
+        "LuckyFinishwoodNum": 100,
+        "LuckyFinishflowerNum": 100,
+        "LuckyFinishstoneNum": 100,
+        "LuckyFinishbutterflyNum": 100,
+        "LuckyFinishwaterNum": 100,
+        "LuckyFinishpickNum": 100
+      },
+      {
+        "ID": 1001,
+        "WoodNum": 100,
+        "FlowerNum": 100,
+        "StoneNum": 100,
+        "ButterflyNum": 100,
+        "WaterNum": 100,
+        "PickNum": 100,
+        "LuckyFinishwoodNum": 100,
+        "LuckyFinishflowerNum": 100,
+        "LuckyFinishstoneNum": 100,
+        "LuckyFinishbutterflyNum": 100,
+        "LuckyFinishwaterNum": 100,
+        "LuckyFinishpickNum": 100
+      },
+      {
+        "ID": 1002,
+        "WoodNum": 100,
+        "FlowerNum": 100,
+        "StoneNum": 100,
+        "ButterflyNum": 100,
+        "WaterNum": 100,
+        "PickNum": 100,
+        "LuckyFinishwoodNum": 100,
+        "LuckyFinishflowerNum": 100,
+        "LuckyFinishstoneNum": 100,
+        "LuckyFinishbutterflyNum": 100,
+        "LuckyFinishwaterNum": 100,
+        "LuckyFinishpickNum": 100
+      },
+      {
+        "ID": 1003,
+        "WoodNum": 100,
+        "FlowerNum": 100,
+        "StoneNum": 100,
+        "ButterflyNum": 100,
+        "WaterNum": 100,
+        "PickNum": 100,
+        "LuckyFinishwoodNum": 100,
+        "LuckyFinishflowerNum": 100,
+        "LuckyFinishstoneNum": 100,
+        "LuckyFinishbutterflyNum": 100,
+        "LuckyFinishwaterNum": 100,
+        "LuckyFinishpickNum": 100
+      },
+      {
+        "ID": 9999,
+        "WoodNum": 100,
+        "FlowerNum": 100,
+        "StoneNum": 100,
+        "ButterflyNum": 100,
+        "WaterNum": 100,
+        "PickNum": 100,
+        "LuckyFinishwoodNum": 100,
+        "LuckyFinishflowerNum": 100,
+        "LuckyFinishstoneNum": 100,
+        "LuckyFinishbutterflyNum": 100,
+        "LuckyFinishwaterNum": 100,
+        "LuckyFinishpickNum": 100
+      },
+      {
+        "ID": 10301,
+        "WoodNum": 200,
+        "FlowerNum": 200,
+        "StoneNum": 200,
+        "ButterflyNum": 200,
+        "WaterNum": 200,
+        "PickNum": 200
+      },
+      {
+        "ID": 20301,
+        "WoodNum": 200,
+        "FlowerNum": 200,
+        "StoneNum": 200,
+        "ButterflyNum": 200,
+        "WaterNum": 200,
+        "PickNum": 200
+      },
+      {
+        "ID": 30301,
+        "WoodNum": 200,
+        "FlowerNum": 200,
+        "StoneNum": 200,
+        "ButterflyNum": 200,
+        "WaterNum": 200,
+        "PickNum": 200
+      },
+      {
+        "ID": 40301,
+        "WoodNum": 200,
+        "FlowerNum": 200,
+        "StoneNum": 200,
+        "ButterflyNum": 200,
+        "WaterNum": 200,
+        "PickNum": 200
+      },
+      {
+        "ID": 50301,
+        "WoodNum": 200,
+        "FlowerNum": 200,
+        "StoneNum": 200,
+        "ButterflyNum": 200,
+        "WaterNum": 200,
+        "PickNum": 200
+      },
+      {
+        "ID": 60301,
+        "WoodNum": 200,
+        "FlowerNum": 200,
+        "StoneNum": 200,
+        "ButterflyNum": 200,
+        "WaterNum": 200,
+        "PickNum": 200
+      }
+    ]
+  },
+  "SceneTheme": {
+    "Datas": [
+      {
+        "ID": 1,
+        "AssetPath": "Assets/Scenes/HomeStage/默认舞台/---------------------舞台.prefab"
+      },
+      {
+        "ID": 2,
+        "AssetPath": "Assets/Scenes/HomeStage/万圣节/---------------------万圣节舞台.prefab",
+        "OpeningTime": "2025-10-23 00:00:00",
+        "ClosingTime": "2025-11-10 23:59:59"
+      },
+      {
+        "ID": 3,
+        "AssetPath": "Assets/Scenes/HomeStage/圣诞节/---------------------圣诞节舞台.prefab"
+      },
+      {
+        "ID": 4,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第0天.prefab",
+        "OpeningTime": "2025-04-04 05:00:00",
+        "ClosingTime": "2025-04-04 23:59:59"
+      },
+      {
+        "ID": 5,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第1天.prefab",
+        "OpeningTime": "2025-04-05 00:00:00",
+        "ClosingTime": "2025-04-05 23:59:59"
+      },
+      {
+        "ID": 6,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第2天.prefab",
+        "OpeningTime": "2025-04-06 00:00:00",
+        "ClosingTime": "2025-04-06 23:59:59"
+      },
+      {
+        "ID": 7,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第3天.prefab",
+        "OpeningTime": "2025-04-07 00:00:00",
+        "ClosingTime": "2025-04-07 23:59:59"
+      },
+      {
+        "ID": 8,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第4天.prefab",
+        "OpeningTime": "2025-04-08 00:00:00",
+        "ClosingTime": "2025-04-08 23:59:59"
+      },
+      {
+        "ID": 9,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第5天.prefab",
+        "OpeningTime": "2025-04-09 00:00:00",
+        "ClosingTime": "2025-04-09 23:59:59"
+      },
+      {
+        "ID": 10,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第6天.prefab",
+        "OpeningTime": "2025-04-10 00:00:00",
+        "ClosingTime": "2025-04-10 23:59:59"
+      },
+      {
+        "ID": 11,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台.prefab",
+        "OpeningTime": "2025-04-11 00:00:00",
+        "ClosingTime": "2025-04-18 23:59:59"
+      },
+      {
+        "ID": 12,
+        "AssetPath": "Assets/Scenes/HomeStage/火锅/---------------------火锅舞台.prefab",
+        "OpeningTime": "2025-04-29 05:00:00",
+        "ClosingTime": "2025-05-13 05:00:00"
+      },
+      {
+        "ID": 13,
+        "AssetPath": "Assets/Scenes/HomeStage/圣诞节/---------------------圣诞节舞台.prefab",
+        "OpeningTime": "2025-05-16 05:00:00",
+        "ClosingTime": "2025-05-29 23:59:59"
+      },
+      {
+        "ID": 14,
+        "AssetPath": "Assets/Scenes/HomeStage/摩天轮/---------------------摩天轮舞台_第1天.prefab",
+        "OpeningTime": "2025-06-20 12:00:00",
+        "ClosingTime": "2025-06-21 05:00:00"
+      },
+      {
+        "ID": 15,
+        "AssetPath": "Assets/Scenes/HomeStage/摩天轮/---------------------摩天轮舞台_第2天.prefab",
+        "OpeningTime": "2025-06-21 05:00:00",
+        "ClosingTime": "2025-06-22 05:00:00"
+      },
+      {
+        "ID": 16,
+        "AssetPath": "Assets/Scenes/HomeStage/摩天轮/---------------------摩天轮舞台_第3-6天.prefab",
+        "OpeningTime": "2025-06-22 05:00:00",
+        "ClosingTime": "2025-06-27 05:00:00"
+      },
+      {
+        "ID": 17,
+        "AssetPath": "Assets/Scenes/HomeStage/摩天轮/---------------------摩天轮舞台_第7天.prefab",
+        "OpeningTime": "2025-06-27 05:00:00",
+        "ClosingTime": "2025-06-28 05:00:00"
+      },
+      {
+        "ID": 18,
+        "AssetPath": "Assets/Scenes/HomeStage/摩天轮/---------------------摩天轮舞台_第8天.prefab",
+        "OpeningTime": "2025-06-28 05:00:00",
+        "ClosingTime": "2025-06-29 05:00:00"
+      },
+      {
+        "ID": 19,
+        "AssetPath": "Assets/Scenes/HomeStage/摩天轮/---------------------摩天轮舞台_第9天.prefab",
+        "OpeningTime": "2025-06-29 05:00:00",
+        "ClosingTime": "2025-06-29 23:59:59"
+      },
+      {
+        "ID": 20,
+        "AssetPath": "Assets/Scenes/HomeStage/蛋糕/---------------------蛋糕舞台.prefab",
+        "OpeningTime": "2025-07-11 05:00:00",
+        "ClosingTime": "2025-08-14 23:59:59"
+      },
+      {
+        "ID": 21,
+        "AssetPath": "Assets/Scenes/HomeStage/乐队招募/---------------------乐队招募舞台.prefab",
+        "OpeningTime": "2025-08-15 05:00:00",
+        "ClosingTime": "2025-09-25 23:59:59"
+      },
+      {
+        "ID": 22,
+        "AssetPath": "Assets/Scenes/HomeStage/半周年庆/---------------------半周年庆舞台.prefab",
+        "OpeningTime": "2025-09-26 05:00:00",
+        "ClosingTime": "2025-10-25 23:59:59"
+      }
+    ]
+  }
+}

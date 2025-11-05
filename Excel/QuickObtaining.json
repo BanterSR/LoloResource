@@ -1,0 +1,702 @@
+{
+  "QuickObtaining": {
+    "Datas": [
+      {
+        "ID": 101,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 360,
+            "NeedVitality": 3,
+            "NeedSpecialcurrency": 3
+          },
+          {
+            "PlayerLevel": 10,
+            "Num": 432,
+            "NeedVitality": 3,
+            "NeedSpecialcurrency": 3
+          },
+          {
+            "PlayerLevel": 15,
+            "Num": 501,
+            "NeedVitality": 3,
+            "NeedSpecialcurrency": 4
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 570,
+            "NeedVitality": 3,
+            "NeedSpecialcurrency": 4
+          },
+          {
+            "PlayerLevel": 25,
+            "Num": 642,
+            "NeedVitality": 3,
+            "NeedSpecialcurrency": 5
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 720,
+            "NeedVitality": 3,
+            "NeedSpecialcurrency": 6
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 801,
+            "NeedVitality": 3,
+            "NeedSpecialcurrency": 6
+          }
+        ]
+      },
+      {
+        "ID": 190,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 1,
+            "NeedSpecialcurrency": 1
+          },
+          {
+            "PlayerLevel": 10,
+            "Num": 2,
+            "NeedVitality": 1,
+            "NeedSpecialcurrency": 1
+          },
+          {
+            "PlayerLevel": 15,
+            "Num": 3,
+            "NeedVitality": 1,
+            "NeedSpecialcurrency": 1
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 4,
+            "NeedVitality": 1,
+            "NeedSpecialcurrency": 2
+          },
+          {
+            "PlayerLevel": 25,
+            "Num": 5,
+            "NeedVitality": 1,
+            "NeedSpecialcurrency": 2
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 6,
+            "NeedVitality": 1,
+            "NeedSpecialcurrency": 2
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 9,
+            "NeedVitality": 1,
+            "NeedSpecialcurrency": 3
+          }
+        ]
+      },
+      {
+        "ID": 1000,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 8,
+            "NeedSpecialcurrency": 10
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 4,
+            "NeedSpecialcurrency": 10
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 2,
+            "NeedSpecialcurrency": 10
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 1,
+            "NeedSpecialcurrency": 10
+          }
+        ]
+      },
+      {
+        "ID": 1001,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 24,
+            "NeedSpecialcurrency": 30
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 10,
+            "NeedSpecialcurrency": 30
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 6,
+            "NeedSpecialcurrency": 30
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 5,
+            "NeedSpecialcurrency": 30
+          }
+        ]
+      },
+      {
+        "ID": 1002,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 72,
+            "NeedSpecialcurrency": 90
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 31,
+            "NeedSpecialcurrency": 90
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 18,
+            "NeedSpecialcurrency": 90
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 15,
+            "NeedSpecialcurrency": 90
+          }
+        ]
+      },
+      {
+        "ID": 1003,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 216,
+            "NeedSpecialcurrency": 270
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 93,
+            "NeedSpecialcurrency": 270
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 54,
+            "NeedSpecialcurrency": 270
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 47,
+            "NeedSpecialcurrency": 270
+          }
+        ]
+      },
+      {
+        "ID": 1010,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 8,
+            "NeedSpecialcurrency": 10
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 4,
+            "NeedSpecialcurrency": 10
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 2,
+            "NeedSpecialcurrency": 10
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 1,
+            "NeedSpecialcurrency": 10
+          }
+        ]
+      },
+      {
+        "ID": 1011,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 24,
+            "NeedSpecialcurrency": 30
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 10,
+            "NeedSpecialcurrency": 30
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 6,
+            "NeedSpecialcurrency": 30
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 5,
+            "NeedSpecialcurrency": 30
+          }
+        ]
+      },
+      {
+        "ID": 1012,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 72,
+            "NeedSpecialcurrency": 90
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 31,
+            "NeedSpecialcurrency": 90
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 18,
+            "NeedSpecialcurrency": 90
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 15,
+            "NeedSpecialcurrency": 90
+          }
+        ]
+      },
+      {
+        "ID": 1013,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 216,
+            "NeedSpecialcurrency": 270
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 93,
+            "NeedSpecialcurrency": 270
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 54,
+            "NeedSpecialcurrency": 270
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 47,
+            "NeedSpecialcurrency": 270
+          }
+        ]
+      },
+      {
+        "ID": 1020,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 8,
+            "NeedSpecialcurrency": 10
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 4,
+            "NeedSpecialcurrency": 10
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 2,
+            "NeedSpecialcurrency": 10
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 1,
+            "NeedSpecialcurrency": 10
+          }
+        ]
+      },
+      {
+        "ID": 1021,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 24,
+            "NeedSpecialcurrency": 30
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 10,
+            "NeedSpecialcurrency": 30
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 6,
+            "NeedSpecialcurrency": 30
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 5,
+            "NeedSpecialcurrency": 30
+          }
+        ]
+      },
+      {
+        "ID": 1022,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 72,
+            "NeedSpecialcurrency": 90
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 31,
+            "NeedSpecialcurrency": 90
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 18,
+            "NeedSpecialcurrency": 90
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 15,
+            "NeedSpecialcurrency": 90
+          }
+        ]
+      },
+      {
+        "ID": 1023,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 216,
+            "NeedSpecialcurrency": 270
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 93,
+            "NeedSpecialcurrency": 270
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 54,
+            "NeedSpecialcurrency": 270
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 47,
+            "NeedSpecialcurrency": 270
+          }
+        ]
+      },
+      {
+        "ID": 1030,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 8,
+            "NeedSpecialcurrency": 10
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 4,
+            "NeedSpecialcurrency": 10
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 2,
+            "NeedSpecialcurrency": 10
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 1,
+            "NeedSpecialcurrency": 10
+          }
+        ]
+      },
+      {
+        "ID": 1031,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 24,
+            "NeedSpecialcurrency": 30
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 10,
+            "NeedSpecialcurrency": 30
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 6,
+            "NeedSpecialcurrency": 30
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 5,
+            "NeedSpecialcurrency": 30
+          }
+        ]
+      },
+      {
+        "ID": 1032,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 72,
+            "NeedSpecialcurrency": 90
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 31,
+            "NeedSpecialcurrency": 90
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 18,
+            "NeedSpecialcurrency": 90
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 15,
+            "NeedSpecialcurrency": 90
+          }
+        ]
+      },
+      {
+        "ID": 1033,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 216,
+            "NeedSpecialcurrency": 270
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 93,
+            "NeedSpecialcurrency": 270
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 54,
+            "NeedSpecialcurrency": 270
+          },
+          {
+            "PlayerLevel": 35,
+            "Num": 1,
+            "NeedVitality": 47,
+            "NeedSpecialcurrency": 270
+          }
+        ]
+      },
+      {
+        "ID": 1101,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 20,
+            "NeedSpecialcurrency": 25
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 10,
+            "NeedSpecialcurrency": 25
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 5,
+            "NeedSpecialcurrency": 25
+          }
+        ]
+      },
+      {
+        "ID": 1102,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 40,
+            "NeedSpecialcurrency": 50
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 20,
+            "NeedSpecialcurrency": 50
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 10,
+            "NeedSpecialcurrency": 50
+          }
+        ]
+      },
+      {
+        "ID": 1103,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 80,
+            "NeedSpecialcurrency": 100
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 40,
+            "NeedSpecialcurrency": 100
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 20,
+            "NeedSpecialcurrency": 100
+          }
+        ]
+      },
+      {
+        "ID": 1201,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 30,
+            "NeedSpecialcurrency": 36
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 15,
+            "NeedSpecialcurrency": 36
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 7,
+            "NeedSpecialcurrency": 36
+          }
+        ]
+      },
+      {
+        "ID": 1202,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 60,
+            "NeedSpecialcurrency": 75
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 30,
+            "NeedSpecialcurrency": 75
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 15,
+            "NeedSpecialcurrency": 75
+          }
+        ]
+      },
+      {
+        "ID": 1203,
+        "QuickObtainingItem": [
+          {
+            "PlayerLevel": 1,
+            "Num": 1,
+            "NeedVitality": 120,
+            "NeedSpecialcurrency": 150
+          },
+          {
+            "PlayerLevel": 20,
+            "Num": 1,
+            "NeedVitality": 60,
+            "NeedSpecialcurrency": 150
+          },
+          {
+            "PlayerLevel": 30,
+            "Num": 1,
+            "NeedVitality": 30,
+            "NeedSpecialcurrency": 150
+          }
+        ]
+      }
+    ]
+  }
+}

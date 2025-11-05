@@ -1,0 +1,6812 @@
+{
+  "Gather": {
+    "Datas": [
+      {
+        "ID": 100001,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100001,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/",
+            "Prefab": "采集-花芽"
+          }
+        ]
+      },
+      {
+        "ID": 100002,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100002,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/",
+            "Prefab": "采集-四叶草"
+          }
+        ]
+      },
+      {
+        "ID": 100003,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100003,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-郁金香-黄"
+          },
+          {
+            "Reward": 100100004,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-郁金香-粉"
+          },
+          {
+            "Reward": 100100005,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-水仙-白"
+          },
+          {
+            "Reward": 100100006,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-水仙-黄"
+          },
+          {
+            "Reward": 100100007,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-鸢尾花-紫"
+          },
+          {
+            "Reward": 100100008,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-鸢尾花-蓝"
+          },
+          {
+            "Reward": 100100009,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-向日葵-浅"
+          },
+          {
+            "Reward": 100100010,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-向日葵-深"
+          },
+          {
+            "Reward": 100100011,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-硫华菊-浅"
+          },
+          {
+            "Reward": 100100012,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-硫华菊-深"
+          },
+          {
+            "Reward": 100100013,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-蝴蝶花-白"
+          },
+          {
+            "Reward": 100100014,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-蝴蝶花-粉"
+          },
+          {
+            "Reward": 100100015,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-雪花莲-浅"
+          },
+          {
+            "Reward": 100100016,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-雪花莲-深"
+          },
+          {
+            "Reward": 100100017,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-紫菀-紫"
+          },
+          {
+            "Reward": 100100018,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-紫菀-蓝"
+          },
+          {
+            "Reward": 100100019,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-月见草-白"
+          },
+          {
+            "Reward": 100100020,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-月见草-黄"
+          },
+          {
+            "Reward": 100100021,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-射干-浅"
+          },
+          {
+            "Reward": 100100022,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-射干-深"
+          },
+          {
+            "Reward": 100100023,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-夏夜玫瑰-紫"
+          },
+          {
+            "Reward": 100100024,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-夏夜玫瑰-红"
+          },
+          {
+            "Reward": 100100025,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-夜香福禄考-泛紫"
+          },
+          {
+            "Reward": 100100026,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-夜香福禄考-泛红"
+          },
+          {
+            "Reward": 100100027,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-番红花-紫"
+          },
+          {
+            "Reward": 100100028,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-番红花-蓝"
+          },
+          {
+            "Reward": 100100029,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-晚香玉-泛红"
+          },
+          {
+            "Reward": 100100030,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-晚香玉-泛绿"
+          },
+          {
+            "Reward": 100100031,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-迎春花-浅"
+          },
+          {
+            "Reward": 100100032,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-迎春花-深"
+          },
+          {
+            "Reward": 100100033,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-姜花-泛红"
+          },
+          {
+            "Reward": 100100034,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/",
+            "Prefab": "采集-姜花-泛绿"
+          }
+        ]
+      },
+      {
+        "ID": 100101,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100101,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/",
+            "Prefab": "采集-百合-棕"
+          },
+          {
+            "Reward": 100100102,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/",
+            "Prefab": "采集-百合-白"
+          },
+          {
+            "Reward": 100100103,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/",
+            "Prefab": "采集-百合-红"
+          },
+          {
+            "Reward": 100100104,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/",
+            "Prefab": "采集-百合-黄"
+          }
+        ]
+      },
+      {
+        "ID": 100102,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100201,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/",
+            "Prefab": "采集-花-棕"
+          },
+          {
+            "Reward": 100100202,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/",
+            "Prefab": "采集-花-白"
+          },
+          {
+            "Reward": 100100203,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/",
+            "Prefab": "采集-花-红"
+          },
+          {
+            "Reward": 100100204,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/",
+            "Prefab": "采集-花-黄"
+          }
+        ]
+      },
+      {
+        "ID": 100103,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100301,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/",
+            "Prefab": "采集-郁金香-棕"
+          },
+          {
+            "Reward": 100100302,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/",
+            "Prefab": "采集-郁金香-红"
+          }
+        ]
+      },
+      {
+        "ID": 100104,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100401,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/",
+            "Prefab": "采集-雏菊-棕"
+          },
+          {
+            "Reward": 100100402,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/",
+            "Prefab": "采集-雏菊-白"
+          },
+          {
+            "Reward": 100100403,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/",
+            "Prefab": "采集-雏菊-红"
+          },
+          {
+            "Reward": 100100404,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/",
+            "Prefab": "采集-雏菊-黄"
+          }
+        ]
+      },
+      {
+        "ID": 100105,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100101,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/带花盆/",
+            "Prefab": "采集-百合-带花盆-棕"
+          },
+          {
+            "Reward": 100100102,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/带花盆/",
+            "Prefab": "采集-百合-带花盆-白"
+          },
+          {
+            "Reward": 100100103,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/带花盆/",
+            "Prefab": "采集-百合-带花盆-红"
+          },
+          {
+            "Reward": 100100104,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/带花盆/",
+            "Prefab": "采集-百合-带花盆-黄"
+          }
+        ]
+      },
+      {
+        "ID": 100106,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100201,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/带花盆/",
+            "Prefab": "采集-花-带花盆-棕"
+          },
+          {
+            "Reward": 100100202,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/带花盆/",
+            "Prefab": "采集-花-带花盆-白"
+          },
+          {
+            "Reward": 100100203,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/带花盆/",
+            "Prefab": "采集-花-带花盆-红"
+          },
+          {
+            "Reward": 100100204,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/带花盆/",
+            "Prefab": "采集-花-带花盆-黄"
+          }
+        ]
+      },
+      {
+        "ID": 100107,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100301,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/带花盆/",
+            "Prefab": "采集-郁金香-带花盆-棕"
+          },
+          {
+            "Reward": 100100302,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/带花盆/",
+            "Prefab": "采集-郁金香-带花盆-红"
+          }
+        ]
+      },
+      {
+        "ID": 100108,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100401,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/带花盆/",
+            "Prefab": "采集-雏菊-带花盆-棕"
+          },
+          {
+            "Reward": 100100402,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/带花盆/",
+            "Prefab": "采集-雏菊-带花盆-白"
+          },
+          {
+            "Reward": 100100403,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/带花盆/",
+            "Prefab": "采集-雏菊-带花盆-红"
+          },
+          {
+            "Reward": 100100404,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/带花盆/",
+            "Prefab": "采集-雏菊-带花盆-黄"
+          }
+        ]
+      },
+      {
+        "ID": 100201,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100200101,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/",
+            "Prefab": "采集-百合-粉"
+          },
+          {
+            "Reward": 100200102,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/",
+            "Prefab": "采集-百合-紫"
+          },
+          {
+            "Reward": 100200103,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/",
+            "Prefab": "采集-百合-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 100202,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100200201,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/",
+            "Prefab": "采集-花-粉"
+          },
+          {
+            "Reward": 100200202,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/",
+            "Prefab": "采集-花-紫"
+          },
+          {
+            "Reward": 100200203,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/",
+            "Prefab": "采集-花-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 100203,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100200301,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/",
+            "Prefab": "采集-郁金香-粉"
+          },
+          {
+            "Reward": 100200302,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/",
+            "Prefab": "采集-郁金香-紫"
+          },
+          {
+            "Reward": 100200303,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/",
+            "Prefab": "采集-郁金香-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 100204,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100200401,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/",
+            "Prefab": "采集-雏菊-粉"
+          },
+          {
+            "Reward": 100200402,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/",
+            "Prefab": "采集-雏菊-紫"
+          },
+          {
+            "Reward": 100200403,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/",
+            "Prefab": "采集-雏菊-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 100205,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100200101,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/带花盆/",
+            "Prefab": "采集-百合-带花盆-粉"
+          },
+          {
+            "Reward": 100200102,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/带花盆/",
+            "Prefab": "采集-百合-带花盆-紫"
+          },
+          {
+            "Reward": 100200103,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/带花盆/",
+            "Prefab": "采集-百合-带花盆-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 100206,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100200201,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/带花盆/",
+            "Prefab": "采集-花-带花盆-粉"
+          },
+          {
+            "Reward": 100200202,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/带花盆/",
+            "Prefab": "采集-花-带花盆-紫"
+          },
+          {
+            "Reward": 100200203,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/带花盆/",
+            "Prefab": "采集-花-带花盆-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 100207,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100200301,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/带花盆/",
+            "Prefab": "采集-郁金香-带花盆-粉"
+          },
+          {
+            "Reward": 100200302,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/带花盆/",
+            "Prefab": "采集-郁金香-带花盆-紫"
+          },
+          {
+            "Reward": 100200303,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/带花盆/",
+            "Prefab": "采集-郁金香-带花盆-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 100208,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100200401,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/带花盆/",
+            "Prefab": "采集-雏菊-带花盆-粉"
+          },
+          {
+            "Reward": 100200402,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/带花盆/",
+            "Prefab": "采集-雏菊-带花盆-紫"
+          },
+          {
+            "Reward": 100200403,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/带花盆/",
+            "Prefab": "采集-雏菊-带花盆-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 110101,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100110101,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/",
+            "Prefab": "采集-百合-棕"
+          },
+          {
+            "Reward": 100110102,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/",
+            "Prefab": "采集-百合-白"
+          },
+          {
+            "Reward": 100110103,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/",
+            "Prefab": "采集-百合-红"
+          },
+          {
+            "Reward": 100110104,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/",
+            "Prefab": "采集-百合-黄"
+          }
+        ]
+      },
+      {
+        "ID": 110102,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100110201,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/",
+            "Prefab": "采集-花-棕"
+          },
+          {
+            "Reward": 100110202,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/",
+            "Prefab": "采集-花-白"
+          },
+          {
+            "Reward": 100110203,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/",
+            "Prefab": "采集-花-红"
+          },
+          {
+            "Reward": 100110204,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/",
+            "Prefab": "采集-花-黄"
+          }
+        ]
+      },
+      {
+        "ID": 110103,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100110301,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/",
+            "Prefab": "采集-郁金香-棕"
+          },
+          {
+            "Reward": 100110302,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/",
+            "Prefab": "采集-郁金香-红"
+          }
+        ]
+      },
+      {
+        "ID": 110104,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100110401,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/",
+            "Prefab": "采集-雏菊-棕"
+          },
+          {
+            "Reward": 100110402,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/",
+            "Prefab": "采集-雏菊-白"
+          },
+          {
+            "Reward": 100110403,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/",
+            "Prefab": "采集-雏菊-红"
+          },
+          {
+            "Reward": 100110404,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/",
+            "Prefab": "采集-雏菊-黄"
+          }
+        ]
+      },
+      {
+        "ID": 110105,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100110101,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/带花盆/",
+            "Prefab": "采集-百合-带花盆-棕"
+          },
+          {
+            "Reward": 100110102,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/带花盆/",
+            "Prefab": "采集-百合-带花盆-白"
+          },
+          {
+            "Reward": 100110103,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/带花盆/",
+            "Prefab": "采集-百合-带花盆-红"
+          },
+          {
+            "Reward": 100110104,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/带花盆/",
+            "Prefab": "采集-百合-带花盆-黄"
+          }
+        ]
+      },
+      {
+        "ID": 110106,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100110201,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/带花盆/",
+            "Prefab": "采集-花-带花盆-棕"
+          },
+          {
+            "Reward": 100110202,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/带花盆/",
+            "Prefab": "采集-花-带花盆-白"
+          },
+          {
+            "Reward": 100110203,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/带花盆/",
+            "Prefab": "采集-花-带花盆-红"
+          },
+          {
+            "Reward": 100110204,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/带花盆/",
+            "Prefab": "采集-花-带花盆-黄"
+          }
+        ]
+      },
+      {
+        "ID": 110107,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100110301,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/带花盆/",
+            "Prefab": "采集-郁金香-带花盆-棕"
+          },
+          {
+            "Reward": 100110302,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/带花盆/",
+            "Prefab": "采集-郁金香-带花盆-红"
+          }
+        ]
+      },
+      {
+        "ID": 110108,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100110401,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/带花盆/",
+            "Prefab": "采集-雏菊-带花盆-棕"
+          },
+          {
+            "Reward": 100110402,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/带花盆/",
+            "Prefab": "采集-雏菊-带花盆-白"
+          },
+          {
+            "Reward": 100110403,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/带花盆/",
+            "Prefab": "采集-雏菊-带花盆-红"
+          },
+          {
+            "Reward": 100110404,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/带花盆/",
+            "Prefab": "采集-雏菊-带花盆-黄"
+          }
+        ]
+      },
+      {
+        "ID": 110201,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100210101,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/",
+            "Prefab": "采集-百合-粉"
+          },
+          {
+            "Reward": 100210102,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/",
+            "Prefab": "采集-百合-紫"
+          },
+          {
+            "Reward": 100210103,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/",
+            "Prefab": "采集-百合-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 110202,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100210201,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/",
+            "Prefab": "采集-花-粉"
+          },
+          {
+            "Reward": 100210202,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/",
+            "Prefab": "采集-花-紫"
+          },
+          {
+            "Reward": 100210203,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/",
+            "Prefab": "采集-花-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 110203,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100210301,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/",
+            "Prefab": "采集-郁金香-粉"
+          },
+          {
+            "Reward": 100210302,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/",
+            "Prefab": "采集-郁金香-紫"
+          },
+          {
+            "Reward": 100210303,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/",
+            "Prefab": "采集-郁金香-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 110204,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100210401,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/",
+            "Prefab": "采集-雏菊-粉"
+          },
+          {
+            "Reward": 100210402,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/",
+            "Prefab": "采集-雏菊-紫"
+          },
+          {
+            "Reward": 100210403,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/",
+            "Prefab": "采集-雏菊-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 110205,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100210101,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/带花盆/",
+            "Prefab": "采集-百合-带花盆-粉"
+          },
+          {
+            "Reward": 100210102,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/带花盆/",
+            "Prefab": "采集-百合-带花盆-紫"
+          },
+          {
+            "Reward": 100210103,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/百合/带花盆/",
+            "Prefab": "采集-百合-带花盆-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 110206,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100210201,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/带花盆/",
+            "Prefab": "采集-花-带花盆-粉"
+          },
+          {
+            "Reward": 100210202,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/带花盆/",
+            "Prefab": "采集-花-带花盆-紫"
+          },
+          {
+            "Reward": 100210203,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/小花/带花盆/",
+            "Prefab": "采集-花-带花盆-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 110207,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100210301,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/带花盆/",
+            "Prefab": "采集-郁金香-带花盆-粉"
+          },
+          {
+            "Reward": 100210302,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/带花盆/",
+            "Prefab": "采集-郁金香-带花盆-紫"
+          },
+          {
+            "Reward": 100210303,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/郁金香/带花盆/",
+            "Prefab": "采集-郁金香-带花盆-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 110208,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100210401,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/带花盆/",
+            "Prefab": "采集-雏菊-带花盆-粉"
+          },
+          {
+            "Reward": 100210402,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/带花盆/",
+            "Prefab": "采集-雏菊-带花盆-紫"
+          },
+          {
+            "Reward": 100210403,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/雏菊/带花盆/",
+            "Prefab": "采集-雏菊-带花盆-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 110301,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100003,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-郁金香-黄"
+          }
+        ]
+      },
+      {
+        "ID": 110302,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100004,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-郁金香-粉"
+          }
+        ]
+      },
+      {
+        "ID": 110303,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100005,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-水仙-白"
+          }
+        ]
+      },
+      {
+        "ID": 110304,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100006,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-水仙-黄"
+          }
+        ]
+      },
+      {
+        "ID": 110305,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100007,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-鸢尾花-紫"
+          }
+        ]
+      },
+      {
+        "ID": 110306,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100008,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-鸢尾花-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 110307,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100009,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-向日葵-浅"
+          }
+        ]
+      },
+      {
+        "ID": 110308,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100010,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-向日葵-深"
+          }
+        ]
+      },
+      {
+        "ID": 110309,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100011,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-硫华菊-浅"
+          }
+        ]
+      },
+      {
+        "ID": 110310,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100012,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-硫华菊-深"
+          }
+        ]
+      },
+      {
+        "ID": 110311,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100013,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-蝴蝶花-白"
+          }
+        ]
+      },
+      {
+        "ID": 110312,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100014,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-蝴蝶花-粉"
+          }
+        ]
+      },
+      {
+        "ID": 110313,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100015,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-雪花莲-浅"
+          }
+        ]
+      },
+      {
+        "ID": 110314,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100016,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-雪花莲-深"
+          }
+        ]
+      },
+      {
+        "ID": 110315,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100017,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-紫菀-紫"
+          }
+        ]
+      },
+      {
+        "ID": 110316,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100018,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-紫菀-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 110317,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100019,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-月见草-白"
+          }
+        ]
+      },
+      {
+        "ID": 110318,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100020,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-月见草-黄"
+          }
+        ]
+      },
+      {
+        "ID": 110319,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100021,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-射干-浅"
+          }
+        ]
+      },
+      {
+        "ID": 110320,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100022,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-射干-深"
+          }
+        ]
+      },
+      {
+        "ID": 110321,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100023,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-夏夜玫瑰-紫"
+          }
+        ]
+      },
+      {
+        "ID": 110322,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100024,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-夏夜玫瑰-红"
+          }
+        ]
+      },
+      {
+        "ID": 110323,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100025,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-夜香福禄考-泛紫"
+          }
+        ]
+      },
+      {
+        "ID": 110324,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100026,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-夜香福禄考-泛红"
+          }
+        ]
+      },
+      {
+        "ID": 110325,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100027,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-番红花-紫"
+          }
+        ]
+      },
+      {
+        "ID": 110326,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100028,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-番红花-蓝"
+          }
+        ]
+      },
+      {
+        "ID": 110327,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100029,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-晚香玉-泛红"
+          }
+        ]
+      },
+      {
+        "ID": 110328,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100030,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-晚香玉-泛绿"
+          }
+        ]
+      },
+      {
+        "ID": 110329,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100031,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-迎春花-浅"
+          }
+        ]
+      },
+      {
+        "ID": 110330,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100032,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-迎春花-深"
+          }
+        ]
+      },
+      {
+        "ID": 110331,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100033,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-姜花-泛红"
+          }
+        ]
+      },
+      {
+        "ID": 110332,
+        "GatherGroupInfo": [
+          {
+            "Reward": 100100034,
+            "Weight": -1,
+            "NewWeaponType": 4,
+            "Path": "Life/采集物/采集/Home/采集岛-固定采集/",
+            "Prefab": "采集-姜花-泛绿"
+          }
+        ]
+      },
+      {
+        "ID": 200001,
+        "GatherGroupInfo": [
+          {
+            "Reward": 200000101,
+            "Weight": -1,
+            "NewGatherType": 1,
+            "NewWeaponType": 5,
+            "Path": "Life/采集物/伐木/",
+            "Prefab": "新伐木-普通"
+          }
+        ]
+      },
+      {
+        "ID": 200002,
+        "GatherGroupInfo": [
+          {
+            "Reward": 200000101,
+            "Weight": -1,
+            "NewGatherType": 1,
+            "NewWeaponType": 5,
+            "Path": "Life/采集物/伐木/",
+            "Prefab": "新伐木-普通（深色）"
+          }
+        ]
+      },
+      {
+        "ID": 200003,
+        "GatherGroupInfo": [
+          {
+            "Reward": 200000101,
+            "Weight": -1,
+            "NewGatherType": 1,
+            "NewWeaponType": 5,
+            "Path": "Life/采集物/伐木/",
+            "Prefab": "新伐木-树枝"
+          }
+        ]
+      },
+      {
+        "ID": 210001,
+        "GatherGroupInfo": [
+          {
+            "Reward": 200010101,
+            "Weight": -1,
+            "NewGatherType": 1,
+            "NewWeaponType": 5,
+            "Path": "Life/采集物/伐木/",
+            "Prefab": "新伐木-普通"
+          }
+        ]
+      },
+      {
+        "ID": 210002,
+        "GatherGroupInfo": [
+          {
+            "Reward": 200010101,
+            "Weight": -1,
+            "NewGatherType": 1,
+            "NewWeaponType": 5,
+            "Path": "Life/采集物/伐木/",
+            "Prefab": "新伐木-普通（深色）"
+          }
+        ]
+      },
+      {
+        "ID": 210003,
+        "GatherGroupInfo": [
+          {
+            "Reward": 200010101,
+            "Weight": -1,
+            "NewGatherType": 1,
+            "NewWeaponType": 5,
+            "Path": "Life/采集物/伐木/",
+            "Prefab": "新伐木-树枝"
+          }
+        ]
+      },
+      {
+        "ID": 300001,
+        "GatherGroupInfo": [
+          {
+            "Reward": 300000101,
+            "Weight": -1,
+            "NewGatherType": 2,
+            "NewWeaponType": 6,
+            "Path": "Life/采集物/挖矿/",
+            "Prefab": "新挖矿-石头_a"
+          }
+        ]
+      },
+      {
+        "ID": 300002,
+        "GatherGroupInfo": [
+          {
+            "Reward": 300000101,
+            "Weight": -1,
+            "NewGatherType": 2,
+            "NewWeaponType": 6,
+            "Path": "Life/采集物/挖矿/",
+            "Prefab": "新挖矿-石头_b"
+          }
+        ]
+      },
+      {
+        "ID": 310001,
+        "GatherGroupInfo": [
+          {
+            "Reward": 300010101,
+            "Weight": -1,
+            "NewGatherType": 2,
+            "NewWeaponType": 6,
+            "Path": "Life/采集物/挖矿/",
+            "Prefab": "新挖矿-石头_a"
+          }
+        ]
+      },
+      {
+        "ID": 310002,
+        "GatherGroupInfo": [
+          {
+            "Reward": 300010101,
+            "Weight": -1,
+            "NewGatherType": 2,
+            "NewWeaponType": 6,
+            "Path": "Life/采集物/挖矿/",
+            "Prefab": "新挖矿-石头_b"
+          }
+        ]
+      },
+      {
+        "ID": 400001,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000101,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蝴蝶-大紫蛺蝶"
+          },
+          {
+            "Reward": 400000102,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蝴蝶-金斑蝶"
+          },
+          {
+            "Reward": 400000103,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蝴蝶-英雄翠凤蝶"
+          },
+          {
+            "Reward": 400000104,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蝴蝶-黄蝶"
+          },
+          {
+            "Reward": 400000105,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蝴蝶-优红蛱蝶"
+          },
+          {
+            "Reward": 400000106,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蝴蝶-斑蝶"
+          },
+          {
+            "Reward": 400000107,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蝴蝶-小天使翠凤蝶"
+          },
+          {
+            "Reward": 400000108,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蝴蝶-白粉蝶"
+          }
+        ]
+      },
+      {
+        "ID": 400002,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000201,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蜻蜓-普通白尾蜻"
+          },
+          {
+            "Reward": 400000202,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蜻蜓-狞猎蜻蜓"
+          },
+          {
+            "Reward": 400000203,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蜻蜓-普通绿蜻蜓"
+          },
+          {
+            "Reward": 400000204,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蜻蜓-万圣节旗帜蜻蜓"
+          },
+          {
+            "Reward": 400000205,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蜻蜓-普通褐蜻蜓"
+          },
+          {
+            "Reward": 400000206,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蜻蜓-阔翅豆娘"
+          },
+          {
+            "Reward": 400000207,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蜻蜓-尼达姆蜻蜓"
+          },
+          {
+            "Reward": 400000208,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-蜻蜓-赤带翅蜻蜓"
+          }
+        ]
+      },
+      {
+        "ID": 400003,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000301,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-飞蛾-长尾大蚕蛾-公"
+          },
+          {
+            "Reward": 400000302,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-飞蛾-长尾大蚕蛾-母"
+          },
+          {
+            "Reward": 400000303,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-飞蛾-草纹枯叶蛾"
+          },
+          {
+            "Reward": 400000304,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-飞蛾-刻克罗普斯蚕蛾"
+          },
+          {
+            "Reward": 400000305,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-飞蛾-普罗米修斯蚕蛾"
+          },
+          {
+            "Reward": 400000306,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-飞蛾-玫瑰红枫蛾"
+          },
+          {
+            "Reward": 400000307,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-飞蛾-冬蛾"
+          },
+          {
+            "Reward": 400000308,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/",
+            "Prefab": "主城捕虫-飞蛾-雪蛾"
+          }
+        ]
+      },
+      {
+        "ID": 400101,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400100101,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蝴蝶（橙）"
+          },
+          {
+            "Reward": 400100102,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蝴蝶（红）"
+          }
+        ]
+      },
+      {
+        "ID": 400102,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400100103,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蝴蝶（蓝）"
+          },
+          {
+            "Reward": 400100104,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蝴蝶（黄）"
+          }
+        ]
+      },
+      {
+        "ID": 400103,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400200101,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蝴蝶（粉）"
+          },
+          {
+            "Reward": 400200102,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蝴蝶（紫）"
+          }
+        ]
+      },
+      {
+        "ID": 400104,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400200103,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蝴蝶（青）"
+          }
+        ]
+      },
+      {
+        "ID": 400201,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400100201,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蜻蜓（橙）"
+          },
+          {
+            "Reward": 400100202,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蜻蜓（红）"
+          }
+        ]
+      },
+      {
+        "ID": 400202,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400100203,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蜻蜓（蓝）"
+          },
+          {
+            "Reward": 400100204,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蜻蜓（黄）"
+          }
+        ]
+      },
+      {
+        "ID": 400203,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400200201,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蜻蜓（粉）"
+          },
+          {
+            "Reward": 400200202,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蜻蜓（紫）"
+          }
+        ]
+      },
+      {
+        "ID": 400204,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400200203,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蜻蜓（青）"
+          }
+        ]
+      },
+      {
+        "ID": 410101,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400110101,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蝴蝶（橙）"
+          },
+          {
+            "Reward": 400110102,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蝴蝶（红）"
+          }
+        ]
+      },
+      {
+        "ID": 410102,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400110103,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蝴蝶（蓝）"
+          },
+          {
+            "Reward": 400110104,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蝴蝶（黄）"
+          }
+        ]
+      },
+      {
+        "ID": 410103,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400210101,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蝴蝶（粉）"
+          },
+          {
+            "Reward": 400210102,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蝴蝶（紫）"
+          }
+        ]
+      },
+      {
+        "ID": 410104,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400210103,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蝴蝶（青）"
+          }
+        ]
+      },
+      {
+        "ID": 410201,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400110201,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蜻蜓（橙）"
+          },
+          {
+            "Reward": 400110202,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蜻蜓（红）"
+          }
+        ]
+      },
+      {
+        "ID": 410202,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400110203,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蜻蜓（蓝）"
+          },
+          {
+            "Reward": 400110204,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蜻蜓（黄）"
+          }
+        ]
+      },
+      {
+        "ID": 410203,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400210201,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蜻蜓（粉）"
+          },
+          {
+            "Reward": 400210202,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蜻蜓（紫）"
+          }
+        ]
+      },
+      {
+        "ID": 410204,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400210203,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/",
+            "Prefab": "新捕虫-蜻蜓（青）"
+          }
+        ]
+      },
+      {
+        "ID": 410301,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000101,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蝴蝶-大紫蛺蝶"
+          }
+        ]
+      },
+      {
+        "ID": 410302,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000102,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蝴蝶-金斑蝶"
+          }
+        ]
+      },
+      {
+        "ID": 410303,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000103,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蝴蝶-英雄翠凤蝶"
+          }
+        ]
+      },
+      {
+        "ID": 410304,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000104,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蝴蝶-黄蝶"
+          }
+        ]
+      },
+      {
+        "ID": 410305,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000105,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蝴蝶-优红蛱蝶"
+          }
+        ]
+      },
+      {
+        "ID": 410306,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000106,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蝴蝶-斑蝶"
+          }
+        ]
+      },
+      {
+        "ID": 410307,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000107,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蝴蝶-小天使翠凤蝶"
+          }
+        ]
+      },
+      {
+        "ID": 410308,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000108,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蝴蝶-白粉蝶"
+          }
+        ]
+      },
+      {
+        "ID": 410309,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000201,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蜻蜓-普通白尾蜻"
+          }
+        ]
+      },
+      {
+        "ID": 410310,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000202,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蜻蜓-狞猎蜻蜓"
+          }
+        ]
+      },
+      {
+        "ID": 410311,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000203,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蜻蜓-普通绿蜻蜓"
+          }
+        ]
+      },
+      {
+        "ID": 410312,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000204,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蜻蜓-万圣节旗帜蜻蜓"
+          }
+        ]
+      },
+      {
+        "ID": 410313,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000205,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蜻蜓-普通褐蜻蜓"
+          }
+        ]
+      },
+      {
+        "ID": 410314,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000206,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蜻蜓-阔翅豆娘"
+          }
+        ]
+      },
+      {
+        "ID": 410315,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000207,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蜻蜓-尼达姆蜻蜓"
+          }
+        ]
+      },
+      {
+        "ID": 410316,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000208,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-蜻蜓-赤带翅蜻蜓"
+          }
+        ]
+      },
+      {
+        "ID": 410317,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000301,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-飞蛾-长尾大蚕蛾-公"
+          }
+        ]
+      },
+      {
+        "ID": 410318,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000302,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-飞蛾-长尾大蚕蛾-母"
+          }
+        ]
+      },
+      {
+        "ID": 410319,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000303,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-飞蛾-草纹枯叶蛾"
+          }
+        ]
+      },
+      {
+        "ID": 410320,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000304,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-飞蛾-刻克罗普斯蚕蛾"
+          }
+        ]
+      },
+      {
+        "ID": 410321,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000305,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-飞蛾-普罗米修斯蚕蛾"
+          }
+        ]
+      },
+      {
+        "ID": 410322,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000306,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-飞蛾-玫瑰红枫蛾"
+          }
+        ]
+      },
+      {
+        "ID": 410323,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000307,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-飞蛾-冬蛾"
+          }
+        ]
+      },
+      {
+        "ID": 410324,
+        "GatherGroupInfo": [
+          {
+            "Reward": 400000308,
+            "Weight": -1,
+            "NewGatherType": 3,
+            "NewWeaponType": 7,
+            "Path": "Life/采集物/捕虫/主城特殊捕虫/采集岛-固定采集/",
+            "Prefab": "主城捕虫-飞蛾-雪蛾"
+          }
+        ]
+      },
+      {
+        "ID": 500001,
+        "GatherGroupInfo": [
+          {
+            "Reward": 500000101,
+            "Weight": -1,
+            "NewGatherType": 4,
+            "NewWeaponType": 8,
+            "Path": "Life/采集物/装水/",
+            "Prefab": "新装水-普通"
+          }
+        ]
+      },
+      {
+        "ID": 510001,
+        "GatherGroupInfo": [
+          {
+            "Reward": 500010101,
+            "Weight": -1,
+            "NewGatherType": 4,
+            "NewWeaponType": 8,
+            "Path": "Life/采集物/装水/",
+            "Prefab": "新装水-普通"
+          }
+        ]
+      },
+      {
+        "ID": 600001,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000012,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-鹿角珊瑚碎片"
+          },
+          {
+            "Reward": 600000004,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-虾夷扇贝"
+          },
+          {
+            "Reward": 600000003,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-普通海星"
+          }
+        ]
+      },
+      {
+        "ID": 600002,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000001,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-多棘海盘车"
+          },
+          {
+            "Reward": 600000002,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-牛角江珧蛤"
+          },
+          {
+            "Reward": 600000005,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-华贵栉孔扇贝"
+          },
+          {
+            "Reward": 600000006,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-厚壳贻贝"
+          },
+          {
+            "Reward": 600000007,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-仿刺参"
+          },
+          {
+            "Reward": 600000008,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-光棘球海胆"
+          },
+          {
+            "Reward": 600000009,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-白线海螺"
+          },
+          {
+            "Reward": 600000010,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-皱纹盘鲍"
+          },
+          {
+            "Reward": 600000011,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-大白蛙螺"
+          },
+          {
+            "Reward": 600000013,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-九孔鲍螺"
+          },
+          {
+            "Reward": 600000014,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-虾夷蚶蜊"
+          },
+          {
+            "Reward": 600000015,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-尖峰蛤"
+          },
+          {
+            "Reward": 600000016,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-猫眼螺"
+          },
+          {
+            "Reward": 600000017,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-象牙凤螺"
+          },
+          {
+            "Reward": 600000018,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-长牡蛎"
+          },
+          {
+            "Reward": 600000019,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-文蛤"
+          },
+          {
+            "Reward": 600000020,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-青柳蛤"
+          },
+          {
+            "Reward": 600000021,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-毛蛤蜊"
+          },
+          {
+            "Reward": 600000022,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-瘦海蜷"
+          },
+          {
+            "Reward": 600000023,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-扁玉螺"
+          },
+          {
+            "Reward": 600000024,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-疣织纹螺"
+          },
+          {
+            "Reward": 600000025,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-托氏䗉螺"
+          },
+          {
+            "Reward": 600000026,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-颗粒玉黍螺"
+          },
+          {
+            "Reward": 600000027,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/",
+            "Prefab": "新拾取-石蜑螺"
+          }
+        ]
+      },
+      {
+        "ID": 610301,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000001,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-多棘海盘车"
+          }
+        ]
+      },
+      {
+        "ID": 610302,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000002,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-牛角江珧蛤"
+          }
+        ]
+      },
+      {
+        "ID": 610303,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000003,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-普通海星"
+          }
+        ]
+      },
+      {
+        "ID": 610304,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000004,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-虾夷扇贝"
+          }
+        ]
+      },
+      {
+        "ID": 610305,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000005,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-华贵栉孔扇贝"
+          }
+        ]
+      },
+      {
+        "ID": 610306,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000006,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-厚壳贻贝"
+          }
+        ]
+      },
+      {
+        "ID": 610307,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000007,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-仿刺参"
+          }
+        ]
+      },
+      {
+        "ID": 610308,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000008,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-光棘球海胆"
+          }
+        ]
+      },
+      {
+        "ID": 610309,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000009,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-白线海螺"
+          }
+        ]
+      },
+      {
+        "ID": 610310,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000010,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-皱纹盘鲍"
+          }
+        ]
+      },
+      {
+        "ID": 610311,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000011,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-大白蛙螺"
+          }
+        ]
+      },
+      {
+        "ID": 610312,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000012,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-鹿角珊瑚碎片"
+          }
+        ]
+      },
+      {
+        "ID": 610313,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000013,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-九孔鲍螺"
+          }
+        ]
+      },
+      {
+        "ID": 610314,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000014,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-虾夷蚶蜊"
+          }
+        ]
+      },
+      {
+        "ID": 610315,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000015,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-尖峰蛤"
+          }
+        ]
+      },
+      {
+        "ID": 610316,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000016,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-猫眼螺"
+          }
+        ]
+      },
+      {
+        "ID": 610317,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000017,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-象牙凤螺"
+          }
+        ]
+      },
+      {
+        "ID": 610318,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000018,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-长牡蛎"
+          }
+        ]
+      },
+      {
+        "ID": 610319,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000019,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-文蛤"
+          }
+        ]
+      },
+      {
+        "ID": 610320,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000020,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-青柳蛤"
+          }
+        ]
+      },
+      {
+        "ID": 610321,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000021,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-毛蛤蜊"
+          }
+        ]
+      },
+      {
+        "ID": 610322,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000022,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-瘦海蜷"
+          }
+        ]
+      },
+      {
+        "ID": 610323,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000023,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-扁玉螺"
+          }
+        ]
+      },
+      {
+        "ID": 610324,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000024,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-疣织纹螺"
+          }
+        ]
+      },
+      {
+        "ID": 610325,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000025,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-托氏䗉螺"
+          }
+        ]
+      },
+      {
+        "ID": 610326,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000026,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-颗粒玉黍螺"
+          }
+        ]
+      },
+      {
+        "ID": 610327,
+        "GatherGroupInfo": [
+          {
+            "Reward": 600000027,
+            "Weight": -1,
+            "NewGatherType": 5,
+            "NewWeaponType": 15,
+            "Path": "Life/采集物/赶海/采集岛-固定采集/",
+            "Prefab": "新拾取-石蜑螺"
+          }
+        ]
+      }
+    ]
+  },
+  "GatherReward": {
+    "Datas": [
+      {
+        "ID": 100100001,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100001,
+            "Count": 1
+          }
+        ]
+      },
+      {
+        "ID": 100100002,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100002,
+            "Count": 1
+          }
+        ]
+      },
+      {
+        "ID": 100100003,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100003,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100003,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100004,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100004,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100004,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100005,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100005,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100005,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100006,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100006,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100006,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100007,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100007,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100007,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100008,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100008,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100008,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100009,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100009,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100009,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100010,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100010,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100010,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100011,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100011,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100011,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100012,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100012,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100012,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100013,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100013,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100013,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100014,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100014,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100014,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100015,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100015,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100015,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100016,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100016,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100016,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100017,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100017,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100017,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100018,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100018,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100018,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100019,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100019,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100019,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100020,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100020,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100020,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100021,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100021,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100021,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100022,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100022,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100022,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100023,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100023,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100023,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100024,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100024,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100024,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100025,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100025,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100025,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100026,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100026,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100026,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100027,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100027,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100027,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100028,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100028,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100028,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100029,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100029,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100029,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100030,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100030,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100030,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100031,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100031,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100031,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100032,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100032,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100032,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100033,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100033,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100033,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100034,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100034,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100034,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100101,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100101,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100102,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100102,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100102,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100103,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100103,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100103,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100104,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100104,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100104,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100201,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100201,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100201,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100202,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100202,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100202,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100203,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100203,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100203,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100204,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100204,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100204,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100301,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100301,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100301,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100302,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100302,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100302,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100303,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100303,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100303,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100304,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100304,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100304,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100401,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100401,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100401,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100402,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100402,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100402,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100403,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100403,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100403,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100100404,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100404,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100404,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100200101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100105,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100105,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100200102,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100106,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100106,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100200103,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100107,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100107,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100200201,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100205,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100205,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100200202,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100206,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100206,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100200203,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100207,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100207,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100200301,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100305,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100305,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100200302,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100306,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100306,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100200303,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100307,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100307,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100200401,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100405,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100405,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100200402,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100406,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100406,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100200403,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100407,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100407,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100101,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100101,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110102,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100102,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100102,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110103,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100103,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100103,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110104,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100104,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100104,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110201,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100201,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100201,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110202,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100202,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100202,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110203,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100203,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100203,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110204,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100204,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100204,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110301,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100301,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100301,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110302,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100302,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100302,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110303,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100303,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100303,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110304,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100304,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100304,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110401,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100401,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100401,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110402,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100402,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100402,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110403,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100403,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100403,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100110404,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100404,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100404,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100210101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100105,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100105,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100210102,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100106,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100106,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100210103,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100107,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100107,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100210201,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100205,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100205,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100210202,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100206,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100206,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100210203,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100207,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100207,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100210301,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100305,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100305,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100210302,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100306,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100306,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100210303,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100307,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100307,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100210401,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100405,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100405,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100210402,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100406,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100406,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 100210403,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20100407,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20100407,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 200000101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20200001,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20200002,
+            "Count": 1
+          },
+          {
+            "Index": 3,
+            "ItemID": 20200001,
+            "Count": 3,
+            "Lucky": true
+          },
+          {
+            "Index": 4,
+            "ItemID": 20200002,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 200010101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20200001,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20200002,
+            "Count": 1
+          },
+          {
+            "Index": 3,
+            "ItemID": 20200001,
+            "Count": 3,
+            "Lucky": true
+          },
+          {
+            "Index": 4,
+            "ItemID": 20200002,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 300000101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20300001,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20300002,
+            "Count": 1
+          },
+          {
+            "Index": 3,
+            "ItemID": 20300001,
+            "Count": 3,
+            "Lucky": true
+          },
+          {
+            "Index": 4,
+            "ItemID": 20300002,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 300010101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20300001,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20300002,
+            "Count": 1
+          },
+          {
+            "Index": 3,
+            "ItemID": 20300001,
+            "Count": 3,
+            "Lucky": true
+          },
+          {
+            "Index": 4,
+            "ItemID": 20300002,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 400000101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400001,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400001,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000102,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400002,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400002,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000103,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400003,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400003,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000104,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400004,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400004,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000105,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400005,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400005,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000106,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400006,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400006,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000107,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400007,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400007,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000108,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400008,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400008,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000201,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400009,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400009,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000202,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400010,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400010,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000203,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400011,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400011,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000204,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400012,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400012,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000205,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400013,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400013,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000206,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400014,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400014,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000207,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400015,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400015,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000208,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400016,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400016,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000301,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400017,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400017,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000302,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400018,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400018,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000303,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400019,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400019,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000304,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400020,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400020,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000305,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400021,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400021,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000306,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400022,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400022,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000307,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400023,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400023,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400000308,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400024,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400024,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400100101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400101,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400101,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400100102,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400102,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400102,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400100103,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400103,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400103,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400100104,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400104,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400104,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400100201,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400201,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400201,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400100202,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400202,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400202,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400100203,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400203,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400203,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400100204,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400204,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400204,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400200101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400105,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400105,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400200102,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400106,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400106,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400200103,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400107,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400107,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400200201,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400205,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400205,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400200202,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400206,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400206,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400200203,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400207,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400207,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400110101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400101,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400101,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400110102,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400102,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400102,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400110103,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400103,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400103,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400110104,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400104,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400104,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400110201,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400201,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400201,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400110202,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400202,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400202,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400110203,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400203,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400203,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400110204,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400204,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400204,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400210101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400105,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400105,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400210102,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400106,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400106,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400210103,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400107,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400107,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400210201,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400205,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400205,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400210202,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400206,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400206,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 400210203,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20400207,
+            "Count": 1,
+            "BuffID": 1002,
+            "Duration": 60
+          },
+          {
+            "Index": 2,
+            "ItemID": 20400207,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1002,
+            "Duration": 60
+          }
+        ]
+      },
+      {
+        "ID": 500000101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20500001,
+            "Count": 1,
+            "BuffID": 1001,
+            "Duration": 5
+          },
+          {
+            "Index": 2,
+            "ItemID": 20500002,
+            "Count": 1,
+            "BuffID": 1001,
+            "Duration": 5
+          },
+          {
+            "Index": 3,
+            "ItemID": 20500001,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1001,
+            "Duration": 5
+          },
+          {
+            "Index": 4,
+            "ItemID": 20500002,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1001,
+            "Duration": 5
+          }
+        ]
+      },
+      {
+        "ID": 500010101,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20500001,
+            "Count": 1,
+            "BuffID": 1001,
+            "Duration": 5
+          },
+          {
+            "Index": 2,
+            "ItemID": 20500002,
+            "Count": 1,
+            "BuffID": 1001,
+            "Duration": 5
+          },
+          {
+            "Index": 3,
+            "ItemID": 20500001,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1001,
+            "Duration": 5
+          },
+          {
+            "Index": 4,
+            "ItemID": 20500002,
+            "Count": 3,
+            "Lucky": true,
+            "BuffID": 1001,
+            "Duration": 5
+          }
+        ]
+      },
+      {
+        "ID": 600000001,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600001,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600001,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000002,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600002,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600002,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000003,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600003,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600003,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000004,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600004,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600004,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000005,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600005,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600005,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000006,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600006,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600006,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000007,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600007,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600007,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000008,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600008,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600008,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000009,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600009,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600009,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000010,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600010,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600010,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000011,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600011,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600011,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000012,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600012,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600012,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000013,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600013,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600013,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000014,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600014,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600014,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000015,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600015,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600015,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000016,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600016,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600016,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000017,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600017,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600017,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000018,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600018,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600018,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000019,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600019,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600019,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000020,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600020,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600020,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000021,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600021,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600021,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000022,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600022,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600022,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000023,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600023,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600023,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000024,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600024,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600024,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000025,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600025,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600025,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000026,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600026,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600026,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      },
+      {
+        "ID": 600000027,
+        "GatherRewardGroupInfo": [
+          {
+            "Index": 1,
+            "ItemID": 20600027,
+            "Count": 1
+          },
+          {
+            "Index": 2,
+            "ItemID": 20600027,
+            "Count": 3,
+            "Lucky": true
+          }
+        ]
+      }
+    ]
+  },
+  "MainCityGather": {
+    "Datas": [
+      {
+        "ID": 100003,
+        "GatherRewardGroupWithTime": [
+          {
+            "Time": 1,
+            "GatherRewardID": 100100003
+          },
+          {
+            "Time": 2,
+            "GatherRewardID": 100100004
+          },
+          {
+            "Time": 1,
+            "GatherRewardID": 100100005
+          },
+          {
+            "Time": 2,
+            "GatherRewardID": 100100006
+          },
+          {
+            "Time": 5,
+            "GatherRewardID": 100100007
+          },
+          {
+            "Time": 6,
+            "GatherRewardID": 100100008
+          },
+          {
+            "Time": 5,
+            "GatherRewardID": 100100009
+          },
+          {
+            "Time": 6,
+            "GatherRewardID": 100100010
+          },
+          {
+            "Time": 9,
+            "GatherRewardID": 100100011
+          },
+          {
+            "Time": 10,
+            "GatherRewardID": 100100012
+          },
+          {
+            "Time": 9,
+            "GatherRewardID": 100100013
+          },
+          {
+            "Time": 10,
+            "GatherRewardID": 100100014
+          },
+          {
+            "Time": 13,
+            "GatherRewardID": 100100015
+          },
+          {
+            "Time": 14,
+            "GatherRewardID": 100100016
+          },
+          {
+            "Time": 13,
+            "GatherRewardID": 100100017
+          },
+          {
+            "Time": 14,
+            "GatherRewardID": 100100018
+          },
+          {
+            "Time": 7,
+            "GatherRewardID": 100100019
+          },
+          {
+            "Time": 8,
+            "GatherRewardID": 100100020
+          },
+          {
+            "Time": 3,
+            "GatherRewardID": 100100021
+          },
+          {
+            "Time": 4,
+            "GatherRewardID": 100100022
+          },
+          {
+            "Time": 7,
+            "GatherRewardID": 100100023
+          },
+          {
+            "Time": 8,
+            "GatherRewardID": 100100024
+          },
+          {
+            "Time": 3,
+            "GatherRewardID": 100100025
+          },
+          {
+            "Time": 4,
+            "GatherRewardID": 100100026
+          },
+          {
+            "Time": 15,
+            "GatherRewardID": 100100027
+          },
+          {
+            "Time": 16,
+            "GatherRewardID": 100100028
+          },
+          {
+            "Time": 11,
+            "GatherRewardID": 100100029
+          },
+          {
+            "Time": 12,
+            "GatherRewardID": 100100030
+          },
+          {
+            "Time": 11,
+            "GatherRewardID": 100100031
+          },
+          {
+            "Time": 12,
+            "GatherRewardID": 100100032
+          },
+          {
+            "Time": 15,
+            "GatherRewardID": 100100033
+          },
+          {
+            "Time": 16,
+            "GatherRewardID": 100100034
+          }
+        ]
+      },
+      {
+        "ID": 400001,
+        "GatherRewardGroupWithTime": [
+          {
+            "Time": 1,
+            "GatherRewardID": 400000101
+          },
+          {
+            "Time": 1,
+            "GatherRewardID": 400000102
+          },
+          {
+            "Time": 2,
+            "GatherRewardID": 400000102
+          },
+          {
+            "Time": 3,
+            "GatherRewardID": 400000101
+          },
+          {
+            "Time": 5,
+            "GatherRewardID": 400000103
+          },
+          {
+            "Time": 5,
+            "GatherRewardID": 400000104
+          },
+          {
+            "Time": 6,
+            "GatherRewardID": 400000104
+          },
+          {
+            "Time": 7,
+            "GatherRewardID": 400000103
+          },
+          {
+            "Time": 9,
+            "GatherRewardID": 400000105
+          },
+          {
+            "Time": 9,
+            "GatherRewardID": 400000106
+          },
+          {
+            "Time": 10,
+            "GatherRewardID": 400000106
+          },
+          {
+            "Time": 11,
+            "GatherRewardID": 400000105
+          },
+          {
+            "Time": 13,
+            "GatherRewardID": 400000107
+          },
+          {
+            "Time": 13,
+            "GatherRewardID": 400000108
+          },
+          {
+            "Time": 14,
+            "GatherRewardID": 400000108
+          },
+          {
+            "Time": 15,
+            "GatherRewardID": 400000107
+          }
+        ]
+      },
+      {
+        "ID": 400002,
+        "GatherRewardGroupWithTime": [
+          {
+            "Time": 1,
+            "GatherRewardID": 400000201
+          },
+          {
+            "Time": 2,
+            "GatherRewardID": 400000201
+          },
+          {
+            "Time": 2,
+            "GatherRewardID": 400000202
+          },
+          {
+            "Time": 4,
+            "GatherRewardID": 400000202
+          },
+          {
+            "Time": 5,
+            "GatherRewardID": 400000203
+          },
+          {
+            "Time": 6,
+            "GatherRewardID": 400000203
+          },
+          {
+            "Time": 6,
+            "GatherRewardID": 400000204
+          },
+          {
+            "Time": 8,
+            "GatherRewardID": 400000204
+          },
+          {
+            "Time": 9,
+            "GatherRewardID": 400000205
+          },
+          {
+            "Time": 10,
+            "GatherRewardID": 400000205
+          },
+          {
+            "Time": 10,
+            "GatherRewardID": 400000206
+          },
+          {
+            "Time": 12,
+            "GatherRewardID": 400000206
+          },
+          {
+            "Time": 13,
+            "GatherRewardID": 400000207
+          },
+          {
+            "Time": 14,
+            "GatherRewardID": 400000207
+          },
+          {
+            "Time": 14,
+            "GatherRewardID": 400000208
+          },
+          {
+            "Time": 16,
+            "GatherRewardID": 400000208
+          }
+        ]
+      },
+      {
+        "ID": 400003,
+        "GatherRewardGroupWithTime": [
+          {
+            "Time": 3,
+            "GatherRewardID": 400000301
+          },
+          {
+            "Time": 3,
+            "GatherRewardID": 400000302
+          },
+          {
+            "Time": 4,
+            "GatherRewardID": 400000301
+          },
+          {
+            "Time": 4,
+            "GatherRewardID": 400000302
+          },
+          {
+            "Time": 7,
+            "GatherRewardID": 400000303
+          },
+          {
+            "Time": 7,
+            "GatherRewardID": 400000304
+          },
+          {
+            "Time": 8,
+            "GatherRewardID": 400000303
+          },
+          {
+            "Time": 8,
+            "GatherRewardID": 400000304
+          },
+          {
+            "Time": 11,
+            "GatherRewardID": 400000305
+          },
+          {
+            "Time": 11,
+            "GatherRewardID": 400000306
+          },
+          {
+            "Time": 12,
+            "GatherRewardID": 400000305
+          },
+          {
+            "Time": 12,
+            "GatherRewardID": 400000306
+          },
+          {
+            "Time": 15,
+            "GatherRewardID": 400000307
+          },
+          {
+            "Time": 15,
+            "GatherRewardID": 400000308
+          },
+          {
+            "Time": 16,
+            "GatherRewardID": 400000307
+          },
+          {
+            "Time": 16,
+            "GatherRewardID": 400000308
+          }
+        ]
+      },
+      {
+        "ID": 600002,
+        "GatherRewardGroupWithTime": [
+          {
+            "Time": 15,
+            "GatherRewardID": 600000001
+          },
+          {
+            "Time": 16,
+            "GatherRewardID": 600000001
+          },
+          {
+            "Time": 13,
+            "GatherRewardID": 600000002
+          },
+          {
+            "Time": 14,
+            "GatherRewardID": 600000002
+          },
+          {
+            "Time": 13,
+            "GatherRewardID": 600000005
+          },
+          {
+            "Time": 14,
+            "GatherRewardID": 600000005
+          },
+          {
+            "Time": 9,
+            "GatherRewardID": 600000006
+          },
+          {
+            "Time": 10,
+            "GatherRewardID": 600000006
+          },
+          {
+            "Time": 11,
+            "GatherRewardID": 600000007
+          },
+          {
+            "Time": 12,
+            "GatherRewardID": 600000007
+          },
+          {
+            "Time": 13,
+            "GatherRewardID": 600000008
+          },
+          {
+            "Time": 15,
+            "GatherRewardID": 600000008
+          },
+          {
+            "Time": 14,
+            "GatherRewardID": 600000009
+          },
+          {
+            "Time": 16,
+            "GatherRewardID": 600000009
+          },
+          {
+            "Time": 6,
+            "GatherRewardID": 600000010
+          },
+          {
+            "Time": 8,
+            "GatherRewardID": 600000010
+          },
+          {
+            "Time": 5,
+            "GatherRewardID": 600000011
+          },
+          {
+            "Time": 6,
+            "GatherRewardID": 600000011
+          },
+          {
+            "Time": 7,
+            "GatherRewardID": 600000013
+          },
+          {
+            "Time": 8,
+            "GatherRewardID": 600000013
+          },
+          {
+            "Time": 15,
+            "GatherRewardID": 600000014
+          },
+          {
+            "Time": 16,
+            "GatherRewardID": 600000014
+          },
+          {
+            "Time": 2,
+            "GatherRewardID": 600000015
+          },
+          {
+            "Time": 4,
+            "GatherRewardID": 600000015
+          },
+          {
+            "Time": 1,
+            "GatherRewardID": 600000016
+          },
+          {
+            "Time": 2,
+            "GatherRewardID": 600000016
+          },
+          {
+            "Time": 7,
+            "GatherRewardID": 600000017
+          },
+          {
+            "Time": 8,
+            "GatherRewardID": 600000017
+          },
+          {
+            "Time": 11,
+            "GatherRewardID": 600000018
+          },
+          {
+            "Time": 12,
+            "GatherRewardID": 600000018
+          },
+          {
+            "Time": 5,
+            "GatherRewardID": 600000019
+          },
+          {
+            "Time": 6,
+            "GatherRewardID": 600000019
+          },
+          {
+            "Time": 3,
+            "GatherRewardID": 600000020
+          },
+          {
+            "Time": 4,
+            "GatherRewardID": 600000020
+          },
+          {
+            "Time": 1,
+            "GatherRewardID": 600000021
+          },
+          {
+            "Time": 2,
+            "GatherRewardID": 600000021
+          },
+          {
+            "Time": 1,
+            "GatherRewardID": 600000022
+          },
+          {
+            "Time": 3,
+            "GatherRewardID": 600000022
+          },
+          {
+            "Time": 3,
+            "GatherRewardID": 600000023
+          },
+          {
+            "Time": 4,
+            "GatherRewardID": 600000023
+          },
+          {
+            "Time": 9,
+            "GatherRewardID": 600000024
+          },
+          {
+            "Time": 10,
+            "GatherRewardID": 600000024
+          },
+          {
+            "Time": 9,
+            "GatherRewardID": 600000025
+          },
+          {
+            "Time": 11,
+            "GatherRewardID": 600000025
+          },
+          {
+            "Time": 10,
+            "GatherRewardID": 600000026
+          },
+          {
+            "Time": 12,
+            "GatherRewardID": 600000026
+          },
+          {
+            "Time": 5,
+            "GatherRewardID": 600000027
+          },
+          {
+            "Time": 7,
+            "GatherRewardID": 600000027
+          }
+        ]
+      }
+    ]
+  },
+  "GatherRule": {
+    "Datas": [
+      {
+        "ID": 1,
+        "WoodNum": 50,
+        "FlowerNum": 15,
+        "StoneNum": 15,
+        "ButterflyNum": 15,
+        "WaterNum": 15,
+        "PickNum": 15,
+        "LuckyFinishwoodNum": 50,
+        "LuckyFinishflowerNum": 10,
+        "LuckyFinishstoneNum": 10,
+        "LuckyFinishbutterflyNum": 10,
+        "LuckyFinishwaterNum": 10
+      },
+      {
+        "ID": 2,
+        "WoodNum": 15,
+        "FlowerNum": 50,
+        "StoneNum": 15,
+        "ButterflyNum": 15,
+        "WaterNum": 15,
+        "PickNum": 15,
+        "LuckyFinishwoodNum": 10,
+        "LuckyFinishflowerNum": 50,
+        "LuckyFinishstoneNum": 10,
+        "LuckyFinishbutterflyNum": 10,
+        "LuckyFinishwaterNum": 10
+      },
+      {
+        "ID": 3,
+        "WoodNum": 15,
+        "FlowerNum": 15,
+        "StoneNum": 50,
+        "ButterflyNum": 15,
+        "WaterNum": 15,
+        "PickNum": 15,
+        "LuckyFinishwoodNum": 10,
+        "LuckyFinishflowerNum": 10,
+        "LuckyFinishstoneNum": 50,
+        "LuckyFinishbutterflyNum": 10,
+        "LuckyFinishwaterNum": 10
+      },
+      {
+        "ID": 4,
+        "WoodNum": 15,
+        "FlowerNum": 15,
+        "StoneNum": 15,
+        "ButterflyNum": 50,
+        "WaterNum": 15,
+        "PickNum": 15,
+        "LuckyFinishwoodNum": 10,
+        "LuckyFinishflowerNum": 10,
+        "LuckyFinishstoneNum": 10,
+        "LuckyFinishbutterflyNum": 50,
+        "LuckyFinishwaterNum": 10
+      },
+      {
+        "ID": 5,
+        "WoodNum": 15,
+        "FlowerNum": 15,
+        "StoneNum": 15,
+        "ButterflyNum": 15,
+        "WaterNum": 50,
+        "PickNum": 15,
+        "LuckyFinishwoodNum": 10,
+        "LuckyFinishflowerNum": 10,
+        "LuckyFinishstoneNum": 10,
+        "LuckyFinishbutterflyNum": 10,
+        "LuckyFinishwaterNum": 50
+      },
+      {
+        "ID": 6,
+        "WoodNum": 30,
+        "FlowerNum": 30,
+        "StoneNum": 30,
+        "ButterflyNum": 30,
+        "WaterNum": 30,
+        "PickNum": 15,
+        "LuckyFinishwoodNum": 20,
+        "LuckyFinishflowerNum": 20,
+        "LuckyFinishstoneNum": 20,
+        "LuckyFinishbutterflyNum": 20,
+        "LuckyFinishwaterNum": 20
+      },
+      {
+        "WoodNum": 9999,
+        "FlowerNum": 9999,
+        "StoneNum": 9999,
+        "ButterflyNum": 9999,
+        "WaterNum": 9999,
+        "PickNum": 9999,
+        "LuckyFinishwoodNum": 9999,
+        "LuckyFinishflowerNum": 9999,
+        "LuckyFinishstoneNum": 9999,
+        "LuckyFinishbutterflyNum": 9999,
+        "LuckyFinishwaterNum": 9999,
+        "LuckyFinishpickNum": 9999
+      }
+    ]
+  }
+}

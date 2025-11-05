@@ -1,0 +1,7446 @@
+{
+  "Inscription": {
+    "Datas": [
+      {
+        "ID": 20001,
+        "ItemID": 20001,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 30010,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 30011,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 30012,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 30013,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 30014,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 30015,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 30016,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 30017,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 30018,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 30019,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 20002,
+        "ItemID": 20002,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 30020,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 30021,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 30022,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 30023,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 30024,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 30025,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 30026,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 30027,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 30028,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 30029,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 20003,
+        "ItemID": 20003,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 30030,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 30031,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 30032,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 30033,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 30034,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 30035,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 30036,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 30037,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 30038,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 30039,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 20004,
+        "ItemID": 20004,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 30040,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 30041,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 30042,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 30043,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 30044,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 30045,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 30046,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 30047,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 30048,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 30049,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 20005,
+        "ItemID": 20005,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 30050,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 30051,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 30052,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 30053,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 30054,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 30055,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 30056,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 30057,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 30058,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 30059,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 20006,
+        "ItemID": 20006,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 30060,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 30061,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 30062,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 30063,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 30064,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 30065,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 30066,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 30067,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 30068,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 30069,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 20007,
+        "ItemID": 20007,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 30070,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 30071,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 30072,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 30073,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 30074,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 30075,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 30076,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 30077,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 30078,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 30079,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 20008,
+        "ItemID": 20008,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 30080,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 30081,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 30082,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 30083,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 30084,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 30085,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 30086,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 30087,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 30088,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 30089,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 20009,
+        "ItemID": 20009,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 30090,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 30091,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 30092,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 30093,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 30094,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 30095,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 30096,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 30097,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 30098,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 30099,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 20010,
+        "ItemID": 20010,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 30100,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 30101,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 30102,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 30103,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 30104,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 30105,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 30106,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 30107,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 30108,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 30109,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 20101,
+        "ItemID": 20101,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 31010,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 31011,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 31012,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 31013,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 31014,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 31015,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 31016,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 31017,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 31018,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 31019,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 1
+      },
+      {
+        "ID": 20102,
+        "ItemID": 20102,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 31020,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 31021,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 31022,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 31023,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 31024,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 31025,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 31026,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 31027,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 31028,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 31029,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 1
+      },
+      {
+        "ID": 20103,
+        "ItemID": 20103,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 31030,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 31031,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 31032,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 31033,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 31034,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 31035,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 31036,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 31037,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 31038,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 31039,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 1
+      },
+      {
+        "ID": 20104,
+        "ItemID": 20104,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 31040,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 31041,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 31042,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 31043,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 31044,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 31045,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 31046,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 31047,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 31048,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 31049,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 1
+      },
+      {
+        "ID": 20105,
+        "ItemID": 20105,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 31050,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 31051,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 31052,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 31053,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 31054,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 31055,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 31056,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 31057,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 31058,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 31059,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 1
+      },
+      {
+        "ID": 20106,
+        "ItemID": 20106,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 31060,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 31061,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 31062,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 31063,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 31064,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 31065,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 31066,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 31067,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 31068,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 31069,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 1
+      },
+      {
+        "ID": 20107,
+        "ItemID": 20107,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 31070,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 31071,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 31072,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 31073,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 31074,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 31075,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 31076,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 31077,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 31078,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 31079,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 1
+      },
+      {
+        "ID": 20108,
+        "ItemID": 20108,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 31080,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 31081,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 31082,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 31083,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 31084,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 31085,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 31086,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 31087,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 31088,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 31089,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 1
+      },
+      {
+        "ID": 20109,
+        "ItemID": 20109,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 31090,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 31091,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 31092,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 31093,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 31094,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 31095,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 31096,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 31097,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 31098,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 31099,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 1
+      },
+      {
+        "ID": 20110,
+        "ItemID": 20110,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 31100,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 31101,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 31102,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 31103,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 31104,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 31105,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 31106,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 31107,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 31108,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 31109,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 1
+      },
+      {
+        "ID": 20201,
+        "ItemID": 20201,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 32010,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 32011,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 32012,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 32013,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 32014,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 32015,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 32016,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 32017,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 32018,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 32019,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 2
+      },
+      {
+        "ID": 20202,
+        "ItemID": 20202,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 32020,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 32021,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 32022,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 32023,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 32024,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 32025,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 32026,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 32027,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 32028,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 32029,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 2
+      },
+      {
+        "ID": 20203,
+        "ItemID": 20203,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 32030,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 32031,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 32032,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 32033,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 32034,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 32035,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 32036,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 32037,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 32038,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 32039,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 2
+      },
+      {
+        "ID": 20204,
+        "ItemID": 20204,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 32040,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 32041,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 32042,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 32043,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 32044,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 32045,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 32046,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 32047,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 32048,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 32049,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 2
+      },
+      {
+        "ID": 20205,
+        "ItemID": 20205,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 32050,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 32051,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 32052,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 32053,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 32054,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 32055,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 32056,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 32057,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 32058,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 32059,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 2
+      },
+      {
+        "ID": 20206,
+        "ItemID": 20206,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 32060,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 32061,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 32062,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 32063,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 32064,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 32065,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 32066,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 32067,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 32068,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 32069,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 2
+      },
+      {
+        "ID": 20207,
+        "ItemID": 20207,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 32070,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 32071,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 32072,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 32073,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 32074,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 32075,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 32076,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 32077,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 32078,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 32079,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 2
+      },
+      {
+        "ID": 20208,
+        "ItemID": 20208,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 32080,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 32081,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 32082,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 32083,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 32084,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 32085,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 32086,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 32087,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 32088,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 32089,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 2
+      },
+      {
+        "ID": 20209,
+        "ItemID": 20209,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 32090,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 32091,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 32092,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 32093,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 32094,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 32095,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 32096,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 32097,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 32098,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 32099,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 2
+      },
+      {
+        "ID": 20210,
+        "ItemID": 20210,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 32100,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 32101,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 32102,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 32103,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 32104,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 32105,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 32106,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 32107,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 32108,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 32109,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 2
+      },
+      {
+        "ID": 20301,
+        "ItemID": 20301,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 33010,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 33011,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 33012,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 33013,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 33014,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 33015,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 33016,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 33017,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 33018,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 33019,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 3
+      },
+      {
+        "ID": 20302,
+        "ItemID": 20302,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 33020,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 33021,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 33022,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 33023,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 33024,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 33025,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 33026,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 33027,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 33028,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 33029,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 3
+      },
+      {
+        "ID": 20303,
+        "ItemID": 20303,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 33030,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 33031,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 33032,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 33033,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 33034,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 33035,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 33036,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 33037,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 33038,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 33039,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 3
+      },
+      {
+        "ID": 20304,
+        "ItemID": 20304,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 33040,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 33041,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 33042,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 33043,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 33044,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 33045,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 33046,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 33047,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 33048,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 33049,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 3
+      },
+      {
+        "ID": 20305,
+        "ItemID": 20305,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 33050,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 33051,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 33052,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 33053,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 33054,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 33055,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 33056,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 33057,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 33058,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 33059,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 3
+      },
+      {
+        "ID": 20306,
+        "ItemID": 20306,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 33060,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 33061,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 33062,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 33063,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 33064,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 33065,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 33066,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 33067,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 33068,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 33069,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 3
+      },
+      {
+        "ID": 20307,
+        "ItemID": 20307,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 33070,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 33071,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 33072,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 33073,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 33074,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 33075,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 33076,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 33077,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 33078,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 33079,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 3
+      },
+      {
+        "ID": 20308,
+        "ItemID": 20308,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 33080,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 33081,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 33082,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 33083,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 33084,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 33085,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 33086,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 33087,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 33088,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 33089,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 3
+      },
+      {
+        "ID": 20309,
+        "ItemID": 20309,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 33090,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 33091,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 33092,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 33093,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 33094,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 33095,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 33096,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 33097,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 33098,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 33099,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 3
+      },
+      {
+        "ID": 20310,
+        "ItemID": 20310,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 33100,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 33101,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 33102,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 33103,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 33104,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 33105,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 33106,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 33107,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 33108,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 33109,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 3
+      },
+      {
+        "ID": 20401,
+        "ItemID": 20401,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 34010,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 34011,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 34012,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 34013,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 34014,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 34015,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 34016,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 34017,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 34018,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 34019,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 4
+      },
+      {
+        "ID": 20402,
+        "ItemID": 20402,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 34020,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 34021,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 34022,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 34023,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 34024,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 34025,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 34026,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 34027,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 34028,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 34029,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 4
+      },
+      {
+        "ID": 20403,
+        "ItemID": 20403,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 34030,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 34031,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 34032,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 34033,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 34034,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 34035,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 34036,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 34037,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 34038,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 34039,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 4
+      },
+      {
+        "ID": 20404,
+        "ItemID": 20404,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 34040,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 34041,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 34042,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 34043,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 34044,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 34045,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 34046,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 34047,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 34048,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 34049,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 4
+      },
+      {
+        "ID": 20405,
+        "ItemID": 20405,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 34050,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 34051,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 34052,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 34053,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 34054,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 34055,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 34056,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 34057,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 34058,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 34059,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 4
+      },
+      {
+        "ID": 20406,
+        "ItemID": 20406,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 34060,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 34061,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 34062,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 34063,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 34064,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 34065,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 34066,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 34067,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 34068,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 34069,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 4
+      },
+      {
+        "ID": 20407,
+        "ItemID": 20407,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 34070,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 34071,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 34072,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 34073,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 34074,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 34075,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 34076,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 34077,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 34078,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 34079,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 4
+      },
+      {
+        "ID": 20408,
+        "ItemID": 20408,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 34080,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 34081,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 34082,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 34083,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 34084,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 34085,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 34086,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 34087,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 34088,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 34089,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 4
+      },
+      {
+        "ID": 20409,
+        "ItemID": 20409,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 34090,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 34091,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 34092,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 34093,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 34094,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 34095,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 34096,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 34097,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 34098,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 34099,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 4
+      },
+      {
+        "ID": 20410,
+        "ItemID": 20410,
+        "InscriptionGroupInfo": [
+          {
+            "Level": 1,
+            "PassiveSpellID": 34100,
+            "NeedGoldCount": 1000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "PassiveSpellID": 34101,
+            "NeedGoldCount": 1500,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 5
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "PassiveSpellID": 34102,
+            "NeedGoldCount": 2000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 8
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "PassiveSpellID": 34103,
+            "NeedGoldCount": 4000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 11
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 2
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "PassiveSpellID": 34104,
+            "NeedGoldCount": 5000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 14
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "PassiveSpellID": 34105,
+            "NeedGoldCount": 6000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 17
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "PassiveSpellID": 34106,
+            "NeedGoldCount": 7000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 20
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "PassiveSpellID": 34107,
+            "NeedGoldCount": 8000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 23
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "PassiveSpellID": 34108,
+            "NeedGoldCount": 9000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 26
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "PassiveSpellID": 34109,
+            "NeedGoldCount": 10000,
+            "InscriptionNeedItem": [
+              {
+                "NeedItemID": 205,
+                "ItemCount": 29
+              },
+              {
+                "NeedItemID": 206,
+                "ItemCount": 8
+              }
+            ]
+          }
+        ],
+        "NewWeaponSystemType": 4
+      }
+    ]
+  }
+}

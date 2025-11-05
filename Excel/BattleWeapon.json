@@ -1,0 +1,69 @@
+{
+  "BattleWeaponTask": {
+    "Datas": [
+      {
+        "ID": 10010,
+        "TextID": 1,
+        "IconID": 100,
+        "VirualWeaponID": 1101201,
+        "UseCharacterPoolID": 1,
+        "AssetFullName": "Level/Mission/TestSceneBattle001/MissionBattle_11010",
+        "NewUnlockTaskType": 4,
+        "NewTaskType": 4
+      },
+      {
+        "ID": 10011,
+        "TextID": 2,
+        "PreTaskID": 10010,
+        "VirualWeaponID": 1101301,
+        "UseCharacterPoolID": 1,
+        "NewUnlockTaskType": 4,
+        "NewTaskType": 4
+      }
+    ]
+  },
+  "BattleWeaponCharacterPool": {
+    "Datas": [
+      {
+        "ID": 1,
+        "BattleWeaponCharacterPoolGroupInfo": [
+          {
+            "Index": 1,
+            "NewWeaponType": 1,
+            "NewCharacterType": 1
+          },
+          {
+            "Index": 2,
+            "NewWeaponType": 3,
+            "NewCharacterType": 1
+          },
+          {
+            "Index": 3,
+            "CharacterID": 401001
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "BattleWeaponCharacterPoolGroupInfo": [
+          {
+            "Index": 1,
+            "CharacterID": 101001
+          },
+          {
+            "Index": 2,
+            "CharacterID": 101002
+          },
+          {
+            "Index": 3,
+            "CharacterID": 101003
+          },
+          {
+            "Index": 4,
+            "CharacterID": 102001
+          }
+        ]
+      }
+    ]
+  }
+}

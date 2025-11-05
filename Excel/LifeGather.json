@@ -1,0 +1,3583 @@
+{
+  "LifeGather": {
+    "Datas": [
+      {
+        "ID": 1,
+        "UpgradeLevelByProficiency": 10000
+      }
+    ]
+  },
+  "LifeGatherItem": {
+    "Datas": [
+      {
+        "ID": 20200001,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20200001,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 122000011,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 122000012,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 122000013,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 122000014,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 1
+      },
+      {
+        "ID": 20200002,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20200002,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 122000021,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 122000022,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 122000023,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 122000024,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 1
+      },
+      {
+        "ID": 20300001,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20300001,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 123000011,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 123000012,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 123000013,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 123000014,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 2
+      },
+      {
+        "ID": 20300002,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20300002,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 123000021,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 123000022,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 123000023,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 123000024,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 2
+      },
+      {
+        "ID": 20500001,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20500001,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 125000011,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 125000012,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 125000013,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 125000014,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 4
+      },
+      {
+        "ID": 20500002,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20500002,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 125000021,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 125000022,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 125000023,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 125000024,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 4
+      },
+      {
+        "ID": 20400001,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400001,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000011,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 124000012,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 124000013,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 124000014,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400002,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400002,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000021,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124000022,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 124000023,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 124000024,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400003,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400003,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000031,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124000032,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 124000033,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 124000034,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400004,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400004,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000041,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 124000042,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 124000043,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 124000044,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400005,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400005,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000051,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 124000052,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 124000053,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 124000054,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400006,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400006,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000061,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 124000062,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 124000063,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 124000064,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400007,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400007,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000071,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 124000072,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 124000073,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 124000074,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400008,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400008,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000081,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 124000082,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 124000083,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 124000084,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400009,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400009,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000091,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124000092,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 124000093,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 124000094,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400010,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400010,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000101,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 124000102,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 124000103,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 124000104,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400011,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400011,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000111,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 124000112,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 124000113,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 124000114,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400012,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400012,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000121,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124000122,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 124000123,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 124000124,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400013,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400013,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000131,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 124000132,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 124000133,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 124000134,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400014,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400014,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000141,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 124000142,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 124000143,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 124000144,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400015,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400015,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000151,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124000152,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 124000153,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 124000154,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400016,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400016,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000161,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124000162,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 124000163,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 124000164,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400017,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400017,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000171,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 124000172,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 124000173,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 124000174,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400018,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400018,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000181,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 124000182,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 124000183,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 124000184,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400019,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400019,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000191,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124000192,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 124000193,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 124000194,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400020,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400020,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000201,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124000202,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 124000203,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 124000204,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400021,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400021,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000211,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124000212,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 124000213,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 124000214,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400022,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400022,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000221,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 124000222,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 124000223,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 124000224,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400023,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400023,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000231,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124000232,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 124000233,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 124000234,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400024,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400024,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124000241,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 124000242,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 124000243,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 124000244,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20100003,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100003,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000031,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121000032,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121000033,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121000034,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100004,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100004,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000041,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121000042,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121000043,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121000044,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100005,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100005,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000051,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121000052,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121000053,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121000054,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100006,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100006,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000061,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121000062,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121000063,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121000064,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100007,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100007,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000071,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121000072,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121000073,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121000074,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100008,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100008,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000081,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121000082,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121000083,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121000084,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100009,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100009,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000091,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121000092,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121000093,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121000094,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100010,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100010,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000101,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121000102,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121000103,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121000104,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100011,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100011,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000111,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121000112,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121000113,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121000114,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100012,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100012,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000121,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121000122,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121000123,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121000124,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100013,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100013,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000131,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121000132,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121000133,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121000134,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100014,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100014,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000141,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121000142,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121000143,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121000144,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100015,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100015,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000151,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121000152,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121000153,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121000154,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100016,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100016,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000161,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121000162,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121000163,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121000164,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100017,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100017,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000171,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121000172,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121000173,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121000174,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100018,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100018,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000181,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121000182,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121000183,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121000184,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100019,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100019,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000191,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121000192,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121000193,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121000194,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100020,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100020,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000201,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121000202,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121000203,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121000204,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100021,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100021,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000211,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121000212,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121000213,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121000214,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100022,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100022,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000221,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121000222,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121000223,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121000224,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100023,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100023,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000231,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121000232,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121000233,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121000234,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100024,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100024,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000241,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121000242,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121000243,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121000244,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100025,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100025,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000251,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121000252,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121000253,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121000254,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100026,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100026,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000261,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121000262,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121000263,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121000264,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100027,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100027,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000271,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121000272,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121000273,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121000274,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100028,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100028,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000281,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121000282,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121000283,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121000284,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100029,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100029,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000291,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121000292,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121000293,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121000294,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100030,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100030,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000301,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121000302,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121000303,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121000304,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100031,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100031,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000311,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121000312,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121000313,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121000314,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100032,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100032,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000321,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121000322,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121000323,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121000324,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100033,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100033,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000331,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121000332,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121000333,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121000334,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100034,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100034,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121000341,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121000342,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121000343,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121000344,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20600001,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600001,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000011,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 126000012,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 126000013,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 126000014,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600002,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600002,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000021,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 126000022,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000023,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 126000024,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600003,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600003,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000031,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 126000032,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000033,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 126000034,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600004,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600004,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000041,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 126000042,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000043,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 126000044,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600005,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600005,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000051,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 126000052,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 126000053,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 126000054,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600006,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600006,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000061,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 126000062,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 126000063,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 126000064,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600007,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600007,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000071,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 126000072,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000073,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 126000074,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600008,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600008,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000081,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 126000082,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000083,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 126000084,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600009,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600009,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000091,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 126000092,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000093,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 126000094,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600010,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600010,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000101,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 126000102,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000103,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 126000104,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600011,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600011,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000111,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 126000112,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 126000113,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 126000114,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600012,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600012,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000121,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 126000122,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000123,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 126000124,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600013,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600013,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000131,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 126000132,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 126000133,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 126000134,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600014,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600014,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000141,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 126000142,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 126000143,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 126000144,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600015,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600015,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000151,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 126000152,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000153,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 126000154,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600016,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600016,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000161,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 126000162,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000163,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 126000164,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600017,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600017,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000171,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 126000172,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000173,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 126000174,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600018,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600018,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000181,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 126000182,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000183,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 126000184,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600019,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600019,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000191,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 126000192,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 126000193,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 126000194,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600020,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600020,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000201,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 126000202,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000203,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 126000204,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600021,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600021,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000211,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 126000212,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000213,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 126000214,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600022,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600022,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000221,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 126000222,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000223,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 126000224,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600023,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600023,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000231,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 126000232,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000233,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 126000234,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600024,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600024,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000241,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 126000242,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 126000243,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 126000244,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600025,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600025,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000251,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 126000252,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 126000253,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 126000254,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600026,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600026,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000261,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 126000262,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 126000263,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 126000264,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20600027,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20600027,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 126000271,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 126000272,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 126000273,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 126000274,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 5
+      },
+      {
+        "ID": 20100101,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100101,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121001011,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121001012,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121001013,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121001014,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100102,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100102,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121001021,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121001022,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121001023,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121001024,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100103,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100103,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121001031,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121001032,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121001033,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121001034,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100104,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100104,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121001041,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121001042,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121001043,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121001044,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100105,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100105,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121001051,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121001052,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121001053,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121001054,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100106,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100106,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121001061,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121001062,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121001063,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121001064,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100107,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100107,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121001071,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121001072,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121001073,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121001074,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100201,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100201,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121002011,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121002012,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121002013,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121002014,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100202,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100202,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121002021,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121002022,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121002023,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121002024,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100203,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100203,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121002031,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121002032,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121002033,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121002034,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100204,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100204,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121002041,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121002042,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121002043,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121002044,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100205,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100205,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121002051,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121002052,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121002053,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121002054,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100206,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100206,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121002061,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121002062,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121002063,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121002064,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100207,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100207,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121002071,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121002072,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121002073,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121002074,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100301,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100301,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121003011,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121003012,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121003013,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121003014,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100302,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100302,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121003021,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121003022,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121003023,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121003024,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100303,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100303,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121003031,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121003032,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121003033,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121003034,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100304,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100304,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121003041,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121003042,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121003043,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121003044,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100305,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100305,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121003051,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121003052,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121003053,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121003054,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100306,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100306,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121003061,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121003062,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121003063,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121003064,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100307,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100307,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121003071,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121003072,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121003073,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121003074,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100401,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100401,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121004011,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121004012,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121004013,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121004014,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 20100402,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100402,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121004021,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121004022,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121004023,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121004024,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100403,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100403,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121004031,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121004032,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121004033,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121004034,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100404,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100404,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121004041,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121004042,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 121004043,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121004044,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100405,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100405,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121004051,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 121004052,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121004053,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 121004054,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20100406,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100406,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121004061,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 121004062,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 121004063,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 121004064,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 20100407,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20100407,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 121004071,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 121004072,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 121004073,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 121004074,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 20400101,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400101,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124001011,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124001012,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 124001013,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 124001014,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400102,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400102,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124001021,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 124001022,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 124001023,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 124001024,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400103,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400103,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124001031,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124001032,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 124001033,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 124001034,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400104,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400104,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124001041,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 124001042,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 124001043,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 124001044,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400105,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400105,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124001051,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 124001052,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 124001053,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 124001054,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400106,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400106,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124001061,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 124001062,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 124001063,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 124001064,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400107,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400107,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124001071,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124001072,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 124001073,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 124001074,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400201,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400201,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124002011,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 124002012,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 124002013,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 124002014,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400202,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400202,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124002021,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124002022,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 124002023,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 124002024,
+            "RewardID": 10140
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400203,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400203,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124002031,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124002032,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 124002033,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 124002034,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400204,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400204,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124002041,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 124002042,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 124002043,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 124002044,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400205,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400205,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124002051,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 124002052,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 124002053,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 124002054,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400206,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400206,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124002061,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 124002062,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 124002063,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 124002064,
+            "RewardID": 10240
+          }
+        ],
+        "NewGatherType": 3
+      },
+      {
+        "ID": 20400207,
+        "IsShow": true,
+        "GatherLevel": 1,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "ItemID": 20400207,
+        "LifeGatherAchieveRewards": [
+          {
+            "AchieveConditionID": 124002071,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 124002072,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 124002073,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 124002074,
+            "RewardID": 10340
+          }
+        ],
+        "NewGatherType": 3
+      }
+    ]
+  },
+  "LifeGatherSpell": {
+    "Datas": [
+      {
+        "ID": 36100,
+        "LifeGatherSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 36100,
+            "TextID": 36101,
+            "NeedGatherLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 36100,
+            "TextID": 36102,
+            "NeedGatherLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000
+          },
+          {
+            "Level": 3,
+            "IconID": 36100,
+            "TextID": 36103,
+            "NeedGatherLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000
+          },
+          {
+            "Level": 4,
+            "IconID": 36100,
+            "TextID": 36104,
+            "NeedGatherLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000
+          },
+          {
+            "Level": 5,
+            "IconID": 36100,
+            "TextID": 36105,
+            "NeedGatherLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000
+          },
+          {
+            "Level": 6,
+            "IconID": 36100,
+            "TextID": 36106,
+            "NeedGatherLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000
+          },
+          {
+            "Level": 7,
+            "IconID": 36100,
+            "TextID": 36107,
+            "NeedGatherLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000
+          },
+          {
+            "Level": 8,
+            "IconID": 36100,
+            "TextID": 36108,
+            "NeedGatherLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000
+          },
+          {
+            "Level": 9,
+            "IconID": 36100,
+            "TextID": 36109,
+            "NeedGatherLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000
+          },
+          {
+            "Level": 10,
+            "IconID": 36100,
+            "TextID": 36110,
+            "NeedGatherLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 40000
+          }
+        ]
+      }
+    ]
+  }
+}

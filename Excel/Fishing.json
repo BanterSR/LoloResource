@@ -1,0 +1,3490 @@
+{
+  "FishingLevel": {
+    "Datas": [
+      {
+        "ID": 1,
+        "UpgradeLevelByProficiency": 10000,
+        "UpLevelNeedItemID": 101,
+        "UpLevelNeedItemCount": 1000,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "FishingLevelQuest": [
+          {
+            "AchieveConditionID": 100210101,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210102,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210103,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210104,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210105,
+            "Proficiency": 300,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100210106,
+            "Proficiency": 300,
+            "CompleteLimit": 10
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "UpgradeLevelByProficiency": 10000,
+        "UpLevelNeedItemID": 101,
+        "UpLevelNeedItemCount": 2000,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "FishingLevelQuest": [
+          {
+            "AchieveConditionID": 100210201,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210202,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210203,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210204,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210205,
+            "Proficiency": 200,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100210206,
+            "Proficiency": 200,
+            "CompleteLimit": 10
+          }
+        ]
+      },
+      {
+        "ID": 3,
+        "UpgradeLevelByProficiency": 10000,
+        "UpLevelNeedItemID": 101,
+        "UpLevelNeedItemCount": 3000,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "FishingLevelQuest": [
+          {
+            "AchieveConditionID": 100210301,
+            "Proficiency": 100,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100210302,
+            "Proficiency": 600,
+            "CompleteLimit": 5
+          },
+          {
+            "AchieveConditionID": 100210303,
+            "Proficiency": 100,
+            "CompleteLimit": 40
+          },
+          {
+            "AchieveConditionID": 100210304,
+            "Proficiency": 100,
+            "CompleteLimit": 40
+          },
+          {
+            "AchieveConditionID": 100210305,
+            "Proficiency": 200,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100210306,
+            "Proficiency": 200,
+            "CompleteLimit": 10
+          }
+        ]
+      },
+      {
+        "ID": 4,
+        "UpgradeLevelByProficiency": 10000,
+        "UpLevelNeedItemID": 101,
+        "UpLevelNeedItemCount": 5000,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "FishingLevelQuest": [
+          {
+            "AchieveConditionID": 100210401,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210402,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210403,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210404,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210405,
+            "Proficiency": 300,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100210406,
+            "Proficiency": 300,
+            "CompleteLimit": 10
+          }
+        ]
+      },
+      {
+        "ID": 5,
+        "UpgradeLevelByProficiency": 10000,
+        "UpLevelNeedItemID": 101,
+        "UpLevelNeedItemCount": 8000,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "FishingLevelQuest": [
+          {
+            "AchieveConditionID": 100210501,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210502,
+            "Proficiency": 100,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100210503,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210504,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210505,
+            "Proficiency": 200,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100210506,
+            "Proficiency": 200,
+            "CompleteLimit": 10
+          }
+        ]
+      },
+      {
+        "ID": 6,
+        "UpgradeLevelByProficiency": 10000,
+        "UpLevelNeedItemID": 101,
+        "UpLevelNeedItemCount": 10000,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "FishingLevelQuest": [
+          {
+            "AchieveConditionID": 100210601,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210602,
+            "Proficiency": 300,
+            "CompleteLimit": 5
+          },
+          {
+            "AchieveConditionID": 100210603,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210604,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210605,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210606,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          }
+        ]
+      },
+      {
+        "ID": 7,
+        "UpgradeLevelByProficiency": 10000,
+        "UpLevelNeedItemID": 101,
+        "UpLevelNeedItemCount": 15000,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "FishingLevelQuest": [
+          {
+            "AchieveConditionID": 100210701,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210702,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210703,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210704,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210705,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210706,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          }
+        ]
+      },
+      {
+        "ID": 8,
+        "UpgradeLevelByProficiency": 10000,
+        "UpLevelNeedItemID": 101,
+        "UpLevelNeedItemCount": 20000,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "FishingLevelQuest": [
+          {
+            "AchieveConditionID": 100210801,
+            "Proficiency": 150,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100210802,
+            "Proficiency": 150,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100210803,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210804,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210805,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210806,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          }
+        ]
+      },
+      {
+        "ID": 9,
+        "UpgradeLevelByProficiency": 10000,
+        "UpLevelNeedItemID": 101,
+        "UpLevelNeedItemCount": 30000,
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "FishingLevelQuest": [
+          {
+            "AchieveConditionID": 100210901,
+            "Proficiency": 150,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100210902,
+            "Proficiency": 50,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100210903,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210904,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210905,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100210906,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          }
+        ]
+      },
+      {
+        "ID": 10,
+        "UpgradeLevelByProficiency": 10000,
+        "UpLevelNeedItemID": 101,
+        "UpLevelNeedItemCount": 1000,
+        "NeedItemID": 11,
+        "NeedItemCount": 1
+      }
+    ]
+  },
+  "FishingSpell": {
+    "Datas": [
+      {
+        "ID": 30100,
+        "FishingSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 32100,
+            "TextID": 32101,
+            "NewLifeSpellEffectType": 11,
+            "Param1": 0.1,
+            "NeedFishLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 32100,
+            "TextID": 32102,
+            "NewLifeSpellEffectType": 11,
+            "Param1": 0.12,
+            "NeedFishLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 32100,
+            "TextID": 32103,
+            "NewLifeSpellEffectType": 11,
+            "Param1": 0.14,
+            "NeedFishLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 32100,
+            "TextID": 32104,
+            "NewLifeSpellEffectType": 11,
+            "Param1": 0.16,
+            "NeedFishLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 32100,
+            "TextID": 32105,
+            "NewLifeSpellEffectType": 11,
+            "Param1": 0.18,
+            "NeedFishLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 32100,
+            "TextID": 32106,
+            "NewLifeSpellEffectType": 11,
+            "Param1": 0.2,
+            "NeedFishLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 32100,
+            "TextID": 32107,
+            "NewLifeSpellEffectType": 11,
+            "Param1": 0.22,
+            "NeedFishLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 32100,
+            "TextID": 32108,
+            "NewLifeSpellEffectType": 11,
+            "Param1": 0.24,
+            "NeedFishLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 32100,
+            "TextID": 32109,
+            "NewLifeSpellEffectType": 11,
+            "Param1": 0.26,
+            "NeedFishLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 32100,
+            "TextID": 32110,
+            "NewLifeSpellEffectType": 11,
+            "Param1": 0.28,
+            "NeedFishLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 30200,
+        "FishingSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 32200,
+            "TextID": 32201,
+            "NewLifeSpellEffectType": 12,
+            "Param1": 0.05,
+            "NeedFishLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 32200,
+            "TextID": 32202,
+            "NewLifeSpellEffectType": 12,
+            "Param1": 0.06,
+            "NeedFishLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 32200,
+            "TextID": 32203,
+            "NewLifeSpellEffectType": 12,
+            "Param1": 0.07,
+            "NeedFishLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 32200,
+            "TextID": 32204,
+            "NewLifeSpellEffectType": 12,
+            "Param1": 0.08,
+            "NeedFishLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 32200,
+            "TextID": 32205,
+            "NewLifeSpellEffectType": 12,
+            "Param1": 0.09,
+            "NeedFishLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 32200,
+            "TextID": 32206,
+            "NewLifeSpellEffectType": 12,
+            "Param1": 0.1,
+            "NeedFishLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 32200,
+            "TextID": 32207,
+            "NewLifeSpellEffectType": 12,
+            "Param1": 0.11,
+            "NeedFishLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 32200,
+            "TextID": 32208,
+            "NewLifeSpellEffectType": 12,
+            "Param1": 0.12,
+            "NeedFishLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 32200,
+            "TextID": 32209,
+            "NewLifeSpellEffectType": 12,
+            "Param1": 0.13,
+            "NeedFishLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 32200,
+            "TextID": 32210,
+            "NewLifeSpellEffectType": 12,
+            "Param1": 0.14,
+            "NeedFishLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 30300,
+        "FishingSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 32300,
+            "TextID": 32301,
+            "NewLifeSpellEffectType": 13,
+            "Param1": 0.1,
+            "NeedFishLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 32300,
+            "TextID": 32302,
+            "NewLifeSpellEffectType": 13,
+            "Param1": 0.12,
+            "NeedFishLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 32300,
+            "TextID": 32303,
+            "NewLifeSpellEffectType": 13,
+            "Param1": 0.14,
+            "NeedFishLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 32300,
+            "TextID": 32304,
+            "NewLifeSpellEffectType": 13,
+            "Param1": 0.16,
+            "NeedFishLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 32300,
+            "TextID": 32305,
+            "NewLifeSpellEffectType": 13,
+            "Param1": 0.18,
+            "NeedFishLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 32300,
+            "TextID": 32306,
+            "NewLifeSpellEffectType": 13,
+            "Param1": 0.2,
+            "NeedFishLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 32300,
+            "TextID": 32307,
+            "NewLifeSpellEffectType": 13,
+            "Param1": 0.22,
+            "NeedFishLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 32300,
+            "TextID": 32308,
+            "NewLifeSpellEffectType": 13,
+            "Param1": 0.24,
+            "NeedFishLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 32300,
+            "TextID": 32309,
+            "NewLifeSpellEffectType": 13,
+            "Param1": 0.26,
+            "NeedFishLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 32300,
+            "TextID": 32310,
+            "NewLifeSpellEffectType": 13,
+            "Param1": 0.28,
+            "NeedFishLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 30400,
+        "FishingSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 32400,
+            "TextID": 32401,
+            "NewLifeSpellEffectType": 14,
+            "Param1": 0.05,
+            "NeedFishLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 32400,
+            "TextID": 32402,
+            "NewLifeSpellEffectType": 14,
+            "Param1": 0.1,
+            "NeedFishLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 32400,
+            "TextID": 32403,
+            "NewLifeSpellEffectType": 14,
+            "Param1": 0.15,
+            "NeedFishLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 32400,
+            "TextID": 32404,
+            "NewLifeSpellEffectType": 14,
+            "Param1": 0.2,
+            "NeedFishLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 32400,
+            "TextID": 32405,
+            "NewLifeSpellEffectType": 14,
+            "Param1": 0.25,
+            "NeedFishLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 32400,
+            "TextID": 32406,
+            "NewLifeSpellEffectType": 14,
+            "Param1": 0.3,
+            "NeedFishLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 32400,
+            "TextID": 32407,
+            "NewLifeSpellEffectType": 14,
+            "Param1": 0.35,
+            "NeedFishLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 32400,
+            "TextID": 32408,
+            "NewLifeSpellEffectType": 14,
+            "Param1": 0.4,
+            "NeedFishLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 32400,
+            "TextID": 32409,
+            "NewLifeSpellEffectType": 14,
+            "Param1": 0.45,
+            "NeedFishLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 32400,
+            "TextID": 32410,
+            "NewLifeSpellEffectType": 14,
+            "Param1": 0.5,
+            "NeedFishLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 30500,
+        "FishingSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 32500,
+            "TextID": 32501,
+            "NewLifeSpellEffectType": 15,
+            "Param1": 0.05,
+            "NeedFishLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 32500,
+            "TextID": 32502,
+            "NewLifeSpellEffectType": 15,
+            "Param1": 0.1,
+            "NeedFishLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 32500,
+            "TextID": 32503,
+            "NewLifeSpellEffectType": 15,
+            "Param1": 0.15,
+            "NeedFishLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 32500,
+            "TextID": 32504,
+            "NewLifeSpellEffectType": 15,
+            "Param1": 0.2,
+            "NeedFishLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 32500,
+            "TextID": 32505,
+            "NewLifeSpellEffectType": 15,
+            "Param1": 0.25,
+            "NeedFishLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 32500,
+            "TextID": 32506,
+            "NewLifeSpellEffectType": 15,
+            "Param1": 0.3,
+            "NeedFishLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 32500,
+            "TextID": 32507,
+            "NewLifeSpellEffectType": 15,
+            "Param1": 0.35,
+            "NeedFishLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 32500,
+            "TextID": 32508,
+            "NewLifeSpellEffectType": 15,
+            "Param1": 0.4,
+            "NeedFishLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 32500,
+            "TextID": 32509,
+            "NewLifeSpellEffectType": 15,
+            "Param1": 0.45,
+            "NeedFishLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 32500,
+            "TextID": 32510,
+            "NewLifeSpellEffectType": 15,
+            "Param1": 0.5,
+            "NeedFishLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 30600,
+        "FishingSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 32600,
+            "TextID": 32601,
+            "NewLifeSpellEffectType": 16,
+            "Param1": 0.05,
+            "NeedFishLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 32600,
+            "TextID": 32602,
+            "NewLifeSpellEffectType": 16,
+            "Param1": 0.1,
+            "NeedFishLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 32600,
+            "TextID": 32603,
+            "NewLifeSpellEffectType": 16,
+            "Param1": 0.15,
+            "NeedFishLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 32600,
+            "TextID": 32604,
+            "NewLifeSpellEffectType": 16,
+            "Param1": 0.2,
+            "NeedFishLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000001,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 32600,
+            "TextID": 32605,
+            "NewLifeSpellEffectType": 16,
+            "Param1": 0.25,
+            "NeedFishLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 32600,
+            "TextID": 32606,
+            "NewLifeSpellEffectType": 16,
+            "Param1": 0.3,
+            "NeedFishLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 32600,
+            "TextID": 32607,
+            "NewLifeSpellEffectType": 16,
+            "Param1": 0.35,
+            "NeedFishLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000002,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 32600,
+            "TextID": 32608,
+            "NewLifeSpellEffectType": 16,
+            "Param1": 0.4,
+            "NeedFishLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 32600,
+            "TextID": 32609,
+            "NewLifeSpellEffectType": 16,
+            "Param1": 0.45,
+            "NeedFishLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 32600,
+            "TextID": 32610,
+            "NewLifeSpellEffectType": 16,
+            "Param1": 0.5,
+            "NeedFishLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "FishingNeedItem": [
+              {
+                "NeedItemID": 5000003,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "FishingEvent": {
+    "Datas": [
+      {
+        "ID": 100,
+        "FishingEventItems": [
+          {
+            "Index": 1,
+            "TriggerTimeCoe": 0.05,
+            "Param1": -5,
+            "DesciptionID": 100
+          },
+          {
+            "Index": 2,
+            "TriggerTimeCoe": 0.05,
+            "NewFishEventType": 2,
+            "Param1": 0.05,
+            "DesciptionID": 101
+          },
+          {
+            "Index": 3,
+            "TriggerTimeCoe": 0.05,
+            "NewFishEventType": 2,
+            "Param1": -0.2,
+            "DesciptionID": 102
+          }
+        ]
+      },
+      {
+        "ID": 200,
+        "FishingEventItems": [
+          {
+            "Index": 1,
+            "NewFishActionType": 1,
+            "TriggerTimeCoe": 0.3,
+            "NewFishEventType": 1,
+            "Param1": 1,
+            "Param2": 0.5,
+            "DesciptionID": 200
+          },
+          {
+            "Index": 2,
+            "NewFishActionType": 1,
+            "TriggerTimeCoe": 0.3,
+            "NewFishEventType": 1,
+            "Param1": 2,
+            "Param2": 0.5,
+            "DesciptionID": 201
+          },
+          {
+            "Index": 3,
+            "NewFishActionType": 1,
+            "TriggerTimeCoe": 0.3,
+            "NewFishEventType": 1,
+            "Param1": 3,
+            "Param2": 0.5,
+            "DesciptionID": 202
+          },
+          {
+            "Index": 4,
+            "NewFishActionType": 1,
+            "TriggerTimeCoe": 0.3,
+            "NewFishEventType": 1,
+            "Param1": 4,
+            "Param2": 0.5,
+            "DesciptionID": 203
+          }
+        ]
+      },
+      {
+        "ID": 204,
+        "FishingEventItems": [
+          {
+            "Index": 1,
+            "NewFishActionType": 1,
+            "TriggerTimeCoe": 0.4,
+            "NewFishEventType": 2,
+            "Param1": 0.05,
+            "DesciptionID": 204
+          }
+        ]
+      },
+      {
+        "ID": 210,
+        "FishingEventItems": [
+          {
+            "Index": 1,
+            "NewFishActionType": 1,
+            "TriggerTimeCoe": 0.5,
+            "NewFishEventType": 4,
+            "Param1": 30400,
+            "DesciptionID": 210
+          }
+        ]
+      },
+      {
+        "ID": 220,
+        "FishingEventItems": [
+          {
+            "Index": 1,
+            "NewFishActionType": 1,
+            "TriggerTimeCoe": 0.5,
+            "NewFishEventType": 4,
+            "Param1": 30500,
+            "DesciptionID": 220
+          }
+        ]
+      },
+      {
+        "ID": 230,
+        "FishingEventItems": [
+          {
+            "Index": 1,
+            "NewFishActionType": 1,
+            "TriggerTimeCoe": 0.5,
+            "NewFishEventType": 4,
+            "Param1": 30600,
+            "DesciptionID": 230
+          }
+        ]
+      },
+      {
+        "ID": 240,
+        "FishingEventItems": [
+          {
+            "Index": 1,
+            "NewFishActionType": 1,
+            "TriggerTimeCoe": 0.7,
+            "NewFishEventType": 2,
+            "Param1": 0.01,
+            "DesciptionID": 240
+          }
+        ]
+      },
+      {
+        "ID": 250,
+        "FishingEventItems": [
+          {
+            "Index": 1,
+            "NewFishActionType": 1,
+            "TriggerTimeCoe": 0.8,
+            "NewFishEventType": 2,
+            "Param1": 0.01,
+            "DesciptionID": 250
+          }
+        ]
+      },
+      {
+        "ID": 260,
+        "FishingEventItems": [
+          {
+            "Index": 1,
+            "NewFishActionType": 1,
+            "TriggerTimeCoe": 0.9,
+            "NewFishEventType": 2,
+            "Param1": 0.1,
+            "DesciptionID": 260
+          }
+        ]
+      },
+      {
+        "ID": 300,
+        "FishingEventItems": [
+          {
+            "Index": 1,
+            "NewFishActionType": 2,
+            "TriggerTimeCoe": 0.95,
+            "Param1": -5,
+            "DesciptionID": 301
+          },
+          {
+            "Index": 2,
+            "NewFishActionType": 2,
+            "TriggerTimeCoe": 0.95,
+            "NewFishEventType": 3,
+            "Param1": 1,
+            "DesciptionID": 302
+          }
+        ]
+      }
+    ]
+  },
+  "FishingInfo": {
+    "Datas": [
+      {
+        "ID": 5022001,
+        "NeedLevel": 1,
+        "ItemID": 5022001,
+        "IsShow": true,
+        "NewFishClassifyType": 3,
+        "NewDayType": 2,
+        "UITypeID": 5,
+        "MinSize": 25,
+        "MaxSize": 40,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150220011,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150220012,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150220013,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150220014,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5022002,
+        "NeedLevel": 1,
+        "ItemID": 5022002,
+        "IsShow": true,
+        "NewFishClassifyType": 3,
+        "NewDayType": 2,
+        "UITypeID": 5,
+        "MinSize": 8,
+        "MaxSize": 15,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150220021,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150220022,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150220023,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150220024,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5022003,
+        "NeedLevel": 1,
+        "ItemID": 5022003,
+        "IsShow": true,
+        "NewFishClassifyType": 3,
+        "NewDayType": 2,
+        "UITypeID": 5,
+        "MinSize": 10,
+        "MaxSize": 20,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150220031,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150220032,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150220033,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150220034,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5022004,
+        "NeedLevel": 1,
+        "ItemID": 5022004,
+        "IsShow": true,
+        "NewFishClassifyType": 3,
+        "NewDayType": 2,
+        "UITypeID": 5,
+        "MinSize": 32,
+        "MaxSize": 43,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150220041,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150220042,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150220043,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150220044,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5022005,
+        "NeedLevel": 1,
+        "ItemID": 5022005,
+        "IsShow": true,
+        "NewFishClassifyType": 4,
+        "NewDayType": 2,
+        "UITypeID": 6,
+        "MinSize": 25,
+        "MaxSize": 40,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150220051,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150220052,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150220053,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150220054,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5022006,
+        "NeedLevel": 3,
+        "ItemID": 5022006,
+        "IsShow": true,
+        "NewFishClassifyType": 4,
+        "NewDayType": 2,
+        "UITypeID": 6,
+        "MinSize": 10,
+        "MaxSize": 22,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150220061,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150220062,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150220063,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150220064,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5022007,
+        "NeedLevel": 5,
+        "ItemID": 5022007,
+        "IsShow": true,
+        "NewFishClassifyType": 4,
+        "NewDayType": 2,
+        "UITypeID": 6,
+        "MinSize": 30,
+        "MaxSize": 120,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150220071,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150220072,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150220073,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150220074,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5022008,
+        "NeedLevel": 7,
+        "ItemID": 5022008,
+        "IsShow": true,
+        "NewFishClassifyType": 4,
+        "NewDayType": 2,
+        "UITypeID": 6,
+        "MinSize": 33,
+        "MaxSize": 87,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150220081,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150220082,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150220083,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150220084,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5022009,
+        "NeedLevel": 9,
+        "ItemID": 5022009,
+        "IsShow": true,
+        "NewFishClassifyType": 4,
+        "NewDayType": 2,
+        "UITypeID": 6,
+        "MinSize": 2,
+        "MaxSize": 7,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150220091,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150220092,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150220093,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150220094,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023001,
+        "NeedLevel": 1,
+        "ItemID": 5023001,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "NewDayType": 1,
+        "UITypeID": 2,
+        "MinSize": 45,
+        "MaxSize": 55,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230011,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230012,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230013,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230014,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023002,
+        "NeedLevel": 1,
+        "ItemID": 5023002,
+        "IsShow": true,
+        "NewSizeType": 1,
+        "NewFishClassifyType": 1,
+        "NewDayType": 2,
+        "UITypeID": 3,
+        "MinSize": 27,
+        "MaxSize": 39,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230021,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230022,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230023,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230024,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023003,
+        "NeedLevel": 1,
+        "ItemID": 5023003,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "UITypeID": 2,
+        "MinSize": 53,
+        "MaxSize": 82,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230031,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230032,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230033,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230034,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023004,
+        "NeedLevel": 1,
+        "ItemID": 5023004,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "NewDayType": 2,
+        "UITypeID": 2,
+        "MinSize": 74,
+        "MaxSize": 116,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230041,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230042,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230043,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230044,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023005,
+        "NeedLevel": 2,
+        "ItemID": 5023005,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "NewDayType": 1,
+        "UITypeID": 2,
+        "MinSize": 23,
+        "MaxSize": 38,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230051,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230052,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230053,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230054,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023006,
+        "NeedLevel": 2,
+        "ItemID": 5023006,
+        "IsShow": true,
+        "NewSizeType": 3,
+        "NewFishClassifyType": 1,
+        "NewDayType": 2,
+        "UITypeID": 1,
+        "MinSize": 72,
+        "MaxSize": 112,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230061,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230062,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230063,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230064,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023007,
+        "NeedLevel": 2,
+        "ItemID": 5023007,
+        "IsShow": true,
+        "NewSizeType": 1,
+        "NewFishClassifyType": 1,
+        "NewDayType": 1,
+        "UITypeID": 3,
+        "MinSize": 25,
+        "MaxSize": 37,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230071,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230072,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230073,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230074,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023008,
+        "NeedLevel": 2,
+        "ItemID": 5023008,
+        "IsShow": true,
+        "NewSizeType": 1,
+        "NewFishClassifyType": 1,
+        "NewDayType": 2,
+        "UITypeID": 3,
+        "MinSize": 78,
+        "MaxSize": 125,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230081,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230082,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230083,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230084,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023009,
+        "NeedLevel": 3,
+        "ItemID": 5023009,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "UITypeID": 2,
+        "MinSize": 22,
+        "MaxSize": 33,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230091,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230092,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230093,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230094,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023010,
+        "NeedLevel": 3,
+        "ItemID": 5023010,
+        "IsShow": true,
+        "NewSizeType": 1,
+        "NewFishClassifyType": 1,
+        "NewDayType": 2,
+        "UITypeID": 3,
+        "MinSize": 52,
+        "MaxSize": 71,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230101,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230102,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230103,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230104,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023011,
+        "NeedLevel": 3,
+        "ItemID": 5023011,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "UITypeID": 2,
+        "MinSize": 75,
+        "MaxSize": 136,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230111,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230112,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230113,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230114,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023012,
+        "NeedLevel": 3,
+        "ItemID": 5023012,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "NewDayType": 1,
+        "UITypeID": 2,
+        "MinSize": 75,
+        "MaxSize": 105,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230121,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230122,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230123,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230124,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023013,
+        "NeedLevel": 4,
+        "ItemID": 5023013,
+        "IsShow": true,
+        "NewSizeType": 3,
+        "NewFishClassifyType": 1,
+        "UITypeID": 1,
+        "MinSize": 25,
+        "MaxSize": 35,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230131,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230132,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230133,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230134,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023014,
+        "NeedLevel": 4,
+        "ItemID": 5023014,
+        "IsShow": true,
+        "NewSizeType": 1,
+        "NewFishClassifyType": 1,
+        "NewDayType": 2,
+        "UITypeID": 3,
+        "MinSize": 5,
+        "MaxSize": 9,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230141,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230142,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230143,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230144,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023015,
+        "NeedLevel": 4,
+        "ItemID": 5023015,
+        "IsShow": true,
+        "NewSizeType": 3,
+        "NewFishClassifyType": 1,
+        "NewDayType": 1,
+        "UITypeID": 1,
+        "MinSize": 73,
+        "MaxSize": 132,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230151,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230152,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230153,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230154,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023016,
+        "NeedLevel": 4,
+        "ItemID": 5023016,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "NewDayType": 2,
+        "UITypeID": 2,
+        "MinSize": 55,
+        "MaxSize": 154,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230161,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230162,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230163,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230164,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023017,
+        "NeedLevel": 5,
+        "ItemID": 5023017,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "UITypeID": 2,
+        "MinSize": 24,
+        "MaxSize": 42,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230171,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230172,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230173,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230174,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023018,
+        "NeedLevel": 5,
+        "ItemID": 5023018,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "UITypeID": 2,
+        "MinSize": 98,
+        "MaxSize": 145,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230181,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230182,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230183,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230184,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023019,
+        "NeedLevel": 5,
+        "ItemID": 5023019,
+        "IsShow": true,
+        "NewSizeType": 3,
+        "NewFishClassifyType": 1,
+        "NewDayType": 1,
+        "UITypeID": 1,
+        "MinSize": 20,
+        "MaxSize": 40,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230191,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230192,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230193,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230194,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023020,
+        "NeedLevel": 5,
+        "ItemID": 5023020,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "NewDayType": 2,
+        "UITypeID": 2,
+        "MinSize": 170,
+        "MaxSize": 240,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230201,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230202,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230203,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230204,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023021,
+        "NeedLevel": 6,
+        "ItemID": 5023021,
+        "IsShow": true,
+        "NewSizeType": 3,
+        "NewFishClassifyType": 1,
+        "UITypeID": 1,
+        "MinSize": 15,
+        "MaxSize": 30,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230211,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230212,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230213,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230214,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023022,
+        "NeedLevel": 6,
+        "ItemID": 5023022,
+        "IsShow": true,
+        "NewSizeType": 1,
+        "NewFishClassifyType": 1,
+        "UITypeID": 3,
+        "MinSize": 30,
+        "MaxSize": 50,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230221,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230222,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230223,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230224,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023023,
+        "NeedLevel": 6,
+        "ItemID": 5023023,
+        "IsShow": true,
+        "NewSizeType": 1,
+        "NewFishClassifyType": 1,
+        "NewDayType": 1,
+        "UITypeID": 3,
+        "MinSize": 70,
+        "MaxSize": 120,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230231,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230232,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230233,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230234,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023024,
+        "NeedLevel": 6,
+        "ItemID": 5023024,
+        "IsShow": true,
+        "NewSizeType": 1,
+        "NewFishClassifyType": 1,
+        "NewDayType": 2,
+        "UITypeID": 3,
+        "MinSize": 123,
+        "MaxSize": 154,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230241,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230242,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230243,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230244,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023025,
+        "NeedLevel": 7,
+        "ItemID": 5023025,
+        "IsShow": true,
+        "NewSizeType": 1,
+        "NewFishClassifyType": 1,
+        "NewDayType": 1,
+        "UITypeID": 3,
+        "MinSize": 8,
+        "MaxSize": 12,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230251,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230252,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230253,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230254,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023026,
+        "NeedLevel": 7,
+        "ItemID": 5023026,
+        "IsShow": true,
+        "NewSizeType": 1,
+        "NewFishClassifyType": 1,
+        "UITypeID": 3,
+        "MinSize": 43,
+        "MaxSize": 69,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230261,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230262,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230263,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230264,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023027,
+        "NeedLevel": 7,
+        "ItemID": 5023027,
+        "IsShow": true,
+        "NewSizeType": 1,
+        "NewFishClassifyType": 1,
+        "NewDayType": 2,
+        "UITypeID": 3,
+        "MinSize": 95,
+        "MaxSize": 120,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230271,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230272,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230273,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230274,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023028,
+        "NeedLevel": 7,
+        "ItemID": 5023028,
+        "IsShow": true,
+        "NewSizeType": 3,
+        "NewFishClassifyType": 1,
+        "UITypeID": 1,
+        "MinSize": 25,
+        "MaxSize": 50,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230281,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230282,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230283,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230284,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023029,
+        "NeedLevel": 8,
+        "ItemID": 5023029,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "UITypeID": 2,
+        "MinSize": 22,
+        "MaxSize": 34,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230291,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230292,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230293,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230294,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023030,
+        "NeedLevel": 8,
+        "ItemID": 5023030,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "NewDayType": 1,
+        "UITypeID": 2,
+        "MinSize": 20,
+        "MaxSize": 30,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230301,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230302,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230303,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230304,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023031,
+        "NeedLevel": 8,
+        "ItemID": 5023031,
+        "IsShow": true,
+        "NewSizeType": 3,
+        "NewFishClassifyType": 1,
+        "NewDayType": 2,
+        "UITypeID": 1,
+        "MinSize": 27,
+        "MaxSize": 34,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230311,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230312,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230313,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230314,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023032,
+        "NeedLevel": 8,
+        "ItemID": 5023032,
+        "IsShow": true,
+        "NewSizeType": 3,
+        "NewFishClassifyType": 1,
+        "NewDayType": 1,
+        "UITypeID": 1,
+        "MinSize": 85,
+        "MaxSize": 136,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230321,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230322,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230323,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230324,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023033,
+        "NeedLevel": 9,
+        "ItemID": 5023033,
+        "IsShow": true,
+        "NewSizeType": 3,
+        "NewFishClassifyType": 1,
+        "NewDayType": 2,
+        "UITypeID": 1,
+        "MinSize": 5,
+        "MaxSize": 10,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230331,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230332,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230333,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230334,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023034,
+        "NeedLevel": 9,
+        "ItemID": 5023034,
+        "IsShow": true,
+        "NewSizeType": 3,
+        "NewFishClassifyType": 1,
+        "NewDayType": 1,
+        "UITypeID": 1,
+        "MinSize": 50,
+        "MaxSize": 88,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230341,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230342,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230343,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230344,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023035,
+        "NeedLevel": 9,
+        "ItemID": 5023035,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "NewDayType": 1,
+        "UITypeID": 2,
+        "MinSize": 300,
+        "MaxSize": 340,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230351,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230352,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230353,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230354,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023036,
+        "NeedLevel": 9,
+        "ItemID": 5023036,
+        "IsShow": true,
+        "NewSizeType": 3,
+        "NewFishClassifyType": 1,
+        "UITypeID": 1,
+        "MinSize": 270,
+        "MaxSize": 300,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230361,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230362,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230363,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230364,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023037,
+        "NeedLevel": 10,
+        "ItemID": 5023037,
+        "IsShow": true,
+        "NewSizeType": 1,
+        "NewFishClassifyType": 1,
+        "NewDayType": 1,
+        "UITypeID": 3,
+        "MinSize": 22,
+        "MaxSize": 35,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230371,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230372,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230373,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230374,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023038,
+        "NeedLevel": 10,
+        "ItemID": 5023038,
+        "IsShow": true,
+        "NewSizeType": 2,
+        "NewFishClassifyType": 1,
+        "NewDayType": 2,
+        "UITypeID": 2,
+        "MinSize": 65,
+        "MaxSize": 77,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230381,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230382,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230383,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230384,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023039,
+        "NeedLevel": 10,
+        "ItemID": 5023039,
+        "IsShow": true,
+        "NewSizeType": 3,
+        "NewFishClassifyType": 1,
+        "UITypeID": 1,
+        "MinSize": 42,
+        "MaxSize": 63,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230391,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230392,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230393,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230394,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023040,
+        "NeedLevel": 10,
+        "ItemID": 5023040,
+        "IsShow": true,
+        "NewSizeType": 3,
+        "NewFishClassifyType": 1,
+        "NewDayType": 1,
+        "UITypeID": 1,
+        "MinSize": 167,
+        "MaxSize": 212,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230401,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230402,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230403,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230404,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023041,
+        "NeedLevel": 1,
+        "ItemID": 5023041,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 20,
+        "MaxSize": 50,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230411,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230412,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230413,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230414,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023042,
+        "NeedLevel": 1,
+        "ItemID": 5023042,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 50,
+        "MaxSize": 115,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230421,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230422,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230423,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230424,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023043,
+        "NeedLevel": 2,
+        "ItemID": 5023043,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 33,
+        "MaxSize": 52,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230431,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230432,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230433,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230434,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023044,
+        "NeedLevel": 2,
+        "ItemID": 5023044,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 50,
+        "MaxSize": 100,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230441,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230442,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230443,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230444,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023045,
+        "NeedLevel": 3,
+        "ItemID": 5023045,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 10,
+        "MaxSize": 15,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230451,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230452,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230453,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230454,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023046,
+        "NeedLevel": 3,
+        "ItemID": 5023046,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 25,
+        "MaxSize": 53,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230461,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230462,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230463,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230464,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023047,
+        "NeedLevel": 3,
+        "ItemID": 5023047,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 13,
+        "MaxSize": 20,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230471,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230472,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230473,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230474,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023048,
+        "NeedLevel": 4,
+        "ItemID": 5023048,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 8,
+        "MaxSize": 14,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230481,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230482,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230483,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230484,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023049,
+        "NeedLevel": 4,
+        "ItemID": 5023049,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 10,
+        "MaxSize": 25,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230491,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230492,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230493,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230494,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023050,
+        "NeedLevel": 5,
+        "ItemID": 5023050,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 7,
+        "MaxSize": 12,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230501,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230502,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230503,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230504,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023051,
+        "NeedLevel": 6,
+        "ItemID": 5023051,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 9,
+        "MaxSize": 14,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230511,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230512,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230513,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230514,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023052,
+        "NeedLevel": 7,
+        "ItemID": 5023052,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 10,
+        "MaxSize": 15,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230521,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230522,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230523,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230524,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 5023053,
+        "NeedLevel": 8,
+        "ItemID": 5023053,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 25,
+        "MaxSize": 49,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230531,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150230532,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150230533,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150230534,
+            "RewardID": 10240
+          }
+        ]
+      },
+      {
+        "ID": 5023054,
+        "NeedLevel": 9,
+        "ItemID": 5023054,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 8,
+        "MaxSize": 12,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230541,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150230542,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150230543,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150230544,
+            "RewardID": 10340
+          }
+        ]
+      },
+      {
+        "ID": 5023055,
+        "NeedLevel": 10,
+        "ItemID": 5023055,
+        "IsShow": true,
+        "NewFishClassifyType": 2,
+        "NewDayType": 2,
+        "UITypeID": 4,
+        "MinSize": 23,
+        "MaxSize": 67,
+        "FishAchieveRewards": [
+          {
+            "AchieveConditionID": 150230551,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150230552,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150230553,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150230554,
+            "RewardID": 10140
+          }
+        ]
+      },
+      {
+        "ID": 6022,
+        "NeedLevel": 1,
+        "ItemID": 6022,
+        "NewFishClassifyType": 3,
+        "NewDayType": 2,
+        "UITypeID": 5,
+        "MinSize": 1,
+        "MaxSize": 10
+      },
+      {
+        "ID": 6023,
+        "NeedLevel": 1,
+        "ItemID": 6023,
+        "NewFishClassifyType": 3,
+        "NewDayType": 2,
+        "UITypeID": 5,
+        "MinSize": 1,
+        "MaxSize": 10
+      },
+      {
+        "ID": 6024,
+        "NeedLevel": 1,
+        "ItemID": 6024,
+        "NewFishClassifyType": 3,
+        "NewDayType": 2,
+        "UITypeID": 5,
+        "MinSize": 1,
+        "MaxSize": 10
+      }
+    ]
+  }
+}

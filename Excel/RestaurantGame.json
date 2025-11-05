@@ -1,0 +1,1591 @@
+{
+  "RestaurantDungeon": {
+    "Datas": [
+      {
+        "ID": 1000,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1030,
+        "IsRefresh": true,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 5,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 4,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1001,
+        "ActivityID": 12000,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 2,
+            "OrderQuantity": 9,
+            "FoodType": 1
+          }
+        ]
+      },
+      {
+        "ID": 1002,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1001,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 2,
+            "OrderQuantity": 5,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 2,
+            "OrderQuantity": 4,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1003,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1002,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 2,
+            "OrderQuantity": 4,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 2,
+            "OrderQuantity": 5,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1004,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1003,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 2,
+            "OrderQuantity": 4,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 2,
+            "OrderQuantity": 3,
+            "FoodType": 2
+          },
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 2,
+            "FoodType": 1
+          }
+        ]
+      },
+      {
+        "ID": 1005,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1004,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 2,
+            "OrderQuantity": 3,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 2,
+            "OrderQuantity": 4,
+            "FoodType": 2
+          },
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 2,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1006,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1005,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 2,
+            "OrderQuantity": 3,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 2,
+            "OrderQuantity": 4,
+            "FoodType": 2
+          },
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 1,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 1,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1007,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1006,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 6,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 3,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1008,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1007,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 3,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 6,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1009,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1008,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 4,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 5,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1010,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1009,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 3,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 3,
+            "FoodType": 2
+          },
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 2,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 1,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1011,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1010,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 3,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 3,
+            "FoodType": 2
+          },
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 1,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 2,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1012,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1011,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 3,
+            "OrderQuantity": 6,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 3,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1013,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1012,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 6,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 3,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1014,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1013,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 3,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 6,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1015,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1014,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 5,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 4,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1016,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1015,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 3,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 3,
+            "FoodType": 2
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 2,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 1,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1017,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1016,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 3,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 3,
+            "FoodType": 2
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 1,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 2,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1018,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1017,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 6,
+            "FoodType": 2
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 3,
+            "FoodType": 1
+          }
+        ]
+      },
+      {
+        "ID": 1019,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1018,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 2,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 2,
+            "FoodType": 2
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 3,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 2,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1020,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1019,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 2,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 2,
+            "FoodType": 2
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 2,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 3,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1021,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1020,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 4,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 5,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1022,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1021,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 4,
+            "OrderQuantity": 4,
+            "FoodType": 2
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 5,
+            "FoodType": 1
+          }
+        ]
+      },
+      {
+        "ID": 1023,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1022,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 3,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 6,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1024,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1023,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 6,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 3,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1025,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1024,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 2,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 7,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1026,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1025,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 7,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 2,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1027,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1026,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 4,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 5,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1028,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1027,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 5,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 4,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1029,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1028,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 4,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 5,
+            "FoodType": 2
+          }
+        ]
+      },
+      {
+        "ID": 1030,
+        "ActivityID": 12000,
+        "UnlockDungeonID": 1029,
+        "RestaurantDungeonGroupInfo": [
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 5,
+            "FoodType": 1
+          },
+          {
+            "FoodLevel": 5,
+            "OrderQuantity": 4,
+            "FoodType": 2
+          }
+        ]
+      }
+    ]
+  },
+  "CustomerIllustration": {
+    "Datas": [
+      {
+        "ID": 12000,
+        "CustomerIllustrationGroupInfo": [
+          {
+            "AssetPath": "Texture/Background/activity/小游戏1/",
+            "AssetName": "icon_xiaoyouxi_guke_01",
+            "Index": 1
+          },
+          {
+            "AssetPath": "Texture/Background/activity/小游戏1/",
+            "AssetName": "icon_xiaoyouxi_guke_02",
+            "Index": 2
+          },
+          {
+            "AssetPath": "Texture/Background/activity/小游戏1/",
+            "AssetName": "icon_xiaoyouxi_guke_03",
+            "Index": 3
+          },
+          {
+            "AssetPath": "Texture/Background/activity/小游戏1/",
+            "AssetName": "icon_xiaoyouxi_guke_04",
+            "Index": 4
+          },
+          {
+            "AssetPath": "Texture/Background/activity/小游戏1/",
+            "AssetName": "icon_xiaoyouxi_guke_05",
+            "Index": 5
+          },
+          {
+            "AssetPath": "Texture/Background/activity/小游戏1/",
+            "AssetName": "icon_xiaoyouxi_guke_06",
+            "Index": 6
+          },
+          {
+            "AssetPath": "Texture/Background/activity/小游戏1/",
+            "AssetName": "icon_xiaoyouxi_guke_07",
+            "Index": 7
+          },
+          {
+            "AssetPath": "Texture/Background/activity/小游戏1/",
+            "AssetName": "icon_xiaoyouxi_guke_08",
+            "Index": 8
+          },
+          {
+            "AssetPath": "Texture/Background/activity/小游戏1/",
+            "AssetName": "icon_xiaoyouxi_guke_09",
+            "Index": 9
+          }
+        ]
+      }
+    ]
+  },
+  "RestaurantFoodIcon": {
+    "Datas": [
+      {
+        "ID": 12000,
+        "RestaurantFoodIconGroupInfo": [
+          {
+            "FoodIconID": 1,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_501"
+          },
+          {
+            "FoodIconID": 2,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_502"
+          },
+          {
+            "FoodIconID": 3,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_503"
+          },
+          {
+            "FoodIconID": 4,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_504"
+          },
+          {
+            "FoodIconID": 5,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_505"
+          },
+          {
+            "FoodIconID": 6,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_701"
+          },
+          {
+            "FoodIconID": 7,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_702"
+          },
+          {
+            "FoodIconID": 8,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_703"
+          },
+          {
+            "FoodIconID": 9,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_704"
+          },
+          {
+            "FoodIconID": 10,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_705"
+          },
+          {
+            "FoodIconID": 11,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_301"
+          },
+          {
+            "FoodIconID": 12,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_302"
+          },
+          {
+            "FoodIconID": 13,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_303"
+          },
+          {
+            "FoodIconID": 14,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_304"
+          },
+          {
+            "FoodIconID": 15,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_305"
+          },
+          {
+            "FoodIconID": 16,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_601"
+          },
+          {
+            "FoodIconID": 17,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_602"
+          },
+          {
+            "FoodIconID": 18,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_603"
+          },
+          {
+            "FoodIconID": 19,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_604"
+          },
+          {
+            "FoodIconID": 20,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_605"
+          },
+          {
+            "FoodIconID": 21,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_401"
+          },
+          {
+            "FoodIconID": 22,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_402"
+          },
+          {
+            "FoodIconID": 23,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_403"
+          },
+          {
+            "FoodIconID": 24,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_404"
+          },
+          {
+            "FoodIconID": 25,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_405"
+          },
+          {
+            "FoodIconID": 26,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_201"
+          },
+          {
+            "FoodIconID": 27,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_202"
+          },
+          {
+            "FoodIconID": 28,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_203"
+          },
+          {
+            "FoodIconID": 29,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_204"
+          },
+          {
+            "FoodIconID": 30,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_205"
+          },
+          {
+            "FoodIconID": 101,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_101"
+          },
+          {
+            "FoodIconID": 102,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_102"
+          },
+          {
+            "FoodIconID": 103,
+            "AssetPath": "Texture/Item/Minigame/Coffeegame/",
+            "AssetName": "item_coffee_103"
+          }
+        ]
+      }
+    ]
+  },
+  "RestaurantDeskBag": {
+    "Datas": [
+      {
+        "ID": 12000,
+        "RestaurantDeskBagGroupInfo": [
+          {
+            "BagID": 1,
+            "UnlockDungonID": 1007
+          },
+          {
+            "BagID": 2,
+            "UnlockDungonID": 1007
+          },
+          {
+            "BagID": 3,
+            "UnlockDungonID": 1009
+          },
+          {
+            "BagID": 4,
+            "UnlockDungonID": 1009
+          },
+          {
+            "BagID": 5
+          },
+          {
+            "BagID": 6,
+            "UnlockDungonID": 1001
+          },
+          {
+            "BagID": 7,
+            "UnlockDungonID": 1003
+          },
+          {
+            "BagID": 8,
+            "UnlockDungonID": 1005
+          },
+          {
+            "BagID": 9
+          },
+          {
+            "BagID": 10
+          },
+          {
+            "BagID": 11
+          },
+          {
+            "BagID": 12
+          },
+          {
+            "BagID": 13
+          },
+          {
+            "BagID": 14
+          },
+          {
+            "BagID": 15
+          },
+          {
+            "BagID": 16
+          },
+          {
+            "BagID": 17
+          },
+          {
+            "BagID": 18,
+            "UnlockDungonID": 1001
+          },
+          {
+            "BagID": 19,
+            "UnlockDungonID": 1003
+          },
+          {
+            "BagID": 20,
+            "UnlockDungonID": 1005
+          },
+          {
+            "BagID": 21,
+            "UnlockDungonID": 1011
+          },
+          {
+            "BagID": 22,
+            "UnlockDungonID": 1011
+          },
+          {
+            "BagID": 23,
+            "UnlockDungonID": 1013
+          },
+          {
+            "BagID": 24,
+            "UnlockDungonID": 1013
+          }
+        ]
+      }
+    ]
+  },
+  "RestaurantRandomPool": {
+    "Datas": [
+      {
+        "ID": 1001,
+        "ActivityID": 12000,
+        "RestaurantRandomPoolGroupInfo": [
+          {
+            "FoodId": 1
+          },
+          {
+            "FoodId": 6
+          },
+          {
+            "FoodId": 11
+          }
+        ],
+        "RateMin": 3,
+        "RateMax": 5
+      },
+      {
+        "ID": 1002,
+        "ActivityID": 12000,
+        "RestaurantRandomPoolGroupInfo": [
+          {
+            "FoodId": 16
+          },
+          {
+            "FoodId": 21
+          },
+          {
+            "FoodId": 26
+          }
+        ],
+        "RateMin": 3,
+        "RateMax": 5
+      }
+    ]
+  },
+  "RestaurantGameQuest": {
+    "Datas": [
+      {
+        "ID": 12000,
+        "RestaurantGameQuestGroupInfo": [
+          {
+            "GameQuestID": 1,
+            "GameCoin": 100,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 1,
+            "Param": 1001,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 2,
+            "GameCoin": 150,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 1,
+            "Param": 1002,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 3,
+            "GameCoin": 200,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 2,
+            "Param": 1003,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 4,
+            "GameCoin": 200,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 2,
+            "Param": 1004,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 5,
+            "GameCoin": 250,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 3,
+            "Param": 1005,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 6,
+            "GameCoin": 250,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 3,
+            "Param": 1006,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 7,
+            "GameCoin": 250,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 4,
+            "Param": 1007,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 8,
+            "GameCoin": 250,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 4,
+            "Param": 1008,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 9,
+            "GameCoin": 250,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 5,
+            "Param": 1009,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 10,
+            "GameCoin": 300,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 5,
+            "Param": 1010,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 11,
+            "GameCoin": 300,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 5,
+            "Param": 1011,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 12,
+            "GameCoin": 300,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 5,
+            "Param": 1012,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 13,
+            "GameCoin": 400,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 5,
+            "Param": 1013,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 14,
+            "GameCoin": 400,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 5,
+            "Param": 1014,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 15,
+            "GameCoin": 400,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 5,
+            "Param": 1015,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 16,
+            "GameCoin": 600,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 10,
+            "Param": 1016,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 17,
+            "GameCoin": 600,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 10,
+            "Param": 1017,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 18,
+            "GameCoin": 600,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 10,
+            "Param": 1018,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 19,
+            "GameCoin": 900,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 10,
+            "Param": 1019,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 20,
+            "GameCoin": 900,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 15,
+            "Param": 1020,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 21,
+            "GameCoin": 900,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 15,
+            "Param": 1021,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 22,
+            "GameCoin": 1000,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 15,
+            "Param": 1022,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 23,
+            "GameCoin": 1000,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 15,
+            "Param": 1023,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 24,
+            "GameCoin": 1000,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 15,
+            "Param": 1024,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 25,
+            "GameCoin": 1000,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 15,
+            "Param": 1025,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 26,
+            "GameCoin": 1000,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 15,
+            "Param": 1026,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 27,
+            "GameCoin": 1000,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 15,
+            "Param": 1027,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 28,
+            "GameCoin": 1000,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 15,
+            "Param": 1028,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 29,
+            "GameCoin": 1000,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 15,
+            "Param": 1029,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 30,
+            "GameCoin": 1000,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 15,
+            "Param": 1030,
+            "GameCoinID": 1601,
+            "TextID": 1
+          },
+          {
+            "GameQuestID": 31,
+            "GameCoin": 2000,
+            "GameIntegralItem": 1600,
+            "GameIntegral": 10,
+            "Param": 1000,
+            "IsRefresh": true,
+            "GameCoinID": 1601,
+            "TextID": 3
+          },
+          {
+            "GameQuestID": 101,
+            "GameCoin": 600,
+            "GameIntegralItem": 1600,
+            "Param": 1,
+            "IsRefresh": true,
+            "NewRestaurantGameQuestType": 1,
+            "GameCoinID": 1601,
+            "TextID": 2
+          }
+        ]
+      }
+    ]
+  },
+  "RestaurantGameFood": {
+    "Datas": [
+      {
+        "ID": 12000,
+        "RestaurantGameFoodGroupInfo": [
+          {
+            "FoodID": 1,
+            "FoodIconID": 1,
+            "FoodLevel": 1,
+            "FoodType": 1,
+            "SyntheticTarget": 2,
+            "RecyclingPriceMin": 7,
+            "RecyclingPriceMax": 7,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 2,
+            "FoodIconID": 2,
+            "FoodLevel": 2,
+            "FoodType": 1,
+            "SyntheticTarget": 3,
+            "RecyclingPriceMin": 15,
+            "RecyclingPriceMax": 15,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 3,
+            "FoodIconID": 3,
+            "FoodLevel": 3,
+            "FoodType": 1,
+            "SyntheticTarget": 4,
+            "RecyclingPriceMin": 32,
+            "RecyclingPriceMax": 32,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 4,
+            "FoodIconID": 4,
+            "FoodLevel": 4,
+            "FoodType": 1,
+            "SyntheticTarget": 5,
+            "RecyclingPriceMin": 68,
+            "RecyclingPriceMax": 68,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 5,
+            "FoodIconID": 5,
+            "FoodLevel": 5,
+            "FoodType": 1,
+            "RecyclingPriceMin": 144,
+            "RecyclingPriceMax": 144
+          },
+          {
+            "FoodID": 6,
+            "FoodIconID": 6,
+            "FoodLevel": 1,
+            "FoodType": 1,
+            "SyntheticTarget": 7,
+            "RecyclingPriceMin": 7,
+            "RecyclingPriceMax": 7,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 7,
+            "FoodIconID": 7,
+            "FoodLevel": 2,
+            "FoodType": 1,
+            "SyntheticTarget": 8,
+            "RecyclingPriceMin": 15,
+            "RecyclingPriceMax": 15,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 8,
+            "FoodIconID": 8,
+            "FoodLevel": 3,
+            "FoodType": 1,
+            "SyntheticTarget": 9,
+            "RecyclingPriceMin": 32,
+            "RecyclingPriceMax": 32,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 9,
+            "FoodIconID": 9,
+            "FoodLevel": 4,
+            "FoodType": 1,
+            "SyntheticTarget": 10,
+            "RecyclingPriceMin": 68,
+            "RecyclingPriceMax": 68,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 10,
+            "FoodIconID": 10,
+            "FoodLevel": 5,
+            "FoodType": 1,
+            "RecyclingPriceMin": 144,
+            "RecyclingPriceMax": 144
+          },
+          {
+            "FoodID": 11,
+            "FoodIconID": 11,
+            "FoodLevel": 1,
+            "FoodType": 1,
+            "SyntheticTarget": 12,
+            "RecyclingPriceMin": 7,
+            "RecyclingPriceMax": 7,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 12,
+            "FoodIconID": 12,
+            "FoodLevel": 2,
+            "FoodType": 1,
+            "SyntheticTarget": 13,
+            "RecyclingPriceMin": 15,
+            "RecyclingPriceMax": 15,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 13,
+            "FoodIconID": 13,
+            "FoodLevel": 3,
+            "FoodType": 1,
+            "SyntheticTarget": 14,
+            "RecyclingPriceMin": 32,
+            "RecyclingPriceMax": 32,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 14,
+            "FoodIconID": 14,
+            "FoodLevel": 4,
+            "FoodType": 1,
+            "SyntheticTarget": 15,
+            "RecyclingPriceMin": 68,
+            "RecyclingPriceMax": 68,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 15,
+            "FoodIconID": 15,
+            "FoodLevel": 5,
+            "FoodType": 1,
+            "RecyclingPriceMin": 144,
+            "RecyclingPriceMax": 144
+          },
+          {
+            "FoodID": 16,
+            "FoodIconID": 16,
+            "FoodLevel": 1,
+            "FoodType": 2,
+            "SyntheticTarget": 17,
+            "RecyclingPriceMin": 7,
+            "RecyclingPriceMax": 7,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 17,
+            "FoodIconID": 17,
+            "FoodLevel": 2,
+            "FoodType": 2,
+            "SyntheticTarget": 18,
+            "RecyclingPriceMin": 15,
+            "RecyclingPriceMax": 15,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 18,
+            "FoodIconID": 18,
+            "FoodLevel": 3,
+            "FoodType": 2,
+            "SyntheticTarget": 19,
+            "RecyclingPriceMin": 32,
+            "RecyclingPriceMax": 32,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 19,
+            "FoodIconID": 19,
+            "FoodLevel": 4,
+            "FoodType": 2,
+            "SyntheticTarget": 20,
+            "RecyclingPriceMin": 68,
+            "RecyclingPriceMax": 68,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 20,
+            "FoodIconID": 20,
+            "FoodLevel": 5,
+            "FoodType": 2,
+            "RecyclingPriceMin": 144,
+            "RecyclingPriceMax": 144
+          },
+          {
+            "FoodID": 21,
+            "FoodIconID": 21,
+            "FoodLevel": 1,
+            "FoodType": 2,
+            "SyntheticTarget": 22,
+            "RecyclingPriceMin": 7,
+            "RecyclingPriceMax": 7,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 22,
+            "FoodIconID": 22,
+            "FoodLevel": 2,
+            "FoodType": 2,
+            "SyntheticTarget": 23,
+            "RecyclingPriceMin": 15,
+            "RecyclingPriceMax": 15,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 23,
+            "FoodIconID": 23,
+            "FoodLevel": 3,
+            "FoodType": 2,
+            "SyntheticTarget": 24,
+            "RecyclingPriceMin": 32,
+            "RecyclingPriceMax": 32,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 24,
+            "FoodIconID": 24,
+            "FoodLevel": 4,
+            "FoodType": 2,
+            "SyntheticTarget": 25,
+            "RecyclingPriceMin": 68,
+            "RecyclingPriceMax": 68,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 25,
+            "FoodIconID": 25,
+            "FoodLevel": 5,
+            "FoodType": 2,
+            "RecyclingPriceMin": 144,
+            "RecyclingPriceMax": 144
+          },
+          {
+            "FoodID": 26,
+            "FoodIconID": 26,
+            "FoodLevel": 1,
+            "FoodType": 2,
+            "SyntheticTarget": 27,
+            "RecyclingPriceMin": 7,
+            "RecyclingPriceMax": 7,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 27,
+            "FoodIconID": 27,
+            "FoodLevel": 2,
+            "FoodType": 2,
+            "SyntheticTarget": 28,
+            "RecyclingPriceMin": 15,
+            "RecyclingPriceMax": 15,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 28,
+            "FoodIconID": 28,
+            "FoodLevel": 3,
+            "FoodType": 2,
+            "SyntheticTarget": 29,
+            "RecyclingPriceMin": 32,
+            "RecyclingPriceMax": 32,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 29,
+            "FoodIconID": 29,
+            "FoodLevel": 4,
+            "FoodType": 2,
+            "SyntheticTarget": 30,
+            "RecyclingPriceMin": 68,
+            "RecyclingPriceMax": 68,
+            "SynthesisSpecialFoodID": 101
+          },
+          {
+            "FoodID": 30,
+            "FoodIconID": 30,
+            "FoodLevel": 5,
+            "FoodType": 2,
+            "RecyclingPriceMin": 144,
+            "RecyclingPriceMax": 144
+          },
+          {
+            "FoodID": 101,
+            "FoodIconID": 101,
+            "FoodLevel": 1,
+            "FoodType": 3,
+            "SyntheticTarget": 102,
+            "RecyclingPriceMin": 1,
+            "RecyclingPriceMax": 2
+          },
+          {
+            "FoodID": 102,
+            "FoodIconID": 102,
+            "FoodLevel": 2,
+            "FoodType": 3,
+            "SyntheticTarget": 103,
+            "RecyclingPriceMin": 1,
+            "RecyclingPriceMax": 5
+          },
+          {
+            "FoodID": 103,
+            "FoodIconID": 103,
+            "FoodLevel": 3,
+            "FoodType": 3,
+            "RecyclingPriceMin": 1,
+            "RecyclingPriceMax": 20
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2031 @@
+{
+  "Info": {
+    "Datas": [
+      {
+        "ID": 1000,
+        "Index": 2,
+        "TextID": 1000,
+        "IconID": 1000,
+        "Method1ID": 1000,
+        "ConsumeItem2ID": 104,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 8,
+        "MaxTimes": 50,
+        "BigGuaranteePoolID": 400,
+        "NewUIGachaType": 1,
+        "NewShowType": 1
+      },
+      {
+        "ID": 2000,
+        "Index": 3,
+        "TextID": 2000,
+        "IconID": 2000,
+        "Method1ID": 2000,
+        "ConsumeItem1ID": 104,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 104,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "OptionalNum": 300,
+        "OptionalPoolID": 500,
+        "BigGuaranteePoolID": 400,
+        "NewUIGachaType": 2,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3000,
+        "Index": 1,
+        "OpeningTime": "2025-04-01 00:00:00",
+        "ClosingTime": "2025-04-14 23:59:59",
+        "TextID": 3000,
+        "IconID": 3000,
+        "Method1ID": 3000,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 401004,
+        "VideoID1": 401004,
+        "PracticeCharacterID1": 401004,
+        "BigGuaranteePoolID": 3000,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3001,
+        "Index": 1,
+        "OpeningTime": "2025-04-15 00:00:00",
+        "ClosingTime": "2025-04-29 23:59:59",
+        "TextID": 3001,
+        "IconID": 3001,
+        "Method1ID": 3001,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 101003,
+        "VideoID1": 101003,
+        "PracticeCharacterID1": 101003,
+        "BigGuaranteePoolID": 3001,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3002,
+        "Index": 1,
+        "OpeningTime": "2025-04-29 00:00:00",
+        "ClosingTime": "2025-05-13 23:59:59",
+        "TextID": 3002,
+        "IconID": 3002,
+        "Method1ID": 3002,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 201002,
+        "VideoID1": 201002,
+        "PracticeCharacterID1": 201002,
+        "BigGuaranteePoolID": 3002,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3003,
+        "Index": 1,
+        "OpeningTime": "2025-05-16 00:00:00",
+        "ClosingTime": "2025-06-06 23:59:59",
+        "TextID": 3003,
+        "IconID": 3003,
+        "Method1ID": 3003,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 402002,
+        "VideoID1": 402002,
+        "PracticeCharacterID1": 402002,
+        "BigGuaranteePoolID": 3003,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3004,
+        "Index": 1,
+        "OpeningTime": "2025-06-13 00:00:00",
+        "ClosingTime": "2025-07-03 23:59:59",
+        "TextID": 3004,
+        "IconID": 3004,
+        "Method1ID": 3004,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 301004,
+        "VideoID1": 301004,
+        "PracticeCharacterID1": 301004,
+        "BigGuaranteePoolID": 3004,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3005,
+        "Index": 1,
+        "OpeningTime": "2025-06-27 00:00:00",
+        "ClosingTime": "2025-07-10 23:59:59",
+        "TextID": 3000,
+        "IconID": 3000,
+        "Method1ID": 3000,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 401004,
+        "VideoID1": 401004,
+        "PracticeCharacterID1": 401004,
+        "BigGuaranteePoolID": 3000,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3006,
+        "Index": 1,
+        "OpeningTime": "2025-07-11 00:00:00",
+        "ClosingTime": "2025-07-31 23:59:59",
+        "TextID": 3006,
+        "IconID": 3006,
+        "Method1ID": 3006,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 302003,
+        "VideoID1": 302003,
+        "PracticeCharacterID1": 302003,
+        "BigGuaranteePoolID": 3006,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3007,
+        "Index": 1,
+        "OpeningTime": "2025-07-25 00:00:00",
+        "ClosingTime": "2025-08-14 23:59:59",
+        "TextID": 3007,
+        "IconID": 3007,
+        "Method1ID": 3007,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 101004,
+        "VideoID1": 101004,
+        "PracticeCharacterID1": 101004,
+        "BigGuaranteePoolID": 3007,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3008,
+        "Index": 1,
+        "OpeningTime": "2025-08-15 00:00:00",
+        "ClosingTime": "2025-09-04 23:59:59",
+        "TextID": 3008,
+        "IconID": 3008,
+        "Method1ID": 3008,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 401003,
+        "VideoID1": 401003,
+        "PracticeCharacterID1": 401003,
+        "BigGuaranteePoolID": 3008,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3009,
+        "OpeningTime": "2025-08-22 00:00:00",
+        "ClosingTime": "2025-09-04 23:59:59",
+        "TextID": 3001,
+        "IconID": 3001,
+        "Method1ID": 3001,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 101003,
+        "VideoID1": 101003,
+        "PracticeCharacterID1": 101003,
+        "BigGuaranteePoolID": 3001,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 2001,
+        "Index": 1,
+        "OpeningTime": "2025-09-05 00:00:00",
+        "ClosingTime": "2025-09-18 23:59:59",
+        "TextID": 2001,
+        "IconID": 2001,
+        "Method1ID": 2001,
+        "ConsumeItem1ID": 104,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 104,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "BigGuaranteePoolID": 2001,
+        "NewUIGachaType": 2,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3010,
+        "OpeningTime": "2025-09-05 00:00:00",
+        "ClosingTime": "2025-09-25 23:59:59",
+        "TextID": 3010,
+        "IconID": 3010,
+        "Method1ID": 3010,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 403004,
+        "VideoID1": 403004,
+        "PracticeCharacterID1": 403004,
+        "BigGuaranteePoolID": 3010,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3011,
+        "OpeningTime": "2025-09-26 00:00:00",
+        "ClosingTime": "2025-10-16 23:59:59",
+        "TextID": 3011,
+        "IconID": 3011,
+        "Method1ID": 3011,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 401002,
+        "VideoID1": 401002,
+        "PracticeCharacterID1": 401002,
+        "BigGuaranteePoolID": 3011,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3012,
+        "Index": 1,
+        "OpeningTime": "2025-10-16 00:00:00",
+        "ClosingTime": "2025-10-30 23:59:59",
+        "TextID": 3002,
+        "IconID": 3002,
+        "Method1ID": 3002,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 201002,
+        "VideoID1": 201002,
+        "PracticeCharacterID1": 201002,
+        "BigGuaranteePoolID": 3002,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3013,
+        "OpeningTime": "2025-10-23 00:00:00",
+        "ClosingTime": "2025-11-12 23:59:59",
+        "TextID": 3013,
+        "IconID": 3013,
+        "Method1ID": 3013,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 202004,
+        "VideoID1": 202004,
+        "PracticeCharacterID1": 202004,
+        "BigGuaranteePoolID": 3013,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 4000,
+        "Index": 4,
+        "TextID": 4000,
+        "IconID": 4000,
+        "Method1ID": 4000,
+        "ConsumeItem2ID": 107,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 3600,
+        "NewUIGachaType": 5,
+        "NewShowType": 2
+      }
+    ]
+  },
+  "Pool": {
+    "Datas": [
+      {
+        "ID": 1,
+        "Items": [
+          {
+            "FreeGachaPoolID": 1
+          }
+        ]
+      },
+      {
+        "ID": 1000,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          }
+        ]
+      },
+      {
+        "ID": 2000,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          }
+        ]
+      },
+      {
+        "ID": 2001,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 2001
+          }
+        ]
+      },
+      {
+        "ID": 3000,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3000
+          }
+        ]
+      },
+      {
+        "ID": 3001,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3001
+          }
+        ]
+      },
+      {
+        "ID": 3002,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3002
+          }
+        ]
+      },
+      {
+        "ID": 3003,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3003
+          }
+        ]
+      },
+      {
+        "ID": 3004,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3004
+          }
+        ]
+      },
+      {
+        "ID": 3006,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3006
+          }
+        ]
+      },
+      {
+        "ID": 3007,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3007
+          }
+        ]
+      },
+      {
+        "ID": 3008,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3008
+          }
+        ]
+      },
+      {
+        "ID": 3010,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3010
+          }
+        ]
+      },
+      {
+        "ID": 3011,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3011
+          }
+        ]
+      },
+      {
+        "ID": 3013,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3013
+          }
+        ]
+      },
+      {
+        "ID": 4000,
+        "Items": [
+          {
+            "FreeGachaPoolID": 40000
+          },
+          {
+            "FreeGachaPoolID": 40001
+          },
+          {
+            "FreeGachaPoolID": 40002
+          },
+          {
+            "FreeGachaPoolID": 40003
+          },
+          {
+            "FreeGachaPoolID": 40004
+          }
+        ]
+      }
+    ]
+  },
+  "RewardPool": {
+    "Datas": [
+      {
+        "ID": 1,
+        "Items": [
+          {
+            "ItemID": 102001
+          }
+        ]
+      },
+      {
+        "ID": 100,
+        "Items": [
+          {
+            "ItemID": 10030
+          },
+          {
+            "ItemID": 10080
+          },
+          {
+            "ItemID": 10010
+          },
+          {
+            "ItemID": 10100
+          },
+          {
+            "ItemID": 10120
+          },
+          {
+            "ItemID": 10170
+          },
+          {
+            "ItemID": 10190
+          },
+          {
+            "ItemID": 10210
+          },
+          {
+            "ItemID": 10240
+          },
+          {
+            "ItemID": 11010
+          },
+          {
+            "ItemID": 10350
+          },
+          {
+            "ItemID": 10390
+          },
+          {
+            "ItemID": 10410
+          },
+          {
+            "ItemID": 10460
+          },
+          {
+            "ItemID": 10540
+          },
+          {
+            "ItemID": 10620
+          },
+          {
+            "ItemID": 10650
+          },
+          {
+            "ItemID": 10720
+          },
+          {
+            "ItemID": 10750
+          },
+          {
+            "ItemID": 10760
+          },
+          {
+            "ItemID": 10870
+          },
+          {
+            "ItemID": 11030
+          },
+          {
+            "ItemID": 10810
+          },
+          {
+            "ItemID": 10850
+          },
+          {
+            "ItemID": 10530
+          },
+          {
+            "ItemID": 11050
+          },
+          {
+            "ItemID": 11060
+          },
+          {
+            "ItemID": 11200
+          },
+          {
+            "ItemID": 11210
+          },
+          {
+            "ItemID": 11220
+          },
+          {
+            "ItemID": 11230
+          },
+          {
+            "ItemID": 11240
+          },
+          {
+            "ItemID": 11250
+          },
+          {
+            "ItemID": 11260
+          },
+          {
+            "ItemID": 11270
+          },
+          {
+            "ItemID": 11280
+          },
+          {
+            "ItemID": 11290
+          },
+          {
+            "ItemID": 11300
+          },
+          {
+            "ItemID": 11310
+          },
+          {
+            "ItemID": 11320
+          },
+          {
+            "ItemID": 11330
+          },
+          {
+            "ItemID": 11340
+          },
+          {
+            "ItemID": 11350
+          },
+          {
+            "ItemID": 11360
+          },
+          {
+            "ItemID": 11370
+          },
+          {
+            "ItemID": 11380
+          },
+          {
+            "ItemID": 11390
+          },
+          {
+            "ItemID": 11120
+          },
+          {
+            "ItemID": 11080
+          },
+          {
+            "ItemID": 11400
+          },
+          {
+            "ItemID": 11410
+          },
+          {
+            "ItemID": 11420
+          },
+          {
+            "ItemID": 11430
+          },
+          {
+            "ItemID": 11440
+          },
+          {
+            "ItemID": 11450
+          },
+          {
+            "ItemID": 10300
+          }
+        ]
+      },
+      {
+        "ID": 200,
+        "Items": [
+          {
+            "ItemID": 10040
+          },
+          {
+            "ItemID": 10180
+          },
+          {
+            "ItemID": 10200
+          },
+          {
+            "ItemID": 10220
+          },
+          {
+            "ItemID": 10270
+          },
+          {
+            "ItemID": 10320
+          },
+          {
+            "ItemID": 10380
+          },
+          {
+            "ItemID": 10840
+          },
+          {
+            "ItemID": 10770
+          },
+          {
+            "ItemID": 10880
+          },
+          {
+            "ItemID": 11090
+          },
+          {
+            "ItemID": 11100
+          },
+          {
+            "ItemID": 11110
+          },
+          {
+            "ItemID": 10670
+          },
+          {
+            "ItemID": 11130
+          },
+          {
+            "ItemID": 10740
+          },
+          {
+            "ItemID": 10160
+          },
+          {
+            "ItemID": 11170
+          },
+          {
+            "ItemID": 10420
+          },
+          {
+            "ItemID": 10090
+          },
+          {
+            "ItemID": 11190
+          },
+          {
+            "ItemID": 12000
+          },
+          {
+            "ItemID": 10340
+          },
+          {
+            "ItemID": 12030
+          }
+        ]
+      },
+      {
+        "ID": 300,
+        "Items": [
+          {
+            "ItemID": 101001
+          },
+          {
+            "ItemID": 102001
+          },
+          {
+            "ItemID": 403002
+          },
+          {
+            "ItemID": 102002
+          },
+          {
+            "ItemID": 201001
+          },
+          {
+            "ItemID": 103002
+          }
+        ]
+      },
+      {
+        "ID": 400,
+        "Items": [
+          {
+            "ItemID": 302002
+          },
+          {
+            "ItemID": 101002
+          },
+          {
+            "ItemID": 403001
+          },
+          {
+            "ItemID": 402003
+          },
+          {
+            "ItemID": 401001
+          },
+          {
+            "ItemID": 301002
+          },
+          {
+            "ItemID": 202001
+          }
+        ]
+      },
+      {
+        "ID": 500,
+        "Items": [
+          {
+            "ItemID": 302002
+          },
+          {
+            "ItemID": 101002
+          },
+          {
+            "ItemID": 403001
+          },
+          {
+            "ItemID": 402003
+          },
+          {
+            "ItemID": 401001
+          },
+          {
+            "ItemID": 301002
+          },
+          {
+            "ItemID": 202001
+          }
+        ]
+      },
+      {
+        "ID": 2001,
+        "Items": [
+          {
+            "ItemID": 302002
+          },
+          {
+            "ItemID": 101002
+          },
+          {
+            "ItemID": 403001
+          },
+          {
+            "ItemID": 402003
+          },
+          {
+            "ItemID": 401001
+          },
+          {
+            "ItemID": 301002
+          },
+          {
+            "ItemID": 202001
+          }
+        ]
+      },
+      {
+        "ID": 3000,
+        "Items": [
+          {
+            "ItemID": 401004
+          }
+        ]
+      },
+      {
+        "ID": 3001,
+        "Items": [
+          {
+            "ItemID": 101003
+          }
+        ]
+      },
+      {
+        "ID": 3002,
+        "Items": [
+          {
+            "ItemID": 201002
+          }
+        ]
+      },
+      {
+        "ID": 3003,
+        "Items": [
+          {
+            "ItemID": 402002
+          }
+        ]
+      },
+      {
+        "ID": 3004,
+        "Items": [
+          {
+            "ItemID": 301004
+          }
+        ]
+      },
+      {
+        "ID": 3006,
+        "Items": [
+          {
+            "ItemID": 302003
+          }
+        ]
+      },
+      {
+        "ID": 3007,
+        "Items": [
+          {
+            "ItemID": 101004
+          }
+        ]
+      },
+      {
+        "ID": 3008,
+        "Items": [
+          {
+            "ItemID": 401003
+          }
+        ]
+      },
+      {
+        "ID": 3010,
+        "Items": [
+          {
+            "ItemID": 403004
+          }
+        ]
+      },
+      {
+        "ID": 3011,
+        "Items": [
+          {
+            "ItemID": 401002
+          }
+        ]
+      },
+      {
+        "ID": 3013,
+        "Items": [
+          {
+            "ItemID": 202004
+          }
+        ]
+      },
+      {
+        "ID": 40000,
+        "Items": [
+          {
+            "ItemID": 401
+          }
+        ]
+      },
+      {
+        "ID": 40001,
+        "Items": [
+          {
+            "ItemID": 5042901
+          },
+          {
+            "ItemID": 5042902
+          },
+          {
+            "ItemID": 5042903
+          },
+          {
+            "ItemID": 5042904
+          },
+          {
+            "ItemID": 5042905
+          },
+          {
+            "ItemID": 5042906
+          },
+          {
+            "ItemID": 5042907
+          },
+          {
+            "ItemID": 5042908
+          },
+          {
+            "ItemID": 5042909
+          },
+          {
+            "ItemID": 5042910
+          },
+          {
+            "ItemID": 5042911
+          },
+          {
+            "ItemID": 5042912
+          },
+          {
+            "ItemID": 5042913
+          },
+          {
+            "ItemID": 5042914
+          },
+          {
+            "ItemID": 5042915
+          },
+          {
+            "ItemID": 5042916
+          },
+          {
+            "ItemID": 5042917
+          },
+          {
+            "ItemID": 5042918
+          },
+          {
+            "ItemID": 5042919
+          },
+          {
+            "ItemID": 5042920
+          },
+          {
+            "ItemID": 5042921
+          },
+          {
+            "ItemID": 5042922
+          },
+          {
+            "ItemID": 5042923
+          },
+          {
+            "ItemID": 5042924
+          },
+          {
+            "ItemID": 5042925
+          },
+          {
+            "ItemID": 5042926
+          },
+          {
+            "ItemID": 5042927
+          },
+          {
+            "ItemID": 5042928
+          },
+          {
+            "ItemID": 5042929
+          },
+          {
+            "ItemID": 5042930
+          },
+          {
+            "ItemID": 5042931
+          },
+          {
+            "ItemID": 5042932
+          },
+          {
+            "ItemID": 5042933
+          },
+          {
+            "ItemID": 5042934
+          },
+          {
+            "ItemID": 5042935
+          },
+          {
+            "ItemID": 5042936
+          },
+          {
+            "ItemID": 5042937
+          },
+          {
+            "ItemID": 5043001
+          },
+          {
+            "ItemID": 5043002
+          },
+          {
+            "ItemID": 5043003
+          },
+          {
+            "ItemID": 5043004
+          },
+          {
+            "ItemID": 5043005
+          },
+          {
+            "ItemID": 5043006
+          },
+          {
+            "ItemID": 5043007
+          },
+          {
+            "ItemID": 5043008
+          },
+          {
+            "ItemID": 5043009
+          },
+          {
+            "ItemID": 5043010
+          },
+          {
+            "ItemID": 5043011
+          },
+          {
+            "ItemID": 5043012
+          },
+          {
+            "ItemID": 5043013
+          },
+          {
+            "ItemID": 5043014
+          },
+          {
+            "ItemID": 5043015
+          },
+          {
+            "ItemID": 5043016
+          },
+          {
+            "ItemID": 5043017
+          },
+          {
+            "ItemID": 5043018
+          },
+          {
+            "ItemID": 5043019
+          },
+          {
+            "ItemID": 5043020
+          },
+          {
+            "ItemID": 5043021
+          },
+          {
+            "ItemID": 5043022
+          },
+          {
+            "ItemID": 5043023
+          },
+          {
+            "ItemID": 5043024
+          },
+          {
+            "ItemID": 5043025
+          },
+          {
+            "ItemID": 5043026
+          },
+          {
+            "ItemID": 5043027
+          },
+          {
+            "ItemID": 5043028
+          },
+          {
+            "ItemID": 5043029
+          },
+          {
+            "ItemID": 5043030
+          },
+          {
+            "ItemID": 5043031
+          },
+          {
+            "ItemID": 5043032
+          },
+          {
+            "ItemID": 5043033
+          },
+          {
+            "ItemID": 5043034
+          },
+          {
+            "ItemID": 5043035
+          },
+          {
+            "ItemID": 5043036
+          },
+          {
+            "ItemID": 5043037
+          },
+          {
+            "ItemID": 5043038
+          },
+          {
+            "ItemID": 5043039
+          },
+          {
+            "ItemID": 5043040
+          },
+          {
+            "ItemID": 5043041
+          },
+          {
+            "ItemID": 5043042
+          },
+          {
+            "ItemID": 5043043
+          },
+          {
+            "ItemID": 5043125
+          },
+          {
+            "ItemID": 5043126
+          },
+          {
+            "ItemID": 5043127
+          },
+          {
+            "ItemID": 5043128
+          },
+          {
+            "ItemID": 5043129
+          },
+          {
+            "ItemID": 5043130
+          },
+          {
+            "ItemID": 5043131
+          },
+          {
+            "ItemID": 5043132
+          },
+          {
+            "ItemID": 5043443
+          },
+          {
+            "ItemID": 5043444
+          },
+          {
+            "ItemID": 5043445
+          },
+          {
+            "ItemID": 5043446
+          }
+        ]
+      },
+      {
+        "ID": 40002,
+        "Items": [
+          {
+            "ItemID": 1101401
+          },
+          {
+            "ItemID": 1101402
+          },
+          {
+            "ItemID": 1101403
+          },
+          {
+            "ItemID": 1101404
+          },
+          {
+            "ItemID": 1101405
+          },
+          {
+            "ItemID": 1101406
+          },
+          {
+            "ItemID": 1102401
+          },
+          {
+            "ItemID": 1102402
+          },
+          {
+            "ItemID": 1102403
+          },
+          {
+            "ItemID": 1102404
+          },
+          {
+            "ItemID": 1102405
+          },
+          {
+            "ItemID": 1102406
+          },
+          {
+            "ItemID": 1103401
+          },
+          {
+            "ItemID": 1103402
+          },
+          {
+            "ItemID": 1103403
+          },
+          {
+            "ItemID": 1103404
+          },
+          {
+            "ItemID": 1103405
+          },
+          {
+            "ItemID": 1103406
+          },
+          {
+            "ItemID": 1103407
+          },
+          {
+            "ItemID": 1104401
+          },
+          {
+            "ItemID": 1104402
+          },
+          {
+            "ItemID": 1104403
+          },
+          {
+            "ItemID": 1104404
+          },
+          {
+            "ItemID": 1104405
+          },
+          {
+            "ItemID": 1201401
+          },
+          {
+            "ItemID": 1201402
+          },
+          {
+            "ItemID": 1201403
+          },
+          {
+            "ItemID": 1201404
+          },
+          {
+            "ItemID": 1201405
+          },
+          {
+            "ItemID": 1201406
+          },
+          {
+            "ItemID": 1201407
+          },
+          {
+            "ItemID": 1202401
+          },
+          {
+            "ItemID": 1202402
+          },
+          {
+            "ItemID": 1202403
+          },
+          {
+            "ItemID": 1202404
+          },
+          {
+            "ItemID": 1202405
+          },
+          {
+            "ItemID": 1202406
+          },
+          {
+            "ItemID": 1202407
+          },
+          {
+            "ItemID": 1302401
+          },
+          {
+            "ItemID": 1302402
+          },
+          {
+            "ItemID": 1302403
+          },
+          {
+            "ItemID": 1302404
+          },
+          {
+            "ItemID": 1302405
+          },
+          {
+            "ItemID": 1302406
+          },
+          {
+            "ItemID": 1302407
+          },
+          {
+            "ItemID": 1303401
+          },
+          {
+            "ItemID": 1303402
+          },
+          {
+            "ItemID": 1303403
+          },
+          {
+            "ItemID": 1303404
+          },
+          {
+            "ItemID": 1303405
+          },
+          {
+            "ItemID": 1303406
+          },
+          {
+            "ItemID": 1303407
+          },
+          {
+            "ItemID": 1401401
+          },
+          {
+            "ItemID": 1401402
+          },
+          {
+            "ItemID": 1401403
+          },
+          {
+            "ItemID": 1401404
+          },
+          {
+            "ItemID": 1401405
+          },
+          {
+            "ItemID": 1401406
+          },
+          {
+            "ItemID": 1401407
+          },
+          {
+            "ItemID": 1401408
+          },
+          {
+            "ItemID": 1402401
+          },
+          {
+            "ItemID": 1402402
+          },
+          {
+            "ItemID": 1402403
+          },
+          {
+            "ItemID": 1402404
+          },
+          {
+            "ItemID": 1402405
+          },
+          {
+            "ItemID": 1402406
+          },
+          {
+            "ItemID": 1402407
+          },
+          {
+            "ItemID": 1403401
+          },
+          {
+            "ItemID": 1403402
+          },
+          {
+            "ItemID": 1403403
+          },
+          {
+            "ItemID": 1403404
+          },
+          {
+            "ItemID": 1403405
+          },
+          {
+            "ItemID": 1403406
+          },
+          {
+            "ItemID": 1403407
+          },
+          {
+            "ItemID": 1403408
+          },
+          {
+            "ItemID": 1403409
+          }
+        ]
+      },
+      {
+        "ID": 40003,
+        "Items": [
+          {
+            "ItemID": 1101501
+          },
+          {
+            "ItemID": 1101502
+          },
+          {
+            "ItemID": 1101503
+          },
+          {
+            "ItemID": 1101504
+          },
+          {
+            "ItemID": 1101505
+          },
+          {
+            "ItemID": 1101506
+          },
+          {
+            "ItemID": 1102501
+          },
+          {
+            "ItemID": 1102502
+          },
+          {
+            "ItemID": 1102503
+          },
+          {
+            "ItemID": 1102504
+          },
+          {
+            "ItemID": 1102505
+          },
+          {
+            "ItemID": 1102506
+          },
+          {
+            "ItemID": 1103501
+          },
+          {
+            "ItemID": 1103502
+          },
+          {
+            "ItemID": 1103503
+          },
+          {
+            "ItemID": 1103504
+          },
+          {
+            "ItemID": 1103505
+          },
+          {
+            "ItemID": 1103506,
+            "IsOptional": true
+          },
+          {
+            "ItemID": 1103507
+          },
+          {
+            "ItemID": 1104501
+          },
+          {
+            "ItemID": 1104502
+          },
+          {
+            "ItemID": 1104503
+          },
+          {
+            "ItemID": 1104504
+          },
+          {
+            "ItemID": 1104505
+          },
+          {
+            "ItemID": 1201501
+          },
+          {
+            "ItemID": 1201502
+          },
+          {
+            "ItemID": 1201503
+          },
+          {
+            "ItemID": 1201504
+          },
+          {
+            "ItemID": 1201505
+          },
+          {
+            "ItemID": 1201506
+          },
+          {
+            "ItemID": 1201507
+          },
+          {
+            "ItemID": 1202501
+          },
+          {
+            "ItemID": 1202502
+          },
+          {
+            "ItemID": 1202503
+          },
+          {
+            "ItemID": 1202504
+          },
+          {
+            "ItemID": 1202505
+          },
+          {
+            "ItemID": 1202506
+          },
+          {
+            "ItemID": 1202507
+          },
+          {
+            "ItemID": 1302501
+          },
+          {
+            "ItemID": 1302502
+          },
+          {
+            "ItemID": 1302503
+          },
+          {
+            "ItemID": 1302504
+          },
+          {
+            "ItemID": 1302505
+          },
+          {
+            "ItemID": 1302506
+          },
+          {
+            "ItemID": 1302507
+          },
+          {
+            "ItemID": 1303501
+          },
+          {
+            "ItemID": 1303502
+          },
+          {
+            "ItemID": 1303503
+          },
+          {
+            "ItemID": 1303504
+          },
+          {
+            "ItemID": 1303505
+          },
+          {
+            "ItemID": 1303506
+          },
+          {
+            "ItemID": 1303507
+          },
+          {
+            "ItemID": 1401501
+          },
+          {
+            "ItemID": 1401502
+          },
+          {
+            "ItemID": 1401503
+          },
+          {
+            "ItemID": 1401504
+          },
+          {
+            "ItemID": 1401505
+          },
+          {
+            "ItemID": 1401506,
+            "IsOptional": true
+          },
+          {
+            "ItemID": 1401507,
+            "IsOptional": true
+          },
+          {
+            "ItemID": 1401508
+          },
+          {
+            "ItemID": 1402501
+          },
+          {
+            "ItemID": 1402502
+          },
+          {
+            "ItemID": 1402503
+          },
+          {
+            "ItemID": 1402504
+          },
+          {
+            "ItemID": 1402505
+          },
+          {
+            "ItemID": 1402506
+          },
+          {
+            "ItemID": 1402507
+          },
+          {
+            "ItemID": 1403501
+          },
+          {
+            "ItemID": 1403502
+          },
+          {
+            "ItemID": 1403503
+          },
+          {
+            "ItemID": 1403504
+          },
+          {
+            "ItemID": 1403505
+          },
+          {
+            "ItemID": 1403506
+          },
+          {
+            "ItemID": 1403507
+          },
+          {
+            "ItemID": 1403508
+          },
+          {
+            "ItemID": 1403509,
+            "IsOptional": true
+          }
+        ]
+      },
+      {
+        "ID": 40004,
+        "Items": [
+          {
+            "ItemID": 4200442,
+            "IsOptional": true,
+            "OpeningTime": "2025-04-29 00:00:00",
+            "ClosingTime": "2025-05-25 23:59:59"
+          },
+          {
+            "ItemID": 4200443,
+            "IsOptional": true,
+            "OpeningTime": "2025-04-29 00:00:00",
+            "ClosingTime": "2025-05-25 23:59:59"
+          },
+          {
+            "ItemID": 4200071,
+            "IsOptional": true,
+            "OpeningTime": "2025-04-01 00:00:00",
+            "ClosingTime": "2025-04-21 23:59:59"
+          },
+          {
+            "ItemID": 4200072,
+            "IsOptional": true,
+            "OpeningTime": "2025-04-01 00:00:00",
+            "ClosingTime": "2025-04-21 23:59:59"
+          },
+          {
+            "ItemID": 4200073,
+            "IsOptional": true,
+            "OpeningTime": "2025-04-01 00:00:00",
+            "ClosingTime": "2025-04-21 23:59:59"
+          },
+          {
+            "ItemID": 4200232,
+            "IsOptional": true
+          },
+          {
+            "ItemID": 4200233,
+            "IsOptional": true
+          },
+          {
+            "ItemID": 4200262,
+            "IsOptional": true
+          },
+          {
+            "ItemID": 4200263,
+            "IsOptional": true
+          },
+          {
+            "ItemID": 4200302
+          },
+          {
+            "ItemID": 4200303
+          },
+          {
+            "ItemID": 4200311
+          },
+          {
+            "ItemID": 4200312
+          },
+          {
+            "ItemID": 4200313
+          },
+          {
+            "ItemID": 4200331
+          },
+          {
+            "ItemID": 4200332
+          },
+          {
+            "ItemID": 4200333
+          },
+          {
+            "ItemID": 4200372,
+            "IsOptional": true
+          },
+          {
+            "ItemID": 4200373,
+            "IsOptional": true
+          },
+          {
+            "ItemID": 4100052
+          },
+          {
+            "ItemID": 4100053
+          },
+          {
+            "ItemID": 4100062,
+            "IsOptional": true
+          },
+          {
+            "ItemID": 4100063,
+            "IsOptional": true
+          },
+          {
+            "ItemID": 4100092
+          },
+          {
+            "ItemID": 4100093
+          },
+          {
+            "ItemID": 4100142
+          },
+          {
+            "ItemID": 4100143
+          },
+          {
+            "ItemID": 4100152,
+            "IsOptional": true
+          },
+          {
+            "ItemID": 4100153,
+            "IsOptional": true
+          },
+          {
+            "ItemID": 4100192
+          },
+          {
+            "ItemID": 4100193
+          },
+          {
+            "ItemID": 4610011
+          },
+          {
+            "ItemID": 4610041
+          },
+          {
+            "ItemID": 4610081
+          },
+          {
+            "ItemID": 4645002,
+            "IsOptional": true
+          },
+          {
+            "ItemID": 4200662,
+            "IsOptional": true,
+            "OpeningTime": "2025-07-25 00:00:00",
+            "ClosingTime": "2025-08-24 23:59:59"
+          },
+          {
+            "ItemID": 4200663,
+            "IsOptional": true,
+            "OpeningTime": "2025-07-25 00:00:00",
+            "ClosingTime": "2025-08-24 23:59:59"
+          },
+          {
+            "ItemID": 4200682,
+            "IsOptional": true,
+            "OpeningTime": "2025-08-22 00:00:00",
+            "ClosingTime": "2025-09-21 23:59:59"
+          },
+          {
+            "ItemID": 4200683,
+            "IsOptional": true,
+            "OpeningTime": "2025-08-22 00:00:00",
+            "ClosingTime": "2025-09-21 23:59:59"
+          }
+        ]
+      }
+    ]
+  }
+}

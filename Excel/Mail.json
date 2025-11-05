@@ -1,0 +1,507 @@
+{
+  "Mail": {
+    "Datas": [
+      {
+        "ID": 1,
+        "ItemID": 500,
+        "TextID": 1
+      },
+      {
+        "ID": 2,
+        "ItemID": 501,
+        "TextID": 2,
+        "Day": 30,
+        "NewMailType": 1
+      },
+      {
+        "ID": 3,
+        "ItemID": 502,
+        "TextID": 3,
+        "NewMailType": 2
+      },
+      {
+        "ID": 4,
+        "ItemID": 503,
+        "TextID": 4,
+        "Day": 30,
+        "NewMailType": 3
+      },
+      {
+        "ID": 5,
+        "TextID": 5,
+        "Day": 30,
+        "NewMailType": 4
+      },
+      {
+        "ID": 6,
+        "TextID": 6,
+        "Day": 30,
+        "NewMailType": 4
+      },
+      {
+        "ID": 7,
+        "TextID": 7,
+        "NewMailType": 5
+      },
+      {
+        "ID": 8,
+        "TextID": 8,
+        "NewMailType": 6
+      },
+      {
+        "ID": 9,
+        "TextID": 9,
+        "Day": 30,
+        "NewMailType": 7
+      },
+      {
+        "ID": 10,
+        "TextID": 10,
+        "NewMailType": 4
+      },
+      {
+        "ID": 11,
+        "ItemID": 504,
+        "TextID": 11,
+        "Day": 30,
+        "NewMailType": 4
+      },
+      {
+        "ID": 12,
+        "TextID": 12,
+        "Day": 30,
+        "NewMailType": 4
+      },
+      {
+        "ID": 13,
+        "ItemID": 503,
+        "TextID": 4,
+        "Day": 30,
+        "NewMailType": 3
+      },
+      {
+        "ID": 14,
+        "TextID": 14,
+        "NewMailType": 4
+      },
+      {
+        "ID": 15,
+        "TextID": 15,
+        "NewMailType": 4
+      },
+      {
+        "ID": 16,
+        "ItemID": 505,
+        "TextID": 16,
+        "Day": 60,
+        "NewMailType": 4
+      },
+      {
+        "ID": 17,
+        "TextID": 17,
+        "NewMailType": 4
+      },
+      {
+        "ID": 18,
+        "TextID": 18,
+        "NewMailType": 4
+      },
+      {
+        "ID": 19,
+        "TextID": 19,
+        "NewMailType": 4
+      },
+      {
+        "ID": 20,
+        "TextID": 20,
+        "NewMailType": 4
+      },
+      {
+        "ID": 21,
+        "TextID": 21,
+        "Day": 365,
+        "NewMailType": 4
+      },
+      {
+        "ID": 22,
+        "ItemID": 507,
+        "TextID": 22,
+        "NewMailType": 4
+      },
+      {
+        "ID": 23,
+        "ItemID": 506,
+        "TextID": 23,
+        "NewMailType": 4
+      },
+      {
+        "ID": 24,
+        "ItemID": 507,
+        "TextID": 24,
+        "NewMailType": 4
+      },
+      {
+        "ID": 25,
+        "TextID": 25,
+        "Day": 60,
+        "NewMailType": 4
+      },
+      {
+        "ID": 26,
+        "TextID": 26,
+        "Day": 60,
+        "NewMailType": 4
+      },
+      {
+        "ID": 101001,
+        "TextID": 101001,
+        "NewMailType": 4
+      },
+      {
+        "ID": 101002,
+        "TextID": 101002,
+        "NewMailType": 4
+      },
+      {
+        "ID": 101003,
+        "TextID": 101003,
+        "NewMailType": 4
+      },
+      {
+        "ID": 101004,
+        "TextID": 101004,
+        "NewMailType": 4
+      },
+      {
+        "ID": 102001,
+        "TextID": 102001,
+        "NewMailType": 4
+      },
+      {
+        "ID": 102002,
+        "TextID": 102002,
+        "NewMailType": 4
+      },
+      {
+        "ID": 102003,
+        "TextID": 102003,
+        "NewMailType": 4
+      },
+      {
+        "ID": 102004,
+        "TextID": 102004,
+        "NewMailType": 4
+      },
+      {
+        "ID": 103001,
+        "TextID": 103001,
+        "NewMailType": 4
+      },
+      {
+        "ID": 103002,
+        "TextID": 103002,
+        "NewMailType": 4
+      },
+      {
+        "ID": 201001,
+        "TextID": 201001,
+        "NewMailType": 4
+      },
+      {
+        "ID": 201002,
+        "TextID": 201002,
+        "NewMailType": 4
+      },
+      {
+        "ID": 201003,
+        "TextID": 201003,
+        "NewMailType": 4
+      },
+      {
+        "ID": 202001,
+        "TextID": 202001,
+        "NewMailType": 4
+      },
+      {
+        "ID": 202002,
+        "TextID": 202002,
+        "NewMailType": 4
+      },
+      {
+        "ID": 202003,
+        "TextID": 202003,
+        "NewMailType": 4
+      },
+      {
+        "ID": 202004,
+        "TextID": 202004,
+        "NewMailType": 4
+      },
+      {
+        "ID": 301002,
+        "TextID": 301002,
+        "NewMailType": 4
+      },
+      {
+        "ID": 301003,
+        "TextID": 301003,
+        "NewMailType": 4
+      },
+      {
+        "ID": 301004,
+        "TextID": 301004,
+        "NewMailType": 4
+      },
+      {
+        "ID": 302001,
+        "TextID": 302001,
+        "NewMailType": 4
+      },
+      {
+        "ID": 302002,
+        "TextID": 302002,
+        "NewMailType": 4
+      },
+      {
+        "ID": 302003,
+        "TextID": 302003,
+        "NewMailType": 4
+      },
+      {
+        "ID": 302004,
+        "TextID": 302004,
+        "NewMailType": 4
+      },
+      {
+        "ID": 401001,
+        "TextID": 401001,
+        "NewMailType": 4
+      },
+      {
+        "ID": 401002,
+        "TextID": 401002,
+        "NewMailType": 4
+      },
+      {
+        "ID": 401003,
+        "TextID": 401003,
+        "NewMailType": 4
+      },
+      {
+        "ID": 401004,
+        "TextID": 401004,
+        "NewMailType": 4
+      },
+      {
+        "ID": 402001,
+        "TextID": 402001,
+        "NewMailType": 4
+      },
+      {
+        "ID": 402002,
+        "TextID": 402002,
+        "NewMailType": 4
+      },
+      {
+        "ID": 402003,
+        "TextID": 402003,
+        "NewMailType": 4
+      },
+      {
+        "ID": 403001,
+        "TextID": 403001,
+        "NewMailType": 4
+      },
+      {
+        "ID": 403002,
+        "TextID": 403002,
+        "NewMailType": 4
+      },
+      {
+        "ID": 403003,
+        "TextID": 403003,
+        "NewMailType": 4
+      },
+      {
+        "ID": 403004,
+        "TextID": 403004,
+        "NewMailType": 4
+      },
+      {
+        "ID": 1010011,
+        "TextID": 1010011,
+        "NewMailType": 4
+      },
+      {
+        "ID": 1010021,
+        "TextID": 1010021,
+        "NewMailType": 4
+      },
+      {
+        "ID": 1010031,
+        "TextID": 1010031,
+        "NewMailType": 4
+      },
+      {
+        "ID": 1010041,
+        "TextID": 1010041,
+        "NewMailType": 4
+      },
+      {
+        "ID": 1020011,
+        "TextID": 1020011,
+        "NewMailType": 4
+      },
+      {
+        "ID": 1020021,
+        "TextID": 1020021,
+        "NewMailType": 4
+      },
+      {
+        "ID": 1020031,
+        "TextID": 1020031,
+        "NewMailType": 4
+      },
+      {
+        "ID": 1020041,
+        "TextID": 1020041,
+        "NewMailType": 4
+      },
+      {
+        "ID": 1030011,
+        "TextID": 1030011,
+        "NewMailType": 4
+      },
+      {
+        "ID": 1030021,
+        "TextID": 1030021,
+        "NewMailType": 4
+      },
+      {
+        "ID": 2010011,
+        "TextID": 2010011,
+        "NewMailType": 4
+      },
+      {
+        "ID": 2010021,
+        "TextID": 2010021,
+        "NewMailType": 4
+      },
+      {
+        "ID": 2010031,
+        "TextID": 2010031,
+        "NewMailType": 4
+      },
+      {
+        "ID": 2020011,
+        "TextID": 2020011,
+        "NewMailType": 4
+      },
+      {
+        "ID": 2020021,
+        "TextID": 2020021,
+        "NewMailType": 4
+      },
+      {
+        "ID": 2020031,
+        "TextID": 2020031,
+        "NewMailType": 4
+      },
+      {
+        "ID": 2020041,
+        "TextID": 2020041,
+        "NewMailType": 4
+      },
+      {
+        "ID": 3010021,
+        "TextID": 3010021,
+        "NewMailType": 4
+      },
+      {
+        "ID": 3010031,
+        "TextID": 3010031,
+        "NewMailType": 4
+      },
+      {
+        "ID": 3010041,
+        "TextID": 3010041,
+        "NewMailType": 4
+      },
+      {
+        "ID": 3020011,
+        "TextID": 3020011,
+        "NewMailType": 4
+      },
+      {
+        "ID": 3020021,
+        "TextID": 3020021,
+        "NewMailType": 4
+      },
+      {
+        "ID": 3020031,
+        "TextID": 3020031,
+        "NewMailType": 4
+      },
+      {
+        "ID": 3020041,
+        "TextID": 3020041,
+        "NewMailType": 4
+      },
+      {
+        "ID": 4010011,
+        "TextID": 4010011,
+        "NewMailType": 4
+      },
+      {
+        "ID": 4010021,
+        "TextID": 4010021,
+        "NewMailType": 4
+      },
+      {
+        "ID": 4010031,
+        "TextID": 4010031,
+        "NewMailType": 4
+      },
+      {
+        "ID": 4010041,
+        "TextID": 4010041,
+        "NewMailType": 4
+      },
+      {
+        "ID": 4020011,
+        "TextID": 4020011,
+        "NewMailType": 4
+      },
+      {
+        "ID": 4020021,
+        "TextID": 4020021,
+        "NewMailType": 4
+      },
+      {
+        "ID": 4020031,
+        "TextID": 4020031,
+        "NewMailType": 4
+      },
+      {
+        "ID": 4030011,
+        "TextID": 4030011,
+        "NewMailType": 4
+      },
+      {
+        "ID": 4030021,
+        "TextID": 4030021,
+        "NewMailType": 4
+      },
+      {
+        "ID": 4030031,
+        "TextID": 4030031,
+        "NewMailType": 4
+      },
+      {
+        "ID": 4030041,
+        "TextID": 4030041,
+        "NewMailType": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,1651 @@
+{
+  "AbyssSeason": {
+    "Datas": [
+      {
+        "ID": 1,
+        "StartTime": "2025-02-03 08:00:00",
+        "EndTime": "2025-04-30 22:00:00",
+        "SeasonStage": 10001,
+        "SeasonAchieve": 10001,
+        "NpcID": 10005,
+        "UnlockDungeonID": 99030012
+      },
+      {
+        "ID": 2,
+        "StartTime": "2025-05-01 08:00:00",
+        "EndTime": "2025-05-15 22:00:00",
+        "SeasonStage": 10002,
+        "SeasonAchieve": 10002,
+        "NpcID": 10006,
+        "UnlockDungeonID": 99030012
+      },
+      {
+        "ID": 3,
+        "StartTime": "2025-05-16 08:00:00",
+        "EndTime": "2025-06-06 22:00:00",
+        "SeasonStage": 10003,
+        "SeasonAchieve": 10003,
+        "NpcID": 10005,
+        "UnlockDungeonID": 99030012
+      },
+      {
+        "ID": 4,
+        "StartTime": "2025-06-14 08:00:00",
+        "EndTime": "2025-07-04 22:00:00",
+        "SeasonStage": 10004,
+        "SeasonAchieve": 10004,
+        "NpcID": 10006,
+        "UnlockDungeonID": 99030012
+      },
+      {
+        "ID": 5,
+        "StartTime": "2025-07-05 08:00:00",
+        "EndTime": "2025-07-25 22:00:00",
+        "SeasonStage": 10005,
+        "SeasonAchieve": 10005,
+        "NpcID": 10006,
+        "UnlockDungeonID": 99030012
+      },
+      {
+        "ID": 6,
+        "StartTime": "2025-07-26 08:00:00",
+        "EndTime": "2025-08-15 22:00:00",
+        "SeasonStage": 10006,
+        "SeasonAchieve": 10006,
+        "NpcID": 10007,
+        "UnlockDungeonID": 99030012
+      },
+      {
+        "ID": 7,
+        "StartTime": "2025-08-16 08:00:00",
+        "EndTime": "2025-09-05 22:00:00",
+        "SeasonStage": 10007,
+        "SeasonAchieve": 10007,
+        "NpcID": 10008,
+        "UnlockDungeonID": 99030012
+      },
+      {
+        "ID": 8,
+        "StartTime": "2025-09-06 08:00:00",
+        "EndTime": "2025-09-26 22:00:00",
+        "SeasonStage": 10008,
+        "SeasonAchieve": 10008,
+        "NpcID": 10005,
+        "UnlockDungeonID": 99030012
+      },
+      {
+        "ID": 9,
+        "StartTime": "2025-09-27 08:00:00",
+        "EndTime": "2025-10-17 22:00:00",
+        "SeasonStage": 10009,
+        "SeasonAchieve": 10009,
+        "NpcID": 10005,
+        "UnlockDungeonID": 99030012
+      },
+      {
+        "ID": 10,
+        "StartTime": "2025-10-18 08:00:00",
+        "EndTime": "2025-11-07 22:00:00",
+        "SeasonStage": 10010,
+        "SeasonAchieve": 10010,
+        "NpcID": 10005,
+        "UnlockDungeonID": 99030012
+      },
+      {
+        "ID": 11,
+        "StartTime": "2025-11-08 08:00:00",
+        "EndTime": "2025-11-28 22:00:00",
+        "SeasonStage": 10011,
+        "SeasonAchieve": 10011,
+        "NpcID": 10005,
+        "UnlockDungeonID": 99030012
+      },
+      {
+        "ID": 9000001,
+        "SeasonStage": 1000,
+        "SeasonAchieve": 1000,
+        "NpcID": 10006
+      }
+    ]
+  },
+  "AbyssStage": {
+    "Datas": [
+      {
+        "ID": 1000,
+        "AbyssStageGroupInfo": [
+          {
+            "TextID": 1001,
+            "IconID": 1001,
+            "DungeonID": 99030001,
+            "NewElementType1": 2,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 1002,
+            "IconID": 1002,
+            "DungeonID": 99030002,
+            "NewElementType1": 1,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 1003,
+            "IconID": 1003,
+            "DungeonID": 99030003,
+            "NewElementType1": 3,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 1004,
+            "IconID": 1004,
+            "DungeonID": 99030004,
+            "NewElementType1": 4,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 1005,
+            "IconID": 1005,
+            "DungeonID": 99030005,
+            "NewElementType1": 5,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 1006,
+            "IconID": 1006,
+            "DungeonID": 99030006,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 1007,
+            "IconID": 1007,
+            "DungeonID": 99030007,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 1008,
+            "IconID": 1008,
+            "DungeonID": 99030008,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 1009,
+            "IconID": 1009,
+            "DungeonID": 99030009,
+            "IsDoubleTeam": true,
+            "NewElementType1": 1,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 1010,
+            "IconID": 1010,
+            "DungeonID": 99030010,
+            "IsDoubleTeam": true,
+            "NewElementType1": 3,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 1011,
+            "IconID": 1011,
+            "DungeonID": 99030011,
+            "IsDoubleTeam": true,
+            "NewElementType1": 2,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 1012,
+            "IconID": 1012,
+            "DungeonID": 99030012,
+            "IsDoubleTeam": true,
+            "NewElementType1": 4,
+            "NewElementType2": 5,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          }
+        ]
+      },
+      {
+        "ID": 10001,
+        "AbyssStageGroupInfo": [
+          {
+            "TextID": 10011,
+            "IconID": 10011,
+            "DungeonID": 99030101,
+            "IsDoubleTeam": true,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10012,
+            "IconID": 10012,
+            "DungeonID": 99030102,
+            "IsDoubleTeam": true,
+            "NewElementType1": 4,
+            "NewElementType2": 1,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10013,
+            "IconID": 10013,
+            "DungeonID": 99030103,
+            "IsDoubleTeam": true,
+            "NewElementType1": 4,
+            "NewElementType2": 1,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          }
+        ]
+      },
+      {
+        "ID": 10002,
+        "AbyssStageGroupInfo": [
+          {
+            "TextID": 10021,
+            "IconID": 10021,
+            "DungeonID": 99030201,
+            "IsDoubleTeam": true,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10022,
+            "IconID": 10022,
+            "DungeonID": 99030202,
+            "IsDoubleTeam": true,
+            "NewElementType1": 1,
+            "NewElementType2": 4,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10023,
+            "IconID": 10023,
+            "DungeonID": 99030203,
+            "IsDoubleTeam": true,
+            "NewElementType1": 4,
+            "NewElementType2": 3,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          }
+        ]
+      },
+      {
+        "ID": 10003,
+        "AbyssStageGroupInfo": [
+          {
+            "TextID": 10031,
+            "IconID": 10031,
+            "DungeonID": 99030301,
+            "IsDoubleTeam": true,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10032,
+            "IconID": 10032,
+            "DungeonID": 99030302,
+            "IsDoubleTeam": true,
+            "NewElementType1": 2,
+            "NewElementType2": 3,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10033,
+            "IconID": 10033,
+            "DungeonID": 99030303,
+            "IsDoubleTeam": true,
+            "NewElementType1": 3,
+            "NewElementType2": 5,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          }
+        ]
+      },
+      {
+        "ID": 10004,
+        "AbyssStageGroupInfo": [
+          {
+            "TextID": 10041,
+            "IconID": 10041,
+            "DungeonID": 99030401,
+            "IsDoubleTeam": true,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10042,
+            "IconID": 10042,
+            "DungeonID": 99030402,
+            "IsDoubleTeam": true,
+            "NewElementType1": 2,
+            "NewElementType2": 3,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10043,
+            "IconID": 10043,
+            "DungeonID": 99030403,
+            "IsDoubleTeam": true,
+            "NewElementType1": 5,
+            "NewElementType2": 2,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10044,
+            "IconID": 10044,
+            "DungeonID": 99030404,
+            "IsDoubleTeam": true,
+            "IsChallengeDungeon": true,
+            "NewElementType1": 5,
+            "NewElementType2": 2,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          }
+        ]
+      },
+      {
+        "ID": 10005,
+        "AbyssStageGroupInfo": [
+          {
+            "TextID": 10051,
+            "IconID": 10051,
+            "DungeonID": 99030501,
+            "IsDoubleTeam": true,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10052,
+            "IconID": 10052,
+            "DungeonID": 99030502,
+            "IsDoubleTeam": true,
+            "NewElementType1": 2,
+            "NewElementType2": 4,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10053,
+            "IconID": 10053,
+            "DungeonID": 99030503,
+            "IsDoubleTeam": true,
+            "NewElementType1": 1,
+            "NewElementType2": 2,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10054,
+            "IconID": 10054,
+            "DungeonID": 99030504,
+            "IsDoubleTeam": true,
+            "IsChallengeDungeon": true,
+            "NewElementType1": 1,
+            "NewElementType2": 2,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          }
+        ]
+      },
+      {
+        "ID": 10006,
+        "AbyssStageGroupInfo": [
+          {
+            "TextID": 10061,
+            "IconID": 10061,
+            "DungeonID": 99030601,
+            "IsDoubleTeam": true,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10062,
+            "IconID": 10062,
+            "DungeonID": 99030602,
+            "IsDoubleTeam": true,
+            "NewElementType1": 3,
+            "NewElementType2": 2,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10063,
+            "IconID": 10063,
+            "DungeonID": 99030603,
+            "IsDoubleTeam": true,
+            "NewElementType1": 4,
+            "NewElementType2": 3,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10064,
+            "IconID": 10064,
+            "DungeonID": 99030604,
+            "IsDoubleTeam": true,
+            "IsChallengeDungeon": true,
+            "NewElementType1": 4,
+            "NewElementType2": 3,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          }
+        ]
+      },
+      {
+        "ID": 10007,
+        "AbyssStageGroupInfo": [
+          {
+            "TextID": 10071,
+            "IconID": 10061,
+            "DungeonID": 99030701,
+            "IsDoubleTeam": true,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10072,
+            "IconID": 10062,
+            "DungeonID": 99030702,
+            "IsDoubleTeam": true,
+            "NewElementType1": 1,
+            "NewElementType2": 3,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10073,
+            "IconID": 10063,
+            "DungeonID": 99030703,
+            "IsDoubleTeam": true,
+            "NewElementType1": 1,
+            "NewElementType2": 5,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10074,
+            "IconID": 10064,
+            "DungeonID": 99030704,
+            "IsDoubleTeam": true,
+            "IsChallengeDungeon": true,
+            "NewElementType1": 1,
+            "NewElementType2": 5,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          }
+        ]
+      },
+      {
+        "ID": 10008,
+        "AbyssStageGroupInfo": [
+          {
+            "TextID": 10081,
+            "IconID": 10061,
+            "DungeonID": 99030801,
+            "IsDoubleTeam": true,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10082,
+            "IconID": 10062,
+            "DungeonID": 99030802,
+            "IsDoubleTeam": true,
+            "NewElementType1": 4,
+            "NewElementType2": 2,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10083,
+            "IconID": 10063,
+            "DungeonID": 99030803,
+            "IsDoubleTeam": true,
+            "NewElementType1": 3,
+            "NewElementType2": 2,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10084,
+            "IconID": 10064,
+            "DungeonID": 99030804,
+            "IsDoubleTeam": true,
+            "IsChallengeDungeon": true,
+            "NewElementType1": 3,
+            "NewElementType2": 2,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          }
+        ]
+      },
+      {
+        "ID": 10009,
+        "AbyssStageGroupInfo": [
+          {
+            "TextID": 10091,
+            "IconID": 10061,
+            "DungeonID": 99030901,
+            "IsDoubleTeam": true,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10092,
+            "IconID": 10062,
+            "DungeonID": 99030902,
+            "IsDoubleTeam": true,
+            "NewElementType1": 3,
+            "NewElementType2": 5,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10093,
+            "IconID": 10063,
+            "DungeonID": 99030903,
+            "IsDoubleTeam": true,
+            "NewElementType1": 1,
+            "NewElementType2": 5,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10094,
+            "IconID": 10064,
+            "DungeonID": 99030904,
+            "IsDoubleTeam": true,
+            "IsChallengeDungeon": true,
+            "NewElementType1": 1,
+            "NewElementType2": 5,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          }
+        ]
+      },
+      {
+        "ID": 10010,
+        "AbyssStageGroupInfo": [
+          {
+            "TextID": 10091,
+            "IconID": 10061,
+            "DungeonID": 99031001,
+            "IsDoubleTeam": true,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10092,
+            "IconID": 10062,
+            "DungeonID": 99031002,
+            "IsDoubleTeam": true,
+            "NewElementType1": 2,
+            "NewElementType2": 3,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10093,
+            "IconID": 10063,
+            "DungeonID": 99031003,
+            "IsDoubleTeam": true,
+            "NewElementType1": 3,
+            "NewElementType2": 4,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10094,
+            "IconID": 10064,
+            "DungeonID": 99031004,
+            "IsDoubleTeam": true,
+            "IsChallengeDungeon": true,
+            "NewElementType1": 3,
+            "NewElementType2": 4,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          }
+        ]
+      },
+      {
+        "ID": 10011,
+        "AbyssStageGroupInfo": [
+          {
+            "TextID": 10091,
+            "IconID": 10061,
+            "DungeonID": 99031101,
+            "IsDoubleTeam": true,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10092,
+            "IconID": 10062,
+            "DungeonID": 99031102,
+            "IsDoubleTeam": true,
+            "NewElementType1": 4,
+            "NewElementType2": 5,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10093,
+            "IconID": 10063,
+            "DungeonID": 99031103,
+            "IsDoubleTeam": true,
+            "NewElementType1": 1,
+            "NewElementType2": 5,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10094,
+            "IconID": 10064,
+            "DungeonID": 99031104,
+            "IsDoubleTeam": true,
+            "IsChallengeDungeon": true,
+            "NewElementType1": 1,
+            "NewElementType2": 5,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          }
+        ]
+      }
+    ]
+  },
+  "SeasonAchieve": {
+    "Datas": [
+      {
+        "ID": 1000,
+        "SeasonAchieveGroupInfo": [
+          {
+            "AchieveID": 17010001,
+            "RewardID": 5010010,
+            "IconID": 17010001
+          },
+          {
+            "AchieveID": 17010002,
+            "RewardID": 5010020,
+            "IconID": 17010002
+          },
+          {
+            "AchieveID": 17010003,
+            "RewardID": 5010030,
+            "IconID": 17010003
+          },
+          {
+            "AchieveID": 17010004,
+            "RewardID": 5010040,
+            "IconID": 17010004
+          },
+          {
+            "AchieveID": 17010005,
+            "RewardID": 5010050,
+            "IconID": 17010005
+          },
+          {
+            "AchieveID": 17010006,
+            "RewardID": 5010060,
+            "IconID": 17010006
+          },
+          {
+            "AchieveID": 17010007,
+            "RewardID": 5010070,
+            "IconID": 17010007
+          },
+          {
+            "AchieveID": 17010008,
+            "RewardID": 5010080,
+            "IconID": 17010008
+          },
+          {
+            "AchieveID": 17010009,
+            "RewardID": 5010090,
+            "IconID": 17010009
+          },
+          {
+            "AchieveID": 17010010,
+            "RewardID": 5010100,
+            "IconID": 17010010
+          },
+          {
+            "AchieveID": 17010011,
+            "RewardID": 5010110,
+            "IconID": 17010011
+          },
+          {
+            "AchieveID": 17010012,
+            "RewardID": 5010120,
+            "IconID": 17010012
+          },
+          {
+            "AchieveID": 17020001,
+            "RewardID": 5020010,
+            "IconID": 17020001
+          },
+          {
+            "AchieveID": 17020002,
+            "RewardID": 5020020,
+            "IconID": 17020002
+          },
+          {
+            "AchieveID": 17020003,
+            "RewardID": 5020030,
+            "IconID": 17020003
+          },
+          {
+            "AchieveID": 17020004,
+            "RewardID": 5020040,
+            "IconID": 17020004
+          },
+          {
+            "AchieveID": 17020005,
+            "RewardID": 5020050,
+            "IconID": 17020005
+          },
+          {
+            "AchieveID": 17020006,
+            "RewardID": 5020060,
+            "IconID": 17020006
+          },
+          {
+            "AchieveID": 17020007,
+            "RewardID": 5020070,
+            "IconID": 17020007
+          },
+          {
+            "AchieveID": 17020008,
+            "RewardID": 5020080,
+            "IconID": 17020008
+          },
+          {
+            "AchieveID": 17020009,
+            "RewardID": 5020090,
+            "IconID": 17020009
+          },
+          {
+            "AchieveID": 17020010,
+            "RewardID": 5020100,
+            "IconID": 17020010
+          },
+          {
+            "AchieveID": 17020011,
+            "RewardID": 5020110,
+            "IconID": 17020011
+          },
+          {
+            "AchieveID": 17020012,
+            "RewardID": 5020120,
+            "IconID": 17020012
+          }
+        ]
+      },
+      {
+        "ID": 10001,
+        "SeasonAchieveGroupInfo": [
+          {
+            "AchieveID": 17100101,
+            "RewardID": 5030110,
+            "IconID": 17100101
+          },
+          {
+            "AchieveID": 17100102,
+            "RewardID": 5030120,
+            "IconID": 17100102
+          },
+          {
+            "AchieveID": 17100103,
+            "RewardID": 5030130,
+            "IconID": 17100103
+          },
+          {
+            "AchieveID": 17100104,
+            "RewardID": 5030140,
+            "IconID": 17100104
+          },
+          {
+            "AchieveID": 17100105,
+            "RewardID": 5030150,
+            "IconID": 17100105
+          },
+          {
+            "AchieveID": 17100106,
+            "RewardID": 5030160,
+            "IconID": 17100106
+          },
+          {
+            "AchieveID": 17100107,
+            "RewardID": 5030170,
+            "IconID": 17100107
+          },
+          {
+            "AchieveID": 17100108,
+            "RewardID": 5030180,
+            "IconID": 17100108
+          }
+        ]
+      },
+      {
+        "ID": 10002,
+        "SeasonAchieveGroupInfo": [
+          {
+            "AchieveID": 17100101,
+            "RewardID": 5030210,
+            "IconID": 17100101
+          },
+          {
+            "AchieveID": 17100102,
+            "RewardID": 5030220,
+            "IconID": 17100102
+          },
+          {
+            "AchieveID": 17100103,
+            "RewardID": 5030230,
+            "IconID": 17100103
+          },
+          {
+            "AchieveID": 17100104,
+            "RewardID": 5030240,
+            "IconID": 17100104
+          },
+          {
+            "AchieveID": 17100105,
+            "RewardID": 5030250,
+            "IconID": 17100105
+          },
+          {
+            "AchieveID": 17100106,
+            "RewardID": 5030260,
+            "IconID": 17100106
+          },
+          {
+            "AchieveID": 17100107,
+            "RewardID": 5030270,
+            "IconID": 17100107
+          },
+          {
+            "AchieveID": 17100108,
+            "RewardID": 5030280,
+            "IconID": 17100108
+          }
+        ]
+      },
+      {
+        "ID": 10003,
+        "SeasonAchieveGroupInfo": [
+          {
+            "AchieveID": 17100101,
+            "RewardID": 5030310,
+            "IconID": 17100101
+          },
+          {
+            "AchieveID": 17100102,
+            "RewardID": 5030320,
+            "IconID": 17100102
+          },
+          {
+            "AchieveID": 17100103,
+            "RewardID": 5030330,
+            "IconID": 17100103
+          },
+          {
+            "AchieveID": 17100104,
+            "RewardID": 5030340,
+            "IconID": 17100104
+          },
+          {
+            "AchieveID": 17100105,
+            "RewardID": 5030350,
+            "IconID": 17100105
+          },
+          {
+            "AchieveID": 17100106,
+            "RewardID": 5030360,
+            "IconID": 17100106
+          },
+          {
+            "AchieveID": 17100107,
+            "RewardID": 5030370,
+            "IconID": 17100107
+          },
+          {
+            "AchieveID": 17100108,
+            "RewardID": 5030380,
+            "IconID": 17100108
+          }
+        ]
+      },
+      {
+        "ID": 10004,
+        "SeasonAchieveGroupInfo": [
+          {
+            "AchieveID": 17100101,
+            "RewardID": 5030410,
+            "IconID": 17100101
+          },
+          {
+            "AchieveID": 17100102,
+            "RewardID": 5030420,
+            "IconID": 17100102
+          },
+          {
+            "AchieveID": 17100103,
+            "RewardID": 5030430,
+            "IconID": 17100103
+          },
+          {
+            "AchieveID": 17100104,
+            "RewardID": 5030440,
+            "IconID": 17100104
+          },
+          {
+            "AchieveID": 17100105,
+            "RewardID": 5030450,
+            "IconID": 17100105
+          },
+          {
+            "AchieveID": 17100106,
+            "RewardID": 5030460,
+            "IconID": 17100106
+          },
+          {
+            "AchieveID": 17100107,
+            "RewardID": 5030470,
+            "IconID": 17100107
+          },
+          {
+            "AchieveID": 17100108,
+            "RewardID": 5030480,
+            "IconID": 17100108
+          },
+          {
+            "AchieveID": 17200401,
+            "RewardID": 5030490,
+            "IconID": 17100108
+          }
+        ]
+      },
+      {
+        "ID": 10005,
+        "SeasonAchieveGroupInfo": [
+          {
+            "AchieveID": 17100101,
+            "RewardID": 5030510,
+            "IconID": 17100101
+          },
+          {
+            "AchieveID": 17100102,
+            "RewardID": 5030520,
+            "IconID": 17100102
+          },
+          {
+            "AchieveID": 17100103,
+            "RewardID": 5030530,
+            "IconID": 17100103
+          },
+          {
+            "AchieveID": 17100104,
+            "RewardID": 5030540,
+            "IconID": 17100104
+          },
+          {
+            "AchieveID": 17100105,
+            "RewardID": 5030550,
+            "IconID": 17100105
+          },
+          {
+            "AchieveID": 17100106,
+            "RewardID": 5030560,
+            "IconID": 17100106
+          },
+          {
+            "AchieveID": 17100107,
+            "RewardID": 5030570,
+            "IconID": 17100107
+          },
+          {
+            "AchieveID": 17100108,
+            "RewardID": 5030580,
+            "IconID": 17100108
+          },
+          {
+            "AchieveID": 17200501,
+            "RewardID": 5030590,
+            "IconID": 17100108
+          }
+        ]
+      },
+      {
+        "ID": 10006,
+        "SeasonAchieveGroupInfo": [
+          {
+            "AchieveID": 17100101,
+            "RewardID": 5030610,
+            "IconID": 17100101
+          },
+          {
+            "AchieveID": 17100102,
+            "RewardID": 5030620,
+            "IconID": 17100102
+          },
+          {
+            "AchieveID": 17100103,
+            "RewardID": 5030630,
+            "IconID": 17100103
+          },
+          {
+            "AchieveID": 17100104,
+            "RewardID": 5030640,
+            "IconID": 17100104
+          },
+          {
+            "AchieveID": 17100105,
+            "RewardID": 5030650,
+            "IconID": 17100105
+          },
+          {
+            "AchieveID": 17100106,
+            "RewardID": 5030660,
+            "IconID": 17100106
+          },
+          {
+            "AchieveID": 17100107,
+            "RewardID": 5030670,
+            "IconID": 17100107
+          },
+          {
+            "AchieveID": 17100108,
+            "RewardID": 5030680,
+            "IconID": 17100108
+          },
+          {
+            "AchieveID": 17200601,
+            "RewardID": 5030690,
+            "IconID": 17100108
+          }
+        ]
+      },
+      {
+        "ID": 10007,
+        "SeasonAchieveGroupInfo": [
+          {
+            "AchieveID": 17100101,
+            "RewardID": 5030710,
+            "IconID": 17100101
+          },
+          {
+            "AchieveID": 17100102,
+            "RewardID": 5030720,
+            "IconID": 17100102
+          },
+          {
+            "AchieveID": 17100103,
+            "RewardID": 5030730,
+            "IconID": 17100103
+          },
+          {
+            "AchieveID": 17100104,
+            "RewardID": 5030740,
+            "IconID": 17100104
+          },
+          {
+            "AchieveID": 17100105,
+            "RewardID": 5030750,
+            "IconID": 17100105
+          },
+          {
+            "AchieveID": 17100106,
+            "RewardID": 5030760,
+            "IconID": 17100106
+          },
+          {
+            "AchieveID": 17100107,
+            "RewardID": 5030770,
+            "IconID": 17100107
+          },
+          {
+            "AchieveID": 17100108,
+            "RewardID": 5030780,
+            "IconID": 17100108
+          },
+          {
+            "AchieveID": 17200701,
+            "RewardID": 5030790,
+            "IconID": 17100108
+          }
+        ]
+      },
+      {
+        "ID": 10008,
+        "SeasonAchieveGroupInfo": [
+          {
+            "AchieveID": 17100101,
+            "RewardID": 5030810,
+            "IconID": 17100101
+          },
+          {
+            "AchieveID": 17100102,
+            "RewardID": 5030820,
+            "IconID": 17100102
+          },
+          {
+            "AchieveID": 17100103,
+            "RewardID": 5030830,
+            "IconID": 17100103
+          },
+          {
+            "AchieveID": 17100104,
+            "RewardID": 5030840,
+            "IconID": 17100104
+          },
+          {
+            "AchieveID": 17100105,
+            "RewardID": 5030850,
+            "IconID": 17100105
+          },
+          {
+            "AchieveID": 17100106,
+            "RewardID": 5030860,
+            "IconID": 17100106
+          },
+          {
+            "AchieveID": 17100107,
+            "RewardID": 5030870,
+            "IconID": 17100107
+          },
+          {
+            "AchieveID": 17100108,
+            "RewardID": 5030880,
+            "IconID": 17100108
+          },
+          {
+            "AchieveID": 17200801,
+            "RewardID": 5030890,
+            "IconID": 17100108
+          }
+        ]
+      },
+      {
+        "ID": 10009,
+        "SeasonAchieveGroupInfo": [
+          {
+            "AchieveID": 17100101,
+            "RewardID": 5030910,
+            "IconID": 17100101
+          },
+          {
+            "AchieveID": 17100102,
+            "RewardID": 5030920,
+            "IconID": 17100102
+          },
+          {
+            "AchieveID": 17100103,
+            "RewardID": 5030930,
+            "IconID": 17100103
+          },
+          {
+            "AchieveID": 17100104,
+            "RewardID": 5030940,
+            "IconID": 17100104
+          },
+          {
+            "AchieveID": 17100105,
+            "RewardID": 5030950,
+            "IconID": 17100105
+          },
+          {
+            "AchieveID": 17100106,
+            "RewardID": 5030960,
+            "IconID": 17100106
+          },
+          {
+            "AchieveID": 17100107,
+            "RewardID": 5030970,
+            "IconID": 17100107
+          },
+          {
+            "AchieveID": 17100108,
+            "RewardID": 5030980,
+            "IconID": 17100108
+          },
+          {
+            "AchieveID": 17200901,
+            "RewardID": 5030990,
+            "IconID": 17100108
+          }
+        ]
+      },
+      {
+        "ID": 10010,
+        "SeasonAchieveGroupInfo": [
+          {
+            "AchieveID": 17100101,
+            "RewardID": 5031010,
+            "IconID": 17100101
+          },
+          {
+            "AchieveID": 17100102,
+            "RewardID": 5031020,
+            "IconID": 17100102
+          },
+          {
+            "AchieveID": 17100103,
+            "RewardID": 5031030,
+            "IconID": 17100103
+          },
+          {
+            "AchieveID": 17100104,
+            "RewardID": 5031040,
+            "IconID": 17100104
+          },
+          {
+            "AchieveID": 17100105,
+            "RewardID": 5031050,
+            "IconID": 17100105
+          },
+          {
+            "AchieveID": 17100106,
+            "RewardID": 5031060,
+            "IconID": 17100106
+          },
+          {
+            "AchieveID": 17100107,
+            "RewardID": 5031070,
+            "IconID": 17100107
+          },
+          {
+            "AchieveID": 17100108,
+            "RewardID": 5031080,
+            "IconID": 17100108
+          },
+          {
+            "AchieveID": 17201001,
+            "RewardID": 5031090,
+            "IconID": 17100108
+          }
+        ]
+      },
+      {
+        "ID": 10011,
+        "SeasonAchieveGroupInfo": [
+          {
+            "AchieveID": 17100101,
+            "RewardID": 5031110,
+            "IconID": 17100101
+          },
+          {
+            "AchieveID": 17100102,
+            "RewardID": 5031120,
+            "IconID": 17100102
+          },
+          {
+            "AchieveID": 17100103,
+            "RewardID": 5031130,
+            "IconID": 17100103
+          },
+          {
+            "AchieveID": 17100104,
+            "RewardID": 5031140,
+            "IconID": 17100104
+          },
+          {
+            "AchieveID": 17100105,
+            "RewardID": 5031150,
+            "IconID": 17100105
+          },
+          {
+            "AchieveID": 17100106,
+            "RewardID": 5031160,
+            "IconID": 17100106
+          },
+          {
+            "AchieveID": 17100107,
+            "RewardID": 5031170,
+            "IconID": 17100107
+          },
+          {
+            "AchieveID": 17100108,
+            "RewardID": 5031180,
+            "IconID": 17100108
+          },
+          {
+            "AchieveID": 17201101,
+            "RewardID": 5031190,
+            "IconID": 17100108
+          }
+        ]
+      }
+    ]
+  }
+}

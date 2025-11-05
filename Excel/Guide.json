@@ -1,0 +1,93 @@
+{
+  "Guide": {
+    "Datas": [
+      {
+        "ID": 1001,
+        "Index": 1,
+        "TextID": 1001,
+        "IconID": 1001,
+        "GuideGroupID": 1001
+      },
+      {
+        "ID": 1002,
+        "Index": 2,
+        "TextID": 1002,
+        "IconID": 1002,
+        "GuideGroupID": 1002,
+        "ItemUnLock": 131
+      },
+      {
+        "ID": 1003,
+        "Index": 3,
+        "TextID": 1003,
+        "IconID": 1003,
+        "GuideGroupID": 1003,
+        "QuestUnLock": 100013
+      }
+    ]
+  },
+  "GuideGroup": {
+    "Datas": [
+      {
+        "ID": 1001,
+        "GuideGroupItem": [
+          {
+            "IconID": 100101
+          },
+          {
+            "IconID": 100102
+          },
+          {
+            "IconID": 100103
+          },
+          {
+            "IconID": 100104
+          },
+          {
+            "IconID": 100105
+          },
+          {
+            "IconID": 100106
+          }
+        ]
+      },
+      {
+        "ID": 1002,
+        "GuideGroupItem": [
+          {
+            "IconID": 100201
+          },
+          {
+            "IconID": 100202
+          },
+          {
+            "IconID": 100203
+          },
+          {
+            "IconID": 100204
+          },
+          {
+            "IconID": 100205
+          }
+        ]
+      },
+      {
+        "ID": 1003,
+        "GuideGroupItem": [
+          {
+            "IconID": 100301
+          },
+          {
+            "IconID": 100302
+          },
+          {
+            "IconID": 100303
+          },
+          {
+            "IconID": 100304
+          }
+        ]
+      }
+    ]
+  }
+}

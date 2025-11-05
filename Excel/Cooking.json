@@ -1,0 +1,6142 @@
+{
+  "CookLevel": {
+    "Datas": [
+      {
+        "ID": 1,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 1000,
+        "CookLevelQuest": [
+          {
+            "AchieveConditionID": 100110101,
+            "Proficiency": 200,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100110102,
+            "Proficiency": 200,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100110103,
+            "Proficiency": 300,
+            "CompleteLimit": 15
+          },
+          {
+            "AchieveConditionID": 100110104,
+            "Proficiency": 300,
+            "CompleteLimit": 15
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 2000,
+        "CookLevelQuest": [
+          {
+            "AchieveConditionID": 100110201,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          },
+          {
+            "AchieveConditionID": 100110202,
+            "Proficiency": 100,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100110203,
+            "Proficiency": 300,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100110204,
+            "Proficiency": 300,
+            "CompleteLimit": 20
+          }
+        ]
+      },
+      {
+        "ID": 3,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 3000,
+        "CookLevelQuest": [
+          {
+            "AchieveConditionID": 100110301,
+            "Proficiency": 100,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100110302,
+            "Proficiency": 600,
+            "CompleteLimit": 5
+          },
+          {
+            "AchieveConditionID": 100110303,
+            "Proficiency": 300,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100110304,
+            "Proficiency": 300,
+            "CompleteLimit": 20
+          }
+        ]
+      },
+      {
+        "ID": 4,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 5000,
+        "CookLevelQuest": [
+          {
+            "AchieveConditionID": 100110401,
+            "Proficiency": 100,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100110402,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100110403,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100110404,
+            "Proficiency": 200,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100110405,
+            "Proficiency": 200,
+            "CompleteLimit": 30
+          }
+        ]
+      },
+      {
+        "ID": 5,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 8000,
+        "CookLevelQuest": [
+          {
+            "AchieveConditionID": 100110501,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          },
+          {
+            "AchieveConditionID": 100110502,
+            "Proficiency": 150,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100110503,
+            "Proficiency": 250,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100110504,
+            "Proficiency": 250,
+            "CompleteLimit": 20
+          }
+        ]
+      },
+      {
+        "ID": 6,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 10000,
+        "CookLevelQuest": [
+          {
+            "AchieveConditionID": 100110601,
+            "Proficiency": 100,
+            "CompleteLimit": 10
+          },
+          {
+            "AchieveConditionID": 100110602,
+            "Proficiency": 600,
+            "CompleteLimit": 5
+          },
+          {
+            "AchieveConditionID": 100110603,
+            "Proficiency": 250,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100110604,
+            "Proficiency": 250,
+            "CompleteLimit": 20
+          }
+        ]
+      },
+      {
+        "ID": 7,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 15000,
+        "CookLevelQuest": [
+          {
+            "AchieveConditionID": 100110701,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100110702,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100110703,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100110704,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          },
+          {
+            "AchieveConditionID": 100110705,
+            "Proficiency": 100,
+            "CompleteLimit": 30
+          }
+        ]
+      },
+      {
+        "ID": 8,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 20000,
+        "CookLevelQuest": [
+          {
+            "AchieveConditionID": 100110801,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          },
+          {
+            "AchieveConditionID": 100110802,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          },
+          {
+            "AchieveConditionID": 100110803,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          },
+          {
+            "AchieveConditionID": 100110804,
+            "Proficiency": 200,
+            "CompleteLimit": 15
+          }
+        ]
+      },
+      {
+        "ID": 9,
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 101,
+        "NeedItemCount": 30000,
+        "CookLevelQuest": [
+          {
+            "AchieveConditionID": 100110901,
+            "Proficiency": 400,
+            "CompleteLimit": 5
+          },
+          {
+            "AchieveConditionID": 100110902,
+            "Proficiency": 100,
+            "CompleteLimit": 40
+          },
+          {
+            "AchieveConditionID": 100110903,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100110904,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          },
+          {
+            "AchieveConditionID": 100110905,
+            "Proficiency": 100,
+            "CompleteLimit": 20
+          }
+        ]
+      },
+      {
+        "ID": 10,
+        "UpgradeLevelByProficiency": 10000
+      }
+    ]
+  },
+  "CookFood": {
+    "Datas": [
+      {
+        "ID": 5012001,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 4,
+        "NeedItemID": 11,
+        "NeedItemCount": 3,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011004,
+            "FoodItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5012001,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150120011,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150120012,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150120013,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150120014,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 1,
+        "NewCookFoodType": 1,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5012002,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 4,
+        "NeedItemID": 11,
+        "NeedItemCount": 3,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011003,
+            "FoodItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 0.92,
+        "GetItemID": 5012002,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150120021,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150120022,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150120023,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150120024,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 1,
+        "NewCookFoodType": 1,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5012003,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 4,
+        "NeedItemID": 11,
+        "NeedItemCount": 3,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011003,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 5011018,
+            "FoodItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.85,
+        "GetItemID": 5012003,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150120031,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150120032,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150120033,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150120034,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 1,
+        "NewCookFoodType": 1,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5012004,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 4,
+        "NeedItemID": 11,
+        "NeedItemCount": 3,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011014,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 0.86,
+        "GetItemID": 5012004,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150120041,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150120042,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150120043,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150120044,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 1,
+        "NewCookFoodType": 1,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5012005,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 4,
+        "NeedItemID": 11,
+        "NeedItemCount": 3,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 5011002,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5011003,
+            "FoodItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 0.88,
+        "GetItemID": 5012005,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150120051,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150120052,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150120053,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150120054,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 1,
+        "NewCookFoodType": 1,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5012006,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 4,
+        "NeedItemID": 11,
+        "NeedItemCount": 3,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011009,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011013,
+            "FoodItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 0.94,
+        "GetItemID": 5012006,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150120061,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150120062,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150120063,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150120064,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 1,
+        "NewCookFoodType": 1,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5012007,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 4,
+        "NeedItemID": 11,
+        "NeedItemCount": 3,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011011,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5012007,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150120071,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150120072,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150120073,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150120074,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 1,
+        "NewCookFoodType": 1,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5012008,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 4,
+        "NeedItemID": 11,
+        "NeedItemCount": 3,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011011,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5011015,
+            "FoodItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 0.85,
+        "GetItemID": 5012008,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150120081,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150120082,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150120083,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150120084,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 1,
+        "NewCookFoodType": 1,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5012009,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 4,
+        "NeedItemID": 11,
+        "NeedItemCount": 3,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011007,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011017,
+            "FoodItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 0.95,
+        "GetItemID": 5012009,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150120091,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150120092,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150120093,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150120094,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 1,
+        "NewCookFoodType": 1,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5012010,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 4,
+        "NeedItemID": 11,
+        "NeedItemCount": 3,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011005,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011014,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 0.86,
+        "GetItemID": 5012010,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150120101,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150120102,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150120103,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150120104,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 1,
+        "NewCookFoodType": 1,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5012011,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 4,
+        "NeedItemID": 11,
+        "NeedItemCount": 3,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011004,
+            "FoodItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 0.93,
+        "GetItemID": 5012011,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150120111,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150120112,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150120113,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150120114,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 1,
+        "NewCookFoodType": 1,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013007,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5012011,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5011018,
+            "FoodItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.8,
+        "GetItemID": 5013007,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130071,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130072,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130073,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130074,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013012,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011010,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5011013,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5012002,
+            "FoodItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.85,
+        "GetItemID": 5013012,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130121,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130122,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130123,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130124,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013014,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011005,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5011006,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5011015,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5011022,
+            "FoodItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.8,
+        "GetItemID": 5013014,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130141,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130142,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130143,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130144,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013016,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011022,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5011008,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.75,
+        "GetItemID": 5013016,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130161,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130162,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130163,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130164,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013019,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011018,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5012011,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5012009,
+            "FoodItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.78,
+        "GetItemID": 5013019,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130191,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130192,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130193,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130194,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013023,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011005,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 0.8,
+        "GetItemID": 5013023,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130231,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130232,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130233,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130234,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013026,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011006,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011018,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011022,
+            "FoodItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 0.94,
+        "GetItemID": 5013026,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130261,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130262,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130263,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130264,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013034,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5012002,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011018,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.8,
+        "GetItemID": 5013034,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130341,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130342,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130343,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130344,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013001,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023041,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 5011014,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5012001,
+            "FoodItemCount": 4
+          }
+        ],
+        "SuccessfulProbability": 0.7,
+        "GetItemID": 5013001,
+        "NeedFormulaItemID": 5023041,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130011,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130012,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130013,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130014,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013002,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023002,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.71,
+        "GetItemID": 5013002,
+        "NeedFormulaItemID": 5023002,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130021,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130022,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130023,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130024,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013003,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023001,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5011017,
+            "FoodItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.78,
+        "GetItemID": 5013003,
+        "NeedFormulaItemID": 5023001,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130031,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130032,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130033,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130034,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013004,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023003,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 5011017,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.81,
+        "GetItemID": 5013004,
+        "NeedFormulaItemID": 5023003,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130041,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130042,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130043,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130044,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013005,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023004,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 5011020,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5011015,
+            "FoodItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.73,
+        "GetItemID": 5013005,
+        "NeedFormulaItemID": 5023004,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130051,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130052,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130053,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130054,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013006,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023042,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5012003,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5011015,
+            "FoodItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.77,
+        "GetItemID": 5013006,
+        "NeedFormulaItemID": 5023042,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130061,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130062,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130063,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130064,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013008,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023005,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.83,
+        "GetItemID": 5013008,
+        "NeedFormulaItemID": 5023005,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130081,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130082,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130083,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130084,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013009,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023004,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 5011020,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5011015,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 10
+          }
+        ],
+        "SuccessfulProbability": 0.7,
+        "GetItemID": 5013009,
+        "NeedFormulaItemID": 5023004,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130091,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130092,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130093,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130094,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013010,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023006,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5012001,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011013,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.84,
+        "GetItemID": 5013010,
+        "NeedFormulaItemID": 5023006,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130101,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130102,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130103,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130104,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013011,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023007,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5011017,
+            "FoodItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.84,
+        "GetItemID": 5013011,
+        "NeedFormulaItemID": 5023007,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130111,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130112,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130113,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130114,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013013,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023008,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5012002,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 7
+          }
+        ],
+        "SuccessfulProbability": 0.69,
+        "GetItemID": 5013013,
+        "NeedFormulaItemID": 5023008,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130131,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130132,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130133,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130134,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013015,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023043,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5011016,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5011014,
+            "FoodItemCount": 9
+          }
+        ],
+        "SuccessfulProbability": 0.82,
+        "GetItemID": 5013015,
+        "NeedFormulaItemID": 5023043,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130151,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130152,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130153,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130154,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013017,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023009,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5011017,
+            "FoodItemCount": 7
+          }
+        ],
+        "SuccessfulProbability": 0.76,
+        "GetItemID": 5013017,
+        "NeedFormulaItemID": 5023009,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130171,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130172,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130173,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130174,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013018,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023010,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 12
+          }
+        ],
+        "SuccessfulProbability": 0.79,
+        "GetItemID": 5013018,
+        "NeedFormulaItemID": 5023010,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130181,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130182,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130183,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130184,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013020,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023011,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5011014,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5012008,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 12
+          }
+        ],
+        "SuccessfulProbability": 0.67,
+        "GetItemID": 5013020,
+        "NeedFormulaItemID": 5023011,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130201,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130202,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130203,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130204,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013021,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023012,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.66,
+        "GetItemID": 5013021,
+        "NeedFormulaItemID": 5023012,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130211,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130212,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130213,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130214,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013022,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023007,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011016,
+            "FoodItemCount": 7
+          }
+        ],
+        "SuccessfulProbability": 0.82,
+        "GetItemID": 5013022,
+        "NeedFormulaItemID": 5023007,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130221,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130222,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130223,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130224,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013024,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023045,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5011020,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5011017,
+            "FoodItemCount": 9
+          }
+        ],
+        "SuccessfulProbability": 0.81,
+        "GetItemID": 5013024,
+        "NeedFormulaItemID": 5023045,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130241,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130242,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130243,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130244,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013025,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023006,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5023007,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5023011,
+            "FoodItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.74,
+        "GetItemID": 5013025,
+        "NeedFormulaItemID": 5023006,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130251,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130252,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130253,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130254,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013027,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023014,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 12
+          }
+        ],
+        "SuccessfulProbability": 0.84,
+        "GetItemID": 5013027,
+        "NeedFormulaItemID": 5023014,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130271,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130272,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130273,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130274,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013028,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023015,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5012011,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.73,
+        "GetItemID": 5013028,
+        "NeedFormulaItemID": 5023015,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130281,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130282,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130283,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130284,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013029,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023016,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5011014,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 10
+          }
+        ],
+        "SuccessfulProbability": 0.73,
+        "GetItemID": 5013029,
+        "NeedFormulaItemID": 5023016,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130291,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130292,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130293,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130294,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013030,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023046,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011016,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5011006,
+            "FoodItemCount": 12
+          }
+        ],
+        "SuccessfulProbability": 0.67,
+        "GetItemID": 5013030,
+        "NeedFormulaItemID": 5023046,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130301,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130302,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130303,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130304,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013031,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023047,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 12
+          }
+        ],
+        "SuccessfulProbability": 0.77,
+        "GetItemID": 5013031,
+        "NeedFormulaItemID": 5023047,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130311,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130312,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130313,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130314,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013032,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023017,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5012004,
+            "FoodItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.84,
+        "GetItemID": 5013032,
+        "NeedFormulaItemID": 5023017,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130321,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130322,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130323,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130324,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013033,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023016,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5011015,
+            "FoodItemCount": 10
+          }
+        ],
+        "SuccessfulProbability": 0.67,
+        "GetItemID": 5013033,
+        "NeedFormulaItemID": 5023016,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130331,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130332,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130333,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130334,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013035,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023043,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5012011,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5023049,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5011020,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.82,
+        "GetItemID": 5013035,
+        "NeedFormulaItemID": 5023043,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130351,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130352,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130353,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130354,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013036,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023018,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5012011,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011017,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 12
+          }
+        ],
+        "SuccessfulProbability": 0.76,
+        "GetItemID": 5013036,
+        "NeedFormulaItemID": 5023018,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130361,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130362,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130363,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130364,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013037,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5012003,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5023007,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5023016,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5023046,
+            "FoodItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.66,
+        "GetItemID": 5013037,
+        "NeedFormulaItemID": 5012003,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130371,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130372,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130373,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130374,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013038,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023019,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011017,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 10
+          }
+        ],
+        "SuccessfulProbability": 0.72,
+        "GetItemID": 5013038,
+        "NeedFormulaItemID": 5023019,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130381,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130382,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130383,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130384,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013039,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023020,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011017,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.83,
+        "GetItemID": 5013039,
+        "NeedFormulaItemID": 5023020,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130391,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130392,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130393,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130394,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013040,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023021,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5012004,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5022002,
+            "FoodItemCount": 7
+          }
+        ],
+        "SuccessfulProbability": 0.7,
+        "GetItemID": 5013040,
+        "NeedFormulaItemID": 5023021,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130401,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130402,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130403,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130404,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013041,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023013,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5022002,
+            "FoodItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 0.76,
+        "GetItemID": 5013041,
+        "NeedFormulaItemID": 5023013,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130411,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130412,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130413,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130414,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013042,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023023,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 11
+          },
+          {
+            "FoodItemID": 5012004,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.83,
+        "GetItemID": 5013042,
+        "NeedFormulaItemID": 5023023,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130421,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130422,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130423,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130424,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013043,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023046,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011015,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5012002,
+            "FoodItemCount": 10
+          }
+        ],
+        "SuccessfulProbability": 0.69,
+        "GetItemID": 5013043,
+        "NeedFormulaItemID": 5023046,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130431,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130432,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130433,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130434,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013044,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023003,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5023007,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5023006,
+            "FoodItemCount": 4
+          }
+        ],
+        "SuccessfulProbability": 0.81,
+        "GetItemID": 5013044,
+        "NeedFormulaItemID": 5023003,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130441,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130442,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130443,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130444,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013045,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023021,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5011020,
+            "FoodItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.71,
+        "GetItemID": 5013045,
+        "NeedFormulaItemID": 5023021,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130451,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130452,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130453,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130454,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013046,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023022,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5011017,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5012008,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 10
+          }
+        ],
+        "SuccessfulProbability": 0.77,
+        "GetItemID": 5013046,
+        "NeedFormulaItemID": 5023022,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130461,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130462,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130463,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130464,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013047,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023049,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5011018,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5012002,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011020,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5012004,
+            "FoodItemCount": 10
+          }
+        ],
+        "SuccessfulProbability": 0.77,
+        "GetItemID": 5013047,
+        "NeedFormulaItemID": 5023049,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130471,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130472,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130473,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130474,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013048,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023024,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 11
+          },
+          {
+            "FoodItemID": 5011014,
+            "FoodItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.75,
+        "GetItemID": 5013048,
+        "NeedFormulaItemID": 5023024,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130481,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130482,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130483,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130484,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013049,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023032,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5023036,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5011015,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011014,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5011021,
+            "FoodItemCount": 7
+          }
+        ],
+        "SuccessfulProbability": 0.68,
+        "GetItemID": 5013049,
+        "NeedFormulaItemID": 5023032,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130491,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130492,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130493,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130494,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013050,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023025,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5011020,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5011014,
+            "FoodItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.66,
+        "GetItemID": 5013050,
+        "NeedFormulaItemID": 5023025,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130501,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130502,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130503,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130504,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013051,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023051,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5011021,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5011022,
+            "FoodItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.82,
+        "GetItemID": 5013051,
+        "NeedFormulaItemID": 5023051,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130511,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130512,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130513,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130514,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013052,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023026,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5011017,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011020,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 12
+          }
+        ],
+        "SuccessfulProbability": 0.77,
+        "GetItemID": 5013052,
+        "NeedFormulaItemID": 5023026,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130521,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130522,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130523,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130524,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013053,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023050,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5023055,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5023036,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5012011,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5012008,
+            "FoodItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.84,
+        "GetItemID": 5013053,
+        "NeedFormulaItemID": 5023050,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130531,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130532,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130533,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130534,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013054,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023048,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011020,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011021,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5012004,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011018,
+            "FoodItemCount": 7
+          }
+        ],
+        "SuccessfulProbability": 0.77,
+        "GetItemID": 5013054,
+        "NeedFormulaItemID": 5023048,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130541,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130542,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130543,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130544,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 3,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013055,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023027,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.68,
+        "GetItemID": 5013055,
+        "NeedFormulaItemID": 5023027,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130551,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130552,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130553,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130554,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013056,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023028,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011017,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5011020,
+            "FoodItemCount": 9
+          }
+        ],
+        "SuccessfulProbability": 0.74,
+        "GetItemID": 5013056,
+        "NeedFormulaItemID": 5023028,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130561,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130562,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130563,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130564,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013057,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023052,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5023041,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5012008,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5012001,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 10
+          }
+        ],
+        "SuccessfulProbability": 0.84,
+        "GetItemID": 5013057,
+        "NeedFormulaItemID": 5023052,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130571,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130572,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130573,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130574,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013058,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023029,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011020,
+            "FoodItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.7,
+        "GetItemID": 5013058,
+        "NeedFormulaItemID": 5023029,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130581,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130582,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130583,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130584,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013059,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023032,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011020,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5011016,
+            "FoodItemCount": 7
+          }
+        ],
+        "SuccessfulProbability": 0.72,
+        "GetItemID": 5013059,
+        "NeedFormulaItemID": 5023032,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130591,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130592,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130593,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130594,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013060,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023053,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5012002,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5012004,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011018,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5011021,
+            "FoodItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.76,
+        "GetItemID": 5013060,
+        "NeedFormulaItemID": 5023053,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130601,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130602,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130603,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130604,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013061,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5012010,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5023022,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5023013,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5011010,
+            "FoodItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.77,
+        "GetItemID": 5013061,
+        "NeedFormulaItemID": 5012010,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130611,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130612,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130613,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130614,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013062,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023030,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011016,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5011014,
+            "FoodItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.78,
+        "GetItemID": 5013062,
+        "NeedFormulaItemID": 5023030,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130621,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130622,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130623,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130624,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 3,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013063,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023031,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5011020,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 10
+          }
+        ],
+        "SuccessfulProbability": 0.71,
+        "GetItemID": 5013063,
+        "NeedFormulaItemID": 5023031,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130631,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130632,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130633,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130634,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013064,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023036,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5012008,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5012001,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 5023041,
+            "FoodItemCount": 11
+          }
+        ],
+        "SuccessfulProbability": 0.84,
+        "GetItemID": 5013064,
+        "NeedFormulaItemID": 5023036,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130641,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130642,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130643,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130644,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013065,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011016,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5023046,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5023036,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5023032,
+            "FoodItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.81,
+        "GetItemID": 5013065,
+        "NeedFormulaItemID": 5011016,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130651,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130652,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130653,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130654,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013066,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023033,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5012001,
+            "FoodItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.65,
+        "GetItemID": 5013066,
+        "NeedFormulaItemID": 5023033,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130661,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130662,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130663,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130664,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013067,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023054,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5023053,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5023050,
+            "FoodItemCount": 11
+          },
+          {
+            "FoodItemID": 5023051,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5023055,
+            "FoodItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.71,
+        "GetItemID": 5013067,
+        "NeedFormulaItemID": 5023054,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130671,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130672,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130673,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130674,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013068,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5011008,
+            "FoodItemCount": 4
+          },
+          {
+            "FoodItemID": 5011014,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5023020,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 12
+          }
+        ],
+        "SuccessfulProbability": 0.74,
+        "GetItemID": 5013068,
+        "NeedFormulaItemID": 5011008,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130681,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130682,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130683,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130684,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013069,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023034,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 5011020,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5011019,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5012005,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5011013,
+            "FoodItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.71,
+        "GetItemID": 5013069,
+        "NeedFormulaItemID": 5023034,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130691,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130692,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130693,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130694,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013070,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023035,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5012001,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5011013,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 10
+          }
+        ],
+        "SuccessfulProbability": 0.66,
+        "GetItemID": 5013070,
+        "NeedFormulaItemID": 5023035,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130701,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130702,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130703,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130704,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013071,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023055,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5012002,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011018,
+            "FoodItemCount": 12
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.66,
+        "GetItemID": 5013071,
+        "NeedFormulaItemID": 5023055,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130711,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130712,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130713,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130714,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013072,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023037,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5011016,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5011006,
+            "FoodItemCount": 10
+          }
+        ],
+        "SuccessfulProbability": 0.81,
+        "GetItemID": 5013072,
+        "NeedFormulaItemID": 5023037,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130721,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130722,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130723,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130724,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 2,
+        "NewCookToolType": 1
+      },
+      {
+        "ID": 5013073,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023049,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5023053,
+            "FoodItemCount": 9
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5012004,
+            "FoodItemCount": 12
+          }
+        ],
+        "SuccessfulProbability": 0.8,
+        "GetItemID": 5013073,
+        "NeedFormulaItemID": 5023049,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130731,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130732,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130733,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130734,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 5013074,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023038,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5011016,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011012,
+            "FoodItemCount": 8
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 12
+          }
+        ],
+        "SuccessfulProbability": 0.77,
+        "GetItemID": 5013074,
+        "NeedFormulaItemID": 5023038,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130741,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150130742,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150130743,
+            "RewardID": 10230
+          },
+          {
+            "AchieveConditionID": 150130744,
+            "RewardID": 10240
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013075,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023039,
+            "FoodItemCount": 6
+          },
+          {
+            "FoodItemID": 5011014,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5011018,
+            "FoodItemCount": 11
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 10
+          }
+        ],
+        "SuccessfulProbability": 0.66,
+        "GetItemID": 5013075,
+        "NeedFormulaItemID": 5023039,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130751,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150130752,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150130753,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150130754,
+            "RewardID": 10340
+          }
+        ],
+        "NewCookPageType": 5,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 5013076,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5023040,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 5011014,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5011001,
+            "FoodItemCount": 10
+          },
+          {
+            "FoodItemID": 5012006,
+            "FoodItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.81,
+        "GetItemID": 5013076,
+        "NeedFormulaItemID": 5023040,
+        "CookFoodQuestRewards": [
+          {
+            "AchieveConditionID": 150130761,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 150130762,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 150130763,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 150130764,
+            "RewardID": 10140
+          }
+        ],
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      },
+      {
+        "ID": 6029,
+        "IsShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "OpeningTime": "2025-04-29 05:00:00",
+        "ClosingTime": "2025-05-13 23:59:59",
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 6026,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 6027,
+            "FoodItemCount": 5
+          },
+          {
+            "FoodItemID": 6028,
+            "FoodItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 6029,
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
+      }
+    ]
+  },
+  "CookAffect": {
+    "Datas": [
+      {
+        "ID": 5013000,
+        "FoodEffectTypeParam": 60,
+        "BuffID": 5013000,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013001,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013001,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013002,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013002,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013003,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013003,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013004,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013004,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013005,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013005,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013006,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013006,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013007,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013007,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013008,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013008,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013009,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013009,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013010,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013010,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013011,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013011,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013012,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013012,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013013,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013013,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013014,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013014,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013015,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013015,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013016,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013016,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013017,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013017,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013018,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013018,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013019,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013019,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013020,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013020,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013021,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013021,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013022,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013022,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013023,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013023,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013024,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013024,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013025,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013025,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013026,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013026,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013027,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013027,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013028,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013028,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013029,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013029,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013030,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013030,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013031,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013031,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013032,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013032,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013033,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013033,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013034,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013034,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013035,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013035,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013036,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013036,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013037,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013037,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013038,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013038,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013039,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013039,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013040,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013040,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013041,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013041,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013042,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013042,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013043,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013043,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013044,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013044,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013045,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013045,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013046,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013046,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013047,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013047,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013048,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013048,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013049,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013049,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013050,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013050,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013051,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013051,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013052,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013052,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013053,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013053,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013054,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013054,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013055,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013055,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013056,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013056,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013057,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013057,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013058,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013058,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013059,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013059,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013060,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013060,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013061,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013061,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013062,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013062,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013063,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013063,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013064,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013064,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013065,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013065,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013066,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013066,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013067,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013067,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013068,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013068,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013069,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013069,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013070,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013070,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013071,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013071,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013072,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013072,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013073,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013073,
+        "NewCookFoodAffectType": 2,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013074,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013074,
+        "NewCookFoodAffectType": 3,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013075,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013075,
+        "NewCookFoodAffectType": 5,
+        "NewCookFoodEffectType": 1
+      },
+      {
+        "ID": 5013076,
+        "FoodEffectTypeParam": 900,
+        "BuffID": 5013076,
+        "NewCookFoodAffectType": 1,
+        "NewCookFoodEffectType": 1
+      }
+    ]
+  },
+  "CookSpell": {
+    "Datas": [
+      {
+        "ID": 30100,
+        "CookSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 31100,
+            "TextID": 30101,
+            "SpellParam1": 0.01,
+            "NeedCookLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 31100,
+            "TextID": 30102,
+            "SpellParam1": 0.02,
+            "NeedCookLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 31100,
+            "TextID": 30103,
+            "SpellParam1": 0.03,
+            "NeedCookLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 31100,
+            "TextID": 30104,
+            "SpellParam1": 0.04,
+            "NeedCookLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 31100,
+            "TextID": 30105,
+            "SpellParam1": 0.05,
+            "NeedCookLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 31100,
+            "TextID": 30106,
+            "SpellParam1": 0.06,
+            "NeedCookLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 31100,
+            "TextID": 30107,
+            "SpellParam1": 0.07,
+            "NeedCookLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 31100,
+            "TextID": 30108,
+            "SpellParam1": 0.08,
+            "NeedCookLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 31100,
+            "TextID": 30109,
+            "SpellParam1": 0.09,
+            "NeedCookLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 31100,
+            "TextID": 30110,
+            "SpellParam1": 0.1,
+            "NeedCookLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 30200,
+        "CookSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 31200,
+            "TextID": 30201,
+            "NewLifeSpellEffectType": 1,
+            "SpellParam1": 0.01,
+            "NeedCookLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 31200,
+            "TextID": 30202,
+            "NewLifeSpellEffectType": 1,
+            "SpellParam1": 0.02,
+            "NeedCookLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 31200,
+            "TextID": 30203,
+            "NewLifeSpellEffectType": 1,
+            "SpellParam1": 0.03,
+            "NeedCookLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 31200,
+            "TextID": 30204,
+            "NewLifeSpellEffectType": 1,
+            "SpellParam1": 0.04,
+            "NeedCookLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 31200,
+            "TextID": 30205,
+            "NewLifeSpellEffectType": 1,
+            "SpellParam1": 0.05,
+            "NeedCookLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 31200,
+            "TextID": 30206,
+            "NewLifeSpellEffectType": 1,
+            "SpellParam1": 0.06,
+            "NeedCookLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 31200,
+            "TextID": 30207,
+            "NewLifeSpellEffectType": 1,
+            "SpellParam1": 0.07,
+            "NeedCookLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 31200,
+            "TextID": 30208,
+            "NewLifeSpellEffectType": 1,
+            "SpellParam1": 0.08,
+            "NeedCookLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 31200,
+            "TextID": 30209,
+            "NewLifeSpellEffectType": 1,
+            "SpellParam1": 0.09,
+            "NeedCookLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 31200,
+            "TextID": 30210,
+            "NewLifeSpellEffectType": 1,
+            "SpellParam1": 0.1,
+            "NeedCookLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 30300,
+        "CookSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 31300,
+            "TextID": 30301,
+            "NewLifeSpellEffectType": 2,
+            "SpellParam1": 0.1,
+            "NeedCookLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 31300,
+            "TextID": 30302,
+            "NewLifeSpellEffectType": 2,
+            "SpellParam1": 0.15,
+            "NeedCookLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 31300,
+            "TextID": 30303,
+            "NewLifeSpellEffectType": 2,
+            "SpellParam1": 0.2,
+            "NeedCookLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 31300,
+            "TextID": 30304,
+            "NewLifeSpellEffectType": 2,
+            "SpellParam1": 0.25,
+            "NeedCookLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 31300,
+            "TextID": 30305,
+            "NewLifeSpellEffectType": 2,
+            "SpellParam1": 0.3,
+            "NeedCookLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 31300,
+            "TextID": 30306,
+            "NewLifeSpellEffectType": 2,
+            "SpellParam1": 0.35,
+            "NeedCookLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 31300,
+            "TextID": 30307,
+            "NewLifeSpellEffectType": 2,
+            "SpellParam1": 0.4,
+            "NeedCookLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 31300,
+            "TextID": 30308,
+            "NewLifeSpellEffectType": 2,
+            "SpellParam1": 0.45,
+            "NeedCookLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 31300,
+            "TextID": 30309,
+            "NewLifeSpellEffectType": 2,
+            "SpellParam1": 0.5,
+            "NeedCookLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 31300,
+            "TextID": 30310,
+            "NewLifeSpellEffectType": 2,
+            "SpellParam1": 0.55,
+            "NeedCookLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 30400,
+        "CookSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 31400,
+            "TextID": 30401,
+            "NewLifeSpellEffectType": 3,
+            "SpellParam1": 0.05,
+            "NeedCookLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 31400,
+            "TextID": 30402,
+            "NewLifeSpellEffectType": 3,
+            "SpellParam1": 0.07,
+            "NeedCookLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 31400,
+            "TextID": 30403,
+            "NewLifeSpellEffectType": 3,
+            "SpellParam1": 0.09,
+            "NeedCookLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 31400,
+            "TextID": 30404,
+            "NewLifeSpellEffectType": 3,
+            "SpellParam1": 0.11,
+            "NeedCookLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 31400,
+            "TextID": 30405,
+            "NewLifeSpellEffectType": 3,
+            "SpellParam1": 0.13,
+            "NeedCookLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 31400,
+            "TextID": 30406,
+            "NewLifeSpellEffectType": 3,
+            "SpellParam1": 0.15,
+            "NeedCookLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 31400,
+            "TextID": 30407,
+            "NewLifeSpellEffectType": 3,
+            "SpellParam1": 0.17,
+            "NeedCookLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 31400,
+            "TextID": 30408,
+            "NewLifeSpellEffectType": 3,
+            "SpellParam1": 0.19,
+            "NeedCookLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 31400,
+            "TextID": 30409,
+            "NewLifeSpellEffectType": 3,
+            "SpellParam1": 0.21,
+            "NeedCookLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 31400,
+            "TextID": 30410,
+            "NewLifeSpellEffectType": 3,
+            "SpellParam1": 0.23,
+            "NeedCookLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 30500,
+        "CookSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 31500,
+            "TextID": 30501,
+            "NewLifeSpellEffectType": 4,
+            "SpellParam1": 0.05,
+            "NeedCookLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 31500,
+            "TextID": 30502,
+            "NewLifeSpellEffectType": 4,
+            "SpellParam1": 0.1,
+            "NeedCookLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 31500,
+            "TextID": 30503,
+            "NewLifeSpellEffectType": 4,
+            "SpellParam1": 0.15,
+            "NeedCookLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 31500,
+            "TextID": 30504,
+            "NewLifeSpellEffectType": 4,
+            "SpellParam1": 0.2,
+            "NeedCookLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 31500,
+            "TextID": 30505,
+            "NewLifeSpellEffectType": 4,
+            "SpellParam1": 0.25,
+            "NeedCookLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 31500,
+            "TextID": 30506,
+            "NewLifeSpellEffectType": 4,
+            "SpellParam1": 0.3,
+            "NeedCookLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 31500,
+            "TextID": 30507,
+            "NewLifeSpellEffectType": 4,
+            "SpellParam1": 0.35,
+            "NeedCookLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 31500,
+            "TextID": 30508,
+            "NewLifeSpellEffectType": 4,
+            "SpellParam1": 0.4,
+            "NeedCookLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 31500,
+            "TextID": 30509,
+            "NewLifeSpellEffectType": 4,
+            "SpellParam1": 0.45,
+            "NeedCookLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 31500,
+            "TextID": 30510,
+            "NewLifeSpellEffectType": 4,
+            "SpellParam1": 0.5,
+            "NeedCookLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 30600,
+        "CookSpellItems": [
+          {
+            "Level": 1,
+            "IconID": 31600,
+            "TextID": 30601,
+            "NewLifeSpellEffectType": 5,
+            "SpellParam1": 0.01,
+            "NeedCookLevel": 1,
+            "NeedTime": 1800,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 1000
+          },
+          {
+            "Level": 2,
+            "IconID": 31600,
+            "TextID": 30602,
+            "NewLifeSpellEffectType": 5,
+            "SpellParam1": 0.02,
+            "NeedCookLevel": 2,
+            "NeedTime": 3600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 2000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "IconID": 31600,
+            "TextID": 30603,
+            "NewLifeSpellEffectType": 5,
+            "SpellParam1": 0.03,
+            "NeedCookLevel": 3,
+            "NeedTime": 7200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 3000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "IconID": 31600,
+            "TextID": 30604,
+            "NewLifeSpellEffectType": 5,
+            "SpellParam1": 0.04,
+            "NeedCookLevel": 4,
+            "NeedTime": 14400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 5000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000004,
+                "NeedItemCount": 3
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "IconID": 31600,
+            "TextID": 30605,
+            "NewLifeSpellEffectType": 5,
+            "SpellParam1": 0.05,
+            "NeedCookLevel": 5,
+            "NeedTime": 21600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 10000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "IconID": 31600,
+            "TextID": 30606,
+            "NewLifeSpellEffectType": 5,
+            "SpellParam1": 0.06,
+            "NeedCookLevel": 6,
+            "NeedTime": 32400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 15000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "IconID": 31600,
+            "TextID": 30607,
+            "NewLifeSpellEffectType": 5,
+            "SpellParam1": 0.07,
+            "NeedCookLevel": 7,
+            "NeedTime": 43200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 20000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000005,
+                "NeedItemCount": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "IconID": 31600,
+            "TextID": 30608,
+            "NewLifeSpellEffectType": 5,
+            "SpellParam1": 0.08,
+            "NeedCookLevel": 8,
+            "NeedTime": 86400,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 25000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "IconID": 31600,
+            "TextID": 30609,
+            "NewLifeSpellEffectType": 5,
+            "SpellParam1": 0.09,
+            "NeedCookLevel": 9,
+            "NeedTime": 129600,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 30000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "IconID": 31600,
+            "TextID": 30610,
+            "NewLifeSpellEffectType": 5,
+            "SpellParam1": 0.1,
+            "NeedCookLevel": 10,
+            "NeedTime": 259200,
+            "NeedCurrencyID": 101,
+            "NeedCurrencyCount": 50000,
+            "CookNeedItem": [
+              {
+                "NeedItemID": 5000006,
+                "NeedItemCount": 9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

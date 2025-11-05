@@ -1,0 +1,211 @@
+{
+  "ExploreArea": {
+    "Datas": [
+      {
+        "ID": 10101,
+        "NameID": 10101,
+        "IconID": 10101,
+        "NeedTime": 600,
+        "QuickNeedItem": 102,
+        "QuickNeedItemCount": 1,
+        "NeedSceneID": 1,
+        "NeedPlayerLevel": 1,
+        "ExploreAreaItem": [
+          {
+            "RewarItemID": 101
+          },
+          {
+            "RewarItemID": 109
+          }
+        ]
+      },
+      {
+        "ID": 10102,
+        "NameID": 10102,
+        "IconID": 10102,
+        "NeedTime": 1800,
+        "QuickNeedItem": 102,
+        "QuickNeedItemCount": 1,
+        "NeedSceneID": 1,
+        "NeedPlayerLevel": 1,
+        "ExploreAreaItem": [
+          {
+            "RewarItemID": 2070
+          },
+          {
+            "RewarItemID": 10
+          },
+          {
+            "RewarItemID": 2020
+          },
+          {
+            "RewarItemID": 101
+          }
+        ]
+      },
+      {
+        "ID": 10201,
+        "NameID": 20101,
+        "IconID": 20101,
+        "NeedTime": 7200,
+        "QuickNeedItem": 102,
+        "QuickNeedItemCount": 1,
+        "NeedSceneID": 2,
+        "NeedPlayerLevel": 1,
+        "NeedItem": 100001502,
+        "NeedItemCount": 1,
+        "ExploreAreaItem": [
+          {
+            "RewarItemID": 401
+          },
+          {
+            "RewarItemID": 102
+          },
+          {
+            "RewarItemID": 481
+          },
+          {
+            "RewarItemID": 101
+          },
+          {
+            "RewarItemID": 2020
+          }
+        ],
+        "NewExploreDifficulty": 1
+      },
+      {
+        "ID": 10202,
+        "NameID": 20102,
+        "IconID": 20102,
+        "NeedTime": 14400,
+        "QuickNeedItem": 102,
+        "QuickNeedItemCount": 1,
+        "NeedSceneID": 2,
+        "NeedPlayerLevel": 1,
+        "NeedItem": 100001502,
+        "NeedItemCount": 1,
+        "ExploreAreaItem": [
+          {
+            "RewarItemID": 11
+          },
+          {
+            "RewarItemID": 10
+          },
+          {
+            "RewarItemID": 191
+          },
+          {
+            "RewarItemID": 491
+          },
+          {
+            "RewarItemID": 2070
+          }
+        ],
+        "NewExploreDifficulty": 1
+      },
+      {
+        "ID": 10301,
+        "NameID": 30101,
+        "IconID": 30101,
+        "NeedTime": 36000,
+        "QuickNeedItem": 102,
+        "QuickNeedItemCount": 1,
+        "NeedSceneID": 3,
+        "NeedPlayerLevel": 1,
+        "NeedItem": 100001503,
+        "NeedItemCount": 1,
+        "ExploreAreaItem": [
+          {
+            "RewarItemID": 10
+          },
+          {
+            "RewarItemID": 102
+          },
+          {
+            "RewarItemID": 481
+          },
+          {
+            "RewarItemID": 491
+          },
+          {
+            "RewarItemID": 101
+          }
+        ],
+        "NewExploreDifficulty": 2
+      }
+    ]
+  },
+  "ExploreActivity": {
+    "Datas": [
+      {
+        "ID": 901,
+        "NameID": 901,
+        "IconID": 901,
+        "StartTime": "2022-10-11 00:00:00",
+        "EndTime": "2023-10-31 23:59:00",
+        "NeedTime": 14400,
+        "MaxTimes": 1000,
+        "QuickNeedItem": 102,
+        "QuickNeedItemCount": 10,
+        "SpecialRewardItemID": 102,
+        "ExploreActivityItem": [
+          {
+            "RewarItemID": 101
+          },
+          {
+            "RewarItemID": 101
+          },
+          {
+            "RewarItemID": 191
+          },
+          {
+            "RewarItemID": 101
+          },
+          {
+            "RewarItemID": 101
+          }
+        ]
+      }
+    ]
+  },
+  "ExploreInterval": {
+    "Datas": [
+      {
+        "ID": 101,
+        "NameID": 101,
+        "IconID": 101,
+        "RetentionTime": 172800,
+        "Time": 14400,
+        "NeedItemID": 10,
+        "CaptainCount": 20,
+        "MemberCount": 10,
+        "QuickNeedItem": 102,
+        "QuickNeedItemCount": 10
+      },
+      {
+        "ID": 102,
+        "NameID": 102,
+        "IconID": 102,
+        "RetentionTime": 172800,
+        "Time": 21600,
+        "NeedItemID": 10,
+        "CaptainCount": 25,
+        "MemberCount": 12,
+        "QuickNeedItem": 102,
+        "QuickNeedItemCount": 10
+      },
+      {
+        "ID": 103,
+        "NameID": 103,
+        "IconID": 103,
+        "RetentionTime": 172800,
+        "Time": 28800,
+        "NeedItemID": 10,
+        "CaptainCount": 30,
+        "MemberCount": 15,
+        "QuickNeedItem": 102,
+        "QuickNeedItemCount": 10
+      }
+    ]
+  }
+}

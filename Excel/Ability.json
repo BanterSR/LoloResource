@@ -1,0 +1,3040 @@
+{
+  "Ability": {
+    "Datas": [
+      {
+        "ID": 1010,
+        "NeedItemID": 102000001,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 10,
+            "RewardItemID": 110001011,
+            "TextID": 1011,
+            "IconID": 1010
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 20,
+            "RewardItemID": 110001012,
+            "TextID": 1012,
+            "IconID": 1010
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 30,
+            "RewardItemID": 110001013,
+            "TextID": 1013,
+            "IconID": 1010
+          }
+        ]
+      },
+      {
+        "ID": 1020,
+        "NeedItemID": 102000002,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 10,
+            "RewardItemID": 110001021,
+            "TextID": 1021,
+            "IconID": 1020
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 20,
+            "RewardItemID": 110001022,
+            "TextID": 1022,
+            "IconID": 1020
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 30,
+            "RewardItemID": 110001023,
+            "TextID": 1023,
+            "IconID": 1020
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 40,
+            "RewardItemID": 110001024,
+            "TextID": 1024,
+            "IconID": 1020
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 50,
+            "RewardItemID": 110001025,
+            "TextID": 1025,
+            "IconID": 1020
+          }
+        ]
+      },
+      {
+        "ID": 1030,
+        "NeedItemID": 102000003,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 10,
+            "RewardItemID": 110001030,
+            "TextID": 1031,
+            "IconID": 1030
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 20,
+            "RewardItemID": 110001031,
+            "TextID": 1032,
+            "IconID": 1030
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 30,
+            "RewardItemID": 110001032,
+            "TextID": 1033,
+            "IconID": 1030
+          }
+        ]
+      },
+      {
+        "ID": 1040,
+        "NeedItemID": 102000004,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 10,
+            "RewardItemID": 110001041,
+            "TextID": 1041,
+            "IconID": 1040
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 20,
+            "RewardItemID": 110001042,
+            "TextID": 1042,
+            "IconID": 1040
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 30,
+            "RewardItemID": 110001043,
+            "TextID": 1043,
+            "IconID": 1040
+          }
+        ]
+      },
+      {
+        "ID": 10010,
+        "NeedItemID": 120010001,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110010101,
+            "TextID": 10011,
+            "IconID": 10010
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110010102,
+            "TextID": 10012,
+            "IconID": 10010
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110010103,
+            "TextID": 10013,
+            "IconID": 10010
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110010104,
+            "TextID": 10014,
+            "IconID": 10010
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110010105,
+            "TextID": 10015,
+            "IconID": 10010
+          }
+        ]
+      },
+      {
+        "ID": 10020,
+        "NeedItemID": 120010002,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110010201,
+            "TextID": 10021,
+            "IconID": 10020
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110010202,
+            "TextID": 10022,
+            "IconID": 10020
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110010203,
+            "TextID": 10023,
+            "IconID": 10020
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110010204,
+            "TextID": 10024,
+            "IconID": 10020
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110010205,
+            "TextID": 10025,
+            "IconID": 10020
+          }
+        ]
+      },
+      {
+        "ID": 10030,
+        "NeedItemID": 120010003,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110010301,
+            "TextID": 10031,
+            "IconID": 10030
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110010302,
+            "TextID": 10032,
+            "IconID": 10030
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110010303,
+            "TextID": 10033,
+            "IconID": 10030
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110010304,
+            "TextID": 10034,
+            "IconID": 10030
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110010305,
+            "TextID": 10035,
+            "IconID": 10030
+          }
+        ]
+      },
+      {
+        "ID": 10040,
+        "NeedItemID": 120010004,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110010401,
+            "TextID": 10041,
+            "IconID": 10040
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110010402,
+            "TextID": 10042,
+            "IconID": 10040
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110010403,
+            "TextID": 10043,
+            "IconID": 10040
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110010404,
+            "TextID": 10044,
+            "IconID": 10040
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110010405,
+            "TextID": 10045,
+            "IconID": 10040
+          }
+        ]
+      },
+      {
+        "ID": 10050,
+        "NeedItemID": 120010005,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110010501,
+            "TextID": 10051,
+            "IconID": 10050
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110010502,
+            "TextID": 10052,
+            "IconID": 10050
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110010503,
+            "TextID": 10053,
+            "IconID": 10050
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110010504,
+            "TextID": 10054,
+            "IconID": 10050
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110010505,
+            "TextID": 10055,
+            "IconID": 10050
+          }
+        ]
+      },
+      {
+        "ID": 10060,
+        "NeedItemID": 120010006,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110010601,
+            "TextID": 10061,
+            "IconID": 10060
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110010602,
+            "TextID": 10062,
+            "IconID": 10060
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110010603,
+            "TextID": 10063,
+            "IconID": 10060
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110010604,
+            "TextID": 10064,
+            "IconID": 10060
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110010605,
+            "TextID": 10065,
+            "IconID": 10060
+          }
+        ]
+      },
+      {
+        "ID": 20010,
+        "NeedItemID": 120020001,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110020101,
+            "TextID": 20011,
+            "IconID": 20010
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110020102,
+            "TextID": 20012,
+            "IconID": 20010
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110020103,
+            "TextID": 20013,
+            "IconID": 20010
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110020104,
+            "TextID": 20014,
+            "IconID": 20010
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110020105,
+            "TextID": 20015,
+            "IconID": 20010
+          }
+        ]
+      },
+      {
+        "ID": 20020,
+        "NeedItemID": 120020002,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110020201,
+            "TextID": 20021,
+            "IconID": 20020
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110020202,
+            "TextID": 20022,
+            "IconID": 20020
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110020203,
+            "TextID": 20023,
+            "IconID": 20020
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110020204,
+            "TextID": 20024,
+            "IconID": 20020
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110020205,
+            "TextID": 20025,
+            "IconID": 20020
+          }
+        ]
+      },
+      {
+        "ID": 20030,
+        "NeedItemID": 120020003,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110020301,
+            "TextID": 20031,
+            "IconID": 20030
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110020302,
+            "TextID": 20032,
+            "IconID": 20030
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110020303,
+            "TextID": 20033,
+            "IconID": 20030
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110020304,
+            "TextID": 20034,
+            "IconID": 20030
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110020305,
+            "TextID": 20035,
+            "IconID": 20030
+          }
+        ]
+      },
+      {
+        "ID": 20040,
+        "NeedItemID": 120020004,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110020401,
+            "TextID": 20041,
+            "IconID": 20040
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110020402,
+            "TextID": 20042,
+            "IconID": 20040
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110020403,
+            "TextID": 20043,
+            "IconID": 20040
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110020404,
+            "TextID": 20044,
+            "IconID": 20040
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110020405,
+            "TextID": 20045,
+            "IconID": 20040
+          }
+        ]
+      },
+      {
+        "ID": 20050,
+        "NeedItemID": 120020005,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110020501,
+            "TextID": 20051,
+            "IconID": 20050
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110020502,
+            "TextID": 20052,
+            "IconID": 20050
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110020503,
+            "TextID": 20053,
+            "IconID": 20050
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110020504,
+            "TextID": 20054,
+            "IconID": 20050
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110020505,
+            "TextID": 20055,
+            "IconID": 20050
+          }
+        ]
+      },
+      {
+        "ID": 20060,
+        "NeedItemID": 120020006,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110020601,
+            "TextID": 20061,
+            "IconID": 20060
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110020602,
+            "TextID": 20062,
+            "IconID": 20060
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110020603,
+            "TextID": 20063,
+            "IconID": 20060
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110020604,
+            "TextID": 20064,
+            "IconID": 20060
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110020605,
+            "TextID": 20065,
+            "IconID": 20060
+          }
+        ]
+      },
+      {
+        "ID": 30010,
+        "NeedItemID": 120030001,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110030101,
+            "TextID": 30011,
+            "IconID": 30010
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110030102,
+            "TextID": 30012,
+            "IconID": 30010
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110030103,
+            "TextID": 30013,
+            "IconID": 30010
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110030104,
+            "TextID": 30014,
+            "IconID": 30010
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110030105,
+            "TextID": 30015,
+            "IconID": 30010
+          }
+        ]
+      },
+      {
+        "ID": 30020,
+        "NeedItemID": 120030002,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110030201,
+            "TextID": 30021,
+            "IconID": 30020
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110030202,
+            "TextID": 30022,
+            "IconID": 30020
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110030203,
+            "TextID": 30023,
+            "IconID": 30020
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110030204,
+            "TextID": 30024,
+            "IconID": 30020
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110030205,
+            "TextID": 30025,
+            "IconID": 30020
+          }
+        ]
+      },
+      {
+        "ID": 30030,
+        "NeedItemID": 120030003,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110030301,
+            "TextID": 30031,
+            "IconID": 30030
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110030302,
+            "TextID": 30032,
+            "IconID": 30030
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110030303,
+            "TextID": 30033,
+            "IconID": 30030
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110030304,
+            "TextID": 30034,
+            "IconID": 30030
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110030305,
+            "TextID": 30035,
+            "IconID": 30030
+          }
+        ]
+      },
+      {
+        "ID": 30040,
+        "NeedItemID": 120030004,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110030401,
+            "TextID": 30041,
+            "IconID": 30040
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110030402,
+            "TextID": 30042,
+            "IconID": 30040
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110030403,
+            "TextID": 30043,
+            "IconID": 30040
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110030404,
+            "TextID": 30044,
+            "IconID": 30040
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110030405,
+            "TextID": 30045,
+            "IconID": 30040
+          }
+        ]
+      },
+      {
+        "ID": 30050,
+        "NeedItemID": 120030005,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110030501,
+            "TextID": 30051,
+            "IconID": 30050
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110030502,
+            "TextID": 30052,
+            "IconID": 30050
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110030503,
+            "TextID": 30053,
+            "IconID": 30050
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110030504,
+            "TextID": 30054,
+            "IconID": 30050
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110030505,
+            "TextID": 30055,
+            "IconID": 30050
+          }
+        ]
+      },
+      {
+        "ID": 30060,
+        "NeedItemID": 120030006,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110030601,
+            "TextID": 30061,
+            "IconID": 30060
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110030602,
+            "TextID": 30062,
+            "IconID": 30060
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110030603,
+            "TextID": 30063,
+            "IconID": 30060
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110030604,
+            "TextID": 30064,
+            "IconID": 30060
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110030605,
+            "TextID": 30065,
+            "IconID": 30060
+          }
+        ]
+      },
+      {
+        "ID": 30070,
+        "NeedItemID": 120030007,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110030701,
+            "TextID": 30071,
+            "IconID": 30070
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110030702,
+            "TextID": 30072,
+            "IconID": 30070
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110030703,
+            "TextID": 30073,
+            "IconID": 30070
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110030704,
+            "TextID": 30074,
+            "IconID": 30070
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110030705,
+            "TextID": 30075,
+            "IconID": 30070
+          }
+        ]
+      },
+      {
+        "ID": 30080,
+        "NeedItemID": 120030008,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110030801,
+            "TextID": 30081,
+            "IconID": 30080
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110030802,
+            "TextID": 30082,
+            "IconID": 30080
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110030803,
+            "TextID": 30083,
+            "IconID": 30080
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110030804,
+            "TextID": 30084,
+            "IconID": 30080
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110030805,
+            "TextID": 30085,
+            "IconID": 30080
+          }
+        ]
+      },
+      {
+        "ID": 30090,
+        "NeedItemID": 120030009,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110030901,
+            "TextID": 30091,
+            "IconID": 30090
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110030902,
+            "TextID": 30092,
+            "IconID": 30090
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110030903,
+            "TextID": 30093,
+            "IconID": 30090
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110030904,
+            "TextID": 30094,
+            "IconID": 30090
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110030905,
+            "TextID": 30095,
+            "IconID": 30090
+          }
+        ]
+      },
+      {
+        "ID": 30100,
+        "NeedItemID": 120030010,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110031001,
+            "TextID": 30101,
+            "IconID": 30100
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110031002,
+            "TextID": 30102,
+            "IconID": 30100
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110031003,
+            "TextID": 30103,
+            "IconID": 30100
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110031004,
+            "TextID": 30104,
+            "IconID": 30100
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110031005,
+            "TextID": 30105,
+            "IconID": 30100
+          }
+        ]
+      },
+      {
+        "ID": 30110,
+        "NeedItemID": 120030011,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110031101,
+            "TextID": 30111,
+            "IconID": 30110
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110031102,
+            "TextID": 30112,
+            "IconID": 30110
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110031103,
+            "TextID": 30113,
+            "IconID": 30110
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110031104,
+            "TextID": 30114,
+            "IconID": 30110
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110031105,
+            "TextID": 30115,
+            "IconID": 30110
+          }
+        ]
+      },
+      {
+        "ID": 30120,
+        "NeedItemID": 120030012,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110031201,
+            "TextID": 30121,
+            "IconID": 30120
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110031202,
+            "TextID": 30122,
+            "IconID": 30120
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110031203,
+            "TextID": 30123,
+            "IconID": 30120
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110031204,
+            "TextID": 30124,
+            "IconID": 30120
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110031205,
+            "TextID": 30125,
+            "IconID": 30120
+          }
+        ]
+      },
+      {
+        "ID": 50010,
+        "NeedItemID": 120050001,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110050101,
+            "TextID": 50011,
+            "IconID": 50010
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110050102,
+            "TextID": 50012,
+            "IconID": 50010
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110050103,
+            "TextID": 50013,
+            "IconID": 50010
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110050104,
+            "TextID": 50014,
+            "IconID": 50010
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110050105,
+            "TextID": 50015,
+            "IconID": 50010
+          }
+        ]
+      },
+      {
+        "ID": 50020,
+        "NeedItemID": 120050002,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110050201,
+            "TextID": 50021,
+            "IconID": 50020
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110050202,
+            "TextID": 50022,
+            "IconID": 50020
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110050203,
+            "TextID": 50023,
+            "IconID": 50020
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110050204,
+            "TextID": 50024,
+            "IconID": 50020
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110050205,
+            "TextID": 50025,
+            "IconID": 50020
+          }
+        ]
+      },
+      {
+        "ID": 50030,
+        "NeedItemID": 120050003,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110050301,
+            "TextID": 50031,
+            "IconID": 50030
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110050302,
+            "TextID": 50032,
+            "IconID": 50030
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110050303,
+            "TextID": 50033,
+            "IconID": 50030
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110050304,
+            "TextID": 50034,
+            "IconID": 50030
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110050305,
+            "TextID": 50035,
+            "IconID": 50030
+          }
+        ]
+      },
+      {
+        "ID": 50040,
+        "NeedItemID": 120050004,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110050401,
+            "TextID": 50041,
+            "IconID": 50040
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110050402,
+            "TextID": 50042,
+            "IconID": 50040
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110050403,
+            "TextID": 50043,
+            "IconID": 50040
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110050404,
+            "TextID": 50044,
+            "IconID": 50040
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110050405,
+            "TextID": 50045,
+            "IconID": 50040
+          }
+        ]
+      },
+      {
+        "ID": 50050,
+        "NeedItemID": 120050005,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110050501,
+            "TextID": 50051,
+            "IconID": 50050
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110050502,
+            "TextID": 50052,
+            "IconID": 50050
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110050503,
+            "TextID": 50053,
+            "IconID": 50050
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110050504,
+            "TextID": 50054,
+            "IconID": 50050
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110050505,
+            "TextID": 50055,
+            "IconID": 50050
+          }
+        ]
+      },
+      {
+        "ID": 50060,
+        "NeedItemID": 120050006,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110050601,
+            "TextID": 50061,
+            "IconID": 50060
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110050602,
+            "TextID": 50062,
+            "IconID": 50060
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110050603,
+            "TextID": 50063,
+            "IconID": 50060
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110050604,
+            "TextID": 50064,
+            "IconID": 50060
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110050605,
+            "TextID": 50065,
+            "IconID": 50060
+          }
+        ]
+      },
+      {
+        "ID": 50070,
+        "NeedItemID": 120050007,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110050701,
+            "TextID": 50071,
+            "IconID": 50070
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110050702,
+            "TextID": 50072,
+            "IconID": 50070
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110050703,
+            "TextID": 50073,
+            "IconID": 50070
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110050704,
+            "TextID": 50074,
+            "IconID": 50070
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110050705,
+            "TextID": 50075,
+            "IconID": 50070
+          }
+        ]
+      },
+      {
+        "ID": 50080,
+        "NeedItemID": 120050008,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110050801,
+            "TextID": 50081,
+            "IconID": 50080
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110050802,
+            "TextID": 50082,
+            "IconID": 50080
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110050803,
+            "TextID": 50083,
+            "IconID": 50080
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110050804,
+            "TextID": 50084,
+            "IconID": 50080
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110050805,
+            "TextID": 50085,
+            "IconID": 50080
+          }
+        ]
+      },
+      {
+        "ID": 50090,
+        "NeedItemID": 120050009,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110050901,
+            "TextID": 50091,
+            "IconID": 50090
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110050902,
+            "TextID": 50092,
+            "IconID": 50090
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110050903,
+            "TextID": 50093,
+            "IconID": 50090
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110050904,
+            "TextID": 50094,
+            "IconID": 50090
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110050905,
+            "TextID": 50095,
+            "IconID": 50090
+          }
+        ]
+      },
+      {
+        "ID": 50100,
+        "NeedItemID": 120050010,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110051001,
+            "TextID": 50101,
+            "IconID": 50100
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110051002,
+            "TextID": 50102,
+            "IconID": 50100
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110051003,
+            "TextID": 50103,
+            "IconID": 50100
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110051004,
+            "TextID": 50104,
+            "IconID": 50100
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110051005,
+            "TextID": 50105,
+            "IconID": 50100
+          }
+        ]
+      },
+      {
+        "ID": 50110,
+        "NeedItemID": 120050011,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110051101,
+            "TextID": 50111,
+            "IconID": 50110
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110051102,
+            "TextID": 50112,
+            "IconID": 50110
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110051103,
+            "TextID": 50113,
+            "IconID": 50110
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110051104,
+            "TextID": 50114,
+            "IconID": 50110
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110051105,
+            "TextID": 50115,
+            "IconID": 50110
+          }
+        ]
+      },
+      {
+        "ID": 50120,
+        "NeedItemID": 120050012,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110051201,
+            "TextID": 50121,
+            "IconID": 50120
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110051202,
+            "TextID": 50122,
+            "IconID": 50120
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110051203,
+            "TextID": 50123,
+            "IconID": 50120
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110051204,
+            "TextID": 50124,
+            "IconID": 50120
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110051205,
+            "TextID": 50125,
+            "IconID": 50120
+          }
+        ]
+      },
+      {
+        "ID": 50130,
+        "NeedItemID": 120050013,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110051301,
+            "TextID": 50131,
+            "IconID": 50130
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110051302,
+            "TextID": 50132,
+            "IconID": 50130
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110051303,
+            "TextID": 50133,
+            "IconID": 50130
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110051304,
+            "TextID": 50134,
+            "IconID": 50130
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110051305,
+            "TextID": 50135,
+            "IconID": 50130
+          }
+        ]
+      },
+      {
+        "ID": 50140,
+        "NeedItemID": 120050014,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110051401,
+            "TextID": 50141,
+            "IconID": 50140
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110051402,
+            "TextID": 50142,
+            "IconID": 50140
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110051403,
+            "TextID": 50143,
+            "IconID": 50140
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 12,
+            "RewardItemID": 110051404,
+            "TextID": 50144,
+            "IconID": 50140
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 15,
+            "RewardItemID": 110051405,
+            "TextID": 50145,
+            "IconID": 50140
+          }
+        ]
+      },
+      {
+        "ID": 50150,
+        "NeedItemID": 120050015,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110051501,
+            "TextID": 50151,
+            "IconID": 50150
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110051502,
+            "TextID": 50152,
+            "IconID": 50150
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110051503,
+            "TextID": 50153,
+            "IconID": 50150
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110051504,
+            "TextID": 50154,
+            "IconID": 50150
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 5,
+            "RewardItemID": 110051505,
+            "TextID": 50155,
+            "IconID": 50150
+          }
+        ]
+      },
+      {
+        "ID": 510010,
+        "NeedItemID": 120510001,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110510101,
+            "TextID": 510011,
+            "IconID": 510010
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110510102,
+            "TextID": 510012,
+            "IconID": 510010
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110510103,
+            "TextID": 510013,
+            "IconID": 510010
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110510104,
+            "TextID": 510014,
+            "IconID": 510010
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110510105,
+            "TextID": 510015,
+            "IconID": 510010
+          }
+        ]
+      },
+      {
+        "ID": 510020,
+        "NeedItemID": 120510002,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110510201,
+            "TextID": 510021,
+            "IconID": 510020
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110510202,
+            "TextID": 510022,
+            "IconID": 510020
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 13,
+            "RewardItemID": 110510203,
+            "TextID": 510023,
+            "IconID": 510020
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 18,
+            "RewardItemID": 110510204,
+            "TextID": 510024,
+            "IconID": 510020
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 22,
+            "RewardItemID": 110510205,
+            "TextID": 510025,
+            "IconID": 510020
+          }
+        ]
+      },
+      {
+        "ID": 510030,
+        "NeedItemID": 120510003,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110510301,
+            "TextID": 510031,
+            "IconID": 510030
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110510302,
+            "TextID": 510032,
+            "IconID": 510030
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110510303,
+            "TextID": 510033,
+            "IconID": 510030
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110510304,
+            "TextID": 510034,
+            "IconID": 510030
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110510305,
+            "TextID": 510035,
+            "IconID": 510030
+          }
+        ]
+      },
+      {
+        "ID": 510040,
+        "NeedItemID": 120510004,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110510401,
+            "TextID": 510041,
+            "IconID": 510040
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110510402,
+            "TextID": 510042,
+            "IconID": 510040
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 13,
+            "RewardItemID": 110510403,
+            "TextID": 510043,
+            "IconID": 510040
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 18,
+            "RewardItemID": 110510404,
+            "TextID": 510044,
+            "IconID": 510040
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 22,
+            "RewardItemID": 110510405,
+            "TextID": 510045,
+            "IconID": 510040
+          }
+        ]
+      },
+      {
+        "ID": 510050,
+        "NeedItemID": 120510005,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110510501,
+            "TextID": 510051,
+            "IconID": 510050
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110510502,
+            "TextID": 510052,
+            "IconID": 510050
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110510503,
+            "TextID": 510053,
+            "IconID": 510050
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110510504,
+            "TextID": 510054,
+            "IconID": 510050
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110510505,
+            "TextID": 510055,
+            "IconID": 510050
+          }
+        ]
+      },
+      {
+        "ID": 510060,
+        "NeedItemID": 120510006,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110510601,
+            "TextID": 510061,
+            "IconID": 510060
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110510602,
+            "TextID": 510062,
+            "IconID": 510060
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 13,
+            "RewardItemID": 110510603,
+            "TextID": 510063,
+            "IconID": 510060
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 18,
+            "RewardItemID": 110510604,
+            "TextID": 510064,
+            "IconID": 510060
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 22,
+            "RewardItemID": 110510605,
+            "TextID": 510065,
+            "IconID": 510060
+          }
+        ]
+      },
+      {
+        "ID": 510070,
+        "NeedItemID": 120510007,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110510701,
+            "TextID": 510071,
+            "IconID": 510070
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110510702,
+            "TextID": 510072,
+            "IconID": 510070
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110510703,
+            "TextID": 510073,
+            "IconID": 510070
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110510704,
+            "TextID": 510074,
+            "IconID": 510070
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110510705,
+            "TextID": 510075,
+            "IconID": 510070
+          }
+        ]
+      },
+      {
+        "ID": 510080,
+        "NeedItemID": 120510008,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110510801,
+            "TextID": 510081,
+            "IconID": 510080
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110510802,
+            "TextID": 510082,
+            "IconID": 510080
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 13,
+            "RewardItemID": 110510803,
+            "TextID": 510083,
+            "IconID": 510080
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 18,
+            "RewardItemID": 110510804,
+            "TextID": 510084,
+            "IconID": 510080
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 22,
+            "RewardItemID": 110510805,
+            "TextID": 510085,
+            "IconID": 510080
+          }
+        ]
+      },
+      {
+        "ID": 510090,
+        "NeedItemID": 120510009,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110510901,
+            "TextID": 510091,
+            "IconID": 510090
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110510902,
+            "TextID": 510092,
+            "IconID": 510090
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110510903,
+            "TextID": 510093,
+            "IconID": 510090
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110510904,
+            "TextID": 510094,
+            "IconID": 510090
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110510905,
+            "TextID": 510095,
+            "IconID": 510090
+          }
+        ]
+      },
+      {
+        "ID": 510100,
+        "NeedItemID": 120510010,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110511001,
+            "TextID": 510101,
+            "IconID": 510100
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110511002,
+            "TextID": 510102,
+            "IconID": 510100
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 13,
+            "RewardItemID": 110511003,
+            "TextID": 510103,
+            "IconID": 510100
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 18,
+            "RewardItemID": 110511004,
+            "TextID": 510104,
+            "IconID": 510100
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 22,
+            "RewardItemID": 110511005,
+            "TextID": 510105,
+            "IconID": 510100
+          }
+        ]
+      },
+      {
+        "ID": 520010,
+        "NeedItemID": 120520001,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110520101,
+            "TextID": 520011,
+            "IconID": 520010
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110520102,
+            "TextID": 520012,
+            "IconID": 520010
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110520103,
+            "TextID": 520013,
+            "IconID": 520010
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110520104,
+            "TextID": 520014,
+            "IconID": 520010
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110520105,
+            "TextID": 520015,
+            "IconID": 520010
+          }
+        ]
+      },
+      {
+        "ID": 520020,
+        "NeedItemID": 120520002,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110520201,
+            "TextID": 520021,
+            "IconID": 520020
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110520202,
+            "TextID": 520022,
+            "IconID": 520020
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 13,
+            "RewardItemID": 110520203,
+            "TextID": 520023,
+            "IconID": 520020
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 18,
+            "RewardItemID": 110520204,
+            "TextID": 520024,
+            "IconID": 520020
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 22,
+            "RewardItemID": 110520205,
+            "TextID": 520025,
+            "IconID": 520020
+          }
+        ]
+      },
+      {
+        "ID": 520030,
+        "NeedItemID": 120520003,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110520301,
+            "TextID": 520031,
+            "IconID": 520030
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110520302,
+            "TextID": 520032,
+            "IconID": 520030
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110520303,
+            "TextID": 520033,
+            "IconID": 520030
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110520304,
+            "TextID": 520034,
+            "IconID": 520030
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110520305,
+            "TextID": 520035,
+            "IconID": 520030
+          }
+        ]
+      },
+      {
+        "ID": 520040,
+        "NeedItemID": 120520004,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110520401,
+            "TextID": 520041,
+            "IconID": 520040
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110520402,
+            "TextID": 520042,
+            "IconID": 520040
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 13,
+            "RewardItemID": 110520403,
+            "TextID": 520043,
+            "IconID": 520040
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 18,
+            "RewardItemID": 110520404,
+            "TextID": 520044,
+            "IconID": 520040
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 22,
+            "RewardItemID": 110520405,
+            "TextID": 520045,
+            "IconID": 520040
+          }
+        ]
+      },
+      {
+        "ID": 520050,
+        "NeedItemID": 120520005,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110520501,
+            "TextID": 520051,
+            "IconID": 520050
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110520502,
+            "TextID": 520052,
+            "IconID": 520050
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110520503,
+            "TextID": 520053,
+            "IconID": 520050
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110520504,
+            "TextID": 520054,
+            "IconID": 520050
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110520505,
+            "TextID": 520055,
+            "IconID": 520050
+          }
+        ]
+      },
+      {
+        "ID": 520060,
+        "NeedItemID": 120520006,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110520601,
+            "TextID": 520061,
+            "IconID": 520060
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110520602,
+            "TextID": 520062,
+            "IconID": 520060
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 13,
+            "RewardItemID": 110520603,
+            "TextID": 520063,
+            "IconID": 520060
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 18,
+            "RewardItemID": 110520604,
+            "TextID": 520064,
+            "IconID": 520060
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 22,
+            "RewardItemID": 110520605,
+            "TextID": 520065,
+            "IconID": 520060
+          }
+        ]
+      },
+      {
+        "ID": 520070,
+        "NeedItemID": 120520007,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110520701,
+            "TextID": 520071,
+            "IconID": 520070
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110520702,
+            "TextID": 520072,
+            "IconID": 520070
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110520703,
+            "TextID": 520073,
+            "IconID": 520070
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110520704,
+            "TextID": 520074,
+            "IconID": 520070
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110520705,
+            "TextID": 520075,
+            "IconID": 520070
+          }
+        ]
+      },
+      {
+        "ID": 520080,
+        "NeedItemID": 120520008,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110520801,
+            "TextID": 520081,
+            "IconID": 520080
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110520802,
+            "TextID": 520082,
+            "IconID": 520080
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 13,
+            "RewardItemID": 110520803,
+            "TextID": 520083,
+            "IconID": 520080
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 18,
+            "RewardItemID": 110520804,
+            "TextID": 520084,
+            "IconID": 520080
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 22,
+            "RewardItemID": 110520805,
+            "TextID": 520085,
+            "IconID": 520080
+          }
+        ]
+      },
+      {
+        "ID": 520090,
+        "NeedItemID": 120520009,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 1,
+            "RewardItemID": 110520901,
+            "TextID": 520091,
+            "IconID": 520090
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 2,
+            "RewardItemID": 110520902,
+            "TextID": 520092,
+            "IconID": 520090
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 3,
+            "RewardItemID": 110520903,
+            "TextID": 520093,
+            "IconID": 520090
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110520904,
+            "TextID": 520094,
+            "IconID": 520090
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 6,
+            "RewardItemID": 110520905,
+            "TextID": 520095,
+            "IconID": 520090
+          }
+        ]
+      },
+      {
+        "ID": 520100,
+        "NeedItemID": 120520010,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110521001,
+            "TextID": 520101,
+            "IconID": 520100
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110521002,
+            "TextID": 520102,
+            "IconID": 520100
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 13,
+            "RewardItemID": 110521003,
+            "TextID": 520103,
+            "IconID": 520100
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 18,
+            "RewardItemID": 110521004,
+            "TextID": 520104,
+            "IconID": 520100
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 22,
+            "RewardItemID": 110521005,
+            "TextID": 520105,
+            "IconID": 520100
+          }
+        ]
+      },
+      {
+        "ID": 530010,
+        "NeedItemID": 120530001,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110530101,
+            "TextID": 530011,
+            "IconID": 530010
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110530102,
+            "TextID": 530012,
+            "IconID": 530010
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 13,
+            "RewardItemID": 110530103,
+            "TextID": 530013,
+            "IconID": 530010
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 18,
+            "RewardItemID": 110530104,
+            "TextID": 530014,
+            "IconID": 530010
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 22,
+            "RewardItemID": 110530105,
+            "TextID": 530015,
+            "IconID": 530010
+          }
+        ]
+      },
+      {
+        "ID": 530020,
+        "NeedItemID": 120530002,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110530201,
+            "TextID": 530021,
+            "IconID": 530020
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110530202,
+            "TextID": 530022,
+            "IconID": 530020
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 13,
+            "RewardItemID": 110530203,
+            "TextID": 530023,
+            "IconID": 530020
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 18,
+            "RewardItemID": 110530204,
+            "TextID": 530024,
+            "IconID": 530020
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 22,
+            "RewardItemID": 110530205,
+            "TextID": 530025,
+            "IconID": 530020
+          }
+        ]
+      },
+      {
+        "ID": 530030,
+        "NeedItemID": 120530003,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110530301,
+            "TextID": 530031,
+            "IconID": 530030
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110530302,
+            "TextID": 530032,
+            "IconID": 530030
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 13,
+            "RewardItemID": 110530303,
+            "TextID": 530033,
+            "IconID": 530030
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 18,
+            "RewardItemID": 110530304,
+            "TextID": 530034,
+            "IconID": 530030
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 22,
+            "RewardItemID": 110530305,
+            "TextID": 530035,
+            "IconID": 530030
+          }
+        ]
+      },
+      {
+        "ID": 530040,
+        "NeedItemID": 120530004,
+        "LevelInfo": [
+          {
+            "Level": 1,
+            "CostItemID": 103,
+            "CostCount": 4,
+            "RewardItemID": 110530401,
+            "TextID": 530041,
+            "IconID": 530040
+          },
+          {
+            "Level": 2,
+            "CostItemID": 103,
+            "CostCount": 9,
+            "RewardItemID": 110530402,
+            "TextID": 530042,
+            "IconID": 530040
+          },
+          {
+            "Level": 3,
+            "CostItemID": 103,
+            "CostCount": 13,
+            "RewardItemID": 110530403,
+            "TextID": 530043,
+            "IconID": 530040
+          },
+          {
+            "Level": 4,
+            "CostItemID": 103,
+            "CostCount": 18,
+            "RewardItemID": 110530404,
+            "TextID": 530044,
+            "IconID": 530040
+          },
+          {
+            "Level": 5,
+            "CostItemID": 103,
+            "CostCount": 22,
+            "RewardItemID": 110530405,
+            "TextID": 530045,
+            "IconID": 530040
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,8147 @@
+{
+  "BattlePass": {
+    "Datas": [
+      {
+        "ID": 10000,
+        "ShopID": 100000,
+        "MaxExp": 15000,
+        "DayQuestID": 10001,
+        "WeekQuestID": 10002,
+        "SeasonQuestID": 10003,
+        "BattlePassLevelUps": [
+          {
+            "Level": 1,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 4200452,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 191,
+                "ItemNum": 6
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1000,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 8076,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9317,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 492,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 11020,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 191,
+                "ItemNum": 6
+              },
+              {
+                "ItemID": 10430,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1010,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4020,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 11,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              },
+              {
+                "ItemID": 11020,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 12,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 191,
+                "ItemNum": 12
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 13,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1020,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 14,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9319,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 15,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5016,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 16,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 17,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 191,
+                "ItemNum": 12
+              },
+              {
+                "ItemID": 10430,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 18,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1030,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 19,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 20,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 713030,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 21,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 11020,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 22,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 4
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 23,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8014,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 24,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9318,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 25,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5042308,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 26,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 27,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 4
+              },
+              {
+                "ItemID": 10430,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 28,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 29,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 8
+              }
+            ]
+          },
+          {
+            "Level": 30,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 643015,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 31,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 11020,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 32,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 33,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 10430,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 34,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1001,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1001,
+                "ItemNum": 5
+              }
+            ]
+          },
+          {
+            "Level": 35,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 11020,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 36,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 37,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 6
+              },
+              {
+                "ItemID": 1011,
+                "ItemNum": 5
+              }
+            ]
+          },
+          {
+            "Level": 38,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1011,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 39,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 40,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 483,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 643016,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 41,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 8
+              }
+            ]
+          },
+          {
+            "Level": 42,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 43,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1021,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 10430,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 44,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 1021,
+                "ItemNum": 5
+              }
+            ]
+          },
+          {
+            "Level": 45,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4200453,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 46,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 47,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 48,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1031,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1031,
+                "ItemNum": 5
+              }
+            ]
+          },
+          {
+            "Level": 49,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 182,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8010,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 50,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 30
+              }
+            ]
+          },
+          {
+            "Level": 51,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 52,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 53,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 54,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 55,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 56,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 57,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 58,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 59,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 60,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 61,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 62,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 63,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 64,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 65,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 66,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 67,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 68,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 69,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 70,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 10010,
+        "ShopID": 100010,
+        "MaxExp": 15000,
+        "DayQuestID": 10001,
+        "WeekQuestID": 10002,
+        "SeasonQuestID": 10013,
+        "BattlePassLevelUps": [
+          {
+            "Level": 1,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 4200562,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1000,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8067,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 492,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 11140,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10440,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1010,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4022,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 11,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 11140,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 12,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 13,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1020,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 14,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9320,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 15,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5005,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 16,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 17,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10440,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 18,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1030,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 9321,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 19,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 20,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 713010,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 21,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 11140,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 22,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 23,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8024,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 24,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 25,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5042802,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 26,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 27,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10440,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 28,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9322,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 29,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 30,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 643017,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 31,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 11140,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 32,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 33,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8069,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 34,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1001,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 35,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 11140,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 36,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 10440,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 37,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 6
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 38,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1011,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1001,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 39,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 40,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 483,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 643018,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 41,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 10440,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 42,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 43,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1021,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1011,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 44,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 45,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4200563,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 46,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 47,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 1021,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 48,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1031,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 49,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 182,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 1031,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 50,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 51,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 52,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 53,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 54,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 55,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 56,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 57,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 58,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 59,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 60,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 61,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 62,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 63,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 64,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 65,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 66,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 67,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 68,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 69,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 70,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 10020,
+        "ShopID": 100020,
+        "MaxExp": 15000,
+        "DayQuestID": 10001,
+        "WeekQuestID": 10002,
+        "SeasonQuestID": 10023,
+        "BattlePassLevelUps": [
+          {
+            "Level": 1,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 4200392,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1000,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8074,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 492,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 10150,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10450,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1010,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4055,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 11,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 10150,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 12,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 13,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1020,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 14,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9352,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 15,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5117,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 16,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 17,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10450,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 18,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1030,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 9351,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 19,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 20,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 713195,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 21,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 10150,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 22,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 23,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8081,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 24,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 25,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5043507,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 26,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 27,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10450,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 28,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9350,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 29,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 30,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 643026,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 31,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 10150,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 32,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 33,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8021,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 34,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1001,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 35,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 10150,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 36,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 10450,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 37,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 6
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 38,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1011,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1001,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 39,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 40,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 483,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 643025,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 41,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 10450,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 42,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 43,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1021,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1011,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 44,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 45,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4200393,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 46,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 47,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 1021,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 48,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1031,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 49,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 182,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 1031,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 50,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 51,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 52,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 53,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 54,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 55,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 56,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 57,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 58,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 59,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 60,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 61,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 62,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 63,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 64,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 65,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 66,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 67,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 68,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 69,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 70,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 10030,
+        "ShopID": 100030,
+        "MaxExp": 15000,
+        "DayQuestID": 10001,
+        "WeekQuestID": 10002,
+        "SeasonQuestID": 10023,
+        "BattlePassLevelUps": [
+          {
+            "Level": 1,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 4200222,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1000,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8015,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 492,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 10060,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10480,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1010,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4454,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 11,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 10060,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 12,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 13,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1020,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 14,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9340,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 15,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5094,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 16,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 17,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10480,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 18,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1030,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 9339,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 19,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 20,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 713090,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 21,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 10060,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 22,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 23,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8041,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 24,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 25,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5043701,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 26,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 27,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10480,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 28,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9338,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 29,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 30,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 621017,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 31,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 10060,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 32,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 33,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8042,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 34,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1001,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 35,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 10060,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 36,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 10480,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 37,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 6
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 38,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1011,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1001,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 39,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 40,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 483,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 621018,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 41,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 10480,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 42,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 43,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1021,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1011,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 44,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 45,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4200223,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 46,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 47,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 1021,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 48,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1031,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 49,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 182,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 1031,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 50,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 51,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 52,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 53,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 54,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 55,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 56,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 57,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 58,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 59,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 60,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 61,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 62,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 63,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 64,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 65,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 66,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 67,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 68,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 69,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 70,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 10040,
+        "ShopID": 100040,
+        "MaxExp": 15000,
+        "DayQuestID": 10001,
+        "WeekQuestID": 10002,
+        "SeasonQuestID": 10023,
+        "BattlePassLevelUps": [
+          {
+            "Level": 1,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 4200522,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1000,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8027,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 492,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 10730,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10490,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1010,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4457,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 11,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 10730,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 12,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 13,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1020,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 14,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9330,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 15,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5050,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 16,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 17,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10490,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 18,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1030,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 9331,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 19,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 20,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 713200,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 21,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 10730,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 22,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 23,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8035,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 24,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 25,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5043712,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 26,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 27,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10490,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 28,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9332,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 29,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 30,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 611045,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 31,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 10730,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 32,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 33,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8129,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 34,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1001,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 35,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 10730,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 36,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 10490,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 37,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 6
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 38,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1011,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1001,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 39,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 40,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 483,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 611046,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 41,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 10490,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 42,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 43,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1021,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1011,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 44,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 45,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4200523,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 46,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 47,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 1021,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 48,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1031,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 49,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 182,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 1031,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 50,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 51,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 52,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 53,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 54,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 55,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 56,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 57,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 58,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 59,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 60,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 61,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 62,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 63,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 64,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 65,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 66,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 67,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 68,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 69,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 70,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 10050,
+        "ShopID": 100050,
+        "MaxExp": 15000,
+        "DayQuestID": 10001,
+        "WeekQuestID": 10002,
+        "SeasonQuestID": 10023,
+        "BattlePassLevelUps": [
+          {
+            "Level": 1,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 4200532,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1000,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8008,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 492,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 10830,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10510,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1010,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4451,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 11,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 10830,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 12,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 13,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1020,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 14,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9343,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 15,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5165,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 16,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 17,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10510,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 18,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1030,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 9344,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 19,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 20,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 713055,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 21,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 10830,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 22,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 23,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8003,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 24,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 25,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5043439,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 26,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 27,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10510,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 28,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9345,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 29,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 30,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 613026,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 31,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 10830,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 32,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 33,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8033,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 34,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1001,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 35,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 10830,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 36,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 10510,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 37,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 6
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 38,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1011,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1001,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 39,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 40,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 483,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 613028,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 41,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 10510,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 42,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 43,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1021,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1011,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 44,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 45,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4200533,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 46,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 47,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 1021,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 48,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1031,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 49,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 182,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 1031,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 50,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 51,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 52,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 53,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 54,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 55,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 56,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 57,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 58,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 59,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 60,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 61,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 62,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 63,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 64,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 65,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 66,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 67,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 68,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 69,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 70,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 10060,
+        "ShopID": 100060,
+        "MaxExp": 15000,
+        "DayQuestID": 10001,
+        "WeekQuestID": 10002,
+        "SeasonQuestID": 10023,
+        "BattlePassLevelUps": [
+          {
+            "Level": 1,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 4200382,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1000,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8018,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 492,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 11040,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10500,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1010,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4459,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 11,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 11040,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 12,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 13,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1020,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 14,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9369,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 15,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5062,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 16,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 17,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10500,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 18,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1030,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 9370,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 19,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 20,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 713160,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 21,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 11040,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 22,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 23,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8012,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 24,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 25,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5044201,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 26,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 27,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10500,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 28,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9371,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 29,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 30,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 641025,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 31,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 11040,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 32,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 33,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8017,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 34,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1001,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 35,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 11040,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 36,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 10500,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 37,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 6
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 38,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1011,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1001,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 39,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 40,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 483,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 641026,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 41,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 10500,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 42,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 43,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1021,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1011,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 44,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 45,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4200383,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 46,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 47,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 1021,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 48,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1031,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 49,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 182,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 1031,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 50,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 51,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 52,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 53,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 54,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 55,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 56,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 57,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 58,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 59,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 60,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 61,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 62,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 63,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 64,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 65,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 66,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 67,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 68,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 69,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 70,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 10070,
+        "ShopID": 100070,
+        "MaxExp": 15000,
+        "DayQuestID": 10001,
+        "WeekQuestID": 10002,
+        "SeasonQuestID": 10023,
+        "BattlePassLevelUps": [
+          {
+            "Level": 1,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 4200832,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1000,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8084,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 492,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 10570,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10910,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1010,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4264,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 11,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 10570,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 12,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 13,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1020,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 14,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9396,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 15,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5060,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 16,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 17,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10910,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 18,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1030,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 9397,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 19,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 20,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 713315,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 21,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 10570,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 22,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 23,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8053,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 24,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 25,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 5043312,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 26,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 27,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 10910,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 28,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 170,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 9398,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 29,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 180,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 30,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 642037,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 31,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 10570,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 32,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 192,
+                "ItemNum": 25
+              }
+            ]
+          },
+          {
+            "Level": 33,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 8038,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 34,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1001,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 35,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 10570,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 36,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2000
+              },
+              {
+                "ItemID": 10910,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 37,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 6
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 38,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1011,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1001,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 39,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 40,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 483,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 642038,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 41,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 10910,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 42,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 43,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1021,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 1011,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 44,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 181,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 45,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 4200833,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 46,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 2500
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Level": 47,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 192,
+                "ItemNum": 7
+              },
+              {
+                "ItemID": 1021,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 48,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 1031,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 49,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 182,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 1031,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 50,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 104,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 51,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 52,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 53,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 54,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 55,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 56,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 107,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 57,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 58,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 59,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 13500
+              }
+            ]
+          },
+          {
+            "Level": 60,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 401,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "Level": 61,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 62,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 63,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 64,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 65,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 66,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 67,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 68,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 69,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 70,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 10080,
+        "ShopID": 100080,
+        "MaxExp": 15000,
+        "DayQuestID": 10001,
+        "WeekQuestID": 10002,
+        "SeasonQuestID": 10023,
+        "BattlePassLevelUps": [
+          {
+            "Level": 1,
+            "Exp": 1000,
+            "BattlePassReward": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 1500
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "BattlePassQueset": {
+    "Datas": [
+      {
+        "ID": 10001,
+        "BattlePassQuesetItem": [
+          {
+            "AchieveID": 80200100,
+            "Exp": 200
+          },
+          {
+            "AchieveID": 80200101,
+            "Exp": 550
+          },
+          {
+            "AchieveID": 80200102,
+            "Exp": 250
+          },
+          {
+            "AchieveID": 80200103,
+            "Exp": 300
+          },
+          {
+            "AchieveID": 80200104,
+            "Exp": 400
+          },
+          {
+            "AchieveID": 80200105,
+            "Exp": 450
+          }
+        ]
+      },
+      {
+        "ID": 10002,
+        "BattlePassQuesetItem": [
+          {
+            "AchieveID": 80200200,
+            "Exp": 1000
+          },
+          {
+            "AchieveID": 80200201,
+            "Exp": 1000
+          },
+          {
+            "AchieveID": 80200202,
+            "Exp": 900
+          },
+          {
+            "AchieveID": 80200203,
+            "Exp": 500
+          },
+          {
+            "AchieveID": 80200204,
+            "Exp": 800
+          },
+          {
+            "AchieveID": 80200205,
+            "Exp": 600
+          }
+        ]
+      },
+      {
+        "ID": 10003,
+        "BattlePassQuesetItem": [
+          {
+            "AchieveID": 80200300,
+            "Exp": 1400
+          },
+          {
+            "AchieveID": 80200301,
+            "Exp": 1600
+          },
+          {
+            "AchieveID": 80200302,
+            "Exp": 1800
+          },
+          {
+            "AchieveID": 80200303,
+            "Exp": 1600
+          },
+          {
+            "AchieveID": 80200304,
+            "Exp": 1500
+          },
+          {
+            "AchieveID": 80200305,
+            "Exp": 2000
+          },
+          {
+            "AchieveID": 80200306,
+            "Exp": 1200
+          },
+          {
+            "AchieveID": 80200307,
+            "Exp": 1600
+          },
+          {
+            "AchieveID": 80200308,
+            "Exp": 2000
+          },
+          {
+            "AchieveID": 80200309,
+            "Exp": 2000
+          }
+        ]
+      },
+      {
+        "ID": 10013,
+        "BattlePassQuesetItem": [
+          {
+            "AchieveID": 80200400,
+            "Exp": 1400
+          },
+          {
+            "AchieveID": 80200401,
+            "Exp": 1600
+          },
+          {
+            "AchieveID": 80200402,
+            "Exp": 1800
+          },
+          {
+            "AchieveID": 80200403,
+            "Exp": 1600
+          },
+          {
+            "AchieveID": 80200404,
+            "Exp": 1500
+          },
+          {
+            "AchieveID": 80200405,
+            "Exp": 2000
+          },
+          {
+            "AchieveID": 80200406,
+            "Exp": 1200
+          },
+          {
+            "AchieveID": 80200407,
+            "Exp": 1600
+          },
+          {
+            "AchieveID": 80200408,
+            "Exp": 2000
+          },
+          {
+            "AchieveID": 80200409,
+            "Exp": 2000
+          }
+        ]
+      },
+      {
+        "ID": 10023,
+        "BattlePassQuesetItem": [
+          {
+            "AchieveID": 80200500,
+            "Exp": 1400
+          },
+          {
+            "AchieveID": 80200501,
+            "Exp": 1600
+          },
+          {
+            "AchieveID": 80200502,
+            "Exp": 1800
+          },
+          {
+            "AchieveID": 80200503,
+            "Exp": 1600
+          },
+          {
+            "AchieveID": 80200504,
+            "Exp": 1500
+          },
+          {
+            "AchieveID": 80200505,
+            "Exp": 2000
+          },
+          {
+            "AchieveID": 80200506,
+            "Exp": 1200
+          },
+          {
+            "AchieveID": 80200507,
+            "Exp": 1600
+          },
+          {
+            "AchieveID": 80200508,
+            "Exp": 2000
+          },
+          {
+            "AchieveID": 80200509,
+            "Exp": 2000
+          }
+        ]
+      }
+    ]
+  }
+}

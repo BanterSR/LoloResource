@@ -1,0 +1,460 @@
+{
+  "Video": {
+    "Datas": [
+      {
+        "ID": 101001
+      },
+      {
+        "ID": 101002,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/芙.mp4"
+      },
+      {
+        "ID": 101003,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/光.mp4"
+      },
+      {
+        "ID": 101004,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/格.mp4"
+      },
+      {
+        "ID": 102001
+      },
+      {
+        "ID": 102002
+      },
+      {
+        "ID": 102003
+      },
+      {
+        "ID": 103001
+      },
+      {
+        "ID": 103002
+      },
+      {
+        "ID": 201001
+      },
+      {
+        "ID": 201002,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/寅.mp4"
+      },
+      {
+        "ID": 201003
+      },
+      {
+        "ID": 202001,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/珂.mp4"
+      },
+      {
+        "ID": 202002
+      },
+      {
+        "ID": 202003
+      },
+      {
+        "ID": 202004,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/乌.mp4"
+      },
+      {
+        "ID": 301001
+      },
+      {
+        "ID": 301002,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/琳.mp4"
+      },
+      {
+        "ID": 301003
+      },
+      {
+        "ID": 301004,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/辉.mp4"
+      },
+      {
+        "ID": 302001
+      },
+      {
+        "ID": 302002,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/莱.mp4"
+      },
+      {
+        "ID": 302003,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/莉.mp4"
+      },
+      {
+        "ID": 401001,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/妙.mp4"
+      },
+      {
+        "ID": 401002,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/梦.mp4"
+      },
+      {
+        "ID": 401003,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/蓝.mp4"
+      },
+      {
+        "ID": 401004,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/爱.mp4"
+      },
+      {
+        "ID": 402001
+      },
+      {
+        "ID": 402002,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/洛.mp4"
+      },
+      {
+        "ID": 402003,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/茜.mp4"
+      },
+      {
+        "ID": 403001,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/桃.mp4"
+      },
+      {
+        "ID": 403002,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/兔.mp4"
+      },
+      {
+        "ID": 403003
+      },
+      {
+        "ID": 403004,
+        "AssetPath": "Assets/ResBundle/Video/技能演示/宁.mp4"
+      },
+      {
+        "ID": 800000
+      },
+      {
+        "ID": 800001
+      },
+      {
+        "ID": 800002
+      },
+      {
+        "ID": 800003
+      }
+    ]
+  },
+  "Videos": {
+    "Datas": [
+      {
+        "ID": 800000,
+        "TotalDuration": 290,
+        "OpeningTime": "2024-08-01 00:00:00",
+        "ClosingTime": "2024-08-22 23:59:59",
+        "VideosGroupInfo": [
+          {
+            "Sequence": 1,
+            "Duration": 90,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/芙.mp4"
+          },
+          {
+            "Sequence": 2,
+            "Duration": 200,
+            "IsLoop": true,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/光.mp4"
+          }
+        ]
+      },
+      {
+        "ID": 800001,
+        "Priority": 1,
+        "TotalDuration": 532,
+        "OpeningTime": "2025-08-15 00:00:00",
+        "ClosingTime": "2025-08-28 23:59:59",
+        "VideosGroupInfo": [
+          {
+            "Sequence": 1,
+            "Duration": 131,
+            "AssetPath": "Assets/ResBundle/Video/PV1_250814.mp4"
+          },
+          {
+            "Sequence": 2,
+            "Duration": 24,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/爱.mp4"
+          },
+          {
+            "Sequence": 3,
+            "Duration": 28,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/芙.mp4"
+          },
+          {
+            "Sequence": 4,
+            "Duration": 21,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/格.mp4"
+          },
+          {
+            "Sequence": 5,
+            "Duration": 29,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/光.mp4"
+          },
+          {
+            "Sequence": 6,
+            "Duration": 18,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/辉.mp4"
+          },
+          {
+            "Sequence": 7,
+            "Duration": 28,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/珂.mp4"
+          },
+          {
+            "Sequence": 8,
+            "Duration": 29,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/莱.mp4"
+          },
+          {
+            "Sequence": 9,
+            "Duration": 33,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/蓝.mp4"
+          },
+          {
+            "Sequence": 10,
+            "Duration": 15,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/莉.mp4"
+          },
+          {
+            "Sequence": 11,
+            "Duration": 26,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/琳.mp4"
+          },
+          {
+            "Sequence": 12,
+            "Duration": 18,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/洛.mp4"
+          },
+          {
+            "Sequence": 13,
+            "Duration": 29,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/妙.mp4"
+          },
+          {
+            "Sequence": 14,
+            "Duration": 24,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/茜.mp4"
+          },
+          {
+            "Sequence": 15,
+            "Duration": 29,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/桃.mp4"
+          },
+          {
+            "Sequence": 16,
+            "Duration": 28,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/兔.mp4"
+          },
+          {
+            "Sequence": 17,
+            "Duration": 22,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/寅.mp4"
+          }
+        ]
+      },
+      {
+        "ID": 800002,
+        "TotalDuration": 183,
+        "OpeningTime": "2025-08-29 00:00:00",
+        "ClosingTime": "2025-09-04 23:59:59",
+        "VideosGroupInfo": [
+          {
+            "Sequence": 1,
+            "Duration": 183,
+            "AssetPath": "Assets/ResBundle/Video/show_01.mp4"
+          }
+        ]
+      },
+      {
+        "ID": 800003,
+        "TotalDuration": 545,
+        "OpeningTime": "2025-09-05 00:00:00",
+        "ClosingTime": "2025-11-01 23:59:59",
+        "VideosGroupInfo": [
+          {
+            "Sequence": 1,
+            "Duration": 90,
+            "AssetPath": "Assets/ResBundle/Video/PV2_250905.mp4"
+          },
+          {
+            "Sequence": 2,
+            "Duration": 24,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/爱.mp4"
+          },
+          {
+            "Sequence": 3,
+            "Duration": 28,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/芙.mp4"
+          },
+          {
+            "Sequence": 4,
+            "Duration": 21,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/格.mp4"
+          },
+          {
+            "Sequence": 5,
+            "Duration": 29,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/光.mp4"
+          },
+          {
+            "Sequence": 6,
+            "Duration": 18,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/辉.mp4"
+          },
+          {
+            "Sequence": 7,
+            "Duration": 28,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/珂.mp4"
+          },
+          {
+            "Sequence": 8,
+            "Duration": 29,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/莱.mp4"
+          },
+          {
+            "Sequence": 9,
+            "Duration": 33,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/蓝.mp4"
+          },
+          {
+            "Sequence": 10,
+            "Duration": 15,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/莉.mp4"
+          },
+          {
+            "Sequence": 11,
+            "Duration": 26,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/琳.mp4"
+          },
+          {
+            "Sequence": 12,
+            "Duration": 18,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/洛.mp4"
+          },
+          {
+            "Sequence": 13,
+            "Duration": 29,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/妙.mp4"
+          },
+          {
+            "Sequence": 14,
+            "Duration": 21,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/宁.mp4"
+          },
+          {
+            "Sequence": 15,
+            "Duration": 24,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/茜.mp4"
+          },
+          {
+            "Sequence": 16,
+            "Duration": 29,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/桃.mp4"
+          },
+          {
+            "Sequence": 17,
+            "Duration": 28,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/兔.mp4"
+          },
+          {
+            "Sequence": 18,
+            "Duration": 22,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/寅.mp4"
+          }
+        ]
+      },
+      {
+        "ID": 800004,
+        "TotalDuration": 422,
+        "OpeningTime": "2025-09-05 00:00:00",
+        "ClosingTime": "2026-11-01 23:59:59",
+        "VideosGroupInfo": [
+          {
+            "Sequence": 1,
+            "Duration": 24,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/爱.mp4"
+          },
+          {
+            "Sequence": 2,
+            "Duration": 28,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/芙.mp4"
+          },
+          {
+            "Sequence": 3,
+            "Duration": 21,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/格.mp4"
+          },
+          {
+            "Sequence": 4,
+            "Duration": 29,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/光.mp4"
+          },
+          {
+            "Sequence": 5,
+            "Duration": 18,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/辉.mp4"
+          },
+          {
+            "Sequence": 6,
+            "Duration": 28,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/珂.mp4"
+          },
+          {
+            "Sequence": 7,
+            "Duration": 29,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/莱.mp4"
+          },
+          {
+            "Sequence": 8,
+            "Duration": 33,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/蓝.mp4"
+          },
+          {
+            "Sequence": 9,
+            "Duration": 15,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/莉.mp4"
+          },
+          {
+            "Sequence": 10,
+            "Duration": 26,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/琳.mp4"
+          },
+          {
+            "Sequence": 11,
+            "Duration": 18,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/洛.mp4"
+          },
+          {
+            "Sequence": 12,
+            "Duration": 29,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/妙.mp4"
+          },
+          {
+            "Sequence": 13,
+            "Duration": 21,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/宁.mp4"
+          },
+          {
+            "Sequence": 14,
+            "Duration": 24,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/茜.mp4"
+          },
+          {
+            "Sequence": 15,
+            "Duration": 29,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/桃.mp4"
+          },
+          {
+            "Sequence": 16,
+            "Duration": 28,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/兔.mp4"
+          },
+          {
+            "Sequence": 17,
+            "Duration": 22,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/寅.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}
