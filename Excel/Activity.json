@@ -565,6 +565,24 @@
         "NewActivityType": 5
       },
       {
+        "ID": 5077,
+        "OpeningTime": "2025-11-13 00:00:00",
+        "ClosingTime": "2025-11-27 23:59:59",
+        "TextID": 5077,
+        "IconID": 5077,
+        "Index": 201,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 5078,
+        "OpeningTime": "2025-11-13 00:00:00",
+        "ClosingTime": "2025-11-26 23:59:59",
+        "TextID": 5078,
+        "IconID": 5078,
+        "Index": 201,
+        "NewActivityType": 5
+      },
+      {
         "ID": 4001,
         "OpeningTime": "2025-04-04 05:00:00",
         "ClosingTime": "2025-04-14 23:59:59",
@@ -708,6 +726,16 @@
         "IconID": 2013,
         "Index": 409,
         "ActivityID": 2013,
+        "NewActivityType": 1
+      },
+      {
+        "ID": 2014,
+        "OpeningTime": "2025-11-13 00:00:00",
+        "ClosingTime": "2025-12-03 23:59:59",
+        "TextID": 2014,
+        "IconID": 2014,
+        "Index": 410,
+        "ActivityID": 2014,
         "NewActivityType": 1
       },
       {
@@ -1046,6 +1074,16 @@
         "NewActivityType": 6
       },
       {
+        "ID": 7011,
+        "OpeningTime": "2025-11-13 05:00:00",
+        "ClosingTime": "2025-12-25 23:59:59",
+        "TextID": 7011,
+        "IconID": 7011,
+        "Index": 90,
+        "ActivityID": 7011,
+        "NewActivityType": 6
+      },
+      {
         "ID": 3001,
         "ActivityID": 3001,
         "NewActivityType": 2
@@ -1135,6 +1173,15 @@
         "ClosingTime": "2025-10-27 04:59:59",
         "TextID": 12000,
         "IconID": 12000,
+        "Index": 600,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 12001,
+        "OpeningTime": "2025-11-13 05:00:00",
+        "ClosingTime": "2025-12-12 04:59:59",
+        "TextID": 12001,
+        "IconID": 12001,
         "Index": 600,
         "NewActivityType": 5
       }

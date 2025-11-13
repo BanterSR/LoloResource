@@ -1872,6 +1872,26 @@
             "GuideVoice": 207
           }
         ]
+      },
+      {
+        "ID": 1003,
+        "ScenicLevelInfo": [
+          {
+            "Level": 1,
+            "NeedExp": 1,
+            "GuideVoice": 201
+          },
+          {
+            "Level": 2,
+            "NeedExp": 1,
+            "GuideVoice": 202
+          },
+          {
+            "Level": 3,
+            "NeedExp": 1,
+            "GuideVoice": 203
+          }
+        ]
       }
     ]
   },
@@ -2951,6 +2971,17 @@
             "Level": 31
           }
         ]
+      },
+      {
+        "ID": 1003,
+        "CrystalLevelInfo": [
+          {
+            "Level": 1
+          },
+          {
+            "Level": 2
+          }
+        ]
       }
     ]
   },
@@ -3229,6 +3260,17 @@
           },
           {
             "Level": 10
+          }
+        ]
+      },
+      {
+        "ID": 1003,
+        "PhotoLevelInfo": [
+          {
+            "Level": 1
+          },
+          {
+            "Level": 2
           }
         ]
       }
@@ -4131,6 +4173,17 @@
             "Level": 28
           }
         ]
+      },
+      {
+        "ID": 1003,
+        "DataLevelInfo": [
+          {
+            "Level": 1
+          },
+          {
+            "Level": 2
+          }
+        ]
       }
     ]
   },
@@ -4840,8 +4893,7 @@
         "ID": 1003,
         "FileLevelInfo": [
           {
-            "Level": 1,
-            "NeedExp": 100
+            "Level": 1
           },
           {
             "Level": 2
@@ -5683,6 +5735,17 @@
             "Level": 24
           }
         ]
+      },
+      {
+        "ID": 1003,
+        "BookLevelInfo": [
+          {
+            "Level": 1
+          },
+          {
+            "Level": 2
+          }
+        ]
       }
     ]
   },
@@ -6468,8 +6531,7 @@
         "ID": 1003,
         "TapeLevelInfo": [
           {
-            "Level": 1,
-            "NeedExp": 100
+            "Level": 1
           },
           {
             "Level": 2
@@ -7546,6 +7608,17 @@
           },
           {
             "Level": 20
+          }
+        ]
+      },
+      {
+        "ID": 1003,
+        "CollectItemLevelInfo": [
+          {
+            "Level": 1
+          },
+          {
+            "Level": 2
           }
         ]
       }

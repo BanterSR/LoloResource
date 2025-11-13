@@ -7667,6 +7667,48 @@
         ]
       },
       {
+        "ID": 10030001,
+        "TextID": 10030001,
+        "IconID": 3,
+        "SceneID": 1003,
+        "FlagGroupInfo": [
+          {
+            "Index": 1,
+            "IsItemUnlock": true,
+            "NewMissionType": 1,
+            "RelationID": 1003001
+          }
+        ]
+      },
+      {
+        "ID": 10030002,
+        "TextID": 10030002,
+        "IconID": 3,
+        "SceneID": 1003,
+        "FlagGroupInfo": [
+          {
+            "Index": 1,
+            "IsItemUnlock": true,
+            "NewMissionType": 1,
+            "RelationID": 1003002
+          }
+        ]
+      },
+      {
+        "ID": 10030003,
+        "TextID": 10030003,
+        "IconID": 3,
+        "SceneID": 1003,
+        "FlagGroupInfo": [
+          {
+            "Index": 1,
+            "IsItemUnlock": true,
+            "NewMissionType": 1,
+            "RelationID": 1003003
+          }
+        ]
+      },
+      {
         "ID": 535001,
         "TextID": 535001,
         "IconID": 7,

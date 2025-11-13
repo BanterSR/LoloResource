@@ -527,7 +527,8 @@
         ],
         "PassiveSpellIDs": [
           1020190,
-          1000000
+          1000000,
+          50201
         ],
         "ExSpellIDs": [
           4020810
@@ -545,7 +546,7 @@
         "NewWeaponType": 11,
         "NewWeaponSystemType": 2,
         "NewCampType": 1,
-        "NewElementType": 5,
+        "NewElementType": 3,
         "NewSexType": 2
       },
       {
@@ -1243,8 +1244,8 @@
         "IsShow": true,
         "DefaultWeaponID": 1402101,
         "PracticeID": 402002,
-        "OpeningTime": "2025-05-16 00:00:00",
-        "ClosingTime": "2025-06-06 23:59:59",
+        "OpeningTime": "2025-11-13 00:00:00",
+        "ClosingTime": "2025-11-27 23:59:59",
         "PosterIDs": [
           10040,
           10830,

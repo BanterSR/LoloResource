@@ -232,6 +232,17 @@
         ]
       },
       {
+        "ID": 911,
+        "SpellConfigureItems": [
+          {
+            "Level": 1,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          }
+        ]
+      },
+      {
         "ID": 920,
         "SpellConfigureItems": [
           {
@@ -2639,6 +2650,24 @@
               1
             ],
             "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewDamageType": 2,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          }
+        ]
+      },
+      {
+        "ID": 120805,
+        "SpellConfigureItems": [
+          {
+            "Level": 1,
+            "ScriptParams": [
+              0.75
+            ],
+            "BufferTime": 0.3,
+            "CD": 10,
             "NewAttackType": 1,
             "NewDamageType": 2,
             "NewSpellTag1": 2,

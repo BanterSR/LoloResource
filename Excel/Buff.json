@@ -418,6 +418,10 @@
         "ScriptID": 529
       },
       {
+        "ID": 530,
+        "ScriptID": 530
+      },
+      {
         "ID": 520,
         "ScriptID": 520
       },
@@ -464,6 +468,10 @@
       {
         "ID": 910,
         "ScriptID": 910
+      },
+      {
+        "ID": 911,
+        "ScriptID": 911
       },
       {
         "ID": 1000,
@@ -4126,6 +4134,13 @@
         "NewBuffType": 5
       },
       {
+        "ID": 530,
+        "ScriptName": "Buff_530",
+        "Cover": true,
+        "AssetFullName": "Buff/Unit/530/Buff_530",
+        "NewBuffType": 5
+      },
+      {
         "ID": 520,
         "ScriptName": "Buff_520",
         "Cover": true,
@@ -4207,6 +4222,13 @@
         "ScriptName": "Buff_910",
         "Cover": true,
         "AssetFullName": "Buff/Unit/910/Buff_910",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 911,
+        "ScriptName": "Buff_911",
+        "Cover": true,
+        "AssetFullName": "Buff/Unit/911/Buff_911",
         "NewBuffType": 5
       },
       {
@@ -7339,6 +7361,12 @@
         "ID": 50200,
         "ScriptName": "SpellPassive_50200",
         "AssetFullName": "Buff/CharacterPassive/50200/SpellPassive_50200",
+        "NewBuffType": 4
+      },
+      {
+        "ID": 50201,
+        "ScriptName": "SpellPassive_50201",
+        "AssetFullName": "Buff/CharacterPassive/50201/SpellPassive_50201",
         "NewBuffType": 4
       },
       {

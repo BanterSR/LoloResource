@@ -4353,6 +4353,19 @@
         ]
       },
       {
+        "ID": 220101,
+        "StoryReviewSet": [
+          {
+            "Name": 2201012,
+            "DialogID": 2201012
+          },
+          {
+            "Name": 2201022,
+            "DialogID": 2201022
+          }
+        ]
+      },
+      {
         "ID": 230011,
         "StoryReviewSet": [
           {
@@ -4741,6 +4754,15 @@
             "LvUnlock": 1,
             "QuestID": 220091,
             "ReviewID": 220091
+          },
+          {
+            "TextID": 220101,
+            "Index": 10,
+            "IconID": 220101,
+            "QuestUnlock": 107082,
+            "LvUnlock": 1,
+            "QuestID": 220101,
+            "ReviewID": 220101
           }
         ]
       },

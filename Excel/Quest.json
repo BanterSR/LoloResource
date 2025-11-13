@@ -6665,6 +6665,25 @@
         "NewType": 9
       },
       {
+        "ID": 220101,
+        "QuestGroup": 220101,
+        "Name": 220101,
+        "LimitNum": 1,
+        "IsImmedReward": true,
+        "ConditionSetGroupID": 220101,
+        "FinishQuestDialogID": 2201012,
+        "NewType": 9
+      },
+      {
+        "ID": 220102,
+        "QuestGroup": 220101,
+        "Name": 220101,
+        "LimitNum": 1,
+        "Reward": 2000500,
+        "ConditionSetGroupID": 220102,
+        "NewType": 9
+      },
+      {
         "ID": 230011,
         "QuestGroup": 230011,
         "Name": 230011,
@@ -22486,6 +22505,38 @@
         ]
       },
       {
+        "ID": 2201011,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 2,
+            "QuestResourceID": 2201011,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 9999,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 2201021,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "QuestResourceID": 10002,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 9999,
+            "IsShowQuestStatus0": true,
+            "IsShowQuestStatus1": true,
+            "IsShowQuestStatus2": true,
+            "IsShowQuestStatus3": true
+          }
+        ]
+      },
+      {
         "ID": 2300111,
         "QuestResourceItems": [
           {
@@ -34290,6 +34341,32 @@
             ],
             "ResourceID": [
               2200931
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 220101,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              12201011
+            ],
+            "ResourceID": [
+              2201011
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 220102,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              12201021
+            ],
+            "ResourceID": [
+              2201021
             ]
           }
         ]

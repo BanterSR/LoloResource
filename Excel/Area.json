@@ -3061,7 +3061,17 @@
             "MissionPoolID": 1003012
           },
           {
-            "Level": 3
+            "Level": 3,
+            "PassiveID": 1000,
+            "MissionPoolID": 1003013
+          },
+          {
+            "Level": 4,
+            "PassiveID": 1000,
+            "MissionPoolID": 1003014
+          },
+          {
+            "Level": 5
           }
         ]
       },
@@ -3079,7 +3089,17 @@
             "MissionPoolID": 1003022
           },
           {
-            "Level": 3
+            "Level": 3,
+            "PassiveID": 1000,
+            "MissionPoolID": 1003023
+          },
+          {
+            "Level": 4,
+            "PassiveID": 1000,
+            "MissionPoolID": 1003024
+          },
+          {
+            "Level": 5
           }
         ]
       }
@@ -7027,6 +7047,28 @@
         ]
       },
       {
+        "ID": 1003013,
+        "AreaMissionDataGroup": [
+          {
+            "AchieveConditionID": 10030131
+          },
+          {
+            "AchieveConditionID": 10030132
+          }
+        ]
+      },
+      {
+        "ID": 1003014,
+        "AreaMissionDataGroup": [
+          {
+            "AchieveConditionID": 10030141
+          },
+          {
+            "AchieveConditionID": 10030142
+          }
+        ]
+      },
+      {
         "ID": 1003021,
         "AreaMissionDataGroup": [
           {
@@ -7039,6 +7081,34 @@
         "AreaMissionDataGroup": [
           {
             "AchieveConditionID": 10030221
+          }
+        ]
+      },
+      {
+        "ID": 1003023,
+        "AreaMissionDataGroup": [
+          {
+            "AchieveConditionID": 10030231
+          },
+          {
+            "AchieveConditionID": 10030232
+          },
+          {
+            "AchieveConditionID": 10030233
+          }
+        ]
+      },
+      {
+        "ID": 1003024,
+        "AreaMissionDataGroup": [
+          {
+            "AchieveConditionID": 10030241
+          },
+          {
+            "AchieveConditionID": 10030242
+          },
+          {
+            "AchieveConditionID": 10030243
           }
         ]
       }
@@ -10309,26 +10379,36 @@
           {
             "Index": 1,
             "CollectFileID": 10153001,
+            "CollectItemID": 10253003,
+            "CollectBookID": 10353009,
             "CollectTapeID": 10453017
           },
           {
             "Index": 2,
+            "CollectFileID": 10153003,
+            "CollectItemID": 10253006,
+            "CollectBookID": 10353011,
             "CollectTapeID": 10453014
           },
           {
             "Index": 3,
+            "CollectItemID": 10253001,
+            "CollectBookID": 10353005,
             "CollectTapeID": 10453007
           },
           {
             "Index": 4,
+            "CollectBookID": 10353007,
             "CollectTapeID": 10453008
           },
           {
             "Index": 5,
+            "CollectBookID": 10353010,
             "CollectTapeID": 10453001
           },
           {
             "Index": 6,
+            "CollectBookID": 10353012,
             "CollectTapeID": 10453010
           },
           {
@@ -10342,6 +10422,14 @@
           {
             "Index": 9,
             "CollectTapeID": 10453002
+          },
+          {
+            "Index": 10,
+            "CollectTapeID": 10453020
+          },
+          {
+            "Index": 11,
+            "CollectTapeID": 10453021
           }
         ]
       },
@@ -10350,26 +10438,37 @@
         "AreaRelationDataGroup": [
           {
             "Index": 1,
-            "CollectTapeID": 10453019
+            "CollectFileID": 10153002,
+            "CollectItemID": 10253002,
+            "CollectBookID": 10353004,
+            "CollectTapeID": 10453019,
+            "CollectDataID": 10653001
           },
           {
             "Index": 2,
+            "CollectItemID": 10253004,
+            "CollectBookID": 10353006,
             "CollectTapeID": 10453015
           },
           {
             "Index": 3,
+            "CollectItemID": 10253005,
+            "CollectBookID": 10353003,
             "CollectTapeID": 10453012
           },
           {
             "Index": 4,
+            "CollectBookID": 10353002,
             "CollectTapeID": 10453004
           },
           {
             "Index": 5,
+            "CollectBookID": 10353001,
             "CollectTapeID": 10453003
           },
           {
             "Index": 6,
+            "CollectBookID": 10353008,
             "CollectTapeID": 10453005
           },
           {
@@ -10387,6 +10486,10 @@
           {
             "Index": 10,
             "CollectTapeID": 10453006
+          },
+          {
+            "Index": 11,
+            "CollectTapeID": 10453022
           }
         ]
       }
