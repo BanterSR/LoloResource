@@ -175,6 +175,19 @@
           4200025
         ],
         "NewTurntableType": 1
+      },
+      {
+        "ID": 7012,
+        "TurntablePoolID": 70121,
+        "TextID": 7012,
+        "CostItemID": 126,
+        "ShowCharacter": 101001,
+        "FirstOneNeedItemNum": 6,
+        "OneNeedItemNum": 1,
+        "ShowFashions": [
+          4641001
+        ],
+        "NewTurntableType": 1
       }
     ]
   },
@@ -1282,6 +1295,105 @@
             "ItemNum": 1,
             "LimitNum": 8,
             "Weight": 200
+          }
+        ]
+      },
+      {
+        "ID": 70121,
+        "TurntablePoolItem": [
+          {
+            "Index": 1,
+            "ItemID": 5044305,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 30,
+            "IsSpecial": true
+          },
+          {
+            "Index": 2,
+            "ItemID": 5044306,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 30,
+            "IsSpecial": true
+          },
+          {
+            "Index": 3,
+            "ItemID": 5044307,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 30,
+            "IsSpecial": true
+          },
+          {
+            "Index": 4,
+            "ItemID": 5044301,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 30
+          },
+          {
+            "Index": 5,
+            "ItemID": 5044308,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 30
+          },
+          {
+            "Index": 6,
+            "ItemID": 4641001,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 30
+          },
+          {
+            "Index": 7,
+            "ItemID": 104,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 140
+          },
+          {
+            "Index": 8,
+            "ItemID": 102,
+            "ItemNum": 60,
+            "LimitNum": 2,
+            "Weight": 100
+          },
+          {
+            "Index": 9,
+            "ItemID": 1502,
+            "ItemNum": 1,
+            "LimitNum": 5,
+            "Weight": 140
+          },
+          {
+            "Index": 10,
+            "ItemID": 401,
+            "ItemNum": 1,
+            "LimitNum": 5,
+            "Weight": 140
+          },
+          {
+            "Index": 11,
+            "ItemID": 101,
+            "ItemNum": 20000,
+            "LimitNum": 3,
+            "Weight": 100
+          },
+          {
+            "Index": 12,
+            "ItemID": 125,
+            "ItemNum": 2,
+            "LimitNum": 2,
+            "Weight": 100
+          },
+          {
+            "Index": 13,
+            "ItemID": 102,
+            "ItemNum": 100,
+            "LimitNum": 1,
+            "Weight": 100
           }
         ]
       }

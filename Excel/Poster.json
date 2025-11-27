@@ -1140,23 +1140,33 @@
         "PosterPropertyGroupInfo": [
           {
             "Star": 1,
-            "SpellPassive": 40050000
+            "SpellPassive": 40050000,
+            "NewPosterTag1": 6,
+            "NewPosterTag2": 7
           },
           {
             "Star": 2,
-            "SpellPassive": 40050001
+            "SpellPassive": 40050001,
+            "NewPosterTag1": 6,
+            "NewPosterTag2": 7
           },
           {
             "Star": 3,
-            "SpellPassive": 40050002
+            "SpellPassive": 40050002,
+            "NewPosterTag1": 6,
+            "NewPosterTag2": 7
           },
           {
             "Star": 4,
-            "SpellPassive": 40050003
+            "SpellPassive": 40050003,
+            "NewPosterTag1": 6,
+            "NewPosterTag2": 7
           },
           {
             "Star": 5,
-            "SpellPassive": 40050004
+            "SpellPassive": 40050004,
+            "NewPosterTag1": 6,
+            "NewPosterTag2": 7
           }
         ]
       },
@@ -3586,7 +3596,34 @@
         "ID": 10930,
         "PosterPropertyGroupInfo": [
           {
-            "Star": 1
+            "Star": 1,
+            "SpellPassive": 40930000,
+            "NewPosterTag1": 2,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 2,
+            "SpellPassive": 40930001,
+            "NewPosterTag1": 2,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 3,
+            "SpellPassive": 40930002,
+            "NewPosterTag1": 2,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 4,
+            "SpellPassive": 40930003,
+            "NewPosterTag1": 2,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 5,
+            "SpellPassive": 40930004,
+            "NewPosterTag1": 2,
+            "NewPosterTag2": 25
           }
         ]
       },
@@ -5314,7 +5351,8 @@
       {
         "ID": 10050,
         "TextID": 10050,
-        "TextureID": 10050
+        "TextureID": 10050,
+        "IsShow": true
       },
       {
         "ID": 10060,
@@ -5806,7 +5844,8 @@
       {
         "ID": 10930,
         "TextID": 10930,
-        "TextureID": 10930
+        "TextureID": 10930,
+        "IsShow": true
       },
       {
         "ID": 10940,

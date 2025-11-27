@@ -979,6 +979,7 @@
         "ID": 5041702,
         "Path": "Model/Furniture/8集装箱/dianshiji_b.prefab",
         "ItemID": 5041702,
+        "IsShow": true,
         "HomeItemPointNum": 1156,
         "NewHomeItemTheme": 12
       },
@@ -5097,6 +5098,7 @@
         "ID": 5044301,
         "Path": "Model/Furniture/游乐园家具/Furniture_AmusementPark_Trampoline.prefab",
         "ItemID": 5044301,
+        "IsShow": true,
         "HomeItemPointNum": 1686,
         "NewHomeItemTheme": 25
       },
@@ -5104,6 +5106,7 @@
         "ID": 5044302,
         "Path": "Model/Furniture/游乐园家具/Furniture_AmusementPark_Wall.prefab",
         "ItemID": 5044302,
+        "IsShow": true,
         "HomeItemPointNum": 368,
         "NewHomeItemTheme": 25
       },
@@ -5111,20 +5114,25 @@
         "ID": 5044303,
         "Path": "Model/Furniture/游乐园家具/Furniture_AmusementPark_Tire_a.prefab",
         "ItemID": 5044303,
+        "IsShow": true,
         "HomeItemPointNum": 1428,
+        "NewHomeItemType": 1,
         "NewHomeItemTheme": 25
       },
       {
         "ID": 5044304,
         "Path": "Model/Furniture/游乐园家具/Furniture_AmusementPark_Tire_b.prefab",
         "ItemID": 5044304,
+        "IsShow": true,
         "HomeItemPointNum": 1428,
+        "NewHomeItemType": 1,
         "NewHomeItemTheme": 25
       },
       {
         "ID": 5044305,
         "Path": "Model/Furniture/游乐园家具/Furniture_AmusementPark_Slide.prefab",
         "ItemID": 5044305,
+        "IsShow": true,
         "HomeItemPointNum": 2596,
         "NewHomeItemTheme": 25
       },
@@ -5132,21 +5140,27 @@
         "ID": 5044306,
         "Path": "Model/Furniture/游乐园家具/Furniture_AmusementPark_Seesaw.prefab",
         "ItemID": 5044306,
+        "IsShow": true,
         "HomeItemPointNum": 2966,
+        "NewHomeItemType": 1,
         "NewHomeItemTheme": 25
       },
       {
         "ID": 5044307,
         "Path": "Model/Furniture/游乐园家具/Furniture_AmusementPark_Carousel.prefab",
         "ItemID": 5044307,
+        "IsShow": true,
         "HomeItemPointNum": 2335,
+        "NewHomeItemType": 1,
         "NewHomeItemTheme": 25
       },
       {
         "ID": 5044308,
         "Path": "Model/Furniture/游乐园家具/Furniture_AmusementPark_KiddieRide.prefab",
         "ItemID": 5044308,
+        "IsShow": true,
         "HomeItemPointNum": 1393,
+        "NewHomeItemType": 1,
         "NewHomeItemTheme": 25
       },
       {

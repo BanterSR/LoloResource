@@ -1134,19 +1134,19 @@
       },
       {
         "ID": 10221,
-        "OpeningTime": "2025-04-04 05:00:00",
-        "ClosingTime": "2025-04-14 23:59:59",
+        "OpeningTime": "2025-11-27 00:00:00",
+        "ClosingTime": "2025-12-07 23:59:59",
         "Funcs": [
           {
             "NewNPCFunction": 21,
-            "SubMeterID": 9600103
+            "SubMeterID": 9600107
           }
         ]
       },
       {
         "ID": 10222,
-        "OpeningTime": "2025-04-04 05:00:00",
-        "ClosingTime": "2025-04-14 23:59:59",
+        "OpeningTime": "2025-11-27 00:00:00",
+        "ClosingTime": "2025-12-07 23:59:59",
         "Funcs": [
           {
             "NewNPCFunction": 22,
@@ -1157,17 +1157,13 @@
       {
         "ID": 10223,
         "TextureID": 10223,
-        "OpeningTime": "2025-04-04 05:00:00",
-        "ClosingTime": "2025-04-14 23:59:59",
+        "OpeningTime": "2025-11-27 00:00:00",
+        "ClosingTime": "2025-12-07 23:59:59",
         "Path": "Model/NPC/Characters/",
         "Prefab": "NPC_爱",
         "Funcs": [
           {
             "NewNPCFunction": 1,
-            "SubMeterID": 10223
-          },
-          {
-            "NewNPCFunction": 2,
             "SubMeterID": 10223
           }
         ]
@@ -5955,6 +5951,9 @@
           },
           {
             "ShopID": 18000
+          },
+          {
+            "ShopID": 18200
           }
         ]
       },

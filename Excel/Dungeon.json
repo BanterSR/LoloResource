@@ -5326,6 +5326,54 @@
         "NewConsumptionMode": 3
       },
       {
+        "ID": 9600107,
+        "TitleID": 9600103,
+        "WorldID": 1,
+        "TitleIconID": 9600103,
+        "SceneID": 100103,
+        "ItemID": 6020,
+        "ItemNum": 1,
+        "NeedPlayerLevel": 1,
+        "DynamicLevel": true,
+        "FightTime": -1,
+        "UseCharacterMaxNumber": 3,
+        "RespawnTimes": 3,
+        "DengeonQuestID": 9600107,
+        "RewardID": 5040310,
+        "CanRePlay": true,
+        "SceneConfig": "SceneConfig/9600107/场景配置.asset",
+        "CharacterBuff": [
+          8550
+        ],
+        "NewMissionType": 5,
+        "NewTreasureBoxRewardType": 3,
+        "NewConsumptionMode": 3
+      },
+      {
+        "ID": 9600108,
+        "TitleID": 9600104,
+        "WorldID": 1,
+        "TitleIconID": 9600104,
+        "SceneID": 100104,
+        "ItemID": 6020,
+        "ItemNum": 1,
+        "NeedPlayerLevel": 1,
+        "DynamicLevel": true,
+        "FightTime": -1,
+        "UseCharacterMaxNumber": 3,
+        "RespawnTimes": 3,
+        "DengeonQuestID": 9600108,
+        "RewardID": 5040311,
+        "CanRePlay": true,
+        "SceneConfig": "SceneConfig/9600108/场景配置.asset",
+        "CharacterBuff": [
+          8550
+        ],
+        "NewMissionType": 5,
+        "NewTreasureBoxRewardType": 3,
+        "NewConsumptionMode": 3
+      },
+      {
         "ID": 9710301,
         "TitleID": 9710301,
         "WorldID": 1,
@@ -6563,6 +6611,92 @@
         "SceneConfig": "SceneConfig/99031104/场景配置.asset",
         "MonsterIDs": [
           1010,
+          1107
+        ],
+        "NewMissionType": 8
+      },
+      {
+        "ID": 99031201,
+        "TitleID": 99031201,
+        "TitleIconID": 99030101,
+        "SceneID": 10201,
+        "NeedPlayerLevel": 1,
+        "MonsterLv": 75,
+        "RecommendLv": 40,
+        "FightTime": 600,
+        "UseCharacterMaxNumber": 3,
+        "RespawnTimes": 3,
+        "StarTimer1": 300,
+        "StarTimer2": 240,
+        "StarTimer3": 180,
+        "SceneConfig": "SceneConfig/99031201/场景配置.asset",
+        "MonsterIDs": [
+          1108,
+          1107
+        ],
+        "NewMissionType": 8
+      },
+      {
+        "ID": 99031202,
+        "DungeonID": 99031201,
+        "TitleID": 99031202,
+        "TitleIconID": 99030102,
+        "SceneID": 10202,
+        "NeedPlayerLevel": 1,
+        "MonsterLv": 90,
+        "RecommendLv": 45,
+        "FightTime": 600,
+        "UseCharacterMaxNumber": 3,
+        "RespawnTimes": 3,
+        "StarTimer1": 300,
+        "StarTimer2": 240,
+        "StarTimer3": 180,
+        "SceneConfig": "SceneConfig/99031202/场景配置.asset",
+        "MonsterIDs": [
+          1213,
+          1208
+        ],
+        "NewMissionType": 8
+      },
+      {
+        "ID": 99031203,
+        "DungeonID": 99031202,
+        "TitleID": 99031203,
+        "TitleIconID": 99030103,
+        "SceneID": 10203,
+        "NeedPlayerLevel": 1,
+        "MonsterLv": 100,
+        "RecommendLv": 50,
+        "FightTime": 600,
+        "UseCharacterMaxNumber": 3,
+        "RespawnTimes": 3,
+        "StarTimer1": 300,
+        "StarTimer2": 240,
+        "StarTimer3": 180,
+        "SceneConfig": "SceneConfig/99031203/场景配置.asset",
+        "MonsterIDs": [
+          1403,
+          1107
+        ],
+        "NewMissionType": 8
+      },
+      {
+        "ID": 99031204,
+        "DungeonID": 99031203,
+        "TitleID": 99031204,
+        "TitleIconID": 99030103,
+        "SceneID": 10204,
+        "NeedPlayerLevel": 1,
+        "MonsterLv": 100,
+        "RecommendLv": 50,
+        "FightTime": 180,
+        "UseCharacterMaxNumber": 3,
+        "RespawnTimes": 3,
+        "ShieldFoodBuff": true,
+        "ShieldAchieveAttribute": true,
+        "SceneConfig": "SceneConfig/99031204/场景配置.asset",
+        "MonsterIDs": [
+          1403,
           1107
         ],
         "NewMissionType": 8
@@ -9175,6 +9309,49 @@
           {
             "Index": 4,
             "AchieveConditionID": 20200504
+          }
+        ]
+      },
+      {
+        "ID": 9600107,
+        "DungeonQuestGroupInfo": [
+          {
+            "Index": 1,
+            "Active": true,
+            "AchieveConditionID": 20200305
+          },
+          {
+            "Index": 2,
+            "Active": true,
+            "AchieveConditionID": 20200306
+          },
+          {
+            "Index": 3,
+            "Active": true,
+            "AchieveConditionID": 20200307
+          },
+          {
+            "Index": 4,
+            "AchieveConditionID": 20200308
+          }
+        ]
+      },
+      {
+        "ID": 9600108,
+        "DungeonQuestGroupInfo": [
+          {
+            "Index": 1,
+            "Active": true,
+            "AchieveConditionID": 20200404
+          },
+          {
+            "Index": 2,
+            "Active": true,
+            "AchieveConditionID": 20200405
+          },
+          {
+            "Index": 3,
+            "AchieveConditionID": 20200406
           }
         ]
       }

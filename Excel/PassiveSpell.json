@@ -6147,7 +6147,7 @@
         "ID": 40050000,
         "TextID": 40050000,
         "ScriptParams": [
-          0.008,
+          0.023,
           8,
           10
         ],
@@ -6158,7 +6158,7 @@
         "ID": 40050001,
         "TextID": 40050001,
         "ScriptParams": [
-          0.01,
+          0.027,
           8,
           10
         ],
@@ -6169,7 +6169,7 @@
         "ID": 40050002,
         "TextID": 40050002,
         "ScriptParams": [
-          0.012,
+          0.031,
           8,
           10
         ],
@@ -6180,7 +6180,7 @@
         "ID": 40050003,
         "TextID": 40050003,
         "ScriptParams": [
-          0.014,
+          0.035,
           8,
           10
         ],
@@ -6191,7 +6191,7 @@
         "ID": 40050004,
         "TextID": 40050004,
         "ScriptParams": [
-          0.016,
+          0.039,
           8,
           10
         ],
@@ -10181,6 +10181,101 @@
       {
         "ID": 40910004,
         "TextID": 40910004,
+        "ScriptParams": [
+          0.064,
+          1.5
+        ],
+        "ScriptID": 40510,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40920000,
+        "TextID": 40920000,
+        "ScriptParams": [
+          0.04
+        ],
+        "ScriptID": 40900,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40920001,
+        "TextID": 40920001,
+        "ScriptParams": [
+          0.0552
+        ],
+        "ScriptID": 40900,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40920002,
+        "TextID": 40920002,
+        "ScriptParams": [
+          0.07
+        ],
+        "ScriptID": 40900,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40920003,
+        "TextID": 40920003,
+        "ScriptParams": [
+          0.0848
+        ],
+        "ScriptID": 40900,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40920004,
+        "TextID": 40920004,
+        "ScriptParams": [
+          0.1
+        ],
+        "ScriptID": 40900,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40930000,
+        "TextID": 40930000,
+        "ScriptParams": [
+          0.026,
+          1.5
+        ],
+        "ScriptID": 40510,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40930001,
+        "TextID": 40930001,
+        "ScriptParams": [
+          0.034,
+          1.5
+        ],
+        "ScriptID": 40510,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40930002,
+        "TextID": 40930002,
+        "ScriptParams": [
+          0.043,
+          1.5
+        ],
+        "ScriptID": 40510,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40930003,
+        "TextID": 40930003,
+        "ScriptParams": [
+          0.052,
+          1.5
+        ],
+        "ScriptID": 40510,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40930004,
+        "TextID": 40930004,
         "ScriptParams": [
           0.064,
           1.5

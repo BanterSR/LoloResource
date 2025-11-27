@@ -101,6 +101,15 @@
         "UnlockDungeonID": 99030012
       },
       {
+        "ID": 12,
+        "StartTime": "2025-11-29 08:00:00",
+        "EndTime": "2025-12-19 22:00:00",
+        "SeasonStage": 10012,
+        "SeasonAchieve": 10012,
+        "NpcID": 10005,
+        "UnlockDungeonID": 99030012
+      },
+      {
         "ID": 9000001,
         "SeasonStage": 1000,
         "SeasonAchieve": 1000,
@@ -981,6 +990,74 @@
             "NewDownTag4": 4
           }
         ]
+      },
+      {
+        "ID": 10012,
+        "AbyssStageGroupInfo": [
+          {
+            "TextID": 10091,
+            "IconID": 10061,
+            "DungeonID": 99031201,
+            "IsDoubleTeam": true,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10092,
+            "IconID": 10062,
+            "DungeonID": 99031202,
+            "IsDoubleTeam": true,
+            "NewElementType1": 4,
+            "NewElementType2": 2,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10093,
+            "IconID": 10063,
+            "DungeonID": 99031203,
+            "IsDoubleTeam": true,
+            "NewElementType1": 3,
+            "NewElementType2": 2,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          },
+          {
+            "TextID": 10094,
+            "IconID": 10064,
+            "DungeonID": 99031204,
+            "IsDoubleTeam": true,
+            "IsChallengeDungeon": true,
+            "NewElementType1": 3,
+            "NewElementType2": 2,
+            "NewUpTag1": 1,
+            "NewUpTag2": 2,
+            "NewUpTag3": 3,
+            "NewUpTag4": 4,
+            "NewDownTag1": 1,
+            "NewDownTag2": 2,
+            "NewDownTag3": 3,
+            "NewDownTag4": 4
+          }
+        ]
       }
     ]
   },
@@ -1642,6 +1719,56 @@
           {
             "AchieveID": 17201101,
             "RewardID": 5031190,
+            "IconID": 17100108
+          }
+        ]
+      },
+      {
+        "ID": 10012,
+        "SeasonAchieveGroupInfo": [
+          {
+            "AchieveID": 17100101,
+            "RewardID": 5031210,
+            "IconID": 17100101
+          },
+          {
+            "AchieveID": 17100102,
+            "RewardID": 5031220,
+            "IconID": 17100102
+          },
+          {
+            "AchieveID": 17100103,
+            "RewardID": 5031230,
+            "IconID": 17100103
+          },
+          {
+            "AchieveID": 17100104,
+            "RewardID": 5031240,
+            "IconID": 17100104
+          },
+          {
+            "AchieveID": 17100105,
+            "RewardID": 5031250,
+            "IconID": 17100105
+          },
+          {
+            "AchieveID": 17100106,
+            "RewardID": 5031260,
+            "IconID": 17100106
+          },
+          {
+            "AchieveID": 17100107,
+            "RewardID": 5031270,
+            "IconID": 17100107
+          },
+          {
+            "AchieveID": 17100108,
+            "RewardID": 5031280,
+            "IconID": 17100108
+          },
+          {
+            "AchieveID": 17201201,
+            "RewardID": 5031290,
             "IconID": 17100108
           }
         ]
