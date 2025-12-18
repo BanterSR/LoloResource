@@ -1,0 +1,766 @@
+{
+  "GemDuelCharacter": {
+    "Datas": [
+      {
+        "ID": 1001,
+        "Text": 1001,
+        "JobTag": [
+          1
+        ],
+        "RaceTag": [
+          1
+        ],
+        "ColorType": [
+          1001
+        ],
+        "EnergyMax": 4,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 1002,
+        "Text": 1002,
+        "JobTag": [
+          1
+        ],
+        "RaceTag": [
+          2
+        ],
+        "ColorType": [
+          1002
+        ],
+        "EnergyMax": 5,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 1003,
+        "Text": 1003,
+        "JobTag": [
+          1
+        ],
+        "RaceTag": [
+          3
+        ],
+        "ColorType": [
+          1003
+        ],
+        "EnergyMax": 6,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 1004,
+        "Text": 1004,
+        "JobTag": [
+          2
+        ],
+        "RaceTag": [
+          4
+        ],
+        "ColorType": [
+          1004
+        ],
+        "EnergyMax": 7,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 1005,
+        "Text": 1005,
+        "JobTag": [
+          2
+        ],
+        "RaceTag": [
+          5
+        ],
+        "ColorType": [
+          1005
+        ],
+        "EnergyMax": 8,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 1006,
+        "Text": 1006,
+        "JobTag": [
+          2
+        ],
+        "RaceTag": [
+          6
+        ],
+        "ColorType": [
+          1006
+        ],
+        "EnergyMax": 9,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 1007,
+        "Text": 1007,
+        "JobTag": [
+          3
+        ],
+        "RaceTag": [
+          7
+        ],
+        "ColorType": [
+          1002,
+          1004
+        ],
+        "EnergyMax": 13,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 1008,
+        "Text": 1008,
+        "JobTag": [
+          3
+        ],
+        "RaceTag": [
+          8
+        ],
+        "ColorType": [
+          1001,
+          1003,
+          1005
+        ],
+        "EnergyMax": 15,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      }
+    ]
+  },
+  "GemDuelCharacterAttribute": {
+    "Datas": [
+      {
+        "ID": 1001,
+        "GemDuelCharacterAttributeItem": [
+          {
+            "Level": 1,
+            "Attack": 5,
+            "Life": 10,
+            "Shield": 5
+          },
+          {
+            "Level": 2,
+            "Attack": 6,
+            "Life": 10,
+            "Shield": 5
+          },
+          {
+            "Level": 3,
+            "Attack": 6,
+            "Life": 11,
+            "Shield": 5
+          },
+          {
+            "Level": 4,
+            "Attack": 6,
+            "Life": 11,
+            "Shield": 6
+          },
+          {
+            "Level": 5,
+            "Attack": 6,
+            "Life": 11,
+            "Shield": 6,
+            "Magic": 1
+          },
+          {
+            "Level": 6,
+            "Attack": 7,
+            "Life": 11,
+            "Shield": 6,
+            "Magic": 1
+          },
+          {
+            "Level": 7,
+            "Attack": 7,
+            "Life": 12,
+            "Shield": 6,
+            "Magic": 1
+          },
+          {
+            "Level": 8,
+            "Attack": 7,
+            "Life": 12,
+            "Shield": 7,
+            "Magic": 1
+          },
+          {
+            "Level": 9,
+            "Attack": 7,
+            "Life": 12,
+            "Shield": 7,
+            "Magic": 2
+          },
+          {
+            "Level": 10,
+            "Attack": 8,
+            "Life": 12,
+            "Shield": 7,
+            "Magic": 2
+          },
+          {
+            "Level": 11,
+            "Attack": 8,
+            "Life": 13,
+            "Shield": 7,
+            "Magic": 2
+          },
+          {
+            "Level": 12,
+            "Attack": 8,
+            "Life": 13,
+            "Shield": 8,
+            "Magic": 2
+          },
+          {
+            "Level": 13,
+            "Attack": 8,
+            "Life": 13,
+            "Shield": 8,
+            "Magic": 3
+          },
+          {
+            "Level": 14,
+            "Attack": 9,
+            "Life": 13,
+            "Shield": 8,
+            "Magic": 3
+          },
+          {
+            "Level": 15,
+            "Attack": 9,
+            "Life": 14,
+            "Shield": 8,
+            "Magic": 3
+          },
+          {
+            "Level": 16,
+            "Attack": 9,
+            "Life": 14,
+            "Shield": 9,
+            "Magic": 3
+          },
+          {
+            "Level": 17,
+            "Attack": 9,
+            "Life": 14,
+            "Shield": 9,
+            "Magic": 4
+          },
+          {
+            "Level": 18,
+            "Attack": 10,
+            "Life": 14,
+            "Shield": 9,
+            "Magic": 4
+          }
+        ]
+      },
+      {
+        "ID": 1002,
+        "GemDuelCharacterAttributeItem": [
+          {
+            "Level": 1,
+            "Attack": 8,
+            "Life": 8,
+            "Shield": 3,
+            "Magic": 2
+          },
+          {
+            "Level": 2,
+            "Attack": 9,
+            "Life": 8,
+            "Shield": 3,
+            "Magic": 2
+          },
+          {
+            "Level": 3,
+            "Attack": 9,
+            "Life": 9,
+            "Shield": 3,
+            "Magic": 2
+          },
+          {
+            "Level": 4,
+            "Attack": 9,
+            "Life": 9,
+            "Shield": 4,
+            "Magic": 2
+          },
+          {
+            "Level": 5,
+            "Attack": 9,
+            "Life": 9,
+            "Shield": 4,
+            "Magic": 3
+          },
+          {
+            "Level": 6,
+            "Attack": 10,
+            "Life": 9,
+            "Shield": 4,
+            "Magic": 3
+          },
+          {
+            "Level": 7,
+            "Attack": 10,
+            "Life": 10,
+            "Shield": 4,
+            "Magic": 3
+          },
+          {
+            "Level": 8,
+            "Attack": 10,
+            "Life": 10,
+            "Shield": 5,
+            "Magic": 3
+          },
+          {
+            "Level": 9,
+            "Attack": 10,
+            "Life": 10,
+            "Shield": 5,
+            "Magic": 4
+          },
+          {
+            "Level": 10,
+            "Attack": 11,
+            "Life": 10,
+            "Shield": 5,
+            "Magic": 4
+          },
+          {
+            "Level": 11,
+            "Attack": 11,
+            "Life": 11,
+            "Shield": 5,
+            "Magic": 4
+          },
+          {
+            "Level": 12,
+            "Attack": 11,
+            "Life": 11,
+            "Shield": 6,
+            "Magic": 4
+          },
+          {
+            "Level": 13,
+            "Attack": 11,
+            "Life": 11,
+            "Shield": 6,
+            "Magic": 5
+          },
+          {
+            "Level": 14,
+            "Attack": 12,
+            "Life": 11,
+            "Shield": 6,
+            "Magic": 5
+          },
+          {
+            "Level": 15,
+            "Attack": 12,
+            "Life": 12,
+            "Shield": 6,
+            "Magic": 5
+          },
+          {
+            "Level": 16,
+            "Attack": 12,
+            "Life": 12,
+            "Shield": 7,
+            "Magic": 5
+          },
+          {
+            "Level": 17,
+            "Attack": 12,
+            "Life": 12,
+            "Shield": 7,
+            "Magic": 6
+          },
+          {
+            "Level": 18,
+            "Attack": 13,
+            "Life": 12,
+            "Shield": 7,
+            "Magic": 6
+          }
+        ]
+      }
+    ]
+  },
+  "GemDuelCharacterLvUp": {
+    "Datas": [
+      {
+        "ID": 1,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 200,
+        "CostItem2": 102,
+        "CostNum2": 20
+      },
+      {
+        "ID": 2,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 500,
+        "CostItem2": 102,
+        "CostNum2": 50
+      },
+      {
+        "ID": 3,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 800,
+        "CostItem2": 102,
+        "CostNum2": 80
+      },
+      {
+        "ID": 4,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 1000,
+        "CostItem2": 102,
+        "CostNum2": 100
+      },
+      {
+        "ID": 5,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 1200,
+        "CostItem2": 102,
+        "CostNum2": 160
+      },
+      {
+        "ID": 6,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 1500,
+        "CostItem2": 102,
+        "CostNum2": 200
+      },
+      {
+        "ID": 7,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 2000,
+        "CostItem2": 102,
+        "CostNum2": 300
+      },
+      {
+        "ID": 8,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 2500,
+        "CostItem2": 102,
+        "CostNum2": 400
+      },
+      {
+        "ID": 9,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 3000,
+        "CostItem2": 102,
+        "CostNum2": 500
+      },
+      {
+        "ID": 10,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 4000,
+        "CostItem2": 102,
+        "CostNum2": 800
+      },
+      {
+        "ID": 11,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 5000,
+        "CostItem2": 102,
+        "CostNum2": 1000
+      },
+      {
+        "ID": 12,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 6000,
+        "CostItem2": 102,
+        "CostNum2": 1300
+      },
+      {
+        "ID": 13,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 7000,
+        "CostItem2": 102,
+        "CostNum2": 1600
+      },
+      {
+        "ID": 14,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 8000,
+        "CostItem2": 102,
+        "CostNum2": 1800
+      },
+      {
+        "ID": 15,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 9000,
+        "CostItem2": 102,
+        "CostNum2": 2000
+      },
+      {
+        "ID": 16,
+        "NeedStar": 1,
+        "CostItem1": 101,
+        "CostNum1": 10000,
+        "CostItem2": 102,
+        "CostNum2": 2400
+      },
+      {
+        "ID": 17,
+        "NeedStar": 4,
+        "CostItem1": 101,
+        "CostNum1": 11000,
+        "CostItem2": 102,
+        "CostNum2": 2600
+      },
+      {
+        "ID": 18,
+        "NeedStar": 5,
+        "CostItem1": 101,
+        "CostNum1": 12000,
+        "CostItem2": 102,
+        "CostNum2": 2800
+      },
+      {
+        "ID": 19,
+        "NeedStar": 6,
+        "CostItem1": 101,
+        "CostNum1": 13000,
+        "CostItem2": 102,
+        "CostNum2": 3000
+      }
+    ]
+  },
+  "GemDuelCharacterStarUp": {
+    "Datas": [
+      {
+        "ID": 1,
+        "NeedCardUp2Star": 5,
+        "NeedCardUp3Star": 10,
+        "NeedCardUp4Star": 15,
+        "NeedCardUp5Star": 20,
+        "NeedCardUp6Star": 25,
+        "NeedGeneralCardUp2Star": 1,
+        "NeedGeneralCardUp3Star": 1,
+        "NeedGeneralCardUp4Star": 1,
+        "NeedGeneralCardUp5Star": 2,
+        "NeedGeneralCardUp6Star": 3
+      },
+      {
+        "ID": 2,
+        "NeedCardUp2Star": 5,
+        "NeedCardUp3Star": 5,
+        "NeedCardUp4Star": 10,
+        "NeedCardUp5Star": 15,
+        "NeedCardUp6Star": 20,
+        "NeedGeneralCardUp2Star": 1,
+        "NeedGeneralCardUp3Star": 1,
+        "NeedGeneralCardUp4Star": 1,
+        "NeedGeneralCardUp5Star": 2,
+        "NeedGeneralCardUp6Star": 3
+      },
+      {
+        "ID": 3,
+        "NeedCardUp2Star": 5,
+        "NeedCardUp3Star": 5,
+        "NeedCardUp4Star": 5,
+        "NeedCardUp5Star": 10,
+        "NeedCardUp6Star": 15,
+        "NeedGeneralCardUp2Star": 1,
+        "NeedGeneralCardUp3Star": 1,
+        "NeedGeneralCardUp4Star": 1,
+        "NeedGeneralCardUp5Star": 2,
+        "NeedGeneralCardUp6Star": 3
+      },
+      {
+        "ID": 4,
+        "NeedCardUp2Star": 5,
+        "NeedCardUp3Star": 5,
+        "NeedCardUp4Star": 5,
+        "NeedCardUp5Star": 5,
+        "NeedCardUp6Star": 10,
+        "NeedGeneralCardUp2Star": 3,
+        "NeedGeneralCardUp3Star": 3,
+        "NeedGeneralCardUp4Star": 3,
+        "NeedGeneralCardUp5Star": 3,
+        "NeedGeneralCardUp6Star": 6
+      },
+      {
+        "ID": 5,
+        "NeedCardUp2Star": 5,
+        "NeedCardUp3Star": 5,
+        "NeedCardUp4Star": 5,
+        "NeedCardUp5Star": 5,
+        "NeedCardUp6Star": 5,
+        "NeedGeneralCardUp2Star": 3,
+        "NeedGeneralCardUp3Star": 3,
+        "NeedGeneralCardUp4Star": 3,
+        "NeedGeneralCardUp5Star": 3,
+        "NeedGeneralCardUp6Star": 6
+      }
+    ]
+  },
+  "GemDuelCharacterStarResults": {
+    "Datas": [
+      {
+        "ID": 1,
+        "Attack": 100,
+        "Life": 100,
+        "Shield": 100,
+        "Magic": 100
+      },
+      {
+        "ID": 2,
+        "Attack": 110,
+        "Life": 110,
+        "Shield": 110,
+        "Magic": 110
+      },
+      {
+        "ID": 3,
+        "Attack": 120,
+        "Life": 120,
+        "Shield": 120,
+        "Magic": 120
+      },
+      {
+        "ID": 4,
+        "Attack": 135,
+        "Life": 135,
+        "Shield": 135,
+        "Magic": 135
+      },
+      {
+        "ID": 5,
+        "Attack": 150,
+        "Life": 150,
+        "Shield": 150,
+        "Magic": 150
+      },
+      {
+        "ID": 6,
+        "Attack": 170,
+        "Life": 170,
+        "Shield": 170,
+        "Magic": 170
+      }
+    ]
+  },
+  "GemDuelCharacterSkillUnlock": {
+    "Datas": [
+      {
+        "ID": 1001,
+        "GemDuelCharacterSkillUnlockItem": [
+          {
+            "SkillSlot": 1,
+            "NeedStar": 1,
+            "CostGeneralItemNum": 1,
+            "CostItem1": 101,
+            "CostNum1": 200
+          },
+          {
+            "SkillSlot": 2,
+            "NeedStar": 1,
+            "CostGeneralItemNum": 2,
+            "CostItem1": 101,
+            "CostNum1": 300,
+            "CostItem2": 102,
+            "CostNum2": 10
+          },
+          {
+            "SkillSlot": 3,
+            "NeedStar": 1,
+            "CostGeneralItemNum": 3,
+            "CostItem1": 101,
+            "CostNum1": 600,
+            "CostItem2": 102,
+            "CostNum2": 30
+          }
+        ]
+      },
+      {
+        "ID": 1002,
+        "GemDuelCharacterSkillUnlockItem": [
+          {
+            "SkillSlot": 1,
+            "NeedStar": 1,
+            "CostGeneralItemNum": 1,
+            "CostItem1": 101,
+            "CostNum1": 500
+          },
+          {
+            "SkillSlot": 2,
+            "NeedStar": 1,
+            "CostGeneralItemNum": 2,
+            "CostItem1": 101,
+            "CostNum1": 700,
+            "CostItem2": 102,
+            "CostNum2": 20
+          },
+          {
+            "SkillSlot": 3,
+            "NeedStar": 1,
+            "CostGeneralItemNum": 3,
+            "CostItem1": 101,
+            "CostNum1": 1200,
+            "CostItem2": 102,
+            "CostNum2": 60
+          }
+        ]
+      }
+    ]
+  }
+}

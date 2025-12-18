@@ -5822,6 +5822,13 @@
         "NewTreasureBoxRewardType": 3
       },
       {
+        "ID": 39600106,
+        "RelateID": 39600106,
+        "NewTreasureBoxType": 1,
+        "NewTreasureBoxRewardShowType": 2,
+        "NewTreasureBoxRewardType": 3
+      },
+      {
         "ID": 960010201,
         "RelateID": 960010201,
         "NewTreasureBoxType": 1,
@@ -6146,6 +6153,62 @@
       {
         "ID": 960010506,
         "RelateID": 960010506,
+        "NewTreasureBoxType": 1,
+        "NewTreasureBoxRewardShowType": 2,
+        "NewTreasureBoxRewardType": 4
+      },
+      {
+        "ID": 960010601,
+        "RelateID": 960010601,
+        "NewTreasureBoxType": 1,
+        "NewTreasureBoxRewardShowType": 2,
+        "NewTreasureBoxRewardType": 1
+      },
+      {
+        "ID": 960010602,
+        "RelateID": 960010602,
+        "NewTreasureBoxType": 1,
+        "NewTreasureBoxRewardShowType": 2,
+        "NewTreasureBoxRewardType": 1
+      },
+      {
+        "ID": 960010603,
+        "RelateID": 960010603,
+        "NewTreasureBoxType": 1,
+        "NewTreasureBoxRewardShowType": 2,
+        "NewTreasureBoxRewardType": 1
+      },
+      {
+        "ID": 960010604,
+        "RelateID": 960010604,
+        "NewTreasureBoxType": 1,
+        "NewTreasureBoxRewardShowType": 2,
+        "NewTreasureBoxRewardType": 1
+      },
+      {
+        "ID": 960010605,
+        "RelateID": 960010605,
+        "NewTreasureBoxType": 1,
+        "NewTreasureBoxRewardShowType": 2,
+        "NewTreasureBoxRewardType": 1
+      },
+      {
+        "ID": 960010606,
+        "RelateID": 960010606,
+        "NewTreasureBoxType": 1,
+        "NewTreasureBoxRewardShowType": 2,
+        "NewTreasureBoxRewardType": 1
+      },
+      {
+        "ID": 960010607,
+        "RelateID": 960010607,
+        "NewTreasureBoxType": 1,
+        "NewTreasureBoxRewardShowType": 2,
+        "NewTreasureBoxRewardType": 1
+      },
+      {
+        "ID": 960010608,
+        "RelateID": 960010608,
         "NewTreasureBoxType": 1,
         "NewTreasureBoxRewardShowType": 2,
         "NewTreasureBoxRewardType": 4
@@ -11737,6 +11800,13 @@
         "NewRefreshType": 4
       },
       {
+        "ID": 39600106,
+        "RefreshTime": [
+          0
+        ],
+        "NewRefreshType": 4
+      },
+      {
         "ID": 960010201,
         "RefreshTime": [
           0
@@ -12014,6 +12084,54 @@
       },
       {
         "ID": 960010506,
+        "RefreshTime": [
+          0
+        ]
+      },
+      {
+        "ID": 960010601,
+        "RefreshTime": [
+          0
+        ]
+      },
+      {
+        "ID": 960010602,
+        "RefreshTime": [
+          0
+        ]
+      },
+      {
+        "ID": 960010603,
+        "RefreshTime": [
+          0
+        ]
+      },
+      {
+        "ID": 960010604,
+        "RefreshTime": [
+          0
+        ]
+      },
+      {
+        "ID": 960010605,
+        "RefreshTime": [
+          0
+        ]
+      },
+      {
+        "ID": 960010606,
+        "RefreshTime": [
+          0
+        ]
+      },
+      {
+        "ID": 960010607,
+        "RefreshTime": [
+          0
+        ]
+      },
+      {
+        "ID": 960010608,
         "RefreshTime": [
           0
         ]

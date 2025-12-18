@@ -1,0 +1,1550 @@
+{
+  "GemDuelMainDungeon": {
+    "Datas": [
+      {
+        "ID": 1,
+        "GemDuelMainDungeonGroupInfo": [
+          {
+            "ChapterIcon": 1,
+            "ChapterText": 2,
+            "ItemID": 10,
+            "DungeonID": 1001,
+            "Text": 1001,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1002,
+            "Text": 1002,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1001,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1003,
+            "Text": 1003,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1002,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1004,
+            "Text": 1004,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1003,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1005,
+            "Text": 1005,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1004,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1006,
+            "Text": 1006,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1005,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1007,
+            "Text": 1007,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1006,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1008,
+            "Text": 1008,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1007,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1009,
+            "Text": 1009,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1008,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1010,
+            "Text": 1010,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1009,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1011,
+            "Text": 1011,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1010,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1012,
+            "Text": 1012,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1011,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1013,
+            "Text": 1013,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1012,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1014,
+            "Text": 1014,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1013,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1015,
+            "Text": 1015,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1014,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1016,
+            "SystemLevel": 4,
+            "Text": 1016,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1015,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1017,
+            "SystemLevel": 4,
+            "Text": 1017,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1016,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1018,
+            "SystemLevel": 4,
+            "Text": 1018,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1017,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1019,
+            "SystemLevel": 4,
+            "Text": 1019,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1018,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1020,
+            "SystemLevel": 4,
+            "Text": 1020,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1019,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1021,
+            "SystemLevel": 4,
+            "Text": 1021,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1020,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1022,
+            "SystemLevel": 4,
+            "Text": 1022,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1021,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1023,
+            "SystemLevel": 4,
+            "Text": 1023,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1022,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1024,
+            "SystemLevel": 4,
+            "Text": 1024,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1023,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 1025,
+            "SystemLevel": 4,
+            "Text": 1025,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1024,
+            "NewGemDuelMainDungoenDifficulty": 2
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "GemDuelMainDungeonGroupInfo": [
+          {
+            "ChapterIcon": 2,
+            "ChapterText": 2,
+            "ItemID": 10,
+            "DungeonID": 2001,
+            "Text": 2001,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 1015,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2002,
+            "Text": 2002,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2001,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2003,
+            "Text": 2003,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2002,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2004,
+            "Text": 2004,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2003,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2005,
+            "Text": 2005,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2004,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2006,
+            "Text": 2006,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2005,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2007,
+            "Text": 2007,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2006,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2008,
+            "Text": 2008,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2007,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2009,
+            "Text": 2009,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2008,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2010,
+            "Text": 2010,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2009,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2011,
+            "Text": 2011,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2010,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2012,
+            "Text": 2012,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2011,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2013,
+            "Text": 2013,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2012,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2014,
+            "Text": 2014,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2013,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2015,
+            "Text": 2015,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2014,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2016,
+            "Text": 2016,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2015,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2017,
+            "Text": 2017,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2016,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2018,
+            "Text": 2018,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2017,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2019,
+            "Text": 2019,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2018,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2020,
+            "Text": 2020,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2019,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2021,
+            "Text": 2021,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2020,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2022,
+            "Text": 2022,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2021,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2023,
+            "Text": 2023,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2022,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2024,
+            "Text": 2024,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2023,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 2025,
+            "Text": 2025,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2024,
+            "NewGemDuelMainDungoenDifficulty": 2
+          }
+        ]
+      },
+      {
+        "ID": 3,
+        "GemDuelMainDungeonGroupInfo": [
+          {
+            "ChapterIcon": 3,
+            "ChapterText": 3,
+            "ItemID": 10,
+            "DungeonID": 3001,
+            "Text": 3001,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 2015,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3002,
+            "Text": 3002,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3001,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3003,
+            "Text": 3003,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3002,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3004,
+            "Text": 3004,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3003,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3005,
+            "Text": 3005,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3004,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3006,
+            "Text": 3006,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3005,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3007,
+            "Text": 3007,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3006,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3008,
+            "Text": 3008,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3007,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3009,
+            "Text": 3009,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3008,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3010,
+            "Text": 3010,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3009,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3011,
+            "Text": 3011,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3010,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3012,
+            "Text": 3012,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3011,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3013,
+            "Text": 3013,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3012,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3014,
+            "Text": 3014,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3013,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3015,
+            "Text": 3015,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3014,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3016,
+            "Text": 3016,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3015,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3017,
+            "Text": 3017,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3016,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3018,
+            "Text": 3018,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3017,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3019,
+            "Text": 3019,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3018,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3020,
+            "Text": 3020,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3019,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3021,
+            "Text": 3021,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3020,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3022,
+            "Text": 3022,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3021,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3023,
+            "Text": 3023,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3022,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3024,
+            "Text": 3024,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3023,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3025,
+            "Text": 3025,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3024,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3026,
+            "Text": 3026,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3025,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3027,
+            "Text": 3027,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3026,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3028,
+            "Text": 3028,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3027,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3029,
+            "Text": 3029,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3028,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 3030,
+            "Text": 3030,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3029,
+            "NewGemDuelMainDungoenDifficulty": 2
+          }
+        ]
+      },
+      {
+        "ID": 4,
+        "GemDuelMainDungeonGroupInfo": [
+          {
+            "ChapterIcon": 4,
+            "ChapterText": 4,
+            "ItemID": 10,
+            "DungeonID": 4001,
+            "Text": 4001,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 3020,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4002,
+            "Text": 4002,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4001,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4003,
+            "Text": 4003,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4002,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4004,
+            "Text": 4004,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4003,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4005,
+            "Text": 4005,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4004,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4006,
+            "Text": 4006,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4005,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4007,
+            "Text": 4007,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4006,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4008,
+            "Text": 4008,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4007,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4009,
+            "Text": 4009,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4008,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4010,
+            "Text": 4010,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4009,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4011,
+            "Text": 4011,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4010,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4012,
+            "Text": 4012,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4011,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4013,
+            "Text": 4013,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4012,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4014,
+            "Text": 4014,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4013,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4015,
+            "Text": 4015,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4014,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4016,
+            "Text": 4016,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4015,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4017,
+            "Text": 4017,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4016,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4018,
+            "Text": 4018,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4017,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4019,
+            "Text": 4019,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4018,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4020,
+            "Text": 4020,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4019,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4021,
+            "Text": 4021,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4020,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4022,
+            "Text": 4022,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4021,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4023,
+            "Text": 4023,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4022,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4024,
+            "Text": 4024,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4023,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4025,
+            "Text": 4025,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4024,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4026,
+            "Text": 4026,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4025,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4027,
+            "Text": 4027,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4026,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4028,
+            "Text": 4028,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4027,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4029,
+            "Text": 4029,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4028,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 4030,
+            "Text": 4030,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4029,
+            "NewGemDuelMainDungoenDifficulty": 2
+          }
+        ]
+      },
+      {
+        "ID": 5,
+        "GemDuelMainDungeonGroupInfo": [
+          {
+            "ChapterIcon": 5,
+            "ChapterText": 5,
+            "ItemID": 10,
+            "DungeonID": 5001,
+            "Text": 5001,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 4020,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5002,
+            "Text": 5002,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5001,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5003,
+            "Text": 5003,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5002,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5004,
+            "Text": 5004,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5003,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5005,
+            "Text": 5005,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5004,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5006,
+            "Text": 5006,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5005,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5007,
+            "Text": 5007,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5006,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5008,
+            "Text": 5008,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5007,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5009,
+            "Text": 5009,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5008,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5010,
+            "Text": 5010,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5009,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5011,
+            "Text": 5011,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5010,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5012,
+            "Text": 5012,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5011,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5013,
+            "Text": 5013,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5012,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5014,
+            "Text": 5014,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5013,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5015,
+            "Text": 5015,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5014,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5016,
+            "Text": 5016,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5015,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5017,
+            "Text": 5017,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5016,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5018,
+            "Text": 5018,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5017,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5019,
+            "Text": 5019,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5018,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5020,
+            "Text": 5020,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5019,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5021,
+            "Text": 5021,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5020,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5022,
+            "Text": 5022,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5021,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5023,
+            "Text": 5023,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5022,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5024,
+            "Text": 5024,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5023,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5025,
+            "Text": 5025,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5024,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5026,
+            "Text": 5026,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5025,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5027,
+            "Text": 5027,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5026,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5028,
+            "Text": 5028,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5027,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5029,
+            "Text": 5029,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5028,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5030,
+            "Text": 5030,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5029,
+            "NewGemDuelMainDungoenDifficulty": 1
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5031,
+            "Text": 5031,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5030,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5032,
+            "Text": 5032,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5031,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5033,
+            "Text": 5033,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5032,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5034,
+            "Text": 5034,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5033,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5035,
+            "Text": 5035,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5034,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5036,
+            "Text": 5036,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5035,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5037,
+            "Text": 5037,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5036,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5038,
+            "Text": 5038,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5037,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5039,
+            "Text": 5039,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5038,
+            "NewGemDuelMainDungoenDifficulty": 2
+          },
+          {
+            "ItemID": 10,
+            "DungeonID": 5040,
+            "Text": 5040,
+            "BattleStage": 1001,
+            "PassReward": 99999999,
+            "Reward": 99999999,
+            "PreDungeon": 5039,
+            "NewGemDuelMainDungoenDifficulty": 2
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -382,6 +382,26 @@
         "NewShowType": 1
       },
       {
+        "ID": 3016,
+        "OpeningTime": "2025-12-18 00:00:00",
+        "ClosingTime": "2026-01-07 23:59:59",
+        "TextID": 3016,
+        "IconID": 3016,
+        "Method1ID": 3016,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 201003,
+        "VideoID1": 201003,
+        "PracticeCharacterID1": 201003,
+        "BigGuaranteePoolID": 3016,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
         "ID": 4000,
         "Index": 4,
         "TextID": 4000,
@@ -673,6 +693,26 @@
           },
           {
             "FreeGachaPoolID": 3013
+          }
+        ]
+      },
+      {
+        "ID": 3016,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3016
           }
         ]
       },
@@ -1144,6 +1184,14 @@
         "Items": [
           {
             "ItemID": 202004
+          }
+        ]
+      },
+      {
+        "ID": 3016,
+        "Items": [
+          {
+            "ItemID": 201003
           }
         ]
       },
@@ -2063,6 +2111,18 @@
             "IsOptional": true,
             "OpeningTime": "2025-08-22 00:00:00",
             "ClosingTime": "2025-09-21 23:59:59"
+          },
+          {
+            "ItemID": 4100232,
+            "IsOptional": true,
+            "OpeningTime": "2025-12-18 00:00:00",
+            "ClosingTime": "2026-01-15 23:59:59"
+          },
+          {
+            "ItemID": 4100233,
+            "IsOptional": true,
+            "OpeningTime": "2025-12-18 00:00:00",
+            "ClosingTime": "2026-01-15 23:59:59"
           }
         ]
       }

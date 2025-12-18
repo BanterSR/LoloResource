@@ -188,6 +188,42 @@
           4641001
         ],
         "NewTurntableType": 1
+      },
+      {
+        "ID": 7013,
+        "TurntablePoolID": 70131,
+        "TextID": 7013,
+        "CostItemID": 126,
+        "ShowCharacter": 101001,
+        "FirstOneNeedItemNum": 6,
+        "OneNeedItemNum": 1,
+        "ShowFashions": [
+          4200801,
+          4200802,
+          4200803,
+          4200804,
+          4200805,
+          4200806,
+          4200807
+        ],
+        "NewTurntableType": 1
+      },
+      {
+        "ID": 7014,
+        "TurntablePoolID": 70141,
+        "TextID": 7014,
+        "CostItemID": 126,
+        "ShowCharacter": 101001,
+        "FirstOneNeedItemNum": 6,
+        "OneNeedItemNum": 1,
+        "ShowFashions": [
+          4200541,
+          4200542,
+          4200543,
+          4200544,
+          4200545
+        ],
+        "NewTurntableType": 1
       }
     ]
   },
@@ -1394,6 +1430,220 @@
             "ItemNum": 100,
             "LimitNum": 1,
             "Weight": 100
+          }
+        ]
+      },
+      {
+        "ID": 70131,
+        "TurntablePoolItem": [
+          {
+            "Index": 1,
+            "ItemID": 4200801,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 15,
+            "IsSpecial": true
+          },
+          {
+            "Index": 2,
+            "ItemID": 4200802,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 15,
+            "IsSpecial": true
+          },
+          {
+            "Index": 3,
+            "ItemID": 4200803,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 15,
+            "IsSpecial": true
+          },
+          {
+            "Index": 4,
+            "ItemID": 4200805,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 3,
+            "IsSpecial": true
+          },
+          {
+            "Index": 5,
+            "ItemID": 4200804,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 15,
+            "IsSpecial": true
+          },
+          {
+            "Index": 6,
+            "ItemID": 4200806,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 30
+          },
+          {
+            "Index": 7,
+            "ItemID": 4200807,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 30
+          },
+          {
+            "Index": 8,
+            "ItemID": 7238,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 35
+          },
+          {
+            "Index": 9,
+            "ItemID": 110,
+            "ItemNum": 1,
+            "LimitNum": 5,
+            "Weight": 35
+          },
+          {
+            "Index": 10,
+            "ItemID": 104,
+            "ItemNum": 1,
+            "LimitNum": 5,
+            "Weight": 35
+          },
+          {
+            "Index": 11,
+            "ItemID": 102,
+            "ItemNum": 60,
+            "LimitNum": 20,
+            "Weight": 126
+          },
+          {
+            "Index": 12,
+            "ItemID": 125,
+            "ItemNum": 2,
+            "LimitNum": 10,
+            "Weight": 126
+          },
+          {
+            "Index": 13,
+            "ItemID": 101,
+            "ItemNum": 10000,
+            "LimitNum": 25,
+            "Weight": 160
+          },
+          {
+            "Index": 14,
+            "ItemID": 1502,
+            "ItemNum": 1,
+            "LimitNum": 25,
+            "Weight": 180
+          },
+          {
+            "Index": 15,
+            "ItemID": 401,
+            "ItemNum": 1,
+            "LimitNum": 22,
+            "Weight": 180
+          }
+        ]
+      },
+      {
+        "ID": 70141,
+        "TurntablePoolItem": [
+          {
+            "Index": 1,
+            "ItemID": 4200541,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 30,
+            "IsSpecial": true
+          },
+          {
+            "Index": 2,
+            "ItemID": 4200542,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 30,
+            "IsSpecial": true
+          },
+          {
+            "Index": 3,
+            "ItemID": 4200543,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 30,
+            "IsSpecial": true
+          },
+          {
+            "Index": 4,
+            "ItemID": 4200544,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 30
+          },
+          {
+            "Index": 5,
+            "ItemID": 4200545,
+            "ItemNum": 1,
+            "LimitNum": 1,
+            "Weight": 30
+          },
+          {
+            "Index": 6,
+            "ItemID": 102,
+            "ItemNum": 120,
+            "LimitNum": 3,
+            "Weight": 30
+          },
+          {
+            "Index": 7,
+            "ItemID": 101,
+            "ItemNum": 10000,
+            "LimitNum": 8,
+            "Weight": 200
+          },
+          {
+            "Index": 8,
+            "ItemID": 102,
+            "ItemNum": 30,
+            "LimitNum": 5,
+            "Weight": 100
+          },
+          {
+            "Index": 9,
+            "ItemID": 1502,
+            "ItemNum": 1,
+            "LimitNum": 8,
+            "Weight": 160
+          },
+          {
+            "Index": 10,
+            "ItemID": 102,
+            "ItemNum": 60,
+            "LimitNum": 5,
+            "Weight": 100
+          },
+          {
+            "Index": 11,
+            "ItemID": 110,
+            "ItemNum": 1,
+            "LimitNum": 2,
+            "Weight": 30
+          },
+          {
+            "Index": 12,
+            "ItemID": 401,
+            "ItemNum": 1,
+            "LimitNum": 8,
+            "Weight": 200
+          },
+          {
+            "Index": 13,
+            "ItemID": 125,
+            "ItemNum": 2,
+            "LimitNum": 1,
+            "Weight": 30
           }
         ]
       }

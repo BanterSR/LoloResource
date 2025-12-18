@@ -10454,11 +10454,11 @@
       {
         "ID": 2107,
         "Key": "Text_Npc_Water",
-        "ChineseSimplified": "浇水",
-        "ChineseTraditional": "浇水",
-        "English": "Water",
-        "Japanese": "水やり",
-        "Korea": "물 주기"
+        "ChineseSimplified": "倒入食材",
+        "ChineseTraditional": "倒入食材",
+        "English": "Add Ingredients",
+        "Japanese": "倒入食材",
+        "Korea": "식재료 투입"
       },
       {
         "ID": 2108,
@@ -11867,6 +11867,106 @@
         "ID": 2607,
         "Key": "Text_KefuCenter_Tips",
         "ChineseSimplified": "客服中心"
+      },
+      {
+        "ID": 2608,
+        "Key": "Text_Friend_Alise_Success",
+        "ChineseSimplified": "修改好友备注成功"
+      },
+      {
+        "ID": 2609,
+        "Key": "Text_Friend_Alise_Same",
+        "ChineseSimplified": "修改好友备注和之前的一样"
+      },
+      {
+        "ID": 2610,
+        "Key": "Text_Friend_Alise_NoFriend",
+        "ChineseSimplified": "非好友不能修改备注"
+      },
+      {
+        "ID": 2611,
+        "Key": "Text_Vehicle_Full",
+        "ChineseSimplified": "位置已满"
+      },
+      {
+        "ID": 2612,
+        "Key": "Text_Vehicle_Have",
+        "ChineseSimplified": "位置有人"
+      },
+      {
+        "ID": 2613,
+        "Key": "Text_Vehicle_Fashion",
+        "ChineseSimplified": "载具上不能使用时装\u0022友情的重量\u0022"
+      },
+      {
+        "ID": 2614,
+        "Key": "Text_Fashion_Vehicle",
+        "ChineseSimplified": "穿着时装\u0022友情的重量\u0022下不能使用载具"
+      },
+      {
+        "ID": 2615,
+        "Key": "Text_Vehicle_Chair",
+        "ChineseSimplified": "载具上不能使用坐椅子功能"
+      },
+      {
+        "ID": 2616,
+        "Key": "Text_Chair_Vehicle",
+        "ChineseSimplified": "坐椅子情况下不能使用载具"
+      },
+      {
+        "ID": 2617,
+        "Key": "Text_Vehicle_Gacha",
+        "ChineseSimplified": "载具上不能抽卡"
+      },
+      {
+        "ID": 2618,
+        "Key": "Text_Vehicle_Emotion",
+        "ChineseSimplified": "载具上不能播放动作"
+      },
+      {
+        "ID": 2619,
+        "Key": "Text_Vehicle_Camera",
+        "ChineseSimplified": "载具上不能打开相机"
+      },
+      {
+        "ID": 2620,
+        "Key": "Text_Vehicle_Home",
+        "ChineseSimplified": "载具上不能布置家具"
+      },
+      {
+        "ID": 2621,
+        "Key": "Text_Vehicle_LifeMake",
+        "ChineseSimplified": "载具上不能制作"
+      },
+      {
+        "ID": 2622,
+        "Key": "Text_Vehicle_Vehicle",
+        "ChineseSimplified": "载具上不能交互其他人的载具"
+      },
+      {
+        "ID": 2623,
+        "Key": "Text_Vehicle_MoreAction",
+        "ChineseSimplified": "载具上不能进行多人互动"
+      },
+      {
+        "ID": 2624,
+        "Key": "Text_Vehicle_Dungeon",
+        "ChineseSimplified": "副本中不能使用载具"
+      },
+      {
+        "ID": 2625,
+        "Key": "Text_Vehicle_Gather",
+        "ChineseSimplified": "载具上不能采集"
+      },
+      {
+        "ID": 2626,
+        "Key": "Text_Vehicle_NoVehicle",
+        "ChineseSimplified": "未装备载具"
+      },
+      {
+        "ID": 2627,
+        "Key": "Text_Vehicle_NoTranform",
+        "ChineseSimplified": "载具下不能传送"
       },
       {
         "ID": 10000,

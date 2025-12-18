@@ -1,0 +1,506 @@
+{
+  "GemDuelItem": {
+    "Datas": [
+      {
+        "ID": 1,
+        "TextID": 1,
+        "IconID": 1,
+        "NewItemType": 1
+      },
+      {
+        "ID": 10,
+        "TextID": 10,
+        "IconID": 10,
+        "IsShowNum": true,
+        "NewItemType": 2
+      },
+      {
+        "ID": 11,
+        "TextID": 11,
+        "IconID": 11,
+        "IsShowNum": true,
+        "NewItemType": 2
+      },
+      {
+        "ID": 101,
+        "TextID": 101,
+        "IconID": 101,
+        "IsShowNum": true,
+        "SourceID": 101,
+        "NewItemType": 2,
+        "NewItemTag": 1
+      },
+      {
+        "ID": 102,
+        "TextID": 102,
+        "IconID": 102,
+        "Quality": 3,
+        "IsShowNum": true,
+        "SourceID": 102,
+        "NewItemType": 2,
+        "NewItemTag": 1
+      },
+      {
+        "ID": 103,
+        "TextID": 103,
+        "IconID": 103,
+        "IsShowNum": true,
+        "NewItemType": 2,
+        "NewItemTag": 1
+      },
+      {
+        "ID": 104,
+        "TextID": 104,
+        "IconID": 104,
+        "Quality": 4,
+        "IsShowNum": true,
+        "NewItemType": 2,
+        "NewItemTag": 1
+      },
+      {
+        "ID": 105,
+        "TextID": 105,
+        "IconID": 105,
+        "Quality": 4,
+        "IsShowNum": true,
+        "NewItemType": 2,
+        "NewItemTag": 1
+      },
+      {
+        "ID": 106,
+        "TextID": 106,
+        "IconID": 106,
+        "NewItemType": 2,
+        "NewItemTag": 1
+      },
+      {
+        "ID": 107,
+        "TextID": 107,
+        "IconID": 107,
+        "Quality": 3,
+        "IsShowNum": true,
+        "NewItemType": 2,
+        "NewItemTag": 1
+      },
+      {
+        "ID": 108,
+        "TextID": 108,
+        "IconID": 108,
+        "Quality": 3,
+        "IsShowNum": true,
+        "NewItemType": 2,
+        "NewItemTag": 1
+      },
+      {
+        "ID": 109,
+        "TextID": 109,
+        "IconID": 109,
+        "IsShowNum": true,
+        "NewItemType": 2,
+        "NewItemTag": 1
+      },
+      {
+        "ID": 110,
+        "TextID": 110,
+        "IconID": 110,
+        "Quality": 4,
+        "IsShowNum": true,
+        "NewItemType": 2,
+        "NewItemTag": 1
+      },
+      {
+        "ID": 111,
+        "TextID": 111,
+        "IconID": 111,
+        "Quality": 4,
+        "IsShowNum": true,
+        "NewItemTag": 1
+      },
+      {
+        "ID": 112,
+        "TextID": 112,
+        "IconID": 112,
+        "Quality": 4,
+        "IsShowNum": true,
+        "NewItemTag": 1
+      },
+      {
+        "ID": 113,
+        "TextID": 113,
+        "IconID": 113,
+        "Quality": 3,
+        "IsShowNum": true,
+        "NewItemTag": 1
+      },
+      {
+        "ID": 170,
+        "TextID": 170,
+        "IconID": 170,
+        "IsShowNum": true,
+        "NewItemTag": 2
+      },
+      {
+        "ID": 171,
+        "TextID": 171,
+        "IconID": 171,
+        "IsShowNum": true,
+        "NewItemTag": 2
+      },
+      {
+        "ID": 172,
+        "TextID": 172,
+        "IconID": 172,
+        "IsShowNum": true,
+        "NewItemTag": 2
+      },
+      {
+        "ID": 180,
+        "TextID": 180,
+        "IconID": 180,
+        "IsShowNum": true,
+        "NewItemTag": 3
+      },
+      {
+        "ID": 181,
+        "TextID": 181,
+        "IconID": 181,
+        "IsShowNum": true,
+        "NewItemTag": 3
+      },
+      {
+        "ID": 182,
+        "TextID": 182,
+        "IconID": 182,
+        "IsShowNum": true,
+        "NewItemTag": 3
+      },
+      {
+        "ID": 190,
+        "TextID": 190,
+        "IconID": 190,
+        "Quality": 1,
+        "IsShowNum": true,
+        "NewItemTag": 2
+      },
+      {
+        "ID": 191,
+        "TextID": 191,
+        "IconID": 191,
+        "Quality": 2,
+        "IsShowNum": true,
+        "NewItemTag": 2
+      },
+      {
+        "ID": 192,
+        "TextID": 192,
+        "IconID": 192,
+        "Quality": 3,
+        "IsShowNum": true,
+        "NewItemTag": 2
+      },
+      {
+        "ID": 200,
+        "TextID": 200,
+        "IconID": 200,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 201,
+        "TextID": 201,
+        "IconID": 201,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 202,
+        "TextID": 202,
+        "IconID": 202,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 203,
+        "TextID": 203,
+        "IconID": 203,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 204,
+        "TextID": 204,
+        "IconID": 204,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 205,
+        "TextID": 205,
+        "IconID": 205,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 206,
+        "TextID": 206,
+        "IconID": 206,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 207,
+        "TextID": 207,
+        "IconID": 207,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 208,
+        "TextID": 208,
+        "IconID": 208,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 209,
+        "TextID": 209,
+        "IconID": 209,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 210,
+        "TextID": 210,
+        "IconID": 210,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 211,
+        "TextID": 211,
+        "IconID": 211,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 212,
+        "TextID": 212,
+        "IconID": 212,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 213,
+        "TextID": 213,
+        "IconID": 213,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 214,
+        "TextID": 214,
+        "IconID": 214,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 215,
+        "TextID": 215,
+        "IconID": 215,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 216,
+        "TextID": 216,
+        "IconID": 216,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 217,
+        "TextID": 217,
+        "IconID": 217,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 218,
+        "TextID": 218,
+        "IconID": 218,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 219,
+        "TextID": 219,
+        "IconID": 219,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 220,
+        "TextID": 220,
+        "IconID": 220,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 221,
+        "TextID": 221,
+        "IconID": 221,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 222,
+        "TextID": 222,
+        "IconID": 222,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 223,
+        "TextID": 223,
+        "IconID": 223,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 224,
+        "TextID": 224,
+        "IconID": 224,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 225,
+        "TextID": 225,
+        "IconID": 225,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 226,
+        "TextID": 226,
+        "IconID": 226,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 227,
+        "TextID": 227,
+        "IconID": 227,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 228,
+        "TextID": 228,
+        "IconID": 228,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 229,
+        "TextID": 229,
+        "IconID": 229,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 230,
+        "TextID": 230,
+        "IconID": 230,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 231,
+        "TextID": 231,
+        "IconID": 231,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 232,
+        "TextID": 232,
+        "IconID": 232,
+        "IsShowNum": true,
+        "NewItemType": 4
+      },
+      {
+        "ID": 1001,
+        "TextID": 1001,
+        "IconID": 1001,
+        "Quality": 1,
+        "IsShowNum": true,
+        "NewItemType": 3,
+        "NewItemTag": 4
+      },
+      {
+        "ID": 1002,
+        "TextID": 1002,
+        "IconID": 1002,
+        "Quality": 2,
+        "IsShowNum": true,
+        "NewItemType": 3,
+        "NewItemTag": 4
+      },
+      {
+        "ID": 1003,
+        "TextID": 1003,
+        "IconID": 1003,
+        "Quality": 3,
+        "IsShowNum": true,
+        "NewItemType": 3,
+        "NewItemTag": 4
+      },
+      {
+        "ID": 1004,
+        "TextID": 1004,
+        "IconID": 1004,
+        "Quality": 4,
+        "IsShowNum": true,
+        "NewItemType": 3,
+        "NewItemTag": 4
+      },
+      {
+        "ID": 1005,
+        "TextID": 1005,
+        "IconID": 1005,
+        "Quality": 4,
+        "IsShowNum": true,
+        "NewItemType": 3,
+        "NewItemTag": 4
+      },
+      {
+        "ID": 1006,
+        "TextID": 1006,
+        "IconID": 1006,
+        "Quality": 4,
+        "IsShowNum": true,
+        "NewItemType": 3,
+        "NewItemTag": 4
+      },
+      {
+        "ID": 1007,
+        "TextID": 1007,
+        "IconID": 1007,
+        "Quality": 4,
+        "IsShowNum": true,
+        "NewItemType": 3,
+        "NewItemTag": 4
+      },
+      {
+        "ID": 1008,
+        "TextID": 1008,
+        "IconID": 1008,
+        "Quality": 4,
+        "IsShowNum": true,
+        "NewItemType": 3,
+        "NewItemTag": 4
+      }
+    ]
+  }
+}

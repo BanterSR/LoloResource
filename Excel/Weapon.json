@@ -273,13 +273,16 @@
         "ItemID": 1001009,
         "Durability": 100,
         "WeaponPropertyID": 1001001,
-        "BaseScore": 1,
+        "BaseScore": 3,
+        "PassiveSpellIDs": [
+          52010
+        ],
         "RollSpellGroupID": 100100,
         "NormalSpellID": 1000000,
         "AssetFullName": "Model/Weapon/TypeLife/CollectionGloves/Weapon_CollectionGloves_09",
         "NewWeaponSystemType": 6,
         "NewStrikeCorrectionType": 4,
-        "NewWeaponType": 4
+        "NewWeaponType": 21
       },
       {
         "ID": 1002001,
@@ -868,7 +871,7 @@
       },
       {
         "ID": 1006010,
-        "ItemID": 1006009,
+        "ItemID": 1006010,
         "Durability": 1500,
         "WeaponPropertyID": 1001001,
         "BaseScore": 1,
@@ -878,6 +881,51 @@
         "NewWeaponSystemType": 6,
         "NewChoppingCorrectionType": 4,
         "NewWeaponType": 18
+      },
+      {
+        "ID": 1009001,
+        "ItemID": 1009001,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100901,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_01",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009002,
+        "ItemID": 1009002,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 3,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100902,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_02",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009003,
+        "ItemID": 1009003,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 3,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100902,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_03",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
       },
       {
         "ID": 1019001,
@@ -134129,6 +134177,28 @@
           1006083,
           1006084,
           1006085
+        ]
+      },
+      {
+        "ID": 100901,
+        "RollSpellIDs": [
+          1009181,
+          1009181,
+          1009181,
+          1009181,
+          1009181,
+          1009181
+        ]
+      },
+      {
+        "ID": 100902,
+        "RollSpellIDs": [
+          1009182,
+          1009182,
+          1009182,
+          1009182,
+          1009182,
+          1009182
         ]
       }
     ]

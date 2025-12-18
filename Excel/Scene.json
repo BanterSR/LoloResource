@@ -1019,6 +1019,12 @@
         "NewSceneType": 2
       },
       {
+        "ID": 100106,
+        "TextID": 100106,
+        "SceneName": "Assets/Scenes/SceneGameplay/EventInstance/双旦副本/双旦副本.unity",
+        "NewSceneType": 2
+      },
+      {
         "ID": 100201,
         "TextID": 100201,
         "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement01_Sakura/Element_Sakura_Light.unity",
@@ -1876,13 +1882,13 @@
       },
       {
         "ID": 2,
-        "AssetPath": "Assets/Scenes/HomeStage/万圣节/---------------------万圣节舞台.prefab",
-        "OpeningTime": "2025-10-23 00:00:00",
-        "ClosingTime": "2025-11-10 23:59:59"
+        "AssetPath": "Assets/Scenes/HomeStage/万圣节/---------------------万圣节舞台.prefab"
       },
       {
         "ID": 3,
-        "AssetPath": "Assets/Scenes/HomeStage/圣诞节/---------------------圣诞节舞台.prefab"
+        "AssetPath": "Assets/Scenes/HomeStage/圣诞节/---------------------圣诞节舞台2.0.prefab",
+        "OpeningTime": "2025-12-18 00:00:00",
+        "ClosingTime": "2026-01-25 23:59:59"
       },
       {
         "ID": 4,

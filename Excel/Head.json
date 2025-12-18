@@ -78,7 +78,8 @@
         "ID": 42103,
         "TextID": 42103,
         "HeadID": 42103,
-        "AchieveConditionID": 91042103
+        "AchieveConditionID": 91042103,
+        "IsShow": true
       },
       {
         "ID": 42201,
@@ -257,6 +258,18 @@
         "TextID": 9006,
         "HeadID": 9006,
         "AchieveConditionID": 9109006
+      },
+      {
+        "ID": 9007,
+        "TextID": 9007,
+        "HeadID": 9007,
+        "AchieveConditionID": 9109007
+      },
+      {
+        "ID": 9008,
+        "TextID": 9008,
+        "HeadID": 9008,
+        "AchieveConditionID": 9109008
       },
       {
         "ID": 9011,

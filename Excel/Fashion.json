@@ -1633,6 +1633,11 @@
         "NewFashionType": 2
       },
       {
+        "ID": 4100181,
+        "ItemID": 4100181,
+        "AssetFullName": "Model/Fashion/Fashion_1018/Fashion_1018@hat_avatar"
+      },
+      {
         "ID": 4100182,
         "ItemID": 4100182,
         "AssetFullName": "Model/Fashion/Fashion_1018/Fashion_1018@hair_avatar",
@@ -1645,6 +1650,11 @@
         "AssetFullName": "Model/Fashion/Fashion_1018/Fashion_1018@cloth_avatar",
         "NewSexType": 1,
         "NewFashionType": 2
+      },
+      {
+        "ID": 4100191,
+        "ItemID": 4100191,
+        "AssetFullName": "Model/Fashion/Fashion_1019/Fashion_1019@hat_avatar"
       },
       {
         "ID": 4100192,
@@ -3397,7 +3407,7 @@
       {
         "ID": 4200545,
         "ItemID": 4200545,
-        "AssetFullName": "Model/Fashion/Fashion_54/Fashion_54@pend_upface_avatar",
+        "AssetFullName": "Model/Fashion/Fashion_54/Fashion_54@pend_downface_avatar",
         "NewFashionType": 8
       },
       {
@@ -4181,6 +4191,64 @@
         "ItemID": 4200795,
         "AssetFullName": "Model/Fashion/Fashion_79/Fashion_79@pend_downface_avatar",
         "NewFashionType": 8
+      },
+      {
+        "ID": 4200801,
+        "ItemID": 4200801,
+        "AssetFullName": "Model/Fashion/Fashion_80/Fashion_80@hat_avatar",
+        "NewSexType": 2
+      },
+      {
+        "ID": 4200802,
+        "ItemID": 4200802,
+        "AssetFullName": "Model/Fashion/Fashion_80/Fashion_80@hair_avatar",
+        "NewSexType": 2,
+        "NewFashionType": 1
+      },
+      {
+        "ID": 4200803,
+        "ItemID": 4200803,
+        "AssetFullName": "Model/Fashion/Fashion_80/Fashion_80@cloth_avatar",
+        "NewSexType": 2,
+        "NewFashionType": 2
+      },
+      {
+        "ID": 4200804,
+        "ItemID": 4200804,
+        "AssetFullName": "Model/Fashion/Fashion_80/Fashion_80@pend_top_avatar",
+        "NewFashionType": 4
+      },
+      {
+        "ID": 4200805,
+        "ItemID": 4200805,
+        "AssetFullName": "Model/Fashion/Fashion_80/Fashion_80@pend_chest_avatar",
+        "NewFashionType": 5
+      },
+      {
+        "ID": 4200806,
+        "ItemID": 4200806,
+        "AssetFullName": "Model/Fashion/Fashion_80/Fashion_80@pend_leftfoot_avatar",
+        "NewFashionType": 11
+      },
+      {
+        "ID": 4200807,
+        "ItemID": 4200807,
+        "AssetFullName": "Model/Fashion/Fashion_80/Fashion_80@pend_rightfoot_avatar",
+        "NewFashionType": 12
+      },
+      {
+        "ID": 4200812,
+        "ItemID": 4200812,
+        "AssetFullName": "Model/Fashion/Fashion_81/Fashion_81@hair_avatar",
+        "NewSexType": 2,
+        "NewFashionType": 1
+      },
+      {
+        "ID": 4200813,
+        "ItemID": 4200813,
+        "AssetFullName": "Model/Fashion/Fashion_81/Fashion_81@cloth_avatar",
+        "NewSexType": 2,
+        "NewFashionType": 2
       },
       {
         "ID": 4200821,
@@ -5122,6 +5190,16 @@
         "AssetFullName": "Model/Fashion/Hat_21/Hat_21@hat_avatar"
       },
       {
+        "ID": 4610221,
+        "ItemID": 4610221,
+        "AssetFullName": "Model/Fashion/Hat_22/Hat_22@hat_avatar"
+      },
+      {
+        "ID": 4610231,
+        "ItemID": 4610231,
+        "AssetFullName": "Model/Fashion/Hat_23/Hat_23@hat_avatar"
+      },
+      {
         "ID": 4620001,
         "ItemID": 4620001,
         "NewFashionType": 1
@@ -5320,6 +5398,12 @@
         "ID": 4645006,
         "ItemID": 4645006,
         "AssetFullName": "Model/Fashion/pend_pelvis_06/pend_pelvis_06@pend_pelvis_avatar",
+        "NewFashionType": 6
+      },
+      {
+        "ID": 4645007,
+        "ItemID": 4645007,
+        "AssetFullName": "Model/Fashion/pend_pelvis_07/pend_pelvis_07@pend_pelvis_avatar",
         "NewFashionType": 6
       },
       {

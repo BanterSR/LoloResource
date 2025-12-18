@@ -1139,7 +1139,7 @@
         "Funcs": [
           {
             "NewNPCFunction": 21,
-            "SubMeterID": 9600107
+            "SubMeterID": 9600103
           }
         ]
       },
@@ -1258,6 +1258,21 @@
           {
             "NewNPCFunction": 2,
             "SubMeterID": 10261
+          }
+        ]
+      },
+      {
+        "ID": 10271,
+        "OpeningTime": "2025-12-18 00:00:00",
+        "ClosingTime": "2026-01-07 23:59:59",
+        "Funcs": [
+          {
+            "NewNPCFunction": 21,
+            "SubMeterID": 9600106
+          },
+          {
+            "NewNPCFunction": 1,
+            "SubMeterID": 10271
           }
         ]
       },
@@ -5590,6 +5605,14 @@
         "TalkInfoGroupInfo": [
           {
             "ContentID": 1026101
+          }
+        ]
+      },
+      {
+        "ID": 10271,
+        "TalkInfoGroupInfo": [
+          {
+            "ContentID": 1027101
           }
         ]
       },

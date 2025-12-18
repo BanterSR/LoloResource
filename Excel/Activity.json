@@ -182,14 +182,6 @@
         "NewActivityType": 5
       },
       {
-        "ID": 5035,
-        "OpeningTime": "2025-06-27 00:00:00",
-        "TextID": 5035,
-        "IconID": 5035,
-        "Index": 216,
-        "NewActivityType": 5
-      },
-      {
         "ID": 5036,
         "OpeningTime": "2025-06-27 00:00:00",
         "ClosingTime": "2025-07-10 23:59:59",
@@ -583,52 +575,6 @@
         "NewActivityType": 5
       },
       {
-        "ID": 5079,
-        "OpeningTime": "2025-12-01 00:00:00",
-        "ClosingTime": "2025-12-31 23:59:59",
-        "TextID": 5079,
-        "IconID": 5079,
-        "Index": 201,
-        "NewActivityType": 5
-      },
-      {
-        "ID": 5080,
-        "OpeningTime": "2025-11-27 00:00:00",
-        "ClosingTime": "2025-12-17 23:59:59",
-        "TextID": 5080,
-        "IconID": 5080,
-        "Index": 201,
-        "NewActivityType": 5
-      },
-      {
-        "ID": 5081,
-        "OpeningTime": "2025-12-04 00:00:00",
-        "ClosingTime": "2025-12-17 23:59:59",
-        "TextID": 5081,
-        "IconID": 5081,
-        "Index": 201,
-        "NewActivityType": 5
-      },
-      {
-        "ID": 5082,
-        "OpeningTime": "2025-11-27 00:00:00",
-        "ClosingTime": "2025-12-07 23:59:59",
-        "TextID": 5082,
-        "IconID": 5082,
-        "Index": 201,
-        "ActivityID": 5082,
-        "NewActivityType": 4
-      },
-      {
-        "ID": 5083,
-        "OpeningTime": "2025-11-27 00:00:00",
-        "ClosingTime": "2025-12-11 23:59:59",
-        "TextID": 5083,
-        "IconID": 5083,
-        "Index": 202,
-        "NewActivityType": 5
-      },
-      {
         "ID": 4001,
         "OpeningTime": "2025-04-04 05:00:00",
         "ClosingTime": "2025-04-14 23:59:59",
@@ -679,30 +625,6 @@
         "Index": 304,
         "ActivityID": 4007,
         "NewActivityType": 4
-      },
-      {
-        "ID": 4008,
-        "TextID": 4008,
-        "IconID": 4008,
-        "Index": 305,
-        "ActivityID": 4008,
-        "NewActivityType": 4
-      },
-      {
-        "ID": 1001,
-        "OpeningTime": "2025-04-01 05:00:00",
-        "TextID": 1001,
-        "IconID": 1001,
-        "Index": 400,
-        "ActivityID": 1001
-      },
-      {
-        "ID": 2001,
-        "TextID": 2001,
-        "IconID": 2001,
-        "Index": 401,
-        "ActivityID": 2001,
-        "NewActivityType": 1
       },
       {
         "ID": 2006,
@@ -772,16 +694,6 @@
         "IconID": 2013,
         "Index": 409,
         "ActivityID": 2013,
-        "NewActivityType": 1
-      },
-      {
-        "ID": 2014,
-        "OpeningTime": "2025-11-13 00:00:00",
-        "ClosingTime": "2025-12-03 23:59:59",
-        "TextID": 2014,
-        "IconID": 2014,
-        "Index": 410,
-        "ActivityID": 2014,
         "NewActivityType": 1
       },
       {
@@ -878,28 +790,6 @@
         "NewActivityType": 5
       },
       {
-        "ID": 5013,
-        "TextID": 5013,
-        "IconID": 5013,
-        "Index": 902,
-        "NewActivityType": 5
-      },
-      {
-        "ID": 4002,
-        "TextID": 4002,
-        "IconID": 4002,
-        "Index": 1000,
-        "ActivityID": 4002,
-        "NewActivityType": 4
-      },
-      {
-        "ID": 5001,
-        "TextID": 5001,
-        "IconID": 5001,
-        "Index": 1001,
-        "NewActivityType": 5
-      },
-      {
         "ID": 5002,
         "OpeningTime": "2025-04-01 05:00:00",
         "ClosingTime": "2025-04-30 23:59:59",
@@ -970,44 +860,6 @@
         "IconID": 5003,
         "Index": 1301,
         "NewActivityType": 5
-      },
-      {
-        "ID": 8000,
-        "OpeningTime": "2024-08-10 00:00:00",
-        "ClosingTime": "2024-08-24 23:59:59",
-        "TextID": 80000,
-        "IconID": 8000,
-        "Index": 1300,
-        "ActivityID": 8000,
-        "NewActivityType": 9
-      },
-      {
-        "ID": 8001,
-        "OpeningTime": "2024-08-25 00:00:00",
-        "ClosingTime": "2024-09-10 23:59:59",
-        "TextID": 80010,
-        "IconID": 8001,
-        "Index": 1301,
-        "ActivityID": 8001,
-        "NewActivityType": 9
-      },
-      {
-        "ID": 8010,
-        "OpeningTime": "2025-08-01 00:00:00",
-        "ClosingTime": "2025-08-22 23:59:59",
-        "TextID": 80100,
-        "IconID": 8010,
-        "Index": 1300,
-        "ActivityID": 8010,
-        "NewActivityType": 9
-      },
-      {
-        "ID": 2003,
-        "TextID": 2003,
-        "IconID": 2003,
-        "Index": 1400,
-        "ActivityID": 2003,
-        "NewActivityType": 1
       },
       {
         "ID": 6001,
@@ -1100,58 +952,6 @@
         "NewActivityType": 6
       },
       {
-        "ID": 7009,
-        "OpeningTime": "2025-09-26 05:00:00",
-        "ClosingTime": "2025-12-25 23:59:59",
-        "TextID": 7009,
-        "IconID": 7009,
-        "Index": 92,
-        "ActivityID": 7009,
-        "NewActivityType": 6
-      },
-      {
-        "ID": 7010,
-        "OpeningTime": "2025-10-24 05:00:00",
-        "ClosingTime": "2025-12-25 23:59:59",
-        "TextID": 7010,
-        "IconID": 7010,
-        "Index": 91,
-        "ActivityID": 7010,
-        "NewActivityType": 6
-      },
-      {
-        "ID": 7011,
-        "OpeningTime": "2025-11-13 05:00:00",
-        "ClosingTime": "2025-12-25 23:59:59",
-        "TextID": 7011,
-        "IconID": 7011,
-        "Index": 90,
-        "ActivityID": 7011,
-        "NewActivityType": 6
-      },
-      {
-        "ID": 7012,
-        "OpeningTime": "2025-11-27 05:00:00",
-        "ClosingTime": "2025-12-25 23:59:59",
-        "TextID": 7012,
-        "IconID": 7012,
-        "Index": 89,
-        "ActivityID": 7012,
-        "NewActivityType": 6
-      },
-      {
-        "ID": 3001,
-        "ActivityID": 3001,
-        "NewActivityType": 2
-      },
-      {
-        "ID": 3002,
-        "OpeningTime": "2025-09-26 00:00:00",
-        "ClosingTime": "2025-10-25 23:59:59",
-        "ActivityID": 3002,
-        "NewActivityType": 2
-      },
-      {
         "ID": 10000,
         "OpeningTime": "2025-03-01 05:00:00",
         "ClosingTime": "2025-04-30 23:59:59",
@@ -1216,12 +1016,41 @@
         "NewActivityType": 3
       },
       {
-        "ID": 10080,
-        "OpeningTime": "2025-12-01 00:00:00",
-        "ClosingTime": "2025-12-31 23:59:59",
-        "IconID": 10080,
-        "ActivityID": 10080,
-        "NewActivityType": 3
+        "ID": 8000,
+        "OpeningTime": "2024-08-10 00:00:00",
+        "ClosingTime": "2024-08-24 23:59:59",
+        "TextID": 80000,
+        "IconID": 8000,
+        "Index": 1300,
+        "ActivityID": 8000,
+        "NewActivityType": 9
+      },
+      {
+        "ID": 8001,
+        "OpeningTime": "2024-08-25 00:00:00",
+        "ClosingTime": "2024-09-10 23:59:59",
+        "TextID": 80010,
+        "IconID": 8001,
+        "Index": 1301,
+        "ActivityID": 8001,
+        "NewActivityType": 9
+      },
+      {
+        "ID": 8010,
+        "OpeningTime": "2025-08-01 00:00:00",
+        "ClosingTime": "2025-08-22 23:59:59",
+        "TextID": 80100,
+        "IconID": 8010,
+        "Index": 1300,
+        "ActivityID": 8010,
+        "NewActivityType": 9
+      },
+      {
+        "ID": 3002,
+        "OpeningTime": "2025-09-26 00:00:00",
+        "ClosingTime": "2025-10-25 23:59:59",
+        "ActivityID": 3002,
+        "NewActivityType": 2
       },
       {
         "ID": 12000,
@@ -1231,6 +1060,319 @@
         "IconID": 12000,
         "Index": 600,
         "NewActivityType": 5
+      },
+      {
+        "ID": 4008,
+        "TextID": 4008,
+        "IconID": 4008,
+        "Index": 305,
+        "ActivityID": 4008,
+        "NewActivityType": 4
+      },
+      {
+        "ID": 5013,
+        "TextID": 5013,
+        "IconID": 5013,
+        "Index": 902,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 4002,
+        "TextID": 4002,
+        "IconID": 4002,
+        "Index": 1000,
+        "ActivityID": 4002,
+        "NewActivityType": 4
+      },
+      {
+        "ID": 5001,
+        "TextID": 5001,
+        "IconID": 5001,
+        "Index": 1001,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 1001,
+        "OpeningTime": "2025-04-01 05:00:00",
+        "TextID": 1001,
+        "IconID": 1001,
+        "Index": 400,
+        "ActivityID": 1001
+      },
+      {
+        "ID": 2001,
+        "TextID": 2001,
+        "IconID": 2001,
+        "Index": 401,
+        "ActivityID": 2001,
+        "NewActivityType": 1
+      },
+      {
+        "ID": 2003,
+        "TextID": 2003,
+        "IconID": 2003,
+        "Index": 1400,
+        "ActivityID": 2003,
+        "NewActivityType": 1
+      },
+      {
+        "ID": 3001,
+        "ActivityID": 3001,
+        "NewActivityType": 2
+      },
+      {
+        "ID": 5079,
+        "OpeningTime": "2025-12-01 00:00:00",
+        "ClosingTime": "2025-12-31 23:59:59",
+        "TextID": 5079,
+        "IconID": 5079,
+        "Index": 201,
+        "ActivityID": 2,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 5080,
+        "OpeningTime": "2025-11-27 00:00:00",
+        "ClosingTime": "2025-12-17 23:59:59",
+        "TextID": 5080,
+        "IconID": 5080,
+        "Index": 201,
+        "QuestID": 3015,
+        "ActivityID": 1,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 5081,
+        "OpeningTime": "2025-12-04 00:00:00",
+        "ClosingTime": "2025-12-17 23:59:59",
+        "TextID": 5081,
+        "IconID": 5081,
+        "Index": 201,
+        "ActivityID": 6,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 5082,
+        "OpeningTime": "2025-11-27 00:00:00",
+        "ClosingTime": "2025-12-07 23:59:59",
+        "TextID": 5082,
+        "IconID": 5082,
+        "Index": 201,
+        "ActivityID": 5082,
+        "NewActivityType": 4
+      },
+      {
+        "ID": 5083,
+        "OpeningTime": "2025-11-27 00:00:00",
+        "ClosingTime": "2025-12-11 23:59:59",
+        "TextID": 5083,
+        "IconID": 5083,
+        "Index": 202,
+        "QuestID": 10007,
+        "DialogID": 10007,
+        "ActivityID": 8,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 5084,
+        "OpeningTime": "2025-12-18 00:00:00",
+        "ClosingTime": "2026-01-07 23:59:59",
+        "TextID": 5084,
+        "IconID": 5084,
+        "Index": 203,
+        "QuestID": 3016,
+        "ActivityID": 1,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 5085,
+        "OpeningTime": "2025-12-18 00:00:00",
+        "ClosingTime": "2025-12-31 23:59:59",
+        "TextID": 5085,
+        "IconID": 5085,
+        "Index": 204,
+        "ActivityID": 6,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 5086,
+        "OpeningTime": "2025-12-25 00:00:00",
+        "ClosingTime": "2026-01-07 23:59:59",
+        "TextID": 5086,
+        "IconID": 5086,
+        "Index": 205,
+        "ActivityID": 6,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 5087,
+        "OpeningTime": "2025-12-25 05:00:00",
+        "ClosingTime": "2026-01-25 04:59:59",
+        "TextID": 5087,
+        "IconID": 5087,
+        "Index": 206,
+        "ActivityID": 9,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 5088,
+        "OpeningTime": "2026-01-01 00:00:00",
+        "ClosingTime": "2026-01-31 23:59:59",
+        "TextID": 5088,
+        "IconID": 5088,
+        "Index": 207,
+        "ActivityID": 2,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 2014,
+        "OpeningTime": "2025-11-13 00:00:00",
+        "ClosingTime": "2025-12-03 23:59:59",
+        "TextID": 2014,
+        "IconID": 2014,
+        "Index": 410,
+        "ActivityID": 2014,
+        "NewActivityType": 1
+      },
+      {
+        "ID": 2015,
+        "OpeningTime": "2026-01-01 00:00:00",
+        "ClosingTime": "2026-01-03 23:59:59",
+        "TextID": 2015,
+        "IconID": 2015,
+        "Index": 401,
+        "ActivityID": 2015,
+        "NewActivityType": 1
+      },
+      {
+        "ID": 2016,
+        "OpeningTime": "2025-12-18 00:00:00",
+        "ClosingTime": "2025-12-28 23:59:59",
+        "TextID": 2016,
+        "IconID": 2016,
+        "Index": 402,
+        "ActivityID": 2016,
+        "NewActivityType": 1
+      },
+      {
+        "ID": 2017,
+        "OpeningTime": "2026-01-01 00:00:00",
+        "ClosingTime": "2026-01-10 23:59:59",
+        "TextID": 2017,
+        "IconID": 2017,
+        "Index": 403,
+        "ActivityID": 2017,
+        "NewActivityType": 1
+      },
+      {
+        "ID": 2018,
+        "OpeningTime": "2025-12-18 00:00:00",
+        "ClosingTime": "2026-01-08 23:59:59",
+        "TextID": 2018,
+        "IconID": 2018,
+        "Index": 403,
+        "ActivityID": 2018,
+        "NewActivityType": 1
+      },
+      {
+        "ID": 3003,
+        "OpeningTime": "2025-12-18 00:00:00",
+        "ClosingTime": "2026-01-17 23:59:59",
+        "ActivityID": 3003,
+        "NewActivityType": 2
+      },
+      {
+        "ID": 3004,
+        "OpeningTime": "2025-12-31 00:00:00",
+        "ClosingTime": "2026-01-06 23:59:59",
+        "ActivityID": 3004,
+        "NewActivityType": 2
+      },
+      {
+        "ID": 6002,
+        "OpeningTime": "2025-12-18 00:00:00",
+        "ClosingTime": "2026-01-31 23:59:59",
+        "TextID": 6001,
+        "IconID": 6001,
+        "Index": 1402,
+        "ActivityID": 6002,
+        "NewActivityType": 8
+      },
+      {
+        "ID": 7009,
+        "OpeningTime": "2025-09-26 05:00:00",
+        "ClosingTime": "2025-12-25 23:59:59",
+        "TextID": 7009,
+        "IconID": 7009,
+        "Index": 92,
+        "ActivityID": 7009,
+        "NewActivityType": 6
+      },
+      {
+        "ID": 7010,
+        "OpeningTime": "2025-10-24 05:00:00",
+        "ClosingTime": "2025-12-25 23:59:59",
+        "TextID": 7010,
+        "IconID": 7010,
+        "Index": 91,
+        "ActivityID": 7010,
+        "NewActivityType": 6
+      },
+      {
+        "ID": 7011,
+        "OpeningTime": "2025-11-13 05:00:00",
+        "ClosingTime": "2025-12-25 23:59:59",
+        "TextID": 7011,
+        "IconID": 7011,
+        "Index": 90,
+        "ActivityID": 7011,
+        "NewActivityType": 6
+      },
+      {
+        "ID": 7012,
+        "OpeningTime": "2025-11-27 05:00:00",
+        "ClosingTime": "2025-12-25 23:59:59",
+        "TextID": 7012,
+        "IconID": 7012,
+        "Index": 89,
+        "ActivityID": 7012,
+        "NewActivityType": 6
+      },
+      {
+        "ID": 7013,
+        "OpeningTime": "2025-12-18 00:00:00",
+        "ClosingTime": "2026-02-15 23:59:59",
+        "TextID": 7013,
+        "IconID": 7013,
+        "Index": 88,
+        "ActivityID": 7013,
+        "NewActivityType": 6
+      },
+      {
+        "ID": 7014,
+        "OpeningTime": "2025-12-18 00:00:00",
+        "ClosingTime": "2026-01-16 23:59:59",
+        "TextID": 7014,
+        "IconID": 7014,
+        "Index": 87,
+        "ActivityID": 7014,
+        "NewActivityType": 6
+      },
+      {
+        "ID": 10080,
+        "OpeningTime": "2025-12-01 00:00:00",
+        "ClosingTime": "2025-12-31 23:59:59",
+        "IconID": 10080,
+        "ActivityID": 10080,
+        "NewActivityType": 3
+      },
+      {
+        "ID": 10090,
+        "OpeningTime": "2026-01-01 00:00:00",
+        "ClosingTime": "2026-01-31 23:59:59",
+        "IconID": 10090,
+        "ActivityID": 10090,
+        "NewActivityType": 3
       },
       {
         "ID": 12001,

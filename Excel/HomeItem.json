@@ -4362,6 +4362,7 @@
         "ID": 5043601,
         "Path": "Model/Furniture/元旦家具/YD_yuanqiqiu.prefab",
         "ItemID": 5043601,
+        "IsShow": true,
         "HomeItemPointNum": 1324,
         "NewHomeItemTheme": 31
       },
@@ -4398,6 +4399,7 @@
         "ID": 5043606,
         "Path": "Model/Furniture/元旦家具/YD_arch.prefab",
         "ItemID": 5043606,
+        "IsShow": true,
         "HomeItemPointNum": 5345,
         "NewHomeItemTheme": 31
       },
@@ -4935,6 +4937,14 @@
         "ID": 5044007,
         "Path": "Model/Furniture/街机家具/Furniture_Arcade_a_01.prefab",
         "ItemID": 5044007,
+        "IsShow": true,
+        "HomeItemPointNum": 500,
+        "NewHomeItemTheme": 4
+      },
+      {
+        "ID": 5044008,
+        "Path": "Model/Furniture/特殊家具/TS_SnowDrift.prefab",
+        "ItemID": 5044008,
         "IsShow": true,
         "HomeItemPointNum": 500,
         "NewHomeItemTheme": 4
@@ -7652,6 +7662,7 @@
       },
       {
         "ID": 5050999,
+        "NewRoomDecorType": 1,
         "PosDecorInfo": [
           {
             "PosID": 5,

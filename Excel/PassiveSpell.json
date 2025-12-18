@@ -13712,11 +13712,11 @@
       },
       {
         "ID": 50075,
-        "TextID": 50011,
+        "TextID": 50013,
         "ScriptParams": [
           0.25
         ],
-        "ScriptID": 50011,
+        "ScriptID": 50013,
         "HideInSpellPanel": true
       },
       {
@@ -13727,15 +13727,6 @@
       },
       {
         "ID": 50077,
-        "TextID": 50101,
-        "ScriptParams": [
-          0.4
-        ],
-        "ScriptID": 50101,
-        "HideInSpellPanel": true
-      },
-      {
-        "ID": 50078,
         "TextID": 50102,
         "ScriptParams": [
           0.025
@@ -13744,11 +13735,21 @@
         "HideInSpellPanel": true
       },
       {
+        "ID": 50078,
+        "TextID": 50016,
+        "ScriptParams": [
+          0.3
+        ],
+        "ScriptID": 50016,
+        "HideInSpellPanel": true
+      },
+      {
         "ID": 50079,
         "TextID": 50079,
         "ScriptParams": [
-          0.2,
-          0.1
+          1.6,
+          0.3,
+          0.3
         ],
         "ScriptID": 50079,
         "HideInSpellPanel": true
@@ -15206,6 +15207,11 @@
       {
         "ID": 52000,
         "ScriptID": 52000,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 52010,
+        "ScriptID": 52010,
         "HideInSpellPanel": true
       },
       {

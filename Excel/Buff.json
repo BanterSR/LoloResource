@@ -326,6 +326,14 @@
         "ScriptID": 295
       },
       {
+        "ID": 296,
+        "ScriptID": 296
+      },
+      {
+        "ID": 297,
+        "ScriptID": 297
+      },
+      {
         "ID": 300,
         "ScriptID": 300
       },
@@ -422,6 +430,18 @@
         "ScriptID": 530
       },
       {
+        "ID": 531,
+        "ScriptID": 531
+      },
+      {
+        "ID": 532,
+        "ScriptID": 532
+      },
+      {
+        "ID": 533,
+        "ScriptID": 533
+      },
+      {
         "ID": 520,
         "ScriptID": 520
       },
@@ -472,6 +492,18 @@
       {
         "ID": 911,
         "ScriptID": 911
+      },
+      {
+        "ID": 912,
+        "ScriptID": 912
+      },
+      {
+        "ID": 916,
+        "ScriptID": 916
+      },
+      {
+        "ID": 917,
+        "ScriptID": 917
       },
       {
         "ID": 1000,
@@ -2631,6 +2663,10 @@
         "ScriptID": 4010510
       },
       {
+        "ID": 4020810,
+        "ScriptID": 4020810
+      },
+      {
         "ID": 4030126,
         "ScriptID": 4030126
       },
@@ -3978,6 +4014,20 @@
         "NewBuffType": 1
       },
       {
+        "ID": 296,
+        "ScriptName": "Buff_296",
+        "Cover": true,
+        "AssetFullName": "Buff/Unit/296/Buff_296",
+        "NewBuffType": 1
+      },
+      {
+        "ID": 297,
+        "ScriptName": "Buff_297",
+        "Cover": true,
+        "AssetFullName": "Buff/Unit/297/Buff_297",
+        "NewBuffType": 1
+      },
+      {
         "ID": 300,
         "ScriptName": "Buff_300",
         "AssetFullName": "Buff/Unit/300/Buff_300",
@@ -4141,6 +4191,27 @@
         "NewBuffType": 5
       },
       {
+        "ID": 531,
+        "ScriptName": "Buff_531",
+        "Cover": true,
+        "AssetFullName": "Buff/Unit/531/Buff_531",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 532,
+        "ScriptName": "Buff_532",
+        "Cover": true,
+        "AssetFullName": "Buff/Unit/532/Buff_532",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 533,
+        "ScriptName": "Buff_533",
+        "Cover": true,
+        "AssetFullName": "Buff/Unit/533/Buff_533",
+        "NewBuffType": 5
+      },
+      {
         "ID": 520,
         "ScriptName": "Buff_520",
         "Cover": true,
@@ -4229,6 +4300,27 @@
         "ScriptName": "Buff_911",
         "Cover": true,
         "AssetFullName": "Buff/Unit/911/Buff_911",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 912,
+        "ScriptName": "Buff_912",
+        "Cover": true,
+        "AssetFullName": "Buff/Unit/912/Buff_912",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 916,
+        "ScriptName": "Buff_916",
+        "Cover": true,
+        "AssetFullName": "Buff/Unit/916/Buff_916",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 917,
+        "ScriptName": "Buff_917",
+        "Cover": true,
+        "AssetFullName": "Buff/Unit/917/Buff_917",
         "NewBuffType": 5
       },
       {
@@ -8090,6 +8182,13 @@
         "NewBuffType": 2
       },
       {
+        "ID": 52010,
+        "ScriptName": "SpellPassive_52010",
+        "Cover": true,
+        "AssetFullName": "Buff/EquipPassive/52010/SpellPassive_52010",
+        "NewBuffType": 2
+      },
+      {
         "ID": 100000,
         "ScriptName": "SpellPassive_100000",
         "NewBuffType": 5
@@ -8639,6 +8738,13 @@
         "ScriptName": "Buff_4010510",
         "Cover": true,
         "AssetFullName": "Buff/Unit/4010510/Buff_4010510",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 4020810,
+        "ScriptName": "Buff_4020810",
+        "Cover": true,
+        "AssetFullName": "Buff/Unit/4020810/Buff_4020810",
         "NewBuffType": 5
       },
       {
