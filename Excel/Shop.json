@@ -11959,7 +11959,7 @@
         "ID": 933,
         "Items": [
           {
-            "ItemID": 1009002,
+            "ItemID": 6027030,
             "ItemNum": 1,
             "Index": 1,
             "MinLevel": 1,
@@ -11981,12 +11981,13 @@
         "ID": 934,
         "Items": [
           {
-            "ItemID": 1009002,
+            "ItemID": 6027030,
             "ItemNum": 1,
             "Index": 1,
             "MinLevel": 1,
             "MaxLevel": 100,
             "OpeningTime": "2025-12-26 00:00:00",
+            "ClosingTime": "2026-01-07 23:59:59",
             "Discount": 1,
             "ShowDiscount": 1,
             "ShopCurrencyItem": [
@@ -12030,6 +12031,7 @@
             "MinLevel": 1,
             "MaxLevel": 100,
             "OpeningTime": "2025-12-26 00:00:00",
+            "ClosingTime": "2026-01-07 23:59:59",
             "Discount": 1,
             "ShowDiscount": 1,
             "ShopCurrencyItem": [
@@ -12073,6 +12075,7 @@
             "MinLevel": 1,
             "MaxLevel": 100,
             "OpeningTime": "2025-12-26 00:00:00",
+            "ClosingTime": "2026-01-07 23:59:59",
             "Discount": 1,
             "ShowDiscount": 1,
             "ShopCurrencyItem": [

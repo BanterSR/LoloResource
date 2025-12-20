@@ -5266,6 +5266,13 @@
         "NewBagItemTag": 33
       },
       {
+        "ID": 5302,
+        "TextID": 5302,
+        "IconID": 5302,
+        "Quality": 1,
+        "NewBagItemTag": 33
+      },
+      {
         "ID": 5401,
         "TextID": 5401,
         "IconID": 5401,
@@ -44026,6 +44033,24 @@
         "TextID": 6027010,
         "IconID": 6027010,
         "RelateID": 6027010,
+        "Quality": 1,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6027020,
+        "TextID": 6027020,
+        "IconID": 6027020,
+        "RelateID": 6027020,
+        "Quality": 1,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6027030,
+        "TextID": 6027030,
+        "IconID": 6027030,
+        "RelateID": 6027030,
         "Quality": 1,
         "NewBagItemTag": 1,
         "NewUITag": 1
