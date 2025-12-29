@@ -3846,6 +3846,8 @@
       },
       {
         "ID": 5042006,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5042006,
         "NeedFormulaItemID": 5042006,
         "MakeLevel": 1,
@@ -20831,9 +20833,127 @@
         "NewMakePageType": 4
       },
       {
-        "ID": 5043606,
+        "ID": 5043602,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 5043602,
+        "NeedFormulaItemID": 5043602,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20500002,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 5052003,
+            "ItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043602,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150436021,
+            "RewardID": 10110
+          }
+        ],
+        "NewMakePageType": 4
+      },
+      {
+        "ID": 5043603,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedShowbookItemID": 5043603,
+        "NeedFormulaItemID": 5043603,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20500002,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 5052003,
+            "ItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043603,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150436031,
+            "RewardID": 10110
+          }
+        ],
+        "NewMakePageType": 4
+      },
+      {
+        "ID": 5043604,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedShowbookItemID": 5043604,
+        "NeedFormulaItemID": 5043604,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20500002,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 5052003,
+            "ItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043604,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150436041,
+            "RewardID": 10110
+          }
+        ],
+        "NewMakePageType": 4
+      },
+      {
+        "ID": 5043605,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedShowbookItemID": 5043605,
+        "NeedFormulaItemID": 5043605,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20500002,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 5052003,
+            "ItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043605,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150436051,
+            "RewardID": 10110
+          }
+        ],
+        "NewMakePageType": 4
+      },
+      {
+        "ID": 5043606,
         "NeedShowbookItemID": 5043606,
         "NeedFormulaItemID": 5043606,
         "MakeLevel": 1,
@@ -20852,12 +20972,94 @@
         ],
         "SuccessfulProbability": 0.9,
         "GetItemID": 5043606,
-        "MakeAchieveRewards": [
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043607,
+        "NeedShowbookItemID": 5043607,
+        "NeedFormulaItemID": 5043607,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
           {
-            "AchieveConditionID": 150436061,
-            "RewardID": 10210
+            "ItemID": 20500002,
+            "ItemCount": 9
+          },
+          {
+            "ItemID": 5052003,
+            "ItemCount": 4
           }
         ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043607,
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043608,
+        "NeedShowbookItemID": 5043608,
+        "NeedFormulaItemID": 5043608,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20500002,
+            "ItemCount": 9
+          },
+          {
+            "ItemID": 5052003,
+            "ItemCount": 4
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043608,
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043609,
+        "NeedShowbookItemID": 5043609,
+        "NeedFormulaItemID": 5043609,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20500002,
+            "ItemCount": 9
+          },
+          {
+            "ItemID": 5052003,
+            "ItemCount": 4
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043609,
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043610,
+        "NeedShowbookItemID": 5043610,
+        "NeedFormulaItemID": 5043610,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20500002,
+            "ItemCount": 9
+          },
+          {
+            "ItemID": 5052003,
+            "ItemCount": 4
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043610,
         "NewMakePageType": 2
       },
       {

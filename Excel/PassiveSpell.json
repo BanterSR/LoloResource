@@ -8814,6 +8814,101 @@
         "HideInSpellPanel": true
       },
       {
+        "ID": 40600000,
+        "TextID": 40570000,
+        "ScriptParams": [
+          0.017
+        ],
+        "ScriptID": 40620,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40600001,
+        "TextID": 40570001,
+        "ScriptParams": [
+          0.022
+        ],
+        "ScriptID": 40620,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40600002,
+        "TextID": 40570002,
+        "ScriptParams": [
+          0.028
+        ],
+        "ScriptID": 40620,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40600003,
+        "TextID": 40570003,
+        "ScriptParams": [
+          0.034
+        ],
+        "ScriptID": 40620,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40600004,
+        "TextID": 40570004,
+        "ScriptParams": [
+          0.041
+        ],
+        "ScriptID": 40620,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40610000,
+        "TextID": 40610000,
+        "ScriptParams": [
+          0.026,
+          1.5
+        ],
+        "ScriptID": 40500,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40610001,
+        "TextID": 40610001,
+        "ScriptParams": [
+          0.034,
+          1.5
+        ],
+        "ScriptID": 40500,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40610002,
+        "TextID": 40610002,
+        "ScriptParams": [
+          0.043,
+          1.5
+        ],
+        "ScriptID": 40500,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40610003,
+        "TextID": 40610003,
+        "ScriptParams": [
+          0.052,
+          1.5
+        ],
+        "ScriptID": 40500,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 40610004,
+        "TextID": 40610004,
+        "ScriptParams": [
+          0.064,
+          1.5
+        ],
+        "ScriptID": 40500,
+        "HideInSpellPanel": true
+      },
+      {
         "ID": 40620000,
         "TextID": 40620000,
         "ScriptParams": [
@@ -10047,8 +10142,8 @@
         "ID": 40890000,
         "TextID": 40890000,
         "ScriptParams": [
-          0.04,
-          0.015
+          0.061,
+          0.01
         ],
         "ScriptID": 40890,
         "HideInSpellPanel": true
@@ -10057,8 +10152,8 @@
         "ID": 40890001,
         "TextID": 40890001,
         "ScriptParams": [
-          0.05,
-          0.015
+          0.071,
+          0.012
         ],
         "ScriptID": 40890,
         "HideInSpellPanel": true
@@ -10067,8 +10162,8 @@
         "ID": 40890002,
         "TextID": 40890002,
         "ScriptParams": [
-          0.06,
-          0.015
+          0.082,
+          0.014
         ],
         "ScriptID": 40890,
         "HideInSpellPanel": true
@@ -10077,7 +10172,7 @@
         "ID": 40890003,
         "TextID": 40890003,
         "ScriptParams": [
-          0.07,
+          0.092,
           0.015
         ],
         "ScriptID": 40890,
@@ -10087,8 +10182,8 @@
         "ID": 40890004,
         "TextID": 40890004,
         "ScriptParams": [
-          0.08,
-          0.015
+          0.102,
+          0.017
         ],
         "ScriptID": 40890,
         "HideInSpellPanel": true

@@ -2718,7 +2718,24 @@
         "ID": 10610,
         "PosterPropertyGroupInfo": [
           {
-            "Star": 1
+            "Star": 1,
+            "SpellPassive": 40610000
+          },
+          {
+            "Star": 2,
+            "SpellPassive": 40610001
+          },
+          {
+            "Star": 3,
+            "SpellPassive": 40610002
+          },
+          {
+            "Star": 4,
+            "SpellPassive": 40610003
+          },
+          {
+            "Star": 5,
+            "SpellPassive": 40610004
           }
         ]
       },
@@ -5667,7 +5684,8 @@
       {
         "ID": 10610,
         "TextID": 10610,
-        "TextureID": 10610
+        "TextureID": 10610,
+        "IsShow": true
       },
       {
         "ID": 10620,
@@ -5823,7 +5841,8 @@
       {
         "ID": 10890,
         "TextID": 10890,
-        "TextureID": 10890
+        "TextureID": 10890,
+        "IsShow": true
       },
       {
         "ID": 10900,
