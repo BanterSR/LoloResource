@@ -18956,6 +18956,8 @@
       },
       {
         "ID": 5043412,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5043412,
         "NeedFormulaItemID": 5043412,
         "MakeLevel": 1,
@@ -20084,6 +20086,8 @@
       },
       {
         "ID": 5043440,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5043440,
         "NeedFormulaItemID": 5043440,
         "MakeLevel": 1,
@@ -20442,6 +20446,8 @@
       },
       {
         "ID": 5043449,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5043449,
         "NeedFormulaItemID": 5043449,
         "MakeLevel": 1,
@@ -20797,6 +20803,514 @@
         "MakeAchieveRewards": [
           {
             "AchieveConditionID": 150435081,
+            "RewardID": 10210
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043509,
+        "NeedShowbookItemID": 5043509,
+        "NeedFormulaItemID": 5043509,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20300002,
+            "ItemCount": 5
+          },
+          {
+            "ItemID": 5052008,
+            "ItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043509,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435091,
+            "RewardID": 10310
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043510,
+        "NeedShowbookItemID": 5043510,
+        "NeedFormulaItemID": 5043510,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20300002,
+            "ItemCount": 7
+          },
+          {
+            "ItemID": 5052008,
+            "ItemCount": 9
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043510,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435101,
+            "RewardID": 10110
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043511,
+        "NeedShowbookItemID": 5043511,
+        "NeedFormulaItemID": 5043511,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20300002,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 5052006,
+            "ItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043511,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435111,
+            "RewardID": 10210
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043512,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedShowbookItemID": 5043512,
+        "NeedFormulaItemID": 5043512,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20300002,
+            "ItemCount": 7
+          },
+          {
+            "ItemID": 5052016,
+            "ItemCount": 9
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043512,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435121,
+            "RewardID": 10310
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043513,
+        "NeedShowbookItemID": 5043513,
+        "NeedFormulaItemID": 5043513,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20500002,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 5052009,
+            "ItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043513,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435131,
+            "RewardID": 10110
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043514,
+        "NeedShowbookItemID": 5043514,
+        "NeedFormulaItemID": 5043514,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20500002,
+            "ItemCount": 6
+          },
+          {
+            "ItemID": 5052014,
+            "ItemCount": 4
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043514,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435141,
+            "RewardID": 10210
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043515,
+        "NeedShowbookItemID": 5043515,
+        "NeedFormulaItemID": 5043515,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20200002,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 5052002,
+            "ItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043515,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435151,
+            "RewardID": 10310
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043516,
+        "NeedShowbookItemID": 5043516,
+        "NeedFormulaItemID": 5043516,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20200002,
+            "ItemCount": 6
+          },
+          {
+            "ItemID": 5052019,
+            "ItemCount": 4
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043516,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435161,
+            "RewardID": 10110
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043517,
+        "NeedShowbookItemID": 5043517,
+        "NeedFormulaItemID": 5043517,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20200002,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 5052011,
+            "ItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043517,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435171,
+            "RewardID": 10210
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043518,
+        "NeedShowbookItemID": 5043518,
+        "NeedFormulaItemID": 5043518,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20200002,
+            "ItemCount": 8
+          },
+          {
+            "ItemID": 5052015,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043518,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435181,
+            "RewardID": 10310
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043519,
+        "NeedShowbookItemID": 5043519,
+        "NeedFormulaItemID": 5043519,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20200002,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 5031107,
+            "ItemCount": 8
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043519,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435191,
+            "RewardID": 10110
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043520,
+        "NeedShowbookItemID": 5043520,
+        "NeedFormulaItemID": 5043520,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20200002,
+            "ItemCount": 9
+          },
+          {
+            "ItemID": 5031113,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043520,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435201,
+            "RewardID": 10210
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043521,
+        "NeedShowbookItemID": 5043521,
+        "NeedFormulaItemID": 5043521,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20200002,
+            "ItemCount": 5
+          },
+          {
+            "ItemID": 5052021,
+            "ItemCount": 7
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043521,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435211,
+            "RewardID": 10310
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043522,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedShowbookItemID": 5043522,
+        "NeedFormulaItemID": 5043522,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20200002,
+            "ItemCount": 9
+          },
+          {
+            "ItemID": 5052001,
+            "ItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043522,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435221,
+            "RewardID": 10110
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043523,
+        "NeedShowbookItemID": 5043523,
+        "NeedFormulaItemID": 5043523,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20500002,
+            "ItemCount": 5
+          },
+          {
+            "ItemID": 5052013,
+            "ItemCount": 7
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043523,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435231,
+            "RewardID": 10210
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043524,
+        "NeedShowbookItemID": 5043524,
+        "NeedFormulaItemID": 5043524,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20500002,
+            "ItemCount": 8
+          },
+          {
+            "ItemID": 5031101,
+            "ItemCount": 5
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043524,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435241,
+            "RewardID": 10310
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043525,
+        "NeedShowbookItemID": 5043525,
+        "NeedFormulaItemID": 5043525,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20500002,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 5031106,
+            "ItemCount": 6
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043525,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435251,
+            "RewardID": 10110
+          }
+        ],
+        "NewMakePageType": 2
+      },
+      {
+        "ID": 5043526,
+        "NeedShowbookItemID": 5043526,
+        "NeedFormulaItemID": 5043526,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20500002,
+            "ItemCount": 8
+          },
+          {
+            "ItemID": 5031111,
+            "ItemCount": 9
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043526,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150435261,
             "RewardID": 10210
           }
         ],

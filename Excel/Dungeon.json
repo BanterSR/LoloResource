@@ -5395,6 +5395,28 @@
         "NewConsumptionMode": 3
       },
       {
+        "ID": 9600109,
+        "TitleID": 9600105,
+        "WorldID": 1,
+        "TitleIconID": 9600105,
+        "SceneID": 100105,
+        "ItemID": 6025,
+        "ItemNum": 1,
+        "NeedPlayerLevel": 1,
+        "DynamicLevel": true,
+        "RecommendLv": 1,
+        "FightTime": -1,
+        "UseCharacterMaxNumber": 1,
+        "RespawnTimes": 3,
+        "DengeonQuestID": 9600109,
+        "RewardID": 5040405,
+        "CanRePlay": true,
+        "SceneConfig": "SceneConfig/9600109/场景配置.asset",
+        "NewMissionType": 5,
+        "NewTreasureBoxRewardType": 3,
+        "NewConsumptionMode": 3
+      },
+      {
         "ID": 9710301,
         "TitleID": 9710301,
         "WorldID": 1,
@@ -10492,6 +10514,30 @@
           {
             "Index": 3,
             "AchieveConditionID": 20200406
+          }
+        ]
+      },
+      {
+        "ID": 9600109,
+        "DungeonQuestGroupInfo": [
+          {
+            "Index": 1,
+            "Active": true,
+            "AchieveConditionID": 20200505
+          },
+          {
+            "Index": 2,
+            "Active": true,
+            "AchieveConditionID": 20200506
+          },
+          {
+            "Index": 3,
+            "Active": true,
+            "AchieveConditionID": 20200507
+          },
+          {
+            "Index": 4,
+            "AchieveConditionID": 20200508
           }
         ]
       }

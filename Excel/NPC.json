@@ -1171,18 +1171,18 @@
       {
         "ID": 10231,
         "TextureID": 10231,
-        "OpeningTime": "2025-04-29 05:00:00",
-        "ClosingTime": "2025-05-13 23:59:59",
+        "OpeningTime": "2026-01-07 23:59:59",
+        "ClosingTime": "2026-01-21 23:59:59",
         "Path": "Model/NPC/Characters/",
         "Prefab": "NPC_寅",
         "Funcs": [
           {
             "NewNPCFunction": 21,
-            "SubMeterID": 9600105
+            "SubMeterID": 9600109
           },
           {
-            "NewNPCFunction": 2,
-            "SubMeterID": 10231
+            "NewNPCFunction": 25,
+            "SubMeterID": 30002
           },
           {
             "NewNPCFunction": 1,
@@ -1192,8 +1192,8 @@
       },
       {
         "ID": 10232,
-        "OpeningTime": "2025-04-29 05:00:00",
-        "ClosingTime": "2025-05-13 23:59:59",
+        "OpeningTime": "2026-01-07 23:59:59",
+        "ClosingTime": "2026-01-21 23:59:59",
         "Funcs": [
           {
             "NewNPCFunction": 22,
@@ -1203,8 +1203,8 @@
       },
       {
         "ID": 10233,
-        "OpeningTime": "2025-04-29 05:00:00",
-        "ClosingTime": "2025-05-13 23:59:59",
+        "OpeningTime": "2026-01-07 23:59:59",
+        "ClosingTime": "2026-01-21 23:59:59",
         "Funcs": [
           {
             "NewNPCFunction": 22,

@@ -455,6 +455,25 @@
             "AssetPath": "Assets/ResBundle/Video/技能演示/寅.mp4"
           }
         ]
+      },
+      {
+        "ID": 800005,
+        "Priority": 10,
+        "TotalDuration": 166,
+        "OpeningTime": "2026-01-08 00:00:00",
+        "ClosingTime": "2026-01-28 23:59:59",
+        "VideosGroupInfo": [
+          {
+            "Sequence": 1,
+            "Duration": 148,
+            "AssetPath": "Assets/ResBundle/Video/PV2_260108.mp4"
+          },
+          {
+            "Sequence": 2,
+            "Duration": 18,
+            "AssetPath": "Assets/ResBundle/Video/技能演示/莉.mp4"
+          }
+        ]
       }
     ]
   }
