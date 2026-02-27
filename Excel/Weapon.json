@@ -928,6 +928,186 @@
         "NewWeaponType": 21
       },
       {
+        "ID": 1009004,
+        "ItemID": 1009004,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100903,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_04",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009005,
+        "ItemID": 1009005,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100904,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_05",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009006,
+        "ItemID": 1009006,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100905,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_06",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009007,
+        "ItemID": 1009007,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100905,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_07",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009008,
+        "ItemID": 1009008,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100904,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_08",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009009,
+        "ItemID": 1009009,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100904,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_08_Lv2",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009010,
+        "ItemID": 1009010,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100904,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_08_Lv3",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009011,
+        "ItemID": 1009011,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100904,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_08_Lv4",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009012,
+        "ItemID": 1009012,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100904,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_08_Lv5",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009013,
+        "ItemID": 1009013,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100904,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_08_Lv6",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009014,
+        "ItemID": 1009014,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100904,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_08_Lv7",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009015,
+        "ItemID": 1009015,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100905,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_15",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
         "ID": 1019001,
         "ItemID": 1019001,
         "WeaponPropertyID": 1001001,
@@ -134199,6 +134379,39 @@
           1009182,
           1009182,
           1009182
+        ]
+      },
+      {
+        "ID": 100903,
+        "RollSpellIDs": [
+          1009183,
+          1009183,
+          1009183,
+          1009183,
+          1009183,
+          1009183
+        ]
+      },
+      {
+        "ID": 100904,
+        "RollSpellIDs": [
+          1009184,
+          1009184,
+          1009184,
+          1009184,
+          1009184,
+          1009184
+        ]
+      },
+      {
+        "ID": 100905,
+        "RollSpellIDs": [
+          1009185,
+          1009185,
+          1009185,
+          1009185,
+          1009185,
+          1009185
         ]
       }
     ]

@@ -1,0 +1,30 @@
+{
+  "GemDuelBuff": {
+    "Datas": [
+      {
+        "ID": 1001,
+        "Icon": 1001,
+        "Text": 1001,
+        "BuffType": 1,
+        "BuffTag": 1001,
+        "BuffEffectID": [
+          10011,
+          10012
+        ]
+      }
+    ]
+  },
+  "GemDuelBuffEffect": {
+    "Datas": [
+      {
+        "ID": 10011,
+        "param1": 3
+      },
+      {
+        "ID": 10012,
+        "param1": 2,
+        "NewIEffectType": 1
+      }
+    ]
+  }
+}

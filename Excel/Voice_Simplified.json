@@ -31808,7 +31808,7 @@
       },
       {
         "ID": 20401,
-        "SoundPath": "F07x/上/景点/景点F07x-01",
+        "SoundPath": "F07/上/景点/景点F07x-01",
         "SoundVolume": 1,
         "TextSpeaker": [
           "",
@@ -31829,7 +31829,7 @@
       },
       {
         "ID": 20402,
-        "SoundPath": "F07x/上/景点/景点F07x-02",
+        "SoundPath": "F07/上/景点/景点F07x-02",
         "SoundVolume": 1,
         "TextSpeaker": [
           "",
@@ -31850,7 +31850,7 @@
       },
       {
         "ID": 20403,
-        "SoundPath": "F07x/上/景点/景点F07x-03",
+        "SoundPath": "F07/上/景点/景点F07x-03",
         "SoundVolume": 1,
         "TextSpeaker": [
           "",
@@ -31871,7 +31871,7 @@
       },
       {
         "ID": 20404,
-        "SoundPath": "F07x/上/景点/景点F07x-04",
+        "SoundPath": "F07/上/景点/景点F07x-04",
         "SoundVolume": 1,
         "TextSpeaker": [
           "",
@@ -31892,7 +31892,7 @@
       },
       {
         "ID": 20405,
-        "SoundPath": "F07x/上/景点/景点F07x-05",
+        "SoundPath": "F07/上/景点/景点F07x-05",
         "SoundVolume": 1,
         "TextSpeaker": [
           "",
@@ -31913,7 +31913,7 @@
       },
       {
         "ID": 20406,
-        "SoundPath": "F07x/上/景点/景点F07x-06",
+        "SoundPath": "F07/上/景点/景点F07x-06",
         "SoundVolume": 1,
         "TextSpeaker": [
           "",
@@ -31934,7 +31934,7 @@
       },
       {
         "ID": 20407,
-        "SoundPath": "F07x/上/景点/景点F07x-07x",
+        "SoundPath": "F07/上/景点/景点F07x-07x",
         "SoundVolume": 1,
         "TextSpeaker": [
           "",
@@ -31955,7 +31955,7 @@
       },
       {
         "ID": 20408,
-        "SoundPath": "F07x/上/景点/景点F07x-08",
+        "SoundPath": "F07/上/景点/景点F07x-08",
         "SoundVolume": 1,
         "TextSpeaker": [
           "",
@@ -60621,6 +60621,424 @@
           },
           {
             "SoundPath": "角色台词/爱奥丽菈/玩家生日",
+            "SoundVolume": 1,
+            "Level": 94,
+            "NewVoiceType": 45,
+            "VoiceName": "队长生日"
+          }
+        ]
+      },
+      {
+        "ID": 401005,
+        "VoiceCharacterItem": [
+          {
+            "SoundPath": "角色台词/四喜/初次见面",
+            "SoundVolume": 1,
+            "Level": 1,
+            "NewVoiceType": 1,
+            "VoiceName": "初次见面"
+          },
+          {
+            "SoundPath": "角色台词/四喜/编入队伍",
+            "SoundVolume": 1,
+            "Level": 3,
+            "NewVoiceType": 2,
+            "VoiceName": "编入队伍"
+          },
+          {
+            "SoundPath": "角色台词/四喜/任命领队",
+            "SoundVolume": 1,
+            "Level": 5,
+            "NewVoiceType": 3,
+            "VoiceName": "任命领队"
+          },
+          {
+            "SoundPath": "角色台词/四喜/出发探索",
+            "SoundVolume": 1,
+            "Level": 7,
+            "NewVoiceType": 4,
+            "VoiceName": "出发探索"
+          },
+          {
+            "SoundPath": "角色台词/四喜/结算界面",
+            "SoundVolume": 1,
+            "Level": 10,
+            "NewVoiceType": 5,
+            "VoiceName": "结算界面"
+          },
+          {
+            "SoundPath": "角色台词/四喜/战斗开始",
+            "SoundVolume": 1,
+            "Level": 12,
+            "NewVoiceType": 6,
+            "VoiceName": "战斗开始"
+          },
+          {
+            "SoundPath": "角色台词/四喜/战斗开始（精英BOSS）",
+            "SoundVolume": 1,
+            "Level": 14,
+            "NewVoiceType": 7,
+            "VoiceName": "战斗开始（精英）"
+          },
+          {
+            "SoundPath": "角色台词/四喜/战斗语音-01",
+            "SoundVolume": 1,
+            "Level": 16,
+            "NewVoiceType": 8,
+            "VoiceName": "战斗语音01"
+          },
+          {
+            "SoundPath": "角色台词/四喜/战斗语音-02",
+            "SoundVolume": 1,
+            "Level": 18,
+            "NewVoiceType": 8,
+            "VoiceName": "战斗语音02"
+          },
+          {
+            "SoundPath": "角色台词/四喜/战斗语音-03",
+            "SoundVolume": 1,
+            "Level": 20,
+            "NewVoiceType": 8,
+            "VoiceName": "战斗语音03"
+          },
+          {
+            "SoundPath": "角色台词/四喜/战斗语音-04",
+            "SoundVolume": 1,
+            "Level": 22,
+            "NewVoiceType": 8,
+            "VoiceName": "战斗语音04"
+          },
+          {
+            "SoundPath": "角色台词/四喜/击杀怪物",
+            "SoundVolume": 1,
+            "Level": 24,
+            "NewVoiceType": 9,
+            "VoiceName": "击杀灰物"
+          },
+          {
+            "SoundPath": "角色台词/四喜/完美回避",
+            "SoundVolume": 1,
+            "Level": 26,
+            "NewVoiceType": 10,
+            "VoiceName": "完美回避"
+          },
+          {
+            "SoundPath": "角色台词/四喜/摔倒",
+            "SoundVolume": 1,
+            "Level": 28,
+            "NewVoiceType": 11,
+            "VoiceName": "摔倒"
+          },
+          {
+            "SoundPath": "角色台词/四喜/重受击",
+            "SoundVolume": 1,
+            "Level": 30,
+            "NewVoiceType": 12,
+            "VoiceName": "重受击"
+          },
+          {
+            "SoundPath": "角色台词/四喜/轻受击",
+            "SoundVolume": 1,
+            "Level": 32,
+            "NewVoiceType": 13,
+            "VoiceName": "轻受击"
+          },
+          {
+            "SoundPath": "角色台词/四喜/倒下",
+            "SoundVolume": 1,
+            "Level": 34,
+            "NewVoiceType": 14,
+            "VoiceName": "倒下"
+          },
+          {
+            "SoundPath": "角色台词/四喜/战斗失败",
+            "SoundVolume": 1,
+            "Level": 36,
+            "NewVoiceType": 15,
+            "VoiceName": "战斗失败"
+          },
+          {
+            "SoundPath": "角色台词/四喜/战斗结束",
+            "SoundVolume": 1,
+            "Level": 38,
+            "NewVoiceType": 16,
+            "VoiceName": "战斗结束"
+          },
+          {
+            "SoundPath": "角色台词/四喜/战斗结束（精英BOSS）",
+            "SoundVolume": 1,
+            "Level": 40,
+            "NewVoiceType": 17,
+            "VoiceName": "战斗结束（精英）"
+          },
+          {
+            "SoundPath": "角色台词/四喜/升级",
+            "SoundVolume": 1,
+            "Level": 42,
+            "NewVoiceType": 18,
+            "VoiceName": "升级"
+          },
+          {
+            "SoundPath": "角色台词/四喜/更换装备",
+            "SoundVolume": 1,
+            "Level": 44,
+            "NewVoiceType": 19,
+            "VoiceName": "更换装备"
+          },
+          {
+            "SoundPath": "角色台词/四喜/升星（突破1",
+            "SoundVolume": 1,
+            "Level": 46,
+            "NewVoiceType": 20,
+            "VoiceName": "晋升星级1"
+          },
+          {
+            "SoundPath": "角色台词/四喜/升星（突破2",
+            "SoundVolume": 1,
+            "Level": 48,
+            "NewVoiceType": 21,
+            "VoiceName": "晋升星级2"
+          },
+          {
+            "SoundPath": "角色台词/四喜/升星（突破3",
+            "SoundVolume": 1,
+            "Level": 50,
+            "NewVoiceType": 22,
+            "VoiceName": "晋升星级3"
+          },
+          {
+            "SoundPath": "角色台词/四喜/升星（突破4",
+            "SoundVolume": 1,
+            "Level": 52,
+            "NewVoiceType": 23,
+            "VoiceName": "晋升星级4"
+          },
+          {
+            "SoundPath": "角色台词/四喜/升星（突破5",
+            "SoundVolume": 1,
+            "Level": 54,
+            "NewVoiceType": 24,
+            "VoiceName": "晋升星级5"
+          },
+          {
+            "SoundPath": "角色台词/四喜/随机闲聊-01",
+            "SoundVolume": 1,
+            "Level": 56,
+            "NewVoiceType": 25,
+            "VoiceName": "随机闲聊01"
+          },
+          {
+            "SoundPath": "角色台词/四喜/随机闲聊-02",
+            "SoundVolume": 1,
+            "Level": 58,
+            "NewVoiceType": 25,
+            "VoiceName": "随机闲聊02"
+          },
+          {
+            "SoundPath": "角色台词/四喜/随机闲聊-03",
+            "SoundVolume": 1,
+            "Level": 60,
+            "NewVoiceType": 25,
+            "VoiceName": "随机闲聊03"
+          },
+          {
+            "SoundPath": "角色台词/四喜/随机闲聊-04",
+            "SoundVolume": 1,
+            "Level": 62,
+            "NewVoiceType": 25,
+            "VoiceName": "随机闲聊04"
+          },
+          {
+            "SoundPath": "角色台词/四喜/随机闲聊-05",
+            "SoundVolume": 1,
+            "Level": 64,
+            "NewVoiceType": 25,
+            "VoiceName": "随机闲聊05"
+          },
+          {
+            "SoundPath": "角色台词/四喜/技能一语音-01",
+            "SoundVolume": 1,
+            "Level": 66,
+            "NewVoiceType": 27,
+            "VoiceName": "技能I语音01"
+          },
+          {
+            "SoundPath": "角色台词/四喜/技能一语音-02",
+            "SoundVolume": 1,
+            "Level": 68,
+            "NewVoiceType": 27,
+            "VoiceName": "技能I语音02"
+          },
+          {
+            "SoundPath": "角色台词/四喜/技能一语音-03",
+            "SoundVolume": 1,
+            "Level": 70,
+            "NewVoiceType": 27,
+            "VoiceName": "技能I语音03"
+          },
+          {
+            "SoundPath": "角色台词/四喜/技能二语音-01",
+            "SoundVolume": 1,
+            "Level": 71,
+            "NewVoiceType": 28,
+            "VoiceName": "技能II语音01"
+          },
+          {
+            "SoundPath": "角色台词/四喜/技能二语音-02",
+            "SoundVolume": 1,
+            "Level": 72,
+            "NewVoiceType": 28,
+            "VoiceName": "技能II语音02"
+          },
+          {
+            "SoundPath": "角色台词/四喜/技能二语音-03",
+            "SoundVolume": 1,
+            "Level": 73,
+            "NewVoiceType": 28,
+            "VoiceName": "技能II语音03"
+          },
+          {
+            "SoundPath": "角色台词/四喜/必杀技语音-01",
+            "SoundVolume": 1,
+            "Level": 74,
+            "NewVoiceType": 29,
+            "VoiceName": "必杀技语音01"
+          },
+          {
+            "SoundPath": "角色台词/四喜/必杀技语音-02",
+            "SoundVolume": 1,
+            "Level": 75,
+            "NewVoiceType": 29,
+            "VoiceName": "必杀技语音02"
+          },
+          {
+            "SoundPath": "角色台词/四喜/救援",
+            "SoundVolume": 1,
+            "Level": 76,
+            "NewVoiceType": 30,
+            "VoiceName": "救援"
+          },
+          {
+            "SoundPath": "角色台词/四喜/被救援",
+            "SoundVolume": 1,
+            "Level": 77,
+            "NewVoiceType": 31,
+            "VoiceName": "被救援"
+          },
+          {
+            "SoundPath": "角色台词/四喜/打开宝箱-01",
+            "SoundVolume": 1,
+            "Level": 78,
+            "NewVoiceType": 32,
+            "VoiceName": "打开宝箱01"
+          },
+          {
+            "SoundPath": "角色台词/四喜/打开宝箱-02",
+            "SoundVolume": 1,
+            "Level": 79,
+            "NewVoiceType": 32,
+            "VoiceName": "打开宝箱02"
+          },
+          {
+            "SoundPath": "角色台词/四喜/打开宝箱-03",
+            "SoundVolume": 1,
+            "Level": 80,
+            "NewVoiceType": 32,
+            "VoiceName": "打开宝箱03"
+          },
+          {
+            "SoundPath": "角色台词/四喜/解谜成功-01",
+            "SoundVolume": 1,
+            "Level": 81,
+            "NewVoiceType": 33,
+            "VoiceName": "挑战成功01"
+          },
+          {
+            "SoundPath": "角色台词/四喜/解谜成功-02",
+            "SoundVolume": 1,
+            "Level": 82,
+            "NewVoiceType": 33,
+            "VoiceName": "挑战成功02"
+          },
+          {
+            "SoundPath": "角色台词/四喜/返回主城",
+            "SoundVolume": 1,
+            "Level": 83,
+            "NewVoiceType": 34,
+            "VoiceName": "返回罗塔花园"
+          },
+          {
+            "SoundPath": "角色台词/四喜/闲置",
+            "SoundVolume": 1,
+            "Level": 84,
+            "NewVoiceType": 35,
+            "VoiceName": "闲置"
+          },
+          {
+            "SoundPath": "角色台词/四喜/房间",
+            "SoundVolume": 1,
+            "Level": 85,
+            "NewVoiceType": 36,
+            "VoiceName": "房间"
+          },
+          {
+            "SoundPath": "角色台词/四喜/玩家回归",
+            "SoundVolume": 1,
+            "Level": 86,
+            "NewVoiceType": 37,
+            "VoiceName": "回归"
+          },
+          {
+            "SoundPath": "角色台词/四喜/问候（早）",
+            "SoundVolume": 1,
+            "Level": 87,
+            "NewVoiceType": 38,
+            "VoiceName": "问候（早）"
+          },
+          {
+            "SoundPath": "角色台词/四喜/问候（中）",
+            "SoundVolume": 1,
+            "Level": 88,
+            "NewVoiceType": 39,
+            "VoiceName": "问候（中）"
+          },
+          {
+            "SoundPath": "角色台词/四喜/问候（晚）",
+            "SoundVolume": 1,
+            "Level": 89,
+            "NewVoiceType": 40,
+            "VoiceName": "问候（晚）"
+          },
+          {
+            "SoundPath": "角色台词/四喜/深夜",
+            "SoundVolume": 1,
+            "Level": 90,
+            "NewVoiceType": 41,
+            "VoiceName": "深夜"
+          },
+          {
+            "SoundPath": "角色台词/四喜/晴天",
+            "SoundVolume": 1,
+            "Level": 91,
+            "NewVoiceType": 42,
+            "VoiceName": "晴天"
+          },
+          {
+            "SoundPath": "角色台词/四喜/雨天",
+            "SoundVolume": 1,
+            "Level": 92,
+            "NewVoiceType": 43,
+            "VoiceName": "雨天"
+          },
+          {
+            "SoundPath": "角色台词/四喜/角色生日",
+            "SoundVolume": 1,
+            "Level": 93,
+            "NewVoiceType": 44,
+            "VoiceName": "探索员生日"
+          },
+          {
+            "SoundPath": "角色台词/四喜/玩家生日",
             "SoundVolume": 1,
             "Level": 94,
             "NewVoiceType": 45,

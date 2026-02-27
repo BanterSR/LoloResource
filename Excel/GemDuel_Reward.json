@@ -1,0 +1,155 @@
+{
+  "GemDuelRewardPool": {
+    "Datas": [
+      {
+        "ID": 1001,
+        "Items": [
+          {
+            "RewardPoolGroupID": 10011,
+            "RewardPoolGroupRate": 1
+          },
+          {
+            "RewardPoolGroupID": 10012,
+            "RewardPoolGroupRate": 0.5
+          }
+        ]
+      },
+      {
+        "ID": 1002,
+        "Items": [
+          {
+            "RewardPoolGroupID": 10021,
+            "RewardPoolGroupRate": 1
+          }
+        ]
+      },
+      {
+        "ID": 1003,
+        "Items": [
+          {
+            "RewardPoolGroupID": 10031,
+            "RewardPoolGroupRate": 1
+          }
+        ]
+      },
+      {
+        "ID": 6000010,
+        "Items": [
+          {
+            "RewardPoolGroupID": 6000010,
+            "RewardPoolGroupRate": 1
+          }
+        ]
+      },
+      {
+        "ID": 99999999,
+        "Items": [
+          {
+            "RewardPoolGroupID": 99999999,
+            "RewardPoolGroupRate": 1
+          }
+        ]
+      }
+    ]
+  },
+  "GemDuelRewardGroupPool": {
+    "Datas": [
+      {
+        "ID": 10011,
+        "Items": [
+          {
+            "ItemID": 170,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "Weight": 100
+          }
+        ]
+      },
+      {
+        "ID": 10012,
+        "Items": [
+          {
+            "ItemID": 171,
+            "ItemMinCount": 10,
+            "ItemMaxCount": 10,
+            "Weight": 100
+          }
+        ]
+      },
+      {
+        "ID": 10021,
+        "Items": [
+          {
+            "ItemID": 190,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "Weight": 100
+          },
+          {
+            "ItemID": 191,
+            "ItemMinCount": 2,
+            "ItemMaxCount": 2,
+            "Weight": 30
+          }
+        ]
+      },
+      {
+        "ID": 10031,
+        "Items": [
+          {
+            "ItemID": 192,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "Weight": 100
+          }
+        ]
+      },
+      {
+        "ID": 6000010,
+        "Items": [
+          {
+            "ItemID": 300,
+            "ItemMinCount": 5,
+            "ItemMaxCount": 5,
+            "Weight": 1
+          },
+          {
+            "ItemID": 301,
+            "ItemMinCount": 5,
+            "ItemMaxCount": 5,
+            "Weight": 1
+          },
+          {
+            "ItemID": 302,
+            "ItemMinCount": 5,
+            "ItemMaxCount": 5,
+            "Weight": 1
+          },
+          {
+            "ItemID": 303,
+            "ItemMinCount": 5,
+            "ItemMaxCount": 5,
+            "Weight": 1
+          },
+          {
+            "ItemID": 304,
+            "ItemMinCount": 5,
+            "ItemMaxCount": 5,
+            "Weight": 1
+          }
+        ]
+      },
+      {
+        "ID": 99999999,
+        "Items": [
+          {
+            "ItemID": 101,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "Weight": 1
+          }
+        ]
+      }
+    ]
+  }
+}

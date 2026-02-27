@@ -5669,34 +5669,6 @@
         ]
       },
       {
-        "ID": 46007,
-        "TextID": 46007,
-        "IconID": 8,
-        "SceneID": 4,
-        "FlagGroupInfo": [
-          {
-            "Index": 1,
-            "IsItemUnlock": true,
-            "NewMissionType": 6,
-            "RelationID": 460070
-          }
-        ]
-      },
-      {
-        "ID": 46008,
-        "TextID": 46008,
-        "IconID": 8,
-        "SceneID": 4,
-        "FlagGroupInfo": [
-          {
-            "Index": 1,
-            "IsItemUnlock": true,
-            "NewMissionType": 6,
-            "RelationID": 460080
-          }
-        ]
-      },
-      {
         "ID": 47001,
         "TextID": 47001,
         "IconID": 8,
@@ -7857,6 +7829,20 @@
             "IsItemUnlock": true,
             "NewMissionType": 5,
             "RelationID": 9600109
+          }
+        ]
+      },
+      {
+        "ID": 9600110,
+        "TextID": 9600110,
+        "IconID": 8,
+        "SceneID": 9999,
+        "FlagGroupInfo": [
+          {
+            "Index": 1,
+            "IsItemUnlock": true,
+            "NewMissionType": 5,
+            "RelationID": 9600110
           }
         ]
       }

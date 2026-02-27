@@ -422,6 +422,46 @@
         "NewShowType": 1
       },
       {
+        "ID": 3018,
+        "OpeningTime": "2026-01-29 00:00:00",
+        "ClosingTime": "2026-02-11 23:59:59",
+        "TextID": 3018,
+        "IconID": 3018,
+        "Method1ID": 3018,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 401005,
+        "VideoID1": 401005,
+        "PracticeCharacterID1": 401005,
+        "BigGuaranteePoolID": 3018,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3019,
+        "OpeningTime": "2026-02-12 00:00:00",
+        "ClosingTime": "2026-03-04 23:59:59",
+        "TextID": 3019,
+        "IconID": 3019,
+        "Method1ID": 3019,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 401005,
+        "VideoID1": 401005,
+        "PracticeCharacterID1": 401005,
+        "BigGuaranteePoolID": 3019,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
         "ID": 4000,
         "Index": 4,
         "TextID": 4000,
@@ -733,6 +773,46 @@
           },
           {
             "FreeGachaPoolID": 3016
+          }
+        ]
+      },
+      {
+        "ID": 3018,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3018
+          }
+        ]
+      },
+      {
+        "ID": 3019,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3019
           }
         ]
       },
@@ -1212,6 +1292,22 @@
         "Items": [
           {
             "ItemID": 201003
+          }
+        ]
+      },
+      {
+        "ID": 3018,
+        "Items": [
+          {
+            "ItemID": 401005
+          }
+        ]
+      },
+      {
+        "ID": 3019,
+        "Items": [
+          {
+            "ItemID": 401005
           }
         ]
       },

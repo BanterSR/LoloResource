@@ -10454,11 +10454,11 @@
       {
         "ID": 2107,
         "Key": "Text_Npc_Water",
-        "ChineseSimplified": "倒入食材",
-        "ChineseTraditional": "倒入食材",
-        "English": "Add Ingredients",
-        "Japanese": "倒入食材",
-        "Korea": "식재료 투입"
+        "ChineseSimplified": "喂汤圆",
+        "ChineseTraditional": "餵湯圓",
+        "English": "Feed Tangyuan",
+        "Japanese": "湯円をあげる",
+        "Korea": "탕위안 먹이기"
       },
       {
         "ID": 2108,
@@ -11896,12 +11896,12 @@
       {
         "ID": 2613,
         "Key": "Text_Vehicle_Fashion",
-        "ChineseSimplified": "载具上不能使用时装\u0022友情的重量\u0022"
+        "ChineseSimplified": "载具上不能使用可以坐的时装"
       },
       {
         "ID": 2614,
         "Key": "Text_Fashion_Vehicle",
-        "ChineseSimplified": "穿着时装\u0022友情的重量\u0022下不能使用载具"
+        "ChineseSimplified": "穿着带椅子的时装下不能使用载具"
       },
       {
         "ID": 2615,
@@ -11974,6 +11974,39 @@
         "ChineseSimplified": "载具"
       },
       {
+        "ID": 2629,
+        "Key": "Text_Npc_Tree",
+        "ChineseSimplified": "兑换",
+        "ChineseTraditional": "兌換",
+        "English": "exchanges",
+        "Japanese": "交換",
+        "Korea": "환전"
+      },
+      {
+        "ID": 2630,
+        "Key": "Text_Friend_Off_Time1",
+        "ChineseSimplified": "{0}小时内"
+      },
+      {
+        "ID": 2631,
+        "Key": "Text_Friend_Off_Time2",
+        "ChineseSimplified": "{0}天前"
+      },
+      {
+        "ID": 2632,
+        "Key": "Text_Friend_Off_Time3",
+        "ChineseSimplified": "30天以上"
+      },
+      {
+        "ID": 2700,
+        "Key": "Text_Quest_ExtraChapter_Tips",
+        "ChineseSimplified": "{0} 重新登陆后解锁！",
+        "ChineseTraditional": "{0} 08:00（UTC 8）重新登入後解鎖！",
+        "English": "Unlock after logging in again on {0} (UTC\u002B8)!",
+        "Japanese": "{0}（UTC\u002B8）に再ログイン後にアンロック！",
+        "Korea": "{0}（UTC 8）다시로그인하면잠금해제됩니다!"
+      },
+      {
         "ID": 2701,
         "Key": "Text_Npc_Tree",
         "ChineseSimplified": "兑换",
@@ -11981,6 +12014,11 @@
         "English": "exchanges",
         "Japanese": "交換",
         "Korea": "환전"
+      },
+      {
+        "ID": 3000,
+        "Key": "Text_GemDuelGachaUp_Desc",
+        "ChineseSimplified": "招募{0}次内必出\u003C#D200FF\u003E当期UP卡牌\u003C/color\u003E"
       },
       {
         "ID": 10000,

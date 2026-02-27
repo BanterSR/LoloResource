@@ -1,0 +1,2290 @@
+{
+  "GemDuelBattlePass": {
+    "Datas": [
+      {
+        "ID": 10000,
+        "OpeningTime": "2026-02-01 00:00:00",
+        "ClosingTime": "2026-02-28 23:59:59",
+        "ShopID": 100000,
+        "BuyExp": 1000,
+        "ExpCostItem": 101,
+        "ExpCostNumber": 100,
+        "GetExp": 1000,
+        "GemDuelBattlePassItem": [
+          {
+            "Level": 1,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 11,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 12,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 13,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 14,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 15,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 16,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 17,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 18,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 19,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 20,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 21,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 22,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 23,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 24,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 25,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 26,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 27,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 28,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 29,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 30,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 31,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 32,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 33,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 34,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 35,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 36,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 37,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 38,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 39,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 40,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 41,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 42,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 43,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 44,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 45,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 46,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 47,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 48,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 49,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 50,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 51,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 52,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 53,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 54,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 55,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 56,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 57,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 58,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 59,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 60,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 61,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 62,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 63,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 64,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 65,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 66,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 67,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 68,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 69,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 70,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 10010,
+        "OpeningTime": "2026-03-01 00:00:00",
+        "ClosingTime": "2026-03-28 23:59:59",
+        "ShopID": 100010,
+        "BuyExp": 1000,
+        "ExpCostItem": 101,
+        "ExpCostNumber": 100,
+        "GetExp": 1000,
+        "GemDuelBattlePassItem": [
+          {
+            "Level": 1,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 8,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 9,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 10,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 11,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 12,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 13,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 14,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 15,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 16,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 17,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 18,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 19,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 20,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 21,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 22,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 23,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 24,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 25,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 26,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 27,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 28,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 29,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 30,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 31,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 32,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 33,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 34,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 35,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 36,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 37,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 38,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 39,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 40,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 41,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 42,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 43,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 44,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 45,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 46,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 47,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 48,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 49,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "Level": 50,
+            "Exp": 1000,
+            "IsExpensive": true,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "Level": 51,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 52,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 53,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 54,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 55,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 56,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 57,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 58,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 59,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 60,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 61,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 62,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 63,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 64,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 65,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 66,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 67,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 68,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 69,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          },
+          {
+            "Level": 70,
+            "Exp": 1000,
+            "GemDuelBattlePassFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelBattlePassNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1000
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

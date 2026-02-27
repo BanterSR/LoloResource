@@ -4200,6 +4200,19 @@
         ]
       },
       {
+        "ID": 200141,
+        "StoryReviewSet": [
+          {
+            "Name": 2001412,
+            "DialogID": 2001412
+          },
+          {
+            "Name": 2001422,
+            "DialogID": 2001422
+          }
+        ]
+      },
+      {
         "ID": 220011,
         "StoryReviewSet": [
           {
@@ -4668,6 +4681,16 @@
             "LvUnlock": 1,
             "QuestID": 200131,
             "ReviewID": 200131
+          },
+          {
+            "TextID": 200141,
+            "Index": 5,
+            "IconID": 200141,
+            "QuestUnlock": 108113,
+            "LvUnlock": 1,
+            "QuestID": 200141,
+            "ReviewID": 200141,
+            "TimeUnlock": "2026-02-12 08:00:00"
           }
         ]
       },

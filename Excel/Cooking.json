@@ -4585,6 +4585,34 @@
         "GetItemID": 6029,
         "NewCookPageType": 4,
         "NewCookToolType": 3
+      },
+      {
+        "ID": 6043,
+        "IsShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "OpeningTime": "2026-02-26 00:00:00",
+        "ClosingTime": "2026-03-11 23:59:59",
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 6041,
+            "FoodItemCount": 3
+          },
+          {
+            "FoodItemID": 6042,
+            "FoodItemCount": 7
+          },
+          {
+            "FoodItemID": 5011013,
+            "FoodItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 6043,
+        "NewCookPageType": 4,
+        "NewCookToolType": 3
       }
     ]
   },

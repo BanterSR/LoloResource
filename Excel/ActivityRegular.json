@@ -63,10 +63,18 @@
         "PoolID": 50893
       },
       {
+        "ID": 4010
+      },
+      {
         "ID": 26010820,
         "DailyPoolID": 40041,
         "RandomPoolID": 40042,
         "PoolID": 40043
+      },
+      {
+        "ID": 4011,
+        "DailyPoolID": 40111,
+        "RandomPoolID": 40112
       }
     ]
   },
@@ -1562,6 +1570,215 @@
               {
                 "ItemID": 102,
                 "ItemNum": 30
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 40111,
+        "ActivityRegularPoolItem": [
+          {
+            "AchieveID": 80401101,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 6
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 14
+              },
+              {
+                "ItemID": 5011013,
+                "ItemNum": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 40112,
+        "ActivityRegularPoolItem": [
+          {
+            "AchieveID": 80401111,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 7
+              }
+            ]
+          },
+          {
+            "AchieveID": 80401112,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 5
+              }
+            ]
+          },
+          {
+            "AchieveID": 80401113,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 4
+              }
+            ]
+          },
+          {
+            "AchieveID": 80401114,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 7
+              }
+            ]
+          },
+          {
+            "AchieveID": 80401115,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 5
+              }
+            ]
+          },
+          {
+            "AchieveID": 80401116,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 4
+              }
+            ]
+          },
+          {
+            "AchieveID": 80401117,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 7
+              }
+            ]
+          },
+          {
+            "AchieveID": 80401118,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 5
+              }
+            ]
+          },
+          {
+            "AchieveID": 80401119,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 4
+              }
+            ]
+          },
+          {
+            "AchieveID": 80401120,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 7
+              }
+            ]
+          },
+          {
+            "AchieveID": 80401121,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 5
+              }
+            ]
+          },
+          {
+            "AchieveID": 80401122,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 4
+              }
+            ]
+          },
+          {
+            "AchieveID": 80401123,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 7
+              }
+            ]
+          },
+          {
+            "AchieveID": 80401124,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 6041,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 6042,
+                "ItemNum": 5
               }
             ]
           }

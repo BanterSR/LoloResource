@@ -4,12 +4,11 @@
       {
         "ID": 1001,
         "Text": 1001,
-        "JobTag": [
-          1
-        ],
-        "RaceTag": [
-          1
-        ],
+        "Icon": 1001,
+        "ItemID": 1001,
+        "RaceTag": 101,
+        "InitialStar": 1,
+        "JobTag": 1,
         "ColorType": [
           1001
         ],
@@ -24,12 +23,11 @@
       {
         "ID": 1002,
         "Text": 1002,
-        "JobTag": [
-          1
-        ],
-        "RaceTag": [
-          2
-        ],
+        "Icon": 1002,
+        "ItemID": 1002,
+        "RaceTag": 102,
+        "InitialStar": 1,
+        "JobTag": 2,
         "ColorType": [
           1002
         ],
@@ -44,12 +42,11 @@
       {
         "ID": 1003,
         "Text": 1003,
-        "JobTag": [
-          1
-        ],
-        "RaceTag": [
-          3
-        ],
+        "Icon": 1003,
+        "ItemID": 1003,
+        "RaceTag": 103,
+        "InitialStar": 1,
+        "JobTag": 3,
         "ColorType": [
           1003
         ],
@@ -64,12 +61,11 @@
       {
         "ID": 1004,
         "Text": 1004,
-        "JobTag": [
-          2
-        ],
-        "RaceTag": [
-          4
-        ],
+        "Icon": 1004,
+        "ItemID": 1004,
+        "RaceTag": 104,
+        "InitialStar": 1,
+        "JobTag": 4,
         "ColorType": [
           1004
         ],
@@ -84,12 +80,11 @@
       {
         "ID": 1005,
         "Text": 1005,
-        "JobTag": [
-          2
-        ],
-        "RaceTag": [
-          5
-        ],
+        "Icon": 1005,
+        "ItemID": 1005,
+        "RaceTag": 101,
+        "InitialStar": 2,
+        "JobTag": 1,
         "ColorType": [
           1005
         ],
@@ -104,12 +99,11 @@
       {
         "ID": 1006,
         "Text": 1006,
-        "JobTag": [
-          2
-        ],
-        "RaceTag": [
-          6
-        ],
+        "Icon": 1006,
+        "ItemID": 1006,
+        "RaceTag": 102,
+        "InitialStar": 2,
+        "JobTag": 2,
         "ColorType": [
           1006
         ],
@@ -124,12 +118,165 @@
       {
         "ID": 1007,
         "Text": 1007,
-        "JobTag": [
-          3
+        "Icon": 1007,
+        "ItemID": 1007,
+        "RaceTag": 103,
+        "InitialStar": 2,
+        "JobTag": 3,
+        "ColorType": [
+          1002,
+          1003
         ],
-        "RaceTag": [
-          7
+        "EnergyMax": 13,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 1008,
+        "Text": 1008,
+        "Icon": 1008,
+        "ItemID": 1008,
+        "RaceTag": 104,
+        "InitialStar": 2,
+        "JobTag": 4,
+        "ColorType": [
+          1002,
+          1005
         ],
+        "EnergyMax": 15,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 2001,
+        "Text": 2001,
+        "Icon": 2001,
+        "ItemID": 2001,
+        "RaceTag": 101,
+        "InitialStar": 2,
+        "JobTag": 1,
+        "ColorType": [
+          1001
+        ],
+        "EnergyMax": 4,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 2002,
+        "Text": 2002,
+        "Icon": 2002,
+        "ItemID": 2002,
+        "RaceTag": 102,
+        "InitialStar": 2,
+        "JobTag": 2,
+        "ColorType": [
+          1002
+        ],
+        "EnergyMax": 5,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 2003,
+        "Text": 2003,
+        "Icon": 2003,
+        "ItemID": 2003,
+        "RaceTag": 103,
+        "InitialStar": 2,
+        "JobTag": 3,
+        "ColorType": [
+          1003
+        ],
+        "EnergyMax": 6,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 2004,
+        "Text": 2004,
+        "Icon": 2004,
+        "ItemID": 2004,
+        "RaceTag": 104,
+        "InitialStar": 3,
+        "JobTag": 4,
+        "ColorType": [
+          1004
+        ],
+        "EnergyMax": 7,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 2005,
+        "Text": 2005,
+        "Icon": 2005,
+        "ItemID": 2005,
+        "RaceTag": 101,
+        "InitialStar": 3,
+        "JobTag": 1,
+        "ColorType": [
+          1005
+        ],
+        "EnergyMax": 8,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 2006,
+        "Text": 2006,
+        "Icon": 2006,
+        "ItemID": 2006,
+        "RaceTag": 102,
+        "InitialStar": 3,
+        "JobTag": 2,
+        "ColorType": [
+          1006
+        ],
+        "EnergyMax": 9,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 2007,
+        "Text": 2007,
+        "Icon": 2007,
+        "ItemID": 2007,
+        "RaceTag": 103,
+        "InitialStar": 3,
+        "JobTag": 3,
         "ColorType": [
           1002,
           1004
@@ -143,16 +290,1013 @@
         "SkillUnlock": 1002
       },
       {
-        "ID": 1008,
-        "Text": 1008,
-        "JobTag": [
-          3
-        ],
-        "RaceTag": [
-          8
-        ],
+        "ID": 2008,
+        "Text": 2008,
+        "Icon": 2008,
+        "ItemID": 2008,
+        "RaceTag": 104,
+        "InitialStar": 3,
+        "JobTag": 4,
         "ColorType": [
           1001,
+          1003
+        ],
+        "EnergyMax": 15,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 2009,
+        "Text": 2009,
+        "Icon": 2009,
+        "ItemID": 2009,
+        "RaceTag": 101,
+        "InitialStar": 3,
+        "JobTag": 1,
+        "ColorType": [
+          1001
+        ],
+        "EnergyMax": 4,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 2010,
+        "Text": 2010,
+        "Icon": 2010,
+        "ItemID": 2010,
+        "RaceTag": 102,
+        "InitialStar": 3,
+        "JobTag": 2,
+        "ColorType": [
+          1002
+        ],
+        "EnergyMax": 5,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 3001,
+        "Text": 3001,
+        "Icon": 3001,
+        "ItemID": 3001,
+        "RaceTag": 101,
+        "InitialStar": 3,
+        "JobTag": 1,
+        "ColorType": [
+          1001
+        ],
+        "EnergyMax": 4,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 21000110,
+        "Skill3ID": 21000120,
+        "Skill4ID": 21000130,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 3002,
+        "Text": 3002,
+        "Icon": 3002,
+        "ItemID": 3002,
+        "RaceTag": 102,
+        "InitialStar": 3,
+        "JobTag": 2,
+        "ColorType": [
+          1002
+        ],
+        "EnergyMax": 5,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 21000210,
+        "Skill3ID": 21000220,
+        "Skill4ID": 21000230,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 3003,
+        "Text": 3003,
+        "Icon": 3003,
+        "ItemID": 3003,
+        "RaceTag": 103,
+        "InitialStar": 3,
+        "JobTag": 3,
+        "ColorType": [
+          1003
+        ],
+        "EnergyMax": 6,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 21000310,
+        "Skill3ID": 21000320,
+        "Skill4ID": 21000330,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 3004,
+        "Text": 3004,
+        "Icon": 3004,
+        "ItemID": 3004,
+        "RaceTag": 104,
+        "InitialStar": 3,
+        "JobTag": 4,
+        "ColorType": [
+          1004
+        ],
+        "EnergyMax": 7,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 3005,
+        "Text": 3005,
+        "Icon": 3005,
+        "ItemID": 3005,
+        "RaceTag": 101,
+        "InitialStar": 3,
+        "JobTag": 1,
+        "ColorType": [
+          1005
+        ],
+        "EnergyMax": 8,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 3006,
+        "Text": 3006,
+        "Icon": 3006,
+        "ItemID": 3006,
+        "RaceTag": 102,
+        "InitialStar": 3,
+        "JobTag": 2,
+        "ColorType": [
+          1006
+        ],
+        "EnergyMax": 9,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 3007,
+        "Text": 3007,
+        "Icon": 3007,
+        "ItemID": 3007,
+        "RaceTag": 103,
+        "InitialStar": 3,
+        "JobTag": 3,
+        "ColorType": [
+          1002,
+          1004
+        ],
+        "EnergyMax": 13,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 3008,
+        "Text": 3008,
+        "Icon": 3008,
+        "ItemID": 3008,
+        "RaceTag": 104,
+        "InitialStar": 3,
+        "JobTag": 4,
+        "ColorType": [
+          1003,
+          1005
+        ],
+        "EnergyMax": 15,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 3009,
+        "Text": 3009,
+        "Icon": 3009,
+        "ItemID": 3009,
+        "RaceTag": 101,
+        "InitialStar": 3,
+        "JobTag": 1,
+        "ColorType": [
+          1001
+        ],
+        "EnergyMax": 4,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 3010,
+        "Text": 3010,
+        "Icon": 3010,
+        "ItemID": 3010,
+        "RaceTag": 102,
+        "InitialStar": 3,
+        "JobTag": 2,
+        "ColorType": [
+          1002
+        ],
+        "EnergyMax": 5,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4001,
+        "Text": 4001,
+        "Icon": 4001,
+        "ItemID": 4001,
+        "RaceTag": 101,
+        "InitialStar": 4,
+        "JobTag": 1,
+        "ColorType": [
+          1001
+        ],
+        "EnergyMax": 4,
+        "Attribute": 1001,
+        "Skill1ID": 30001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4002,
+        "Text": 4002,
+        "Icon": 4002,
+        "ItemID": 4002,
+        "RaceTag": 102,
+        "InitialStar": 4,
+        "JobTag": 2,
+        "ColorType": [
+          1002
+        ],
+        "EnergyMax": 5,
+        "Attribute": 1001,
+        "Skill1ID": 30002,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4003,
+        "Text": 4003,
+        "Icon": 4003,
+        "ItemID": 4003,
+        "RaceTag": 103,
+        "InitialStar": 4,
+        "JobTag": 3,
+        "ColorType": [
+          1003
+        ],
+        "EnergyMax": 6,
+        "Attribute": 1001,
+        "Skill1ID": 30003,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4004,
+        "Text": 4004,
+        "Icon": 4004,
+        "ItemID": 4004,
+        "RaceTag": 104,
+        "InitialStar": 4,
+        "JobTag": 4,
+        "ColorType": [
+          1004
+        ],
+        "EnergyMax": 7,
+        "Attribute": 1002,
+        "Skill1ID": 30004,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4005,
+        "Text": 4005,
+        "Icon": 4005,
+        "ItemID": 4005,
+        "RaceTag": 101,
+        "InitialStar": 4,
+        "JobTag": 1,
+        "ColorType": [
+          1005
+        ],
+        "EnergyMax": 8,
+        "Attribute": 1002,
+        "Skill1ID": 30005,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4006,
+        "Text": 4006,
+        "Icon": 4006,
+        "ItemID": 4006,
+        "RaceTag": 102,
+        "InitialStar": 4,
+        "JobTag": 2,
+        "ColorType": [
+          1006
+        ],
+        "EnergyMax": 9,
+        "Attribute": 1002,
+        "Skill1ID": 30006,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4007,
+        "Text": 4007,
+        "Icon": 4007,
+        "ItemID": 4007,
+        "RaceTag": 103,
+        "InitialStar": 4,
+        "JobTag": 3,
+        "ColorType": [
+          1002,
+          1004
+        ],
+        "EnergyMax": 13,
+        "Attribute": 1002,
+        "Skill1ID": 30007,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4008,
+        "Text": 4008,
+        "Icon": 4008,
+        "ItemID": 4008,
+        "RaceTag": 104,
+        "InitialStar": 4,
+        "JobTag": 4,
+        "ColorType": [
+          1003,
+          1005
+        ],
+        "EnergyMax": 15,
+        "Attribute": 1002,
+        "Skill1ID": 30008,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4009,
+        "Text": 4009,
+        "Icon": 4009,
+        "ItemID": 4009,
+        "RaceTag": 101,
+        "InitialStar": 4,
+        "JobTag": 1,
+        "ColorType": [
+          1001
+        ],
+        "EnergyMax": 4,
+        "Attribute": 1001,
+        "Skill1ID": 30009,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4010,
+        "Text": 4010,
+        "Icon": 4010,
+        "ItemID": 4010,
+        "RaceTag": 102,
+        "InitialStar": 4,
+        "JobTag": 2,
+        "ColorType": [
+          1002
+        ],
+        "EnergyMax": 5,
+        "Attribute": 1001,
+        "Skill1ID": 30010,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4011,
+        "Text": 4011,
+        "Icon": 4011,
+        "ItemID": 4011,
+        "RaceTag": 101,
+        "InitialStar": 4,
+        "JobTag": 1,
+        "ColorType": [
+          1003
+        ],
+        "EnergyMax": 6,
+        "Attribute": 1001,
+        "Skill1ID": 30011,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4012,
+        "Text": 4012,
+        "Icon": 4012,
+        "ItemID": 4012,
+        "RaceTag": 102,
+        "InitialStar": 4,
+        "JobTag": 2,
+        "ColorType": [
+          1004
+        ],
+        "EnergyMax": 7,
+        "Attribute": 1002,
+        "Skill1ID": 30012,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4013,
+        "Text": 4013,
+        "Icon": 4013,
+        "ItemID": 4013,
+        "RaceTag": 103,
+        "InitialStar": 4,
+        "JobTag": 3,
+        "ColorType": [
+          1005
+        ],
+        "EnergyMax": 8,
+        "Attribute": 1002,
+        "Skill1ID": 30013,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4014,
+        "Text": 4014,
+        "Icon": 4014,
+        "ItemID": 4014,
+        "RaceTag": 104,
+        "InitialStar": 4,
+        "JobTag": 4,
+        "ColorType": [
+          1006
+        ],
+        "EnergyMax": 9,
+        "Attribute": 1002,
+        "Skill1ID": 30014,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4015,
+        "Text": 4015,
+        "Icon": 4015,
+        "ItemID": 4015,
+        "RaceTag": 101,
+        "InitialStar": 4,
+        "JobTag": 1,
+        "ColorType": [
+          1001,
+          1004
+        ],
+        "EnergyMax": 13,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4016,
+        "Text": 4016,
+        "Icon": 4016,
+        "ItemID": 4016,
+        "RaceTag": 102,
+        "InitialStar": 4,
+        "JobTag": 2,
+        "ColorType": [
+          1001,
+          1005
+        ],
+        "EnergyMax": 15,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4017,
+        "Text": 4017,
+        "Icon": 4017,
+        "ItemID": 4017,
+        "RaceTag": 103,
+        "InitialStar": 4,
+        "JobTag": 3,
+        "ColorType": [
+          1001
+        ],
+        "EnergyMax": 4,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4018,
+        "Text": 4018,
+        "Icon": 4018,
+        "ItemID": 4018,
+        "RaceTag": 104,
+        "InitialStar": 4,
+        "JobTag": 4,
+        "ColorType": [
+          1002
+        ],
+        "EnergyMax": 5,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4019,
+        "Text": 4019,
+        "Icon": 4019,
+        "ItemID": 4019,
+        "RaceTag": 101,
+        "InitialStar": 4,
+        "JobTag": 1,
+        "ColorType": [
+          1003
+        ],
+        "EnergyMax": 6,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4020,
+        "Text": 4020,
+        "Icon": 4020,
+        "ItemID": 4020,
+        "RaceTag": 102,
+        "InitialStar": 4,
+        "JobTag": 2,
+        "ColorType": [
+          1004
+        ],
+        "EnergyMax": 7,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4021,
+        "Text": 4021,
+        "Icon": 4021,
+        "ItemID": 4021,
+        "RaceTag": 101,
+        "InitialStar": 4,
+        "JobTag": 1,
+        "ColorType": [
+          1005
+        ],
+        "EnergyMax": 8,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4022,
+        "Text": 4022,
+        "Icon": 4022,
+        "ItemID": 4022,
+        "RaceTag": 102,
+        "InitialStar": 4,
+        "JobTag": 2,
+        "ColorType": [
+          1006
+        ],
+        "EnergyMax": 9,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4023,
+        "Text": 4023,
+        "Icon": 4023,
+        "ItemID": 4023,
+        "RaceTag": 103,
+        "InitialStar": 4,
+        "JobTag": 3,
+        "ColorType": [
+          1002,
+          1004
+        ],
+        "EnergyMax": 13,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4024,
+        "Text": 4024,
+        "Icon": 4024,
+        "ItemID": 4024,
+        "RaceTag": 104,
+        "InitialStar": 4,
+        "JobTag": 4,
+        "ColorType": [
+          1005
+        ],
+        "EnergyMax": 15,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4025,
+        "Text": 4025,
+        "Icon": 4025,
+        "ItemID": 4025,
+        "RaceTag": 101,
+        "InitialStar": 4,
+        "JobTag": 1,
+        "ColorType": [
+          1001
+        ],
+        "EnergyMax": 4,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4026,
+        "Text": 4026,
+        "Icon": 4026,
+        "ItemID": 4026,
+        "RaceTag": 102,
+        "InitialStar": 4,
+        "JobTag": 2,
+        "ColorType": [
+          1002
+        ],
+        "EnergyMax": 5,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4027,
+        "Text": 4027,
+        "Icon": 4027,
+        "ItemID": 4027,
+        "RaceTag": 103,
+        "InitialStar": 4,
+        "JobTag": 3,
+        "ColorType": [
+          1003
+        ],
+        "EnergyMax": 6,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4028,
+        "Text": 4028,
+        "Icon": 4028,
+        "ItemID": 4028,
+        "RaceTag": 104,
+        "InitialStar": 4,
+        "JobTag": 4,
+        "ColorType": [
+          1004
+        ],
+        "EnergyMax": 7,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4029,
+        "Text": 4029,
+        "Icon": 4029,
+        "ItemID": 4029,
+        "RaceTag": 101,
+        "InitialStar": 4,
+        "JobTag": 1,
+        "ColorType": [
+          1005
+        ],
+        "EnergyMax": 8,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4030,
+        "Text": 4030,
+        "Icon": 4030,
+        "ItemID": 4030,
+        "RaceTag": 102,
+        "InitialStar": 4,
+        "JobTag": 2,
+        "ColorType": [
+          1006
+        ],
+        "EnergyMax": 9,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4031,
+        "Text": 4031,
+        "Icon": 4031,
+        "ItemID": 4031,
+        "RaceTag": 101,
+        "InitialStar": 4,
+        "JobTag": 1,
+        "ColorType": [
+          1002,
+          1004
+        ],
+        "EnergyMax": 13,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4032,
+        "Text": 4032,
+        "Icon": 4032,
+        "ItemID": 4032,
+        "RaceTag": 102,
+        "InitialStar": 4,
+        "JobTag": 2,
+        "ColorType": [
+          1003,
+          1005
+        ],
+        "EnergyMax": 15,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4033,
+        "Text": 4033,
+        "Icon": 4033,
+        "ItemID": 4033,
+        "RaceTag": 103,
+        "InitialStar": 4,
+        "JobTag": 3,
+        "ColorType": [
+          1001
+        ],
+        "EnergyMax": 4,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4034,
+        "Text": 4034,
+        "Icon": 4034,
+        "ItemID": 4034,
+        "RaceTag": 104,
+        "InitialStar": 4,
+        "JobTag": 4,
+        "ColorType": [
+          1002
+        ],
+        "EnergyMax": 5,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4035,
+        "Text": 4035,
+        "Icon": 4035,
+        "ItemID": 4035,
+        "RaceTag": 101,
+        "InitialStar": 4,
+        "JobTag": 1,
+        "ColorType": [
+          1003
+        ],
+        "EnergyMax": 6,
+        "Attribute": 1001,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4036,
+        "Text": 4036,
+        "Icon": 4036,
+        "ItemID": 4036,
+        "RaceTag": 102,
+        "InitialStar": 4,
+        "JobTag": 2,
+        "ColorType": [
+          1004
+        ],
+        "EnergyMax": 7,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1001
+      },
+      {
+        "ID": 4037,
+        "Text": 4037,
+        "Icon": 4037,
+        "ItemID": 4037,
+        "RaceTag": 103,
+        "InitialStar": 4,
+        "JobTag": 3,
+        "ColorType": [
+          1005
+        ],
+        "EnergyMax": 8,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4038,
+        "Text": 4038,
+        "Icon": 4038,
+        "ItemID": 4038,
+        "RaceTag": 104,
+        "InitialStar": 4,
+        "JobTag": 4,
+        "ColorType": [
+          1006
+        ],
+        "EnergyMax": 9,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4039,
+        "Text": 4039,
+        "Icon": 4039,
+        "ItemID": 4039,
+        "RaceTag": 101,
+        "InitialStar": 4,
+        "JobTag": 1,
+        "ColorType": [
+          1002,
+          1004
+        ],
+        "EnergyMax": 13,
+        "Attribute": 1002,
+        "Skill1ID": 20001,
+        "Skill2ID": 20002,
+        "Skill3ID": 20003,
+        "Skill4ID": 20004,
+        "SkillUnlock": 1002
+      },
+      {
+        "ID": 4040,
+        "Text": 4040,
+        "Icon": 4040,
+        "ItemID": 4040,
+        "RaceTag": 102,
+        "InitialStar": 4,
+        "JobTag": 2,
+        "ColorType": [
           1003,
           1005
         ],
@@ -544,7 +1688,7 @@
       },
       {
         "ID": 15,
-        "NeedStar": 1,
+        "NeedStar": 2,
         "CostItem1": 101,
         "CostNum1": 9000,
         "CostItem2": 102,
@@ -552,7 +1696,7 @@
       },
       {
         "ID": 16,
-        "NeedStar": 1,
+        "NeedStar": 3,
         "CostItem1": 101,
         "CostNum1": 10000,
         "CostItem2": 102,

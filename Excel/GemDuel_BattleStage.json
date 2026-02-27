@@ -1,0 +1,34 @@
+{
+  "GemDuelBattleStage": {
+    "Datas": [
+      {
+        "ID": 1001,
+        "GemMod": 10001,
+        "Enemy1": 1002,
+        "Level1": 10,
+        "Star1": 3,
+        "EnemySkillUnlock1": [
+          0,
+          0,
+          1
+        ],
+        "Enemy3": 1001,
+        "Level3": 12,
+        "Star3": 3,
+        "EnemySkillUnlock3": [
+          1,
+          1,
+          1
+        ],
+        "Enemy4": 1002,
+        "Level4": 10,
+        "Star4": 3,
+        "EnemySkillUnlock4": [
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  }
+}

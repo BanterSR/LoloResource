@@ -248,6 +248,19 @@
         "NewExpressionType": 2
       },
       {
+        "ID": 1068,
+        "TextID": 1068,
+        "IconID": 1068,
+        "ExpressionGroupInfo": [
+          {
+            "Index": 1,
+            "ActionID": 11000,
+            "MultiplayerID": 110008
+          }
+        ],
+        "NewExpressionType": 2
+      },
+      {
         "ID": 2000,
         "TextID": 2000,
         "IconID": 2000,
@@ -1114,7 +1127,9 @@
           {
             "Index": 1,
             "ActionID": 3235,
-            "AchieveConditionID": 9003235
+            "AchieveConditionID": 9003235,
+            "IsShow": true,
+            "IsStudy": true
           }
         ]
       },
@@ -1126,7 +1141,9 @@
           {
             "Index": 1,
             "ActionID": 3240,
-            "AchieveConditionID": 9003240
+            "AchieveConditionID": 9003240,
+            "IsShow": true,
+            "IsStudy": true
           }
         ]
       },
@@ -1162,7 +1179,9 @@
           {
             "Index": 1,
             "ActionID": 3255,
-            "AchieveConditionID": 9003255
+            "AchieveConditionID": 9003255,
+            "IsShow": true,
+            "IsStudy": true
           }
         ]
       },
@@ -2401,7 +2420,9 @@
           {
             "Index": 1,
             "ActionID": 3235,
-            "AchieveConditionID": 9003235
+            "AchieveConditionID": 9003235,
+            "IsShow": true,
+            "IsStudy": true
           }
         ],
         "NewExpressionType": 4
@@ -2414,7 +2435,9 @@
           {
             "Index": 1,
             "ActionID": 3240,
-            "AchieveConditionID": 9003240
+            "AchieveConditionID": 9003240,
+            "IsShow": true,
+            "IsStudy": true
           }
         ],
         "NewExpressionType": 4
@@ -2453,7 +2476,9 @@
           {
             "Index": 1,
             "ActionID": 3255,
-            "AchieveConditionID": 9003255
+            "AchieveConditionID": 9003255,
+            "IsShow": true,
+            "IsStudy": true
           }
         ],
         "NewExpressionType": 4
@@ -2984,6 +3009,25 @@
         "RequesterPlayActionID": 1063,
         "IntimacyLimit": -1,
         "RequesterPlayDistance": 1
+      },
+      {
+        "ID": 110008,
+        "PlayerNumber": 2,
+        "ActionLevel": 1,
+        "StarterPlayActionID": 11001,
+        "RequesterPlayActionID": 11002,
+        "IntimacyLimit": -1,
+        "RequesterPlayDistance": 2.64,
+        "NewMultiplayerExpressionType": 1
+      },
+      {
+        "ID": 110009,
+        "PlayerNumber": 2,
+        "ActionLevel": 1,
+        "StarterPlayActionID": 10041,
+        "RequesterPlayActionID": 10042,
+        "IntimacyLimit": -1,
+        "RequesterPlayDistance": 1.65
       }
     ]
   }

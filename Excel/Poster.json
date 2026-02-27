@@ -1950,31 +1950,36 @@
             "Star": 1,
             "SpellPassive": 40330000,
             "NewPosterTag1": 2,
-            "NewPosterTag2": 12
+            "NewPosterTag2": 12,
+            "NewPosterTag3": 25
           },
           {
             "Star": 2,
             "SpellPassive": 40330001,
             "NewPosterTag1": 2,
-            "NewPosterTag2": 12
+            "NewPosterTag2": 12,
+            "NewPosterTag3": 25
           },
           {
             "Star": 3,
             "SpellPassive": 40330002,
             "NewPosterTag1": 2,
-            "NewPosterTag2": 12
+            "NewPosterTag2": 12,
+            "NewPosterTag3": 25
           },
           {
             "Star": 4,
             "SpellPassive": 40330003,
             "NewPosterTag1": 2,
-            "NewPosterTag2": 12
+            "NewPosterTag2": 12,
+            "NewPosterTag3": 25
           },
           {
             "Star": 5,
             "SpellPassive": 40330004,
             "NewPosterTag1": 2,
-            "NewPosterTag2": 12
+            "NewPosterTag2": 12,
+            "NewPosterTag3": 25
           }
         ]
       },
@@ -2768,7 +2773,34 @@
         "ID": 10630,
         "PosterPropertyGroupInfo": [
           {
-            "Star": 1
+            "Star": 1,
+            "SpellPassive": 40630000,
+            "NewPosterTag1": 2,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 2,
+            "SpellPassive": 40630001,
+            "NewPosterTag1": 2,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 3,
+            "SpellPassive": 40630002,
+            "NewPosterTag1": 2,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 4,
+            "SpellPassive": 40630003,
+            "NewPosterTag1": 2,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 5,
+            "SpellPassive": 40630004,
+            "NewPosterTag1": 2,
+            "NewPosterTag2": 25
           }
         ]
       },
@@ -3664,7 +3696,34 @@
         "ID": 10960,
         "PosterPropertyGroupInfo": [
           {
-            "Star": 1
+            "Star": 1,
+            "SpellPassive": 40960000,
+            "NewPosterTag1": 8,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 2,
+            "SpellPassive": 40960001,
+            "NewPosterTag1": 8,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 3,
+            "SpellPassive": 40960002,
+            "NewPosterTag1": 8,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 4,
+            "SpellPassive": 40960003,
+            "NewPosterTag1": 8,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 5,
+            "SpellPassive": 40960004,
+            "NewPosterTag1": 8,
+            "NewPosterTag2": 25
           }
         ]
       },
@@ -3673,23 +3732,33 @@
         "PosterPropertyGroupInfo": [
           {
             "Star": 1,
-            "SpellPassive": 40970000
+            "SpellPassive": 40970000,
+            "NewPosterTag1": 1,
+            "NewPosterTag2": 25
           },
           {
             "Star": 2,
-            "SpellPassive": 40970001
+            "SpellPassive": 40970001,
+            "NewPosterTag1": 1,
+            "NewPosterTag2": 25
           },
           {
             "Star": 3,
-            "SpellPassive": 40970002
+            "SpellPassive": 40970002,
+            "NewPosterTag1": 1,
+            "NewPosterTag2": 25
           },
           {
             "Star": 4,
-            "SpellPassive": 40970003
+            "SpellPassive": 40970003,
+            "NewPosterTag1": 1,
+            "NewPosterTag2": 25
           },
           {
             "Star": 5,
-            "SpellPassive": 40970004
+            "SpellPassive": 40970004,
+            "NewPosterTag1": 1,
+            "NewPosterTag2": 25
           }
         ]
       },
@@ -5019,25 +5088,25 @@
           {
             "Star": 2,
             "SpellPassive": 41430001,
-            "NewPosterTag1": 8,
+            "NewPosterTag1": 1,
             "NewPosterTag2": 25
           },
           {
             "Star": 3,
             "SpellPassive": 41430002,
-            "NewPosterTag1": 8,
+            "NewPosterTag1": 1,
             "NewPosterTag2": 25
           },
           {
             "Star": 4,
             "SpellPassive": 41430003,
-            "NewPosterTag1": 8,
+            "NewPosterTag1": 1,
             "NewPosterTag2": 25
           },
           {
             "Star": 5,
             "SpellPassive": 41430004,
-            "NewPosterTag1": 8,
+            "NewPosterTag1": 1,
             "NewPosterTag2": 25
           }
         ]
@@ -5288,7 +5357,44 @@
         ]
       },
       {
-        "ID": 12040
+        "ID": 12040,
+        "PosterPropertyGroupInfo": [
+          {
+            "Star": 1,
+            "SpellPassive": 42040000,
+            "NewPosterTag1": 4,
+            "NewPosterTag2": 5,
+            "NewPosterTag3": 25
+          },
+          {
+            "Star": 2,
+            "SpellPassive": 42040001,
+            "NewPosterTag1": 4,
+            "NewPosterTag2": 5,
+            "NewPosterTag3": 25
+          },
+          {
+            "Star": 3,
+            "SpellPassive": 42040002,
+            "NewPosterTag1": 4,
+            "NewPosterTag2": 5,
+            "NewPosterTag3": 25
+          },
+          {
+            "Star": 4,
+            "SpellPassive": 42040003,
+            "NewPosterTag1": 4,
+            "NewPosterTag2": 5,
+            "NewPosterTag3": 25
+          },
+          {
+            "Star": 5,
+            "SpellPassive": 42040004,
+            "NewPosterTag1": 4,
+            "NewPosterTag2": 5,
+            "NewPosterTag3": 25
+          }
+        ]
       },
       {
         "ID": 12050
@@ -5527,7 +5633,8 @@
       {
         "ID": 10330,
         "TextID": 10330,
-        "TextureID": 10330
+        "TextureID": 10330,
+        "IsShow": true
       },
       {
         "ID": 10340,
@@ -5696,7 +5803,8 @@
       {
         "ID": 10630,
         "TextID": 10630,
-        "TextureID": 10630
+        "TextureID": 10630,
+        "IsShow": true
       },
       {
         "ID": 10640,
@@ -5879,12 +5987,14 @@
       {
         "ID": 10960,
         "TextID": 10960,
-        "TextureID": 10960
+        "TextureID": 10960,
+        "IsShow": true
       },
       {
         "ID": 10970,
         "TextID": 10970,
-        "TextureID": 10970
+        "TextureID": 10970,
+        "IsShow": true
       },
       {
         "ID": 10980,
@@ -6038,7 +6148,8 @@
       {
         "ID": 12040,
         "TextID": 12040,
-        "TextureID": 12040
+        "TextureID": 12040,
+        "IsShow": true
       },
       {
         "ID": 12050,

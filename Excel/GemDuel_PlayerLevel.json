@@ -1,0 +1,1210 @@
+{
+  "GemDuelPlayerLevel": {
+    "Datas": [
+      {
+        "ID": 1,
+        "NeedExp": 375
+      },
+      {
+        "ID": 2,
+        "NeedExp": 500
+      },
+      {
+        "ID": 3,
+        "NeedExp": 625
+      },
+      {
+        "ID": 4,
+        "NeedExp": 725
+      },
+      {
+        "ID": 5,
+        "NeedExp": 850
+      },
+      {
+        "ID": 6,
+        "NeedExp": 950
+      },
+      {
+        "ID": 7,
+        "NeedExp": 1075
+      },
+      {
+        "ID": 8,
+        "NeedExp": 1200
+      },
+      {
+        "ID": 9,
+        "NeedExp": 1300
+      },
+      {
+        "ID": 10,
+        "NeedExp": 1425
+      },
+      {
+        "ID": 11,
+        "NeedExp": 1525
+      },
+      {
+        "ID": 12,
+        "NeedExp": 1650
+      },
+      {
+        "ID": 13,
+        "NeedExp": 1775
+      },
+      {
+        "ID": 14,
+        "NeedExp": 1875
+      },
+      {
+        "ID": 15,
+        "NeedExp": 2000
+      },
+      {
+        "ID": 16,
+        "NeedExp": 2375
+      },
+      {
+        "ID": 17,
+        "NeedExp": 2500
+      },
+      {
+        "ID": 18,
+        "NeedExp": 2625
+      },
+      {
+        "ID": 19,
+        "NeedExp": 2775
+      },
+      {
+        "ID": 20,
+        "NeedExp": 2825
+      },
+      {
+        "ID": 21,
+        "NeedExp": 3425
+      },
+      {
+        "ID": 22,
+        "NeedExp": 3725
+      },
+      {
+        "ID": 23,
+        "NeedExp": 4000
+      },
+      {
+        "ID": 24,
+        "NeedExp": 4300
+      },
+      {
+        "ID": 25,
+        "NeedExp": 4575
+      },
+      {
+        "ID": 26,
+        "NeedExp": 4875
+      },
+      {
+        "ID": 27,
+        "NeedExp": 5150
+      },
+      {
+        "ID": 28,
+        "NeedExp": 5450
+      },
+      {
+        "ID": 29,
+        "NeedExp": 5725
+      },
+      {
+        "ID": 30,
+        "NeedExp": 6025
+      },
+      {
+        "ID": 31,
+        "NeedExp": 6300
+      },
+      {
+        "ID": 32,
+        "NeedExp": 6600
+      },
+      {
+        "ID": 33,
+        "NeedExp": 6900
+      },
+      {
+        "ID": 34,
+        "NeedExp": 7175
+      },
+      {
+        "ID": 35,
+        "NeedExp": 7475
+      },
+      {
+        "ID": 36,
+        "NeedExp": 7750
+      },
+      {
+        "ID": 37,
+        "NeedExp": 8050
+      },
+      {
+        "ID": 38,
+        "NeedExp": 8325
+      },
+      {
+        "ID": 39,
+        "NeedExp": 8625
+      },
+      {
+        "ID": 40,
+        "NeedExp": 10550
+      },
+      {
+        "ID": 41,
+        "NeedExp": 11525
+      },
+      {
+        "ID": 42,
+        "NeedExp": 12475
+      },
+      {
+        "ID": 43,
+        "NeedExp": 13450
+      },
+      {
+        "ID": 44,
+        "NeedExp": 14400
+      },
+      {
+        "ID": 45,
+        "NeedExp": 15350
+      },
+      {
+        "ID": 46,
+        "NeedExp": 16325
+      },
+      {
+        "ID": 47,
+        "NeedExp": 17275
+      },
+      {
+        "ID": 48,
+        "NeedExp": 18250
+      },
+      {
+        "ID": 49,
+        "NeedExp": 19200
+      },
+      {
+        "ID": 50,
+        "NeedExp": 19200
+      },
+      {
+        "ID": 51,
+        "NeedExp": 19200
+      },
+      {
+        "ID": 52,
+        "NeedExp": 19200
+      },
+      {
+        "ID": 53,
+        "NeedExp": 19200
+      },
+      {
+        "ID": 54,
+        "NeedExp": 19200
+      },
+      {
+        "ID": 55,
+        "NeedExp": 19200
+      },
+      {
+        "ID": 56,
+        "NeedExp": 19200
+      },
+      {
+        "ID": 57,
+        "NeedExp": 19200
+      },
+      {
+        "ID": 58,
+        "NeedExp": 19200
+      },
+      {
+        "ID": 59,
+        "NeedExp": 19200
+      },
+      {
+        "ID": 60,
+        "NeedExp": 19200
+      },
+      {
+        "ID": 61,
+        "NeedExp": 19200
+      }
+    ]
+  },
+  "GemDuelGrowthFund": {
+    "Datas": [
+      {
+        "ID": 10000,
+        "TextID": 10000,
+        "IconID": 10000,
+        "GemDuelGrowthFundItem": [
+          {
+            "GrowthFundLevel": 1,
+            "PlayerLevel": 1,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 2,
+            "PlayerLevel": 2,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 3,
+            "PlayerLevel": 3,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 4,
+            "PlayerLevel": 4,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 5,
+            "PlayerLevel": 5,
+            "UnlockText": 1,
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 6,
+            "PlayerLevel": 6,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 7,
+            "PlayerLevel": 7,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 8,
+            "PlayerLevel": 8,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 9,
+            "PlayerLevel": 9,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 10,
+            "PlayerLevel": 10,
+            "UnlockText": 2,
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 11,
+            "PlayerLevel": 11,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 12,
+            "PlayerLevel": 12,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 13,
+            "PlayerLevel": 13,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 14,
+            "PlayerLevel": 14,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 15,
+            "PlayerLevel": 15,
+            "UnlockText": 3,
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 16,
+            "PlayerLevel": 16,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 17,
+            "PlayerLevel": 17,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 18,
+            "PlayerLevel": 18,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 19,
+            "PlayerLevel": 19,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 20,
+            "PlayerLevel": 20,
+            "UnlockText": 4,
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 21,
+            "PlayerLevel": 21,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 22,
+            "PlayerLevel": 22,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 23,
+            "PlayerLevel": 23,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 24,
+            "PlayerLevel": 24,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 25,
+            "PlayerLevel": 25,
+            "UnlockText": 5,
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 26,
+            "PlayerLevel": 26,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 27,
+            "PlayerLevel": 27,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 28,
+            "PlayerLevel": 28,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 29,
+            "PlayerLevel": 29,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 30,
+            "PlayerLevel": 30,
+            "IsExpensive": true,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 10001,
+        "TextID": 10001,
+        "IconID": 10001,
+        "GemDuelGrowthFundItem": [
+          {
+            "GrowthFundLevel": 1,
+            "PlayerLevel": 31,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 2,
+            "PlayerLevel": 32,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 3,
+            "PlayerLevel": 33,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 4,
+            "PlayerLevel": 34,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 5,
+            "PlayerLevel": 35,
+            "IsExpensive": true,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 6,
+            "PlayerLevel": 36,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 7,
+            "PlayerLevel": 37,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 8,
+            "PlayerLevel": 38,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 9,
+            "PlayerLevel": 39,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 10,
+            "PlayerLevel": 40,
+            "IsExpensive": true,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 11,
+            "PlayerLevel": 41,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 12,
+            "PlayerLevel": 42,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 13,
+            "PlayerLevel": 43,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 14,
+            "PlayerLevel": 44,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 15,
+            "PlayerLevel": 45,
+            "IsExpensive": true,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 16,
+            "PlayerLevel": 46,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 17,
+            "PlayerLevel": 47,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 18,
+            "PlayerLevel": 48,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 19,
+            "PlayerLevel": 49,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 20,
+            "PlayerLevel": 50,
+            "IsExpensive": true,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 21,
+            "PlayerLevel": 51,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 22,
+            "PlayerLevel": 52,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 23,
+            "PlayerLevel": 53,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 24,
+            "PlayerLevel": 54,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 25,
+            "PlayerLevel": 55,
+            "IsExpensive": true,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 26,
+            "PlayerLevel": 56,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 27,
+            "PlayerLevel": 57,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 28,
+            "PlayerLevel": 58,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 29,
+            "PlayerLevel": 59,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 101,
+                "FreeItemNum": 500
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 6
+              }
+            ]
+          },
+          {
+            "GrowthFundLevel": 30,
+            "PlayerLevel": 60,
+            "IsExpensive": true,
+            "GemDuelGrowthFundFreeItem": [
+              {
+                "FreeItemID": 102,
+                "FreeItemNum": 6
+              }
+            ],
+            "GemDuelGrowthFundNoFreeItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 500
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

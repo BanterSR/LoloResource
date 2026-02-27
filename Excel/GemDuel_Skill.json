@@ -2,154 +2,1889 @@
   "GemDuelSkill": {
     "Datas": [
       {
-        "ID": 20001
+        "ID": 20001,
+        "TextID": 20001,
+        "IconID": 20001,
+        "CastType": 1,
+        "TargetSelection": [
+          200011,
+          200012
+        ]
       },
       {
-        "ID": 20002
+        "ID": 20002,
+        "TextID": 20002,
+        "IconID": 20002,
+        "CastType": 1,
+        "TargetSelection": [
+          200021
+        ]
       },
       {
-        "ID": 20003
+        "ID": 20003,
+        "TextID": 20003,
+        "IconID": 20003,
+        "CastType": 1,
+        "TargetSelection": [
+          200031
+        ]
       },
       {
-        "ID": 20004
+        "ID": 20004,
+        "TextID": 20004,
+        "IconID": 20004,
+        "CastType": 1,
+        "TargetSelection": [
+          200041,
+          200042,
+          200043
+        ]
       },
       {
-        "ID": 20005
+        "ID": 20005,
+        "TextID": 20005,
+        "IconID": 20005,
+        "CastType": 1,
+        "TargetSelection": [
+          200051
+        ]
       },
       {
-        "ID": 20006
+        "ID": 20006,
+        "TextID": 20006,
+        "IconID": 20006,
+        "CastType": 1,
+        "TargetSelection": [
+          200061
+        ]
       },
       {
-        "ID": 20007
+        "ID": 20007,
+        "TextID": 20007,
+        "IconID": 20007,
+        "CastType": 1
       },
       {
-        "ID": 20008
+        "ID": 20008,
+        "TextID": 20008,
+        "IconID": 20008,
+        "CastType": 1
       },
       {
-        "ID": 20009
+        "ID": 20009,
+        "TextID": 20009,
+        "IconID": 20009,
+        "CastType": 1
       },
       {
-        "ID": 20010
+        "ID": 20010,
+        "TextID": 20010,
+        "IconID": 20010,
+        "CastType": 1
       },
       {
-        "ID": 20011
+        "ID": 20011,
+        "TextID": 20011,
+        "IconID": 20011,
+        "CastType": 1
       },
       {
-        "ID": 20012
+        "ID": 20012,
+        "TextID": 20012,
+        "IconID": 20012,
+        "CastType": 1
       },
       {
-        "ID": 20013
+        "ID": 20013,
+        "TextID": 20013,
+        "IconID": 20013,
+        "CastType": 1
       },
       {
-        "ID": 20014
+        "ID": 20014,
+        "TextID": 20014,
+        "IconID": 20014,
+        "CastType": 1
       },
       {
-        "ID": 20015
+        "ID": 20015,
+        "TextID": 20015,
+        "IconID": 20015,
+        "CastType": 1
       },
       {
-        "ID": 20016
+        "ID": 20016,
+        "TextID": 20016,
+        "IconID": 20016,
+        "CastType": 1
       },
       {
-        "ID": 20017
+        "ID": 20017,
+        "TextID": 20017,
+        "IconID": 20017,
+        "CastType": 1
       },
       {
-        "ID": 20018
+        "ID": 20018,
+        "TextID": 20018,
+        "IconID": 20018,
+        "CastType": 1
       },
       {
-        "ID": 20019
+        "ID": 20019,
+        "TextID": 20019,
+        "IconID": 20019,
+        "CastType": 1
       },
       {
-        "ID": 20020
+        "ID": 20020,
+        "TextID": 20020,
+        "IconID": 20020,
+        "CastType": 1
       },
       {
-        "ID": 20021
+        "ID": 20021,
+        "TextID": 20021,
+        "IconID": 20021,
+        "CastType": 1
       },
       {
-        "ID": 20022
+        "ID": 20022,
+        "TextID": 20022,
+        "IconID": 20022,
+        "CastType": 1
       },
       {
-        "ID": 20023
+        "ID": 20023,
+        "TextID": 20023,
+        "IconID": 20023,
+        "CastType": 1
       },
       {
-        "ID": 20024
+        "ID": 20024,
+        "TextID": 20024,
+        "IconID": 20024,
+        "CastType": 1
       },
       {
-        "ID": 20025
+        "ID": 20025,
+        "TextID": 20025,
+        "IconID": 20025,
+        "CastType": 1
       },
       {
-        "ID": 20026
+        "ID": 20026,
+        "TextID": 20026,
+        "IconID": 20026,
+        "CastType": 1
       },
       {
-        "ID": 20027
+        "ID": 20027,
+        "TextID": 20027,
+        "IconID": 20027,
+        "CastType": 1
       },
       {
-        "ID": 20028
+        "ID": 20028,
+        "TextID": 20028,
+        "IconID": 20028,
+        "CastType": 1
       },
       {
-        "ID": 20029
+        "ID": 20029,
+        "TextID": 20029,
+        "IconID": 20029,
+        "CastType": 1
       },
       {
-        "ID": 20030
+        "ID": 20030,
+        "TextID": 20030,
+        "IconID": 20030,
+        "CastType": 1
       },
       {
-        "ID": 20031
+        "ID": 20031,
+        "TextID": 20031,
+        "IconID": 20031,
+        "CastType": 1
       },
       {
-        "ID": 20032
+        "ID": 20032,
+        "TextID": 20032,
+        "IconID": 20032,
+        "CastType": 1
       },
       {
-        "ID": 20033
+        "ID": 20033,
+        "TextID": 20033,
+        "IconID": 20033,
+        "CastType": 1
       },
       {
-        "ID": 20034
+        "ID": 20034,
+        "TextID": 20034,
+        "IconID": 20034,
+        "CastType": 1
       },
       {
-        "ID": 20035
+        "ID": 20035,
+        "TextID": 20035,
+        "IconID": 20035,
+        "CastType": 1
       },
       {
-        "ID": 20036
+        "ID": 20036,
+        "TextID": 20036,
+        "IconID": 20036,
+        "CastType": 1
       },
       {
-        "ID": 20037
+        "ID": 20037,
+        "TextID": 20037,
+        "IconID": 20037,
+        "CastType": 1
       },
       {
-        "ID": 20038
+        "ID": 20038,
+        "TextID": 20038,
+        "IconID": 20038,
+        "CastType": 1
       },
       {
-        "ID": 20039
+        "ID": 20039,
+        "TextID": 20039,
+        "IconID": 20039,
+        "CastType": 1
       },
       {
-        "ID": 20040
+        "ID": 20040,
+        "TextID": 20040,
+        "IconID": 20040,
+        "CastType": 1
       },
       {
-        "ID": 20041
+        "ID": 20041,
+        "TextID": 20041,
+        "IconID": 20041,
+        "CastType": 1
       },
       {
-        "ID": 20042
+        "ID": 20042,
+        "TextID": 20042,
+        "IconID": 20042,
+        "CastType": 1
       },
       {
-        "ID": 20043
+        "ID": 20043,
+        "TextID": 20043,
+        "IconID": 20043,
+        "CastType": 1
       },
       {
-        "ID": 20044
+        "ID": 20044,
+        "TextID": 20044,
+        "IconID": 20044,
+        "CastType": 1
       },
       {
-        "ID": 20045
+        "ID": 20045,
+        "TextID": 20045,
+        "IconID": 20045,
+        "CastType": 1
       },
       {
-        "ID": 20046
+        "ID": 20046,
+        "TextID": 20046,
+        "IconID": 20046,
+        "CastType": 1
       },
       {
-        "ID": 20047
+        "ID": 20047,
+        "TextID": 20047,
+        "IconID": 20047,
+        "CastType": 1
       },
       {
-        "ID": 20048
+        "ID": 20048,
+        "TextID": 20048,
+        "IconID": 20048,
+        "CastType": 1
       },
       {
-        "ID": 20049
+        "ID": 20049,
+        "TextID": 20049,
+        "IconID": 20049,
+        "CastType": 1
       },
       {
-        "ID": 20050
+        "ID": 20050,
+        "TextID": 20050,
+        "IconID": 20050,
+        "CastType": 1
+      },
+      {
+        "ID": 30001,
+        "TextID": 30001,
+        "IconID": 30001,
+        "CastType": 1,
+        "TargetSelection": [
+          300011
+        ]
+      },
+      {
+        "ID": 30002,
+        "TextID": 30002,
+        "IconID": 30002,
+        "CastType": 1,
+        "TargetSelection": [
+          300021
+        ]
+      },
+      {
+        "ID": 30003,
+        "TextID": 30003,
+        "IconID": 30003,
+        "CastType": 1,
+        "TargetSelection": [
+          300031
+        ]
+      },
+      {
+        "ID": 30004,
+        "TextID": 30004,
+        "IconID": 30004,
+        "CastType": 1,
+        "TargetSelection": [
+          300041
+        ]
+      },
+      {
+        "ID": 30005,
+        "TextID": 30005,
+        "IconID": 30005,
+        "CastType": 1,
+        "TargetSelection": [
+          300051
+        ]
+      },
+      {
+        "ID": 30006,
+        "TextID": 30006,
+        "IconID": 30006,
+        "CastType": 1,
+        "TargetSelection": [
+          300061
+        ]
+      },
+      {
+        "ID": 30007,
+        "TextID": 30007,
+        "IconID": 30007,
+        "CastType": 1,
+        "TargetSelection": [
+          300071
+        ]
+      },
+      {
+        "ID": 30008,
+        "TextID": 30008,
+        "IconID": 30008,
+        "CastType": 1,
+        "TargetSelection": [
+          300081
+        ]
+      },
+      {
+        "ID": 30009,
+        "TextID": 30009,
+        "IconID": 30009,
+        "CastType": 1,
+        "TargetSelection": [
+          300091
+        ]
+      },
+      {
+        "ID": 30010,
+        "TextID": 30010,
+        "IconID": 30010,
+        "CastType": 1,
+        "TargetSelection": [
+          300101
+        ]
+      },
+      {
+        "ID": 30011,
+        "TextID": 30011,
+        "IconID": 30011,
+        "CastType": 1,
+        "TargetSelection": [
+          300111
+        ]
+      },
+      {
+        "ID": 30012,
+        "TextID": 30012,
+        "IconID": 30012,
+        "CastType": 1,
+        "TargetSelection": [
+          300121
+        ]
+      },
+      {
+        "ID": 30013,
+        "TextID": 30013,
+        "IconID": 30013,
+        "CastType": 1,
+        "TargetSelection": [
+          300131,
+          300132
+        ]
+      },
+      {
+        "ID": 30014,
+        "TextID": 30014,
+        "IconID": 30014,
+        "CastType": 1,
+        "TargetSelection": [
+          300141
+        ]
+      }
+    ]
+  },
+  "GemDuelSkillTargetSelection": {
+    "Datas": [
+      {
+        "ID": 200011,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          200013
+        ],
+        "NewSelectScope": 5,
+        "NewDefaultTarget": 8
+      },
+      {
+        "ID": 200012,
+        "TargetCategory": 1,
+        "Sorting": 1,
+        "MinCount": 64,
+        "MaxCount": 64,
+        "RiggerEffect": [
+          200014
+        ],
+        "NewSelectScope": 8,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 200021,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          200022
+        ],
+        "NewSelectScope": 4,
+        "NewDefaultTarget": 8
+      },
+      {
+        "ID": 200031,
+        "TargetCategory": 1,
+        "Sorting": 1,
+        "MinCount": 64,
+        "MaxCount": 64,
+        "RiggerEffect": [
+          200032
+        ],
+        "NewSelectScope": 7,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 200041,
+        "TargetCategory": 1,
+        "Sorting": 1,
+        "MinCount": 4,
+        "MaxCount": 4,
+        "BonusPercentage": 100,
+        "RiggerEffect": [
+          200044
+        ],
+        "NewSelectScope": 6,
+        "NewDefaultTarget": 1,
+        "NewAttribute": 4
+      },
+      {
+        "ID": 200042,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          200045
+        ],
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 200043,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          200046
+        ],
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 200051,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          200052,
+          200053,
+          200054
+        ],
+        "NewSelectScope": 2,
+        "NewDefaultTarget": 8
+      },
+      {
+        "ID": 200061,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          200062,
+          200063,
+          200064
+        ],
+        "NewSelectScope": 5,
+        "NewDefaultTarget": 7
+      },
+      {
+        "ID": 300011,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          300011
+        ],
+        "NewSelectScope": 5,
+        "NewDefaultTarget": 8
+      },
+      {
+        "ID": 300021,
+        "Sorting": 1,
+        "MinCount": 3,
+        "MaxCount": 3,
+        "RiggerEffect": [
+          300021
+        ],
+        "NewSelectScope": 5,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 300031,
+        "Sorting": 1,
+        "MinCount": 5,
+        "MaxCount": 5,
+        "RiggerEffect": [
+          300031
+        ],
+        "NewSelectScope": 4,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 300041,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          300041,
+          300042
+        ],
+        "NewSelectScope": 2,
+        "NewDefaultTarget": 8
+      },
+      {
+        "ID": 300051,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          300051,
+          300052
+        ],
+        "NewSelectScope": 5,
+        "NewDefaultTarget": 8
+      },
+      {
+        "ID": 300061,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          300061
+        ],
+        "NewSelectScope": 5,
+        "NewDefaultTarget": 8
+      },
+      {
+        "ID": 300071,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          300071
+        ],
+        "NewSelectScope": 5,
+        "NewDefaultTarget": 8
+      },
+      {
+        "ID": 300081,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          300081
+        ],
+        "NewSelectScope": 5,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 300091,
+        "Sorting": 1,
+        "MinCount": 4,
+        "MaxCount": 4,
+        "RiggerEffect": [
+          300091,
+          300092
+        ],
+        "NewSelectScope": 1,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 300101,
+        "TargetCategory": 1,
+        "Sorting": 1,
+        "MinCount": 6,
+        "MaxCount": 6,
+        "BonusPercentage": 50,
+        "RiggerEffect": [
+          300101
+        ],
+        "NewSelectScope": 11,
+        "NewDefaultTarget": 1,
+        "NewAttribute": 4
+      },
+      {
+        "ID": 300111,
+        "TargetCategory": 1,
+        "Sorting": 1,
+        "MinCount": 10,
+        "MaxCount": 10,
+        "BonusPercentage": 50,
+        "RiggerEffect": [
+          300111
+        ],
+        "NewSelectScope": 9,
+        "NewDefaultTarget": 1,
+        "NewAttribute": 4
+      },
+      {
+        "ID": 300121,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "BonusPercentage": 50,
+        "RiggerEffect": [
+          300121
+        ],
+        "NewSelectScope": 2,
+        "NewDefaultTarget": 8,
+        "NewAttribute": 4
+      },
+      {
+        "ID": 300131,
+        "TargetCategory": 1,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          300131
+        ],
+        "NewSelectScope": 2,
+        "NewDefaultTarget": 8
+      },
+      {
+        "ID": 300132,
+        "TargetCategory": 1,
+        "Sorting": 1,
+        "MinCount": 4,
+        "MaxCount": 4,
+        "RiggerEffect": [
+          300132
+        ],
+        "NewSelectScope": 1,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 300141,
+        "TargetCategory": 1,
+        "Sorting": 1,
+        "MinCount": 4,
+        "MaxCount": 4,
+        "RiggerEffect": [
+          300141,
+          300091,
+          300092
+        ],
+        "NewSelectScope": 1,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100110,
+        "Sorting": 1,
+        "MinCount": 4,
+        "MaxCount": 4,
+        "RiggerEffect": [
+          2100110
+        ],
+        "NewSelectScope": 1,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100120,
+        "Sorting": 1,
+        "MinCount": 4,
+        "MaxCount": 4,
+        "RiggerEffect": [
+          2100120
+        ],
+        "NewSelectScope": 1,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100130,
+        "Sorting": 1,
+        "MinCount": 4,
+        "MaxCount": 4,
+        "RiggerEffect": [
+          2100131
+        ],
+        "NewSelectScope": 5,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100131,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100210,
+        "Sorting": 1,
+        "MinCount": 4,
+        "MaxCount": 4,
+        "RiggerEffect": [
+          2100211
+        ],
+        "NewSelectScope": 1,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100211,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "NewSelectScope": 1,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100220,
+        "Sorting": 1,
+        "MinCount": 4,
+        "MaxCount": 4,
+        "RiggerEffect": [
+          2100221
+        ],
+        "NewSelectScope": 1,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100221,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "NewSelectScope": 5,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100230,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          2100231
+        ],
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100231,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100310,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          2100311
+        ],
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100311,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100320,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          2100321
+        ],
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100321,
+        "Sorting": 1,
+        "MinCount": 4,
+        "MaxCount": 4,
+        "NewSelectScope": 5,
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100330,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "RiggerEffect": [
+          2100331
+        ],
+        "NewDefaultTarget": 1
+      },
+      {
+        "ID": 2100331,
+        "Sorting": 1,
+        "MinCount": 1,
+        "MaxCount": 1,
+        "NewDefaultTarget": 1
+      }
+    ]
+  },
+  "GemDuelSkillTriggerEffect": {
+    "Datas": [
+      {
+        "ID": 4001,
+        "EffectType": 1,
+        "EffectSubType": 1,
+        "ScriptParams": [
+          1,
+          100,
+          1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1
+      },
+      {
+        "ID": 4002,
+        "EffectType": 1,
+        "EffectSubType": 2,
+        "ScriptParams": [
+          2,
+          100,
+          1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1
+      },
+      {
+        "ID": 4003,
+        "EffectType": 2,
+        "EffectSubType": 3,
+        "ScriptParams": [
+          2,
+          100,
+          1
+        ],
+        "Duration": 5,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 1
+      },
+      {
+        "ID": 4004,
+        "EffectType": 3,
+        "EffectSubType": 2,
+        "ScriptParams": [
+          2,
+          100,
+          1
+        ],
+        "Duration": 5,
+        "TriggerTiming": 2,
+        "TriggerProbability": 1
+      },
+      {
+        "ID": 4005,
+        "EffectType": 3,
+        "EffectSubType": 3,
+        "ScriptParams": [
+          2,
+          -100,
+          -1,
+          1
+        ],
+        "Duration": 5,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 4006,
+        "EffectType": 4,
+        "EffectSubType": 4,
+        "ScriptParams": [
+          2,
+          100,
+          1,
+          3
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 4007,
+        "EffectType": 5,
+        "EffectSubType": 5,
+        "ScriptParams": [
+          10001
+        ],
+        "Duration": 99,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 3
+      },
+      {
+        "ID": 4008,
+        "EffectType": 6,
+        "EffectSubType": 6,
+        "ScriptParams": [
+          -1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 4
+      },
+      {
+        "ID": 4009,
+        "EffectType": 7,
+        "EffectSubType": 7,
+        "ScriptParams": [
+          2001
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 4
+      },
+      {
+        "ID": 4010,
+        "EffectType": 8,
+        "EffectSubType": 8,
+        "ScriptParams": [
+          2,
+          -1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 5
+      },
+      {
+        "ID": 4011,
+        "EffectType": 8,
+        "EffectSubType": 8,
+        "ScriptParams": [
+          1,
+          -1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 5
+      },
+      {
+        "ID": 4012,
+        "EffectType": 9,
+        "EffectSubType": 9,
+        "ScriptParams": [
+          1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 6
+      },
+      {
+        "ID": 4013,
+        "EffectType": 10,
+        "EffectSubType": 10,
+        "ScriptParams": [
+          8
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 7
+      },
+      {
+        "ID": 4014,
+        "EffectType": 11,
+        "EffectSubType": 11,
+        "ScriptParams": [
+          1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 8
+      },
+      {
+        "ID": 4015,
+        "EffectType": 12,
+        "EffectSubType": 12,
+        "ScriptParams": [
+          1,
+          100,
+          2,
+          5
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 4016,
+        "EffectType": 13,
+        "EffectSubType": 13,
+        "ScriptParams": [
+          1,
+          1,
+          1
+        ],
+        "Duration": 3,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 9
+      },
+      {
+        "ID": 4017,
+        "EffectType": 13,
+        "EffectSubType": 14,
+        "ScriptParams": [
+          1,
+          1,
+          0
+        ],
+        "Duration": 3,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 9
+      },
+      {
+        "ID": 4018,
+        "EffectType": 13,
+        "EffectSubType": 15,
+        "ScriptParams": [
+          1,
+          0,
+          0
+        ],
+        "Duration": 3,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 9
+      },
+      {
+        "ID": 4019,
+        "EffectType": 13,
+        "EffectSubType": 16,
+        "ScriptParams": [
+          0,
+          1,
+          0
+        ],
+        "Duration": 3,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 9
+      },
+      {
+        "ID": 4020,
+        "EffectType": 2,
+        "EffectSubType": 17,
+        "ScriptParams": [
+          1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 10
+      },
+      {
+        "ID": 4021,
+        "EffectType": 21,
+        "EffectSubType": 21,
+        "ScriptParams": [
+          200065
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 11
+      },
+      {
+        "ID": 200011,
+        "EffectType": 1,
+        "EffectSubType": 1,
+        "ScriptParams": [
+          1,
+          100,
+          1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1
+      },
+      {
+        "ID": 200013,
+        "EffectType": 1,
+        "EffectSubType": 2,
+        "ScriptParams": [
+          2,
+          100,
+          1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1
+      },
+      {
+        "ID": 200014,
+        "EffectType": 6,
+        "EffectSubType": 6,
+        "ScriptParams": [
+          -1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 4
+      },
+      {
+        "ID": 200022,
+        "EffectType": 10,
+        "EffectSubType": 10,
+        "ScriptParams": [
+          1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 12
+      },
+      {
+        "ID": 200032,
+        "EffectType": 7,
+        "EffectSubType": 7,
+        "ScriptParams": [
+          2001
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 4
+      },
+      {
+        "ID": 200044,
+        "EffectType": 6,
+        "EffectSubType": 6,
+        "ScriptParams": [
+          -1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 4
+      },
+      {
+        "ID": 200045,
+        "EffectType": 1,
+        "EffectSubType": 1,
+        "ScriptParams": [
+          1,
+          0,
+          2
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1
+      },
+      {
+        "ID": 200046,
+        "EffectType": 21,
+        "EffectSubType": 21,
+        "ScriptParams": [
+          200047
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 11
+      },
+      {
+        "ID": 200048,
+        "EffectType": 11,
+        "EffectSubType": 11,
+        "ScriptParams": [
+          1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 8
+      },
+      {
+        "ID": 200052,
+        "EffectType": 8,
+        "EffectSubType": 8,
+        "ScriptParams": [
+          2
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 5
+      },
+      {
+        "ID": 200053,
+        "EffectType": 2,
+        "EffectSubType": 3,
+        "ScriptParams": [
+          2,
+          100,
+          1
+        ],
+        "Duration": 5,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 1
+      },
+      {
+        "ID": 200054,
+        "EffectType": 2,
+        "EffectSubType": 17,
+        "ScriptParams": [
+          1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 10
+      },
+      {
+        "ID": 200062,
+        "EffectType": 1,
+        "EffectSubType": 2,
+        "ScriptParams": [
+          2,
+          100,
+          3
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1
+      },
+      {
+        "ID": 200063,
+        "EffectType": 13,
+        "EffectSubType": 13,
+        "ScriptParams": [
+          1,
+          1,
+          1
+        ],
+        "Duration": 3,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 9
+      },
+      {
+        "ID": 200064,
+        "EffectType": 21,
+        "EffectSubType": 21,
+        "ScriptParams": [
+          200065
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 11
+      },
+      {
+        "ID": 200066,
+        "EffectType": 13,
+        "EffectSubType": 13,
+        "ScriptParams": [
+          1,
+          1,
+          1
+        ],
+        "Duration": 5,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 9
+      },
+      {
+        "ID": 300011,
+        "EffectType": 1,
+        "EffectSubType": 1,
+        "ScriptParams": [
+          1,
+          20,
+          4
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1
+      },
+      {
+        "ID": 300021,
+        "EffectType": 1,
+        "EffectSubType": 1,
+        "ScriptParams": [
+          1,
+          10,
+          3
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1
+      },
+      {
+        "ID": 300031,
+        "EffectType": 1,
+        "EffectSubType": 2,
+        "ScriptParams": [
+          2,
+          10,
+          1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1
+      },
+      {
+        "ID": 300041,
+        "EffectType": 2,
+        "ScriptParams": [
+          2,
+          20,
+          1,
+          1
+        ],
+        "Duration": 5,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 300042,
+        "EffectType": 2,
+        "ScriptParams": [
+          2,
+          20,
+          1,
+          2
+        ],
+        "Duration": 5,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 300051,
+        "EffectType": 3,
+        "ScriptParams": [
+          2,
+          -20,
+          -1,
+          1
+        ],
+        "Duration": 5,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 300052,
+        "EffectType": 3,
+        "ScriptParams": [
+          2,
+          -20,
+          -1,
+          2
+        ],
+        "Duration": 5,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 300061,
+        "EffectType": 3,
+        "ScriptParams": [
+          1,
+          0,
+          0,
+          3
+        ],
+        "Duration": 3,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 9
+      },
+      {
+        "ID": 300071,
+        "EffectType": 3,
+        "ScriptParams": [
+          0,
+          1,
+          0,
+          3
+        ],
+        "Duration": 3,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 9
+      },
+      {
+        "ID": 300081,
+        "EffectType": 3,
+        "ScriptParams": [
+          0,
+          0,
+          1,
+          3
+        ],
+        "Duration": 3,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 9
+      },
+      {
+        "ID": 300091,
+        "EffectType": 4,
+        "ScriptParams": [
+          2,
+          0,
+          2,
+          3
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 300092,
+        "EffectType": 4,
+        "ScriptParams": [
+          2,
+          0,
+          2,
+          4
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 300101,
+        "EffectType": 6,
+        "ScriptParams": [
+          -1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 4
+      },
+      {
+        "ID": 300111,
+        "EffectType": 7,
+        "ScriptParams": [
+          1002
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 4
+      },
+      {
+        "ID": 300121,
+        "EffectType": 10,
+        "ScriptParams": [
+          8
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 7
+      },
+      {
+        "ID": 300131,
+        "EffectType": 4,
+        "ScriptParams": [
+          2,
+          50,
+          6,
+          5
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 300132,
+        "EffectType": 11,
+        "ScriptParams": [
+          1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 8
+      },
+      {
+        "ID": 300141,
+        "EffectType": 8,
+        "ScriptParams": [
+          3,
+          -1
+        ],
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 5
+      },
+      {
+        "ID": 2100110,
+        "EffectType": 2,
+        "ScriptParams": [
+          1,
+          3
+        ],
+        "Duration": 99,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 2100120,
+        "EffectType": 2,
+        "ScriptParams": [
+          1,
+          3
+        ],
+        "Duration": 99,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 2100131,
+        "EffectType": 2,
+        "ScriptParams": [
+          1,
+          3
+        ],
+        "Duration": 99,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 2100211,
+        "EffectType": 2,
+        "ScriptParams": [
+          1,
+          3
+        ],
+        "Duration": 99,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 2100221,
+        "EffectType": 3,
+        "ScriptParams": [
+          -1,
+          1
+        ],
+        "Duration": 2,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 2100231,
+        "EffectType": 2,
+        "ScriptParams": [
+          3,
+          4
+        ],
+        "Duration": 2,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 2100311,
+        "EffectType": 2,
+        "ScriptParams": [
+          1,
+          3
+        ],
+        "Duration": 99,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 2100321,
+        "EffectType": 3,
+        "ScriptParams": [
+          -1,
+          1
+        ],
+        "Duration": 2,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      },
+      {
+        "ID": 2100331,
+        "EffectType": 2,
+        "ScriptParams": [
+          1,
+          3
+        ],
+        "Duration": 99,
+        "TriggerTiming": 1,
+        "TriggerProbability": 1,
+        "NewDefineType": 2
+      }
+    ]
+  },
+  "GemDuelSkillConditionalComparison": {
+    "Datas": [
+      {
+        "ID": 200047,
+        "Value": 13,
+        "WorkConditions": [
+          200048
+        ],
+        "NewConditionType1": 2,
+        "Newcompare": 4
+      },
+      {
+        "ID": 200065,
+        "Value": 13,
+        "WorkConditions": [
+          200066
+        ],
+        "NewConditionType1": 4,
+        "NewConditionExpr1": 13
+      }
+    ]
+  },
+  "GemDuelSkillSummon": {
+    "Datas": [
+      {
+        "ID": 10001,
+        "Level1": 1,
+        "Star1": 1,
+        "EnemySkillUnlock1": [
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "ID": 10002,
+        "Level1": 1,
+        "Star1": 3,
+        "EnemySkillUnlock1": [
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "ID": 10003,
+        "Level1": 5,
+        "Star1": 3,
+        "EnemySkillUnlock1": [
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  "GemDuelSkillSceneEventEffcet": {
+    "Datas": [
+      {
+        "ID": 1,
+        "Duration": 99
+      },
+      {
+        "ID": 2
+      },
+      {
+        "ID": 3
+      },
+      {
+        "ID": 4
+      },
+      {
+        "ID": 5
+      },
+      {
+        "ID": 6
+      },
+      {
+        "ID": 7
+      },
+      {
+        "ID": 8
+      },
+      {
+        "ID": 9,
+        "ScriptParams": [
+          1000,
+          3,
+          99
+        ]
+      },
+      {
+        "ID": 10,
+        "ScriptParams": [
+          1000,
+          4,
+          4
+        ]
+      },
+      {
+        "ID": 11,
+        "ScriptParams": [
+          1003,
+          5,
+          99
+        ]
+      },
+      {
+        "ID": 12
+      },
+      {
+        "ID": 13
+      },
+      {
+        "ID": 2100110,
+        "RiggerEffect": [
+          2100110
+        ]
+      },
+      {
+        "ID": 2100120,
+        "RiggerEffect": [
+          2100120
+        ]
+      },
+      {
+        "ID": 2100130,
+        "RiggerEffect": [
+          2100130
+        ]
+      },
+      {
+        "ID": 2100131,
+        "CasterRiggerEffect": [
+          2100131
+        ]
+      },
+      {
+        "ID": 2100210,
+        "RiggerEffect": [
+          2100210
+        ]
+      },
+      {
+        "ID": 2100211,
+        "CasterRiggerEffect": [
+          2100211
+        ]
+      },
+      {
+        "ID": 2100220,
+        "RiggerEffect": [
+          2100220
+        ]
+      },
+      {
+        "ID": 2100221,
+        "CasterRiggerEffect": [
+          2100221
+        ]
+      },
+      {
+        "ID": 2100230,
+        "RiggerEffect": [
+          2100230
+        ]
+      },
+      {
+        "ID": 2100231,
+        "CasterRiggerEffect": [
+          2100231
+        ]
+      },
+      {
+        "ID": 2100310,
+        "RiggerEffect": [
+          2100310
+        ]
+      },
+      {
+        "ID": 2100311,
+        "CasterRiggerEffect": [
+          2100311
+        ]
+      },
+      {
+        "ID": 2100320,
+        "RiggerEffect": [
+          2100320
+        ]
+      },
+      {
+        "ID": 2100321,
+        "CasterRiggerEffect": [
+          2100321
+        ]
+      },
+      {
+        "ID": 2100330,
+        "RiggerEffect": [
+          2100330
+        ]
+      },
+      {
+        "ID": 2100331,
+        "CasterRiggerEffect": [
+          2100331
+        ]
       }
     ]
   }

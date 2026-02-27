@@ -1246,8 +1246,8 @@
       {
         "ID": 10261,
         "TextureID": 10261,
-        "OpeningTime": "2025-07-12 05:00:00",
-        "ClosingTime": "2025-08-01 23:59:59",
+        "OpeningTime": "2026-02-12 05:00:00",
+        "ClosingTime": "2026-03-12 23:59:59",
         "Path": "Model/NPC/Characters/",
         "Prefab": "NPC_孙女",
         "Funcs": [
@@ -1256,8 +1256,8 @@
             "SubMeterID": 10261
           },
           {
-            "NewNPCFunction": 2,
-            "SubMeterID": 10261
+            "NewNPCFunction": 25,
+            "SubMeterID": 40013
           }
         ]
       },
@@ -1273,6 +1273,42 @@
           {
             "NewNPCFunction": 1,
             "SubMeterID": 10271
+          }
+        ]
+      },
+      {
+        "ID": 10281,
+        "OpeningTime": "2026-02-12 05:00:00",
+        "ClosingTime": "2026-02-25 23:59:59",
+        "Funcs": [
+          {
+            "NewNPCFunction": 21,
+            "SubMeterID": 9600110
+          },
+          {
+            "NewNPCFunction": 25,
+            "SubMeterID": 40011
+          }
+        ]
+      },
+      {
+        "ID": 10291,
+        "OpeningTime": "2026-02-26 05:00:00",
+        "ClosingTime": "2026-03-11 23:59:59",
+        "Path": "Model/NPC/Characters/",
+        "Prefab": "NPC_坨坨",
+        "Funcs": [
+          {
+            "NewNPCFunction": 1,
+            "SubMeterID": 10291
+          },
+          {
+            "NewNPCFunction": 22,
+            "SubMeterID": 19900
+          },
+          {
+            "NewNPCFunction": 25,
+            "SubMeterID": 40012
           }
         ]
       },
@@ -5617,6 +5653,14 @@
         ]
       },
       {
+        "ID": 10291,
+        "TalkInfoGroupInfo": [
+          {
+            "ContentID": 1029101
+          }
+        ]
+      },
+      {
         "ID": 1201111,
         "TalkInfoGroupInfo": [
           {
@@ -6027,12 +6071,7 @@
         ]
       },
       {
-        "ID": 10261,
-        "NpcShopGroupInfo": [
-          {
-            "ShopID": 19700
-          }
-        ]
+        "ID": 10261
       },
       {
         "ID": 19600,

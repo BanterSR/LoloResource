@@ -282,6 +282,14 @@
         "NewUITag": 8
       },
       {
+        "ID": 133,
+        "TextID": 133,
+        "IconID": 133,
+        "IsShowNum": true,
+        "NewBagItemTag": 9,
+        "NewUITag": 8
+      },
+      {
         "ID": 170,
         "TextID": 170,
         "IconID": 170,
@@ -2009,6 +2017,25 @@
       },
       {
         "ID": 1605,
+        "TextID": 1601,
+        "IconID": 1601,
+        "Quality": 3,
+        "IsShowNum": true,
+        "NewBagItemTag": 9,
+        "NewUITag": 1
+      },
+      {
+        "ID": 1606,
+        "TextID": 1600,
+        "IconID": 1600,
+        "Quality": 3,
+        "IsShowNum": true,
+        "SourceID": 1600,
+        "NewBagItemTag": 9,
+        "NewUITag": 1
+      },
+      {
+        "ID": 1607,
         "TextID": 1601,
         "IconID": 1601,
         "Quality": 3,
@@ -5259,6 +5286,34 @@
         "NewBagItemTag": 33
       },
       {
+        "ID": 5166,
+        "TextID": 5166,
+        "IconID": 5166,
+        "Quality": 1,
+        "NewBagItemTag": 33
+      },
+      {
+        "ID": 5167,
+        "TextID": 5167,
+        "IconID": 5167,
+        "Quality": 1,
+        "NewBagItemTag": 33
+      },
+      {
+        "ID": 5168,
+        "TextID": 5168,
+        "IconID": 5168,
+        "Quality": 1,
+        "NewBagItemTag": 33
+      },
+      {
+        "ID": 5169,
+        "TextID": 5169,
+        "IconID": 5169,
+        "Quality": 1,
+        "NewBagItemTag": 33
+      },
+      {
         "ID": 5301,
         "TextID": 5301,
         "IconID": 5301,
@@ -5785,6 +5840,60 @@
         "Quality": 1,
         "IsShowNum": true,
         "NewBagItemTag": 12,
+        "NewUITag": 8
+      },
+      {
+        "ID": 6038,
+        "TextID": 6038,
+        "IconID": 6038,
+        "Quality": 1,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 8
+      },
+      {
+        "ID": 6039,
+        "TextID": 6039,
+        "IconID": 6039,
+        "Quality": 3,
+        "IsShowNum": true,
+        "NewBagItemTag": 9,
+        "NewUITag": 8
+      },
+      {
+        "ID": 6040,
+        "TextID": 6040,
+        "IconID": 6040,
+        "Quality": 3,
+        "IsShowNum": true,
+        "NewBagItemTag": 9,
+        "NewUITag": 8
+      },
+      {
+        "ID": 6041,
+        "TextID": 6041,
+        "IconID": 6041,
+        "Quality": 1,
+        "IsShowNum": true,
+        "NewBagItemTag": 8,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6042,
+        "TextID": 6042,
+        "IconID": 6042,
+        "Quality": 1,
+        "IsShowNum": true,
+        "NewBagItemTag": 8,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6043,
+        "TextID": 6043,
+        "IconID": 6043,
+        "Quality": 3,
+        "IsShowNum": true,
+        "NewBagItemTag": 9,
         "NewUITag": 8
       },
       {
@@ -7646,6 +7755,20 @@
         "NewBagItemTag": 39
       },
       {
+        "ID": 8203,
+        "TextID": 8203,
+        "IconID": 8203,
+        "Quality": 1,
+        "NewBagItemTag": 39
+      },
+      {
+        "ID": 8204,
+        "TextID": 8204,
+        "IconID": 8204,
+        "Quality": 1,
+        "NewBagItemTag": 39
+      },
+      {
         "ID": 8301,
         "TextID": 8301,
         "IconID": 8301,
@@ -7761,6 +7884,13 @@
         "ID": 8318,
         "TextID": 8318,
         "IconID": 8318,
+        "Quality": 1,
+        "NewBagItemTag": 39
+      },
+      {
+        "ID": 8319,
+        "TextID": 8319,
+        "IconID": 8319,
         "Quality": 1,
         "NewBagItemTag": 39
       },
@@ -11090,6 +11220,14 @@
         "NewUITag": 4
       },
       {
+        "ID": 34105,
+        "TextID": 34105,
+        "IconID": 34105,
+        "Quality": 4,
+        "NewBagItemTag": 4,
+        "NewUITag": 4
+      },
+      {
         "ID": 34201,
         "TextID": 34201,
         "IconID": 34201,
@@ -11314,6 +11452,12 @@
         "NewBagItemTag": 20
       },
       {
+        "ID": 44105,
+        "TextID": 44105,
+        "IconID": 44105,
+        "NewBagItemTag": 20
+      },
+      {
         "ID": 44201,
         "TextID": 44201,
         "IconID": 44201,
@@ -11521,6 +11665,12 @@
         "ID": 54104,
         "TextID": 54104,
         "IconID": 54104,
+        "NewBagItemTag": 25
+      },
+      {
+        "ID": 54105,
+        "TextID": 54105,
+        "IconID": 54105,
         "NewBagItemTag": 25
       },
       {
@@ -11818,6 +11968,15 @@
         "NewUITag": 8
       },
       {
+        "ID": 64105,
+        "TextID": 64105,
+        "IconID": 64105,
+        "Quality": 1,
+        "IsShowNum": true,
+        "NewBagItemTag": 9,
+        "NewUITag": 8
+      },
+      {
         "ID": 64201,
         "TextID": 64201,
         "IconID": 64201,
@@ -12101,6 +12260,14 @@
         "TextID": 401004,
         "IconID": 401004,
         "RelateID": 401004,
+        "Quality": 4,
+        "NewBagItemTag": 7
+      },
+      {
+        "ID": 401005,
+        "TextID": 401005,
+        "IconID": 401005,
+        "RelateID": 401005,
         "Quality": 4,
         "NewBagItemTag": 7
       },
@@ -12735,6 +12902,34 @@
         "NewBagItemTag": 40
       },
       {
+        "ID": 631025,
+        "TextID": 631025,
+        "IconID": 631025,
+        "Quality": 1,
+        "NewBagItemTag": 40
+      },
+      {
+        "ID": 631026,
+        "TextID": 631026,
+        "IconID": 631026,
+        "Quality": 1,
+        "NewBagItemTag": 40
+      },
+      {
+        "ID": 631027,
+        "TextID": 631027,
+        "IconID": 631027,
+        "Quality": 1,
+        "NewBagItemTag": 40
+      },
+      {
+        "ID": 631028,
+        "TextID": 631028,
+        "IconID": 631028,
+        "Quality": 1,
+        "NewBagItemTag": 40
+      },
+      {
         "ID": 631031,
         "TextID": 631031,
         "IconID": 631031,
@@ -12871,6 +13066,34 @@
         "ID": 632034,
         "TextID": 632034,
         "IconID": 632034,
+        "Quality": 1,
+        "NewBagItemTag": 40
+      },
+      {
+        "ID": 632035,
+        "TextID": 632035,
+        "IconID": 632035,
+        "Quality": 1,
+        "NewBagItemTag": 40
+      },
+      {
+        "ID": 632036,
+        "TextID": 632036,
+        "IconID": 632036,
+        "Quality": 1,
+        "NewBagItemTag": 40
+      },
+      {
+        "ID": 632037,
+        "TextID": 632037,
+        "IconID": 632037,
+        "Quality": 1,
+        "NewBagItemTag": 40
+      },
+      {
+        "ID": 632038,
+        "TextID": 632038,
+        "IconID": 632038,
         "Quality": 1,
         "NewBagItemTag": 40
       },
@@ -13053,6 +13276,34 @@
         "ID": 641044,
         "TextID": 641044,
         "IconID": 641044,
+        "Quality": 1,
+        "NewBagItemTag": 40
+      },
+      {
+        "ID": 641051,
+        "TextID": 641051,
+        "IconID": 641051,
+        "Quality": 1,
+        "NewBagItemTag": 40
+      },
+      {
+        "ID": 641052,
+        "TextID": 641052,
+        "IconID": 641052,
+        "Quality": 1,
+        "NewBagItemTag": 40
+      },
+      {
+        "ID": 641053,
+        "TextID": 641053,
+        "IconID": 641053,
+        "Quality": 1,
+        "NewBagItemTag": 40
+      },
+      {
+        "ID": 641054,
+        "TextID": 641054,
+        "IconID": 641054,
         "Quality": 1,
         "NewBagItemTag": 40
       },
@@ -14634,6 +14885,102 @@
         "TextID": 1009003,
         "IconID": 1009003,
         "RelateID": 1009003,
+        "Quality": 1,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1009004,
+        "TextID": 1009004,
+        "IconID": 1009004,
+        "RelateID": 1009004,
+        "Quality": 1,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1009005,
+        "TextID": 1009005,
+        "IconID": 1009005,
+        "RelateID": 1009005,
+        "Quality": 1,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1009006,
+        "TextID": 1009006,
+        "IconID": 1009006,
+        "RelateID": 1009006,
+        "Quality": 1,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1009007,
+        "TextID": 1009007,
+        "IconID": 1009007,
+        "RelateID": 1009007,
+        "Quality": 1,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1009008,
+        "TextID": 1009008,
+        "IconID": 1009008,
+        "RelateID": 1009008,
+        "Quality": 1,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1009009,
+        "TextID": 1009009,
+        "IconID": 1009009,
+        "RelateID": 1009009,
+        "Quality": 1,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1009010,
+        "TextID": 1009010,
+        "IconID": 1009010,
+        "RelateID": 1009010,
+        "Quality": 1,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1009011,
+        "TextID": 1009011,
+        "IconID": 1009011,
+        "RelateID": 1009011,
+        "Quality": 1,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1009012,
+        "TextID": 1009012,
+        "IconID": 1009012,
+        "RelateID": 1009012,
+        "Quality": 1,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1009013,
+        "TextID": 1009013,
+        "IconID": 1009013,
+        "RelateID": 1009013,
+        "Quality": 1,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1009014,
+        "TextID": 1009014,
+        "IconID": 1009014,
+        "RelateID": 1009014,
+        "Quality": 1,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1009015,
+        "TextID": 1009015,
+        "IconID": 1009015,
+        "RelateID": 1009015,
         "Quality": 1,
         "NewBagItemTag": 2
       },
@@ -28938,6 +29285,42 @@
         "NewBagItemTag": 21
       },
       {
+        "ID": 4041051,
+        "TextID": 4041051,
+        "IconID": 4041051,
+        "RelateID": 4041051,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4041052,
+        "TextID": 4041052,
+        "IconID": 4041052,
+        "RelateID": 4041052,
+        "Quality": 1,
+        "BgID": 8,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4041053,
+        "TextID": 4041053,
+        "IconID": 4041053,
+        "RelateID": 4041053,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4041054,
+        "TextID": 4041054,
+        "IconID": 4041054,
+        "RelateID": 4041054,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
         "ID": 4042012,
         "TextID": 4042012,
         "IconID": 4042012,
@@ -29590,6 +29973,51 @@
         "TextID": 4100274,
         "IconID": 4100274,
         "RelateID": 4100274,
+        "Quality": 1,
+        "BgID": 1,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4100281,
+        "TextID": 4100281,
+        "IconID": 4100281,
+        "RelateID": 4100281,
+        "Quality": 1,
+        "BgID": 1,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4100282,
+        "TextID": 4100282,
+        "IconID": 4100282,
+        "RelateID": 4100282,
+        "Quality": 1,
+        "BgID": 8,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4100283,
+        "TextID": 4100283,
+        "IconID": 4100283,
+        "RelateID": 4100283,
+        "Quality": 1,
+        "BgID": 1,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4100284,
+        "TextID": 4100284,
+        "IconID": 4100284,
+        "RelateID": 4100284,
+        "Quality": 1,
+        "BgID": 8,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4100285,
+        "TextID": 4100285,
+        "IconID": 4100285,
+        "RelateID": 4100285,
         "Quality": 1,
         "BgID": 1,
         "NewBagItemTag": 21
@@ -31692,6 +32120,69 @@
         "NewBagItemTag": 21
       },
       {
+        "ID": 4200941,
+        "TextID": 4200941,
+        "IconID": 4200941,
+        "RelateID": 4200941,
+        "Quality": 1,
+        "BgID": 1,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4200942,
+        "TextID": 4200942,
+        "IconID": 4200942,
+        "RelateID": 4200942,
+        "Quality": 1,
+        "BgID": 8,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4200943,
+        "TextID": 4200943,
+        "IconID": 4200943,
+        "RelateID": 4200943,
+        "Quality": 1,
+        "BgID": 1,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4200944,
+        "TextID": 4200944,
+        "IconID": 4200944,
+        "RelateID": 4200944,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4200945,
+        "TextID": 4200945,
+        "IconID": 4200945,
+        "RelateID": 4200945,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4200946,
+        "TextID": 4200946,
+        "IconID": 4200946,
+        "RelateID": 4200946,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4200947,
+        "TextID": 4200947,
+        "IconID": 4200947,
+        "RelateID": 4200947,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
         "ID": 4300011,
         "TextID": 4300011,
         "IconID": 4300011,
@@ -32206,6 +32697,15 @@
         "TextID": 4610231,
         "IconID": 4610231,
         "RelateID": 4610231,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4610241,
+        "TextID": 4610241,
+        "IconID": 4610241,
+        "RelateID": 4610241,
         "Quality": 1,
         "BgID": 7,
         "NewBagItemTag": 21
@@ -41492,6 +41992,15 @@
         "NewBagItemTag": 34
       },
       {
+        "ID": 5043914,
+        "TextID": 5043914,
+        "IconID": 5043914,
+        "RelateID": 5043914,
+        "Quality": 1,
+        "IsShowNum": true,
+        "NewBagItemTag": 34
+      },
+      {
         "ID": 5044001,
         "TextID": 5044001,
         "IconID": 5044001,
@@ -44373,6 +44882,204 @@
         "NewUITag": 1
       },
       {
+        "ID": 6025310,
+        "TextID": 6025310,
+        "IconID": 6025310,
+        "RelateID": 6025310,
+        "Quality": 2,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025320,
+        "TextID": 6025320,
+        "IconID": 6025320,
+        "RelateID": 6025320,
+        "Quality": 2,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025330,
+        "TextID": 6025330,
+        "IconID": 6025330,
+        "RelateID": 6025330,
+        "Quality": 2,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025340,
+        "TextID": 6025340,
+        "IconID": 6025340,
+        "RelateID": 6025340,
+        "Quality": 3,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025350,
+        "TextID": 6025350,
+        "IconID": 6025350,
+        "RelateID": 6025350,
+        "Quality": 3,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025360,
+        "TextID": 6025360,
+        "IconID": 6025360,
+        "RelateID": 6025360,
+        "Quality": 4,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025370,
+        "TextID": 6025370,
+        "IconID": 6025370,
+        "RelateID": 6025370,
+        "Quality": 4,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025380,
+        "TextID": 6025380,
+        "IconID": 6025380,
+        "RelateID": 6025380,
+        "Quality": 2,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025390,
+        "TextID": 6025390,
+        "IconID": 6025390,
+        "RelateID": 6025390,
+        "Quality": 2,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025400,
+        "TextID": 6025400,
+        "IconID": 6025400,
+        "RelateID": 6025400,
+        "Quality": 2,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025410,
+        "TextID": 6025410,
+        "IconID": 6025410,
+        "RelateID": 6025410,
+        "Quality": 2,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025420,
+        "TextID": 6025420,
+        "IconID": 6025420,
+        "RelateID": 6025420,
+        "Quality": 2,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025430,
+        "TextID": 6025430,
+        "IconID": 6025430,
+        "RelateID": 6025430,
+        "Quality": 2,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025440,
+        "TextID": 6025440,
+        "IconID": 6025440,
+        "RelateID": 6025440,
+        "Quality": 3,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025450,
+        "TextID": 6025450,
+        "IconID": 6025450,
+        "RelateID": 6025450,
+        "Quality": 3,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025460,
+        "TextID": 6025460,
+        "IconID": 6025460,
+        "RelateID": 6025460,
+        "Quality": 3,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025470,
+        "TextID": 6025470,
+        "IconID": 6025470,
+        "RelateID": 6025470,
+        "Quality": 4,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025480,
+        "TextID": 6025480,
+        "IconID": 6025480,
+        "RelateID": 6025480,
+        "Quality": 4,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025490,
+        "TextID": 6025490,
+        "IconID": 6025490,
+        "RelateID": 6025490,
+        "Quality": 2,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025500,
+        "TextID": 6025500,
+        "IconID": 6025500,
+        "RelateID": 6025500,
+        "Quality": 3,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025510,
+        "TextID": 6025510,
+        "IconID": 6025510,
+        "RelateID": 6025510,
+        "Quality": 3,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6025520,
+        "TextID": 6025520,
+        "IconID": 6025520,
+        "RelateID": 6025520,
+        "Quality": 2,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
         "ID": 6026000,
         "TextID": 6026000,
         "IconID": 6026000,
@@ -44467,6 +45174,15 @@
         "TextID": 6027040,
         "IconID": 6027040,
         "RelateID": 6027040,
+        "Quality": 1,
+        "NewBagItemTag": 1,
+        "NewUITag": 1
+      },
+      {
+        "ID": 6027050,
+        "TextID": 6027050,
+        "IconID": 6027050,
+        "RelateID": 6027050,
         "Quality": 1,
         "NewBagItemTag": 1,
         "NewUITag": 1
@@ -78148,6 +78864,510 @@
         "NewBagItemTag": 23
       },
       {
+        "ID": 110040101,
+        "TextID": 110040101,
+        "IconID": 110040101,
+        "RelateID": 110040101,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040102,
+        "TextID": 110040102,
+        "IconID": 110040102,
+        "RelateID": 110040102,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040103,
+        "TextID": 110040103,
+        "IconID": 110040103,
+        "RelateID": 110040103,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040104,
+        "TextID": 110040104,
+        "IconID": 110040104,
+        "RelateID": 110040104,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040105,
+        "TextID": 110040105,
+        "IconID": 110040105,
+        "RelateID": 110040105,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040201,
+        "TextID": 110040201,
+        "IconID": 110040201,
+        "RelateID": 110040201,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040202,
+        "TextID": 110040202,
+        "IconID": 110040202,
+        "RelateID": 110040202,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040203,
+        "TextID": 110040203,
+        "IconID": 110040203,
+        "RelateID": 110040203,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040204,
+        "TextID": 110040204,
+        "IconID": 110040204,
+        "RelateID": 110040204,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040205,
+        "TextID": 110040205,
+        "IconID": 110040205,
+        "RelateID": 110040205,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040301,
+        "TextID": 110040301,
+        "IconID": 110040301,
+        "RelateID": 110040301,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040302,
+        "TextID": 110040302,
+        "IconID": 110040302,
+        "RelateID": 110040302,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040303,
+        "TextID": 110040303,
+        "IconID": 110040303,
+        "RelateID": 110040303,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040304,
+        "TextID": 110040304,
+        "IconID": 110040304,
+        "RelateID": 110040304,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040305,
+        "TextID": 110040305,
+        "IconID": 110040305,
+        "RelateID": 110040305,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040401,
+        "TextID": 110040401,
+        "IconID": 110040401,
+        "RelateID": 110040401,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040402,
+        "TextID": 110040402,
+        "IconID": 110040402,
+        "RelateID": 110040402,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040403,
+        "TextID": 110040403,
+        "IconID": 110040403,
+        "RelateID": 110040403,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040404,
+        "TextID": 110040404,
+        "IconID": 110040404,
+        "RelateID": 110040404,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040405,
+        "TextID": 110040405,
+        "IconID": 110040405,
+        "RelateID": 110040405,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040501,
+        "TextID": 110040501,
+        "IconID": 110040501,
+        "RelateID": 110040501,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040502,
+        "TextID": 110040502,
+        "IconID": 110040502,
+        "RelateID": 110040502,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040503,
+        "TextID": 110040503,
+        "IconID": 110040503,
+        "RelateID": 110040503,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040504,
+        "TextID": 110040504,
+        "IconID": 110040504,
+        "RelateID": 110040504,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040505,
+        "TextID": 110040505,
+        "IconID": 110040505,
+        "RelateID": 110040505,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040601,
+        "TextID": 110040601,
+        "IconID": 110040601,
+        "RelateID": 110040601,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040602,
+        "TextID": 110040602,
+        "IconID": 110040602,
+        "RelateID": 110040602,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040603,
+        "TextID": 110040603,
+        "IconID": 110040603,
+        "RelateID": 110040603,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040604,
+        "TextID": 110040604,
+        "IconID": 110040604,
+        "RelateID": 110040604,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040605,
+        "TextID": 110040605,
+        "IconID": 110040605,
+        "RelateID": 110040605,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040701,
+        "TextID": 110040701,
+        "IconID": 110040701,
+        "RelateID": 110040701,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040702,
+        "TextID": 110040702,
+        "IconID": 110040702,
+        "RelateID": 110040702,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040703,
+        "TextID": 110040703,
+        "IconID": 110040703,
+        "RelateID": 110040703,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040704,
+        "TextID": 110040704,
+        "IconID": 110040704,
+        "RelateID": 110040704,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040705,
+        "TextID": 110040705,
+        "IconID": 110040705,
+        "RelateID": 110040705,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040801,
+        "TextID": 110040801,
+        "IconID": 110040801,
+        "RelateID": 110040801,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040802,
+        "TextID": 110040802,
+        "IconID": 110040802,
+        "RelateID": 110040802,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040803,
+        "TextID": 110040803,
+        "IconID": 110040803,
+        "RelateID": 110040803,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040804,
+        "TextID": 110040804,
+        "IconID": 110040804,
+        "RelateID": 110040804,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040805,
+        "TextID": 110040805,
+        "IconID": 110040805,
+        "RelateID": 110040805,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040901,
+        "TextID": 110040901,
+        "IconID": 110040901,
+        "RelateID": 110040901,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040902,
+        "TextID": 110040902,
+        "IconID": 110040902,
+        "RelateID": 110040902,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040903,
+        "TextID": 110040903,
+        "IconID": 110040903,
+        "RelateID": 110040903,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040904,
+        "TextID": 110040904,
+        "IconID": 110040904,
+        "RelateID": 110040904,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110040905,
+        "TextID": 110040905,
+        "IconID": 110040905,
+        "RelateID": 110040905,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041001,
+        "TextID": 110041001,
+        "IconID": 110041001,
+        "RelateID": 110041001,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041002,
+        "TextID": 110041002,
+        "IconID": 110041002,
+        "RelateID": 110041002,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041003,
+        "TextID": 110041003,
+        "IconID": 110041003,
+        "RelateID": 110041003,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041004,
+        "TextID": 110041004,
+        "IconID": 110041004,
+        "RelateID": 110041004,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041005,
+        "TextID": 110041005,
+        "IconID": 110041005,
+        "RelateID": 110041005,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041101,
+        "TextID": 110041101,
+        "IconID": 110041101,
+        "RelateID": 110041101,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041102,
+        "TextID": 110041102,
+        "IconID": 110041102,
+        "RelateID": 110041102,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041103,
+        "TextID": 110041103,
+        "IconID": 110041103,
+        "RelateID": 110041103,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041104,
+        "TextID": 110041104,
+        "IconID": 110041104,
+        "RelateID": 110041104,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041105,
+        "TextID": 110041105,
+        "IconID": 110041105,
+        "RelateID": 110041105,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041201,
+        "TextID": 110041201,
+        "IconID": 110041201,
+        "RelateID": 110041201,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041202,
+        "TextID": 110041202,
+        "IconID": 110041202,
+        "RelateID": 110041202,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041203,
+        "TextID": 110041203,
+        "IconID": 110041203,
+        "RelateID": 110041203,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041204,
+        "TextID": 110041204,
+        "IconID": 110041204,
+        "RelateID": 110041204,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041205,
+        "TextID": 110041205,
+        "IconID": 110041205,
+        "RelateID": 110041205,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041301,
+        "TextID": 110041301,
+        "IconID": 110041301,
+        "RelateID": 110041301,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041302,
+        "TextID": 110041302,
+        "IconID": 110041302,
+        "RelateID": 110041302,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
+        "ID": 110041303,
+        "TextID": 110041303,
+        "IconID": 110041303,
+        "RelateID": 110041303,
+        "Quality": 2,
+        "NewBagItemTag": 23
+      },
+      {
         "ID": 110050101,
         "TextID": 110050101,
         "IconID": 110050101,
@@ -80008,6 +81228,126 @@
         "TextID": 120030015,
         "IconID": 120030015,
         "RelateID": 30150,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040001,
+        "TextID": 120040001,
+        "IconID": 120040001,
+        "RelateID": 40010,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040002,
+        "TextID": 120040002,
+        "IconID": 120040002,
+        "RelateID": 40020,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040003,
+        "TextID": 120040003,
+        "IconID": 120040003,
+        "RelateID": 40030,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040004,
+        "TextID": 120040004,
+        "IconID": 120040004,
+        "RelateID": 40040,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040005,
+        "TextID": 120040005,
+        "IconID": 120040005,
+        "RelateID": 40050,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040006,
+        "TextID": 120040006,
+        "IconID": 120040006,
+        "RelateID": 40060,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040007,
+        "TextID": 120040007,
+        "IconID": 120040007,
+        "RelateID": 40070,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040008,
+        "TextID": 120040008,
+        "IconID": 120040008,
+        "RelateID": 40080,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040009,
+        "TextID": 120040009,
+        "IconID": 120040009,
+        "RelateID": 40090,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040010,
+        "TextID": 120040010,
+        "IconID": 120040010,
+        "RelateID": 40100,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040011,
+        "TextID": 120040011,
+        "IconID": 120040011,
+        "RelateID": 40110,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040012,
+        "TextID": 120040012,
+        "IconID": 120040012,
+        "RelateID": 40120,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040013,
+        "TextID": 120040013,
+        "IconID": 120040013,
+        "RelateID": 40130,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040014,
+        "TextID": 120040014,
+        "IconID": 120040014,
+        "RelateID": 40140,
+        "Quality": 3,
+        "NewBagItemTag": 24
+      },
+      {
+        "ID": 120040015,
+        "TextID": 120040015,
+        "IconID": 120040015,
+        "RelateID": 40150,
         "Quality": 3,
         "NewBagItemTag": 24
       },

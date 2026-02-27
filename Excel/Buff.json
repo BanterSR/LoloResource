@@ -498,12 +498,68 @@
         "ScriptID": 912
       },
       {
+        "ID": 913,
+        "ScriptID": 913
+      },
+      {
         "ID": 916,
         "ScriptID": 916
       },
       {
         "ID": 917,
         "ScriptID": 917
+      },
+      {
+        "ID": 918,
+        "ScriptID": 918
+      },
+      {
+        "ID": 919,
+        "ScriptID": 919
+      },
+      {
+        "ID": 920,
+        "ScriptID": 920
+      },
+      {
+        "ID": 921,
+        "ScriptID": 921
+      },
+      {
+        "ID": 922,
+        "ScriptID": 922
+      },
+      {
+        "ID": 923,
+        "ScriptID": 923
+      },
+      {
+        "ID": 924,
+        "ScriptID": 924
+      },
+      {
+        "ID": 925,
+        "ScriptID": 925
+      },
+      {
+        "ID": 926,
+        "ScriptID": 926
+      },
+      {
+        "ID": 927,
+        "ScriptID": 927
+      },
+      {
+        "ID": 928,
+        "ScriptID": 928
+      },
+      {
+        "ID": 929,
+        "ScriptID": 929
+      },
+      {
+        "ID": 930,
+        "ScriptID": 930
       },
       {
         "ID": 1000,
@@ -2551,6 +2607,10 @@
         "ScriptID": 2023510
       },
       {
+        "ID": 2023511,
+        "ScriptID": 2023511
+      },
+      {
         "ID": 3010120,
         "ScriptID": 3010120
       },
@@ -2661,6 +2721,46 @@
       {
         "ID": 4010510,
         "ScriptID": 4010510
+      },
+      {
+        "ID": 4013530,
+        "ScriptID": 4013530
+      },
+      {
+        "ID": 4013531,
+        "ScriptID": 4013531
+      },
+      {
+        "ID": 4013532,
+        "ScriptID": 4013532
+      },
+      {
+        "ID": 4013533,
+        "ScriptID": 4013533
+      },
+      {
+        "ID": 4013534,
+        "ScriptID": 4013534
+      },
+      {
+        "ID": 4013540,
+        "ScriptID": 4013540
+      },
+      {
+        "ID": 4013541,
+        "ScriptID": 4013541
+      },
+      {
+        "ID": 4013550,
+        "ScriptID": 4013550
+      },
+      {
+        "ID": 4013551,
+        "ScriptID": 4013551
+      },
+      {
+        "ID": 4013552,
+        "ScriptID": 4013552
       },
       {
         "ID": 4020810,
@@ -3485,28 +3585,28 @@
       {
         "ID": 1,
         "ScriptName": "Buff_1",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1/Buff_1",
         "NewBuffType": 6
       },
       {
         "ID": 2,
         "ScriptName": "SpellPassive_2",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/CharacterPassive/2/SpellPassive_2",
         "NewBuffType": 6
       },
       {
         "ID": 3,
         "ScriptName": "SpellPassive_3",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/EquipPassive/3/SpellPassive_3",
         "NewBuffType": 6
       },
       {
         "ID": 10,
         "ScriptName": "Buff_10",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/10/Buff_10",
         "NewBuffType": 6
       },
@@ -3519,130 +3619,130 @@
       {
         "ID": 12,
         "ScriptName": "Buff_12",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 6
       },
       {
         "ID": 13,
         "ScriptName": "Buff_13",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 6
       },
       {
         "ID": 14,
         "ScriptName": "Buff_14",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 6
       },
       {
         "ID": 15,
         "ScriptName": "Buff_15",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/15/Buff_15",
         "NewBuffType": 6
       },
       {
         "ID": 16,
         "ScriptName": "Buff_16",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/16/Buff_16",
         "NewBuffType": 6
       },
       {
         "ID": 17,
         "ScriptName": "Buff_17",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/17/Buff_17",
         "NewBuffType": 6
       },
       {
         "ID": 18,
         "ScriptName": "Buff_18",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/18/Buff_18",
         "NewBuffType": 6
       },
       {
         "ID": 20,
         "ScriptName": "Buff_20",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/20/Buff_20",
         "NewBuffType": 6
       },
       {
         "ID": 21,
         "ScriptName": "Buff_21",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/21/Buff_21",
         "NewBuffType": 6
       },
       {
         "ID": 30,
         "ScriptName": "Buff_30",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/30/Buff_30",
         "NewBuffType": 6
       },
       {
         "ID": 40,
         "ScriptName": "Buff_40",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/40/Buff_40",
         "NewBuffType": 6
       },
       {
         "ID": 41,
         "ScriptName": "Buff_41",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/41/Buff_41",
         "NewBuffType": 6
       },
       {
         "ID": 42,
         "ScriptName": "Buff_42",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/42/Buff_42",
         "NewBuffType": 6
       },
       {
         "ID": 50,
         "ScriptName": "Buff_50",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/50/Buff_50",
         "NewBuffType": 6
       },
       {
         "ID": 105,
         "ScriptName": "Buff_105",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/105/Buff_105",
         "NewBuffType": 6
       },
       {
         "ID": 106,
         "ScriptName": "Buff_106",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/106/Buff_106",
         "NewBuffType": 6
       },
       {
         "ID": 107,
         "ScriptName": "Buff_107",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/107/Buff_107",
         "NewBuffType": 6
       },
       {
         "ID": 108,
         "ScriptName": "Buff_108",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/108/Buff_108",
         "NewBuffType": 6
       },
       {
         "ID": 109,
         "ScriptName": "Buff_109",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/109/Buff_109",
         "NewBuffType": 6
       },
@@ -3655,212 +3755,212 @@
       {
         "ID": 111,
         "ScriptName": "Buff_111",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/111/Buff_111",
         "NewBuffType": 6
       },
       {
         "ID": 112,
         "ScriptName": "Buff_112",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/112/Buff_112",
         "NewBuffType": 6
       },
       {
         "ID": 113,
         "ScriptName": "Buff_113",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/113/Buff_113",
         "NewBuffType": 6
       },
       {
         "ID": 114,
         "ScriptName": "Buff_114",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/114/Buff_114",
         "NewBuffType": 6
       },
       {
         "ID": 115,
         "ScriptName": "Buff_115",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/115/Buff_115",
         "NewBuffType": 6
       },
       {
         "ID": 116,
         "ScriptName": "Buff_116",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 6
       },
       {
         "ID": 117,
         "ScriptName": "Buff_117",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/117/Buff_117",
         "NewBuffType": 6
       },
       {
         "ID": 118,
         "ScriptName": "Buff_118",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/118/Buff_118",
         "NewBuffType": 6
       },
       {
         "ID": 119,
         "ScriptName": "Buff_119",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/119/Buff_119",
         "NewBuffType": 6
       },
       {
         "ID": 120,
         "ScriptName": "Buff_120",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/120/Buff_120",
         "NewBuffType": 6
       },
       {
         "ID": 121,
         "ScriptName": "Buff_121",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/121/Buff_121",
         "NewBuffType": 6
       },
       {
         "ID": 122,
         "ScriptName": "Buff_122",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/122/Buff_122",
         "NewBuffType": 6
       },
       {
         "ID": 123,
         "ScriptName": "Buff_123",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/123/Buff_123",
         "NewBuffType": 6
       },
       {
         "ID": 124,
         "ScriptName": "Buff_124",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/124/Buff_124",
         "NewBuffType": 6
       },
       {
         "ID": 125,
         "ScriptName": "Buff_125",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/125/Buff_125",
         "NewBuffType": 6
       },
       {
         "ID": 126,
         "ScriptName": "Buff_126",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/126/Buff_126",
         "NewBuffType": 6
       },
       {
         "ID": 130,
         "ScriptName": "Buff_130",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/130/Buff_130",
         "NewBuffType": 5
       },
       {
         "ID": 131,
         "ScriptName": "Buff_131",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/131/Buff_131",
         "NewBuffType": 5
       },
       {
         "ID": 132,
         "ScriptName": "Buff_132",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/132/Buff_132",
         "NewBuffType": 5
       },
       {
         "ID": 133,
         "ScriptName": "Buff_133",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/133/Buff_133",
         "NewBuffType": 5
       },
       {
         "ID": 140,
         "ScriptName": "Buff_140",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/140/Buff_140",
         "NewBuffType": 6
       },
       {
         "ID": 180,
         "ScriptName": "Buff_180",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 6
       },
       {
         "ID": 181,
         "ScriptName": "Buff_181",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 6
       },
       {
         "ID": 182,
         "ScriptName": "Buff_182",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 6
       },
       {
         "ID": 183,
         "ScriptName": "Buff_183",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 6
       },
       {
         "ID": 190,
         "ScriptName": "Buff_190",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/190/Buff_190",
         "NewBuffType": 6
       },
       {
         "ID": 191,
         "ScriptName": "Buff_191",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/191/Buff_191",
         "NewBuffType": 6
       },
       {
         "ID": 192,
         "ScriptName": "Buff_192",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/192/Buff_192",
         "NewBuffType": 6
       },
       {
         "ID": 193,
         "ScriptName": "Buff_193",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/193/Buff_193",
         "NewBuffType": 6
       },
       {
         "ID": 194,
         "ScriptName": "Buff_194",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/194/Buff_194",
         "NewBuffType": 6
       },
       {
         "ID": 195,
         "ScriptName": "Buff_195",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/195/Buff_195",
         "NewBuffType": 6
       },
@@ -3958,7 +4058,7 @@
       {
         "ID": 224,
         "ScriptName": "Buff_224",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/224/Buff_224"
       },
       {
@@ -3974,56 +4074,56 @@
       {
         "ID": 290,
         "ScriptName": "Buff_290",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/290/Buff_290",
         "NewBuffType": 1
       },
       {
         "ID": 291,
         "ScriptName": "Buff_291",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/291/Buff_291",
         "NewBuffType": 1
       },
       {
         "ID": 292,
         "ScriptName": "Buff_292",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/292/Buff_292",
         "NewBuffType": 1
       },
       {
         "ID": 293,
         "ScriptName": "Buff_293",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/293/Buff_293",
         "NewBuffType": 1
       },
       {
         "ID": 294,
         "ScriptName": "Buff_294",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/294/Buff_294",
         "NewBuffType": 1
       },
       {
         "ID": 295,
         "ScriptName": "Buff_295",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/295/Buff_295",
         "NewBuffType": 1
       },
       {
         "ID": 296,
         "ScriptName": "Buff_296",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/296/Buff_296",
         "NewBuffType": 1
       },
       {
         "ID": 297,
         "ScriptName": "Buff_297",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/297/Buff_297",
         "NewBuffType": 1
       },
@@ -4047,105 +4147,105 @@
       {
         "ID": 509,
         "ScriptName": "Buff_509",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/509/Buff_509",
         "NewBuffType": 5
       },
       {
         "ID": 510,
         "ScriptName": "Buff_510",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/510/Buff_510",
         "NewBuffType": 5
       },
       {
         "ID": 511,
         "ScriptName": "Buff_511",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/511/Buff_511",
         "NewBuffType": 5
       },
       {
         "ID": 512,
         "ScriptName": "Buff_512",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/512/Buff_512",
         "NewBuffType": 5
       },
       {
         "ID": 513,
         "ScriptName": "Buff_513",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/513/Buff_513",
         "NewBuffType": 5
       },
       {
         "ID": 514,
         "ScriptName": "Buff_514",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/514/Buff_514",
         "NewBuffType": 5
       },
       {
         "ID": 515,
         "ScriptName": "Buff_515",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/515/Buff_515",
         "NewBuffType": 5
       },
       {
         "ID": 516,
         "ScriptName": "Buff_516",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/516/Buff_516",
         "NewBuffType": 5
       },
       {
         "ID": 517,
         "ScriptName": "Buff_517",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/517/Buff_517",
         "NewBuffType": 5
       },
       {
         "ID": 518,
         "ScriptName": "Buff_518",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/518/Buff_518",
         "NewBuffType": 5
       },
       {
         "ID": 519,
         "ScriptName": "Buff_519",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/519/Buff_519",
         "NewBuffType": 5
       },
       {
         "ID": 521,
         "ScriptName": "Buff_521",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/521/Buff_521",
         "NewBuffType": 5
       },
       {
         "ID": 522,
         "ScriptName": "Buff_522",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/522/Buff_522",
         "NewBuffType": 5
       },
       {
         "ID": 523,
         "ScriptName": "Buff_523",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/523/Buff_523",
         "NewBuffType": 5
       },
       {
         "ID": 524,
         "ScriptName": "Buff_524",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/524/Buff_524",
         "NewBuffType": 5
       },
@@ -4158,348 +4258,446 @@
       {
         "ID": 526,
         "ScriptName": "Buff_526",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/526/Buff_526",
         "NewBuffType": 5
       },
       {
         "ID": 527,
         "ScriptName": "Buff_527",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/527/Buff_527",
         "NewBuffType": 5
       },
       {
         "ID": 528,
         "ScriptName": "Buff_528",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/528/Buff_528",
         "NewBuffType": 5
       },
       {
         "ID": 529,
         "ScriptName": "Buff_529",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/529/Buff_529",
         "NewBuffType": 5
       },
       {
         "ID": 530,
         "ScriptName": "Buff_530",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/530/Buff_530",
         "NewBuffType": 5
       },
       {
         "ID": 531,
         "ScriptName": "Buff_531",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/531/Buff_531",
         "NewBuffType": 5
       },
       {
         "ID": 532,
         "ScriptName": "Buff_532",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/532/Buff_532",
         "NewBuffType": 5
       },
       {
         "ID": 533,
         "ScriptName": "Buff_533",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/533/Buff_533",
         "NewBuffType": 5
       },
       {
         "ID": 520,
         "ScriptName": "Buff_520",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/520/Buff_520",
         "NewBuffType": 5
       },
       {
         "ID": 900,
         "ScriptName": "Buff_900",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/900/Buff_900",
         "NewBuffType": 5
       },
       {
         "ID": 901,
         "ScriptName": "Buff_901",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/901/Buff_901",
         "NewBuffType": 5
       },
       {
         "ID": 902,
         "ScriptName": "Buff_902",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/902/Buff_902",
         "NewBuffType": 5
       },
       {
         "ID": 903,
         "ScriptName": "Buff_903",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/903/Buff_903",
         "NewBuffType": 5
       },
       {
         "ID": 904,
         "ScriptName": "Buff_904",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/904/Buff_904",
         "NewBuffType": 5
       },
       {
         "ID": 905,
         "ScriptName": "Buff_905",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/905/Buff_905",
         "NewBuffType": 5
       },
       {
         "ID": 906,
         "ScriptName": "Buff_906",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/906/Buff_906",
         "NewBuffType": 5
       },
       {
         "ID": 907,
         "ScriptName": "Buff_907",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/907/Buff_907",
         "NewBuffType": 5
       },
       {
         "ID": 908,
         "ScriptName": "Buff_908",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/908/Buff_908",
         "NewBuffType": 5
       },
       {
         "ID": 909,
         "ScriptName": "Buff_909",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/909/Buff_909",
         "NewBuffType": 5
       },
       {
         "ID": 910,
         "ScriptName": "Buff_910",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/910/Buff_910",
         "NewBuffType": 5
       },
       {
         "ID": 911,
         "ScriptName": "Buff_911",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/911/Buff_911",
         "NewBuffType": 5
       },
       {
         "ID": 912,
         "ScriptName": "Buff_912",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/912/Buff_912",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 913,
+        "ScriptName": "Buff_913",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/913/Buff_913",
         "NewBuffType": 5
       },
       {
         "ID": 916,
         "ScriptName": "Buff_916",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/916/Buff_916",
         "NewBuffType": 5
       },
       {
         "ID": 917,
         "ScriptName": "Buff_917",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/917/Buff_917",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 918,
+        "ScriptName": "Buff_918",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/918/Buff_918",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 919,
+        "ScriptName": "Buff_919",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/919/Buff_919",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 920,
+        "ScriptName": "Buff_920",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/920/Buff_920",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 921,
+        "ScriptName": "Buff_921",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/921/Buff_921",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 922,
+        "ScriptName": "Buff_922",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/922/Buff_922",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 923,
+        "ScriptName": "Buff_923",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/923/Buff_923",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 924,
+        "ScriptName": "Buff_924",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/924/Buff_924",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 925,
+        "ScriptName": "Buff_925",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/925/Buff_925",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 926,
+        "ScriptName": "Buff_926",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/926/Buff_926",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 927,
+        "ScriptName": "Buff_927",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/927/Buff_927",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 928,
+        "ScriptName": "Buff_928",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/928/Buff_928",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 929,
+        "ScriptName": "Buff_929",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/929/Buff_929",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 930,
+        "ScriptName": "Buff_930",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/930/Buff_930",
         "NewBuffType": 5
       },
       {
         "ID": 8001,
         "ScriptName": "Buff_8001",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/8001/Buff_8001",
         "NewBuffType": 5
       },
       {
         "ID": 8002,
         "ScriptName": "Buff_8002",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/8002/Buff_8002",
         "NewBuffType": 5
       },
       {
         "ID": 8500,
         "ScriptName": "Buff_8500",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/8500/Buff_8500",
         "NewBuffType": 5
       },
       {
         "ID": 8510,
         "ScriptName": "Buff_8510",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/8510/Buff_8510",
         "NewBuffType": 5
       },
       {
         "ID": 8520,
         "ScriptName": "Buff_8520",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/8520/Buff_8520",
         "NewBuffType": 5
       },
       {
         "ID": 8530,
         "ScriptName": "Buff_8530",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/8530/Buff_8530",
         "NewBuffType": 5
       },
       {
         "ID": 8540,
         "ScriptName": "Buff_8540",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/8540/Buff_8540",
         "NewBuffType": 5
       },
       {
         "ID": 8550,
         "ScriptName": "Buff_8550",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/8550/Buff_8550",
         "NewBuffType": 5
       },
       {
         "ID": 8560,
         "ScriptName": "Buff_8560",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/8560/Buff_8560",
         "NewBuffType": 5
       },
       {
         "ID": 8570,
         "ScriptName": "Buff_8570",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/8570/Buff_8570",
         "NewBuffType": 5
       },
       {
         "ID": 8580,
         "ScriptName": "Buff_8580",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/8580/Buff_8580",
         "NewBuffType": 5
       },
       {
         "ID": 9001,
         "ScriptName": "Buff_9001",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9001/Buff_9001"
       },
       {
         "ID": 9002,
         "ScriptName": "Buff_9002",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9002/Buff_9002"
       },
       {
         "ID": 9003,
         "ScriptName": "Buff_9003",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9003/Buff_9003"
       },
       {
         "ID": 9004,
         "ScriptName": "Buff_9004",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9004/Buff_9004"
       },
       {
         "ID": 9005,
         "ScriptName": "Buff_9005",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9005/Buff_9005"
       },
       {
         "ID": 9006,
         "ScriptName": "Buff_9006",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9006/Buff_9006"
       },
       {
         "ID": 9007,
         "ScriptName": "Buff_9007",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9007/Buff_9007"
       },
       {
         "ID": 9008,
         "ScriptName": "Buff_9008",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9008/Buff_9008"
       },
       {
         "ID": 9009,
         "ScriptName": "Buff_9009",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9009/Buff_9009"
       },
       {
         "ID": 9010,
         "ScriptName": "Buff_9010",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9010/Buff_9010"
       },
       {
         "ID": 9011,
         "ScriptName": "Buff_9011",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9011/Buff_9011"
       },
       {
         "ID": 9012,
         "ScriptName": "Buff_9012",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9012/Buff_9012"
       },
       {
         "ID": 9013,
         "ScriptName": "Buff_9013",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9013/Buff_9013"
       },
       {
         "ID": 9014,
         "ScriptName": "Buff_9014",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9014/Buff_9014"
       },
       {
         "ID": 9015,
         "ScriptName": "Buff_9015",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9015/Buff_9015"
       },
       {
         "ID": 9016,
         "ScriptName": "Buff_9016",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9016/Buff_9016"
       },
       {
         "ID": 9900,
         "ScriptName": "Buff_9900",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/9900/Buff_9900"
       },
       {
@@ -4885,131 +5083,131 @@
       {
         "ID": 20004,
         "ScriptName": "Buff_20004",
-        "Cover": true
+        "cover": true
       },
       {
         "ID": 20005,
         "ScriptName": "SpellPassive_20005",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20006,
         "ScriptName": "SpellPassive_20006",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20007,
         "ScriptName": "Buff_20007",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20008,
         "ScriptName": "SpellPassive_20008",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20009,
         "ScriptName": "SpellPassive_20009",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20010,
         "ScriptName": "Buff_20010",
-        "Cover": true
+        "cover": true
       },
       {
         "ID": 20011,
         "ScriptName": "Buff_20011",
-        "Cover": true
+        "cover": true
       },
       {
         "ID": 20012,
         "ScriptName": "SpellPassive_20012",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20013,
         "ScriptName": "SpellPassive_20013",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20014,
         "ScriptName": "Buff_20014",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/EquipPassive/20014/Buff_20014",
         "NewBuffType": 2
       },
       {
         "ID": 20015,
         "ScriptName": "Buff_20015",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20016,
         "ScriptName": "SpellPassive_20016",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20017,
         "ScriptName": "SpellPassive_20017",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20018,
         "ScriptName": "SpellPassive_20018",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20019,
         "ScriptName": "SpellPassive_20019",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20020,
         "ScriptName": "SpellPassive_20020",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20021,
         "ScriptName": "SpellPassive_20021",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20022,
         "ScriptName": "SpellPassive_20022",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20023,
         "ScriptName": "SpellPassive_20023",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20024,
         "ScriptName": "SpellPassive_20024",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 20025,
         "ScriptName": "SpellPassive_20025",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
@@ -5490,387 +5688,387 @@
       {
         "ID": 40001,
         "ScriptName": "SpellPassive_40001",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40002,
         "ScriptName": "SpellPassive_40002",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40003,
         "ScriptName": "SpellPassive_40003",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40004,
         "ScriptName": "SpellPassive_40004",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40010,
         "ScriptName": "SpellPassive_40010",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40011,
         "ScriptName": "Buff_40011",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40020,
         "ScriptName": "SpellPassive_40020",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40030,
         "ScriptName": "SpellPassive_40030",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40031,
         "ScriptName": "Buff_40031",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40040,
         "ScriptName": "SpellPassive_40040",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40041,
         "ScriptName": "Buff_40041",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40050,
         "ScriptName": "SpellPassive_40050",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40051,
         "ScriptName": "Buff_40051",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40060,
         "ScriptName": "SpellPassive_40060",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40070,
         "ScriptName": "SpellPassive_40070",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40071,
         "ScriptName": "Buff_40071",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40072,
         "ScriptName": "Buff_40072",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40080,
         "ScriptName": "SpellPassive_40080",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40081,
         "ScriptName": "Buff_40081",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40090,
         "ScriptName": "SpellPassive_40090",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40091,
         "ScriptName": "Buff_40091",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40092,
         "ScriptName": "Buff_40092",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40100,
         "ScriptName": "SpellPassive_40100",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40101,
         "ScriptName": "Buff_40101",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40110,
         "ScriptName": "SpellPassive_40110",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40120,
         "ScriptName": "SpellPassive_40120",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40121,
         "ScriptName": "Buff_40121",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40130,
         "ScriptName": "SpellPassive_40130",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40131,
         "ScriptName": "Buff_40131",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40140,
         "ScriptName": "SpellPassive_40140",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40150,
         "ScriptName": "SpellPassive_40150",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40151,
         "ScriptName": "Buff_40151",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40160,
         "ScriptName": "SpellPassive_40160",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40161,
         "ScriptName": "Buff_40161",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40170,
         "ScriptName": "SpellPassive_40170",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40180,
         "ScriptName": "SpellPassive_40180",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40181,
         "ScriptName": "Buff_40181",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40190,
         "ScriptName": "SpellPassive_40190",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40191,
         "ScriptName": "Buff_40191",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40200,
         "ScriptName": "SpellPassive_40200",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40210,
         "ScriptName": "SpellPassive_40210",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40211,
         "ScriptName": "Buff_40211",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40220,
         "ScriptName": "SpellPassive_40220",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/EquipPassive/40220/SpellPassive_40220",
         "NewBuffType": 2
       },
       {
         "ID": 40221,
         "ScriptName": "Buff_40221",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40230,
         "ScriptName": "SpellPassive_40230",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40240,
         "ScriptName": "SpellPassive_40240",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40241,
         "ScriptName": "Buff_40241",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40250,
         "ScriptName": "SpellPassive_40250",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40260,
         "ScriptName": "SpellPassive_40260",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40270,
         "ScriptName": "SpellPassive_40270",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40271,
         "ScriptName": "Buff_40271",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40280,
         "ScriptName": "SpellPassive_40280",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40290,
         "ScriptName": "SpellPassive_40290",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40300,
         "ScriptName": "SpellPassive_40300",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40301,
         "ScriptName": "Buff_40301",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40310,
         "ScriptName": "SpellPassive_40310",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40320,
         "ScriptName": "SpellPassive_40320",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/EquipPassive/40320/SpellPassive_40320",
         "NewBuffType": 2
       },
       {
         "ID": 40321,
         "ScriptName": "Buff_40321",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40330,
         "ScriptName": "SpellPassive_40330",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40331,
         "ScriptName": "Buff_40331",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40340,
         "ScriptName": "SpellPassive_40340",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40350,
         "ScriptName": "SpellPassive_40350",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40360,
         "ScriptName": "SpellPassive_40360",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40370,
         "ScriptName": "SpellPassive_40370",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
@@ -5881,224 +6079,224 @@
       {
         "ID": 40380,
         "ScriptName": "SpellPassive_40380",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40381,
         "ScriptName": "Buff_40381",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/EquipPassive/40381/Buff_40381",
         "NewBuffType": 2
       },
       {
         "ID": 40390,
         "ScriptName": "SpellPassive_40390",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40391,
         "ScriptName": "Buff_40391",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40392,
         "ScriptName": "Buff_40392",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40393,
         "ScriptName": "Buff_40393",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40394,
         "ScriptName": "Buff_40394",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40400,
         "ScriptName": "SpellPassive_40400",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40401,
         "ScriptName": "Buff_40401",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40410,
         "ScriptName": "SpellPassive_40410",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40420,
         "ScriptName": "SpellPassive_40420",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40421,
         "ScriptName": "Buff_40421",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40430,
         "ScriptName": "SpellPassive_40430",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40440,
         "ScriptName": "SpellPassive_40440",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40460,
         "ScriptName": "SpellPassive_40460",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40461,
         "ScriptName": "Buff_40461",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40470,
         "ScriptName": "SpellPassive_40470",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40471,
         "ScriptName": "Buff_40471",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40480,
         "ScriptName": "SpellPassive_40480",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40481,
         "ScriptName": "Buff_40481",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40490,
         "ScriptName": "SpellPassive_40490",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40491,
         "ScriptName": "Buff_40491",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40500,
         "ScriptName": "SpellPassive_40500",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40501,
         "ScriptName": "Buff_40501",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40510,
         "ScriptName": "SpellPassive_40510",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40530,
         "ScriptName": "SpellPassive_40530",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40531,
         "ScriptName": "Buff_40531",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40540,
         "ScriptName": "SpellPassive_40540",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40541,
         "ScriptName": "Buff_40541",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40550,
         "ScriptName": "SpellPassive_40550",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40560,
         "ScriptName": "SpellPassive_40560",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40561,
         "ScriptName": "Buff_40561",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40570,
         "ScriptName": "SpellPassive_40570",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40620,
         "ScriptName": "SpellPassive_40620",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40621,
         "ScriptName": "Buff_40621",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40650,
         "ScriptName": "SpellPassive_40650",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40660,
         "ScriptName": "SpellPassive_40660",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/EquipPassive/40660/SpellPassive_40660",
         "NewBuffType": 2
       },
@@ -6110,20 +6308,20 @@
       {
         "ID": 40670,
         "ScriptName": "SpellPassive_40670",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/EquipPassive/40670/SpellPassive_40670",
         "NewBuffType": 2
       },
       {
         "ID": 40680,
         "ScriptName": "SpellPassive_40680",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40690,
         "ScriptName": "SpellPassive_40690",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
@@ -6134,37 +6332,37 @@
       {
         "ID": 40700,
         "ScriptName": "SpellPassive_40700",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40710,
         "ScriptName": "SpellPassive_40710",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40720,
         "ScriptName": "SpellPassive_40720",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40730,
         "ScriptName": "SpellPassive_40730",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40731,
         "ScriptName": "Buff_40731",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40740,
         "ScriptName": "SpellPassive_40740",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
@@ -6175,194 +6373,194 @@
       {
         "ID": 40750,
         "ScriptName": "SpellPassive_40750",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40751,
         "ScriptName": "Buff_40751",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/EquipPassive/40751/Buff_40751",
         "NewBuffType": 2
       },
       {
         "ID": 40760,
         "ScriptName": "SpellPassive_40760",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40770,
         "ScriptName": "SpellPassive_40770",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40780,
         "ScriptName": "SpellPassive_40780",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40790,
         "ScriptName": "SpellPassive_40790",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40800,
         "ScriptName": "SpellPassive_40800",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40801,
         "ScriptName": "Buff_40801",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40810,
         "ScriptName": "SpellPassive_40810",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40811,
         "ScriptName": "Buff_40811",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40812,
         "ScriptName": "Buff_40812",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40820,
         "ScriptName": "SpellPassive_40820",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40830,
         "ScriptName": "SpellPassive_40830",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40831,
         "ScriptName": "Buff_40831",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40832,
         "ScriptName": "Buff_40832",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40833,
         "ScriptName": "Buff_40833",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40840,
         "ScriptName": "SpellPassive_40840",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40841,
         "ScriptName": "Buff_40841",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40850,
         "ScriptName": "SpellPassive_40850",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40851,
         "ScriptName": "Buff_40851",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40870,
         "ScriptName": "SpellPassive_40870",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40871,
         "ScriptName": "Buff_40871",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40880,
         "ScriptName": "SpellPassive_40880",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40881,
         "ScriptName": "Buff_40881",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40890,
         "ScriptName": "SpellPassive_40890",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40891,
         "ScriptName": "Buff_40891",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40900,
         "ScriptName": "SpellPassive_40900",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40910,
         "ScriptName": "SpellPassive_40910",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40970,
         "ScriptName": "SpellPassive_40970",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40971,
         "ScriptName": "Buff_40971",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40980,
         "ScriptName": "SpellPassive_40980",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 40990,
         "ScriptName": "SpellPassive_40990",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
@@ -6378,517 +6576,517 @@
       {
         "ID": 41000,
         "ScriptName": "SpellPassive_41000",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41010,
         "ScriptName": "SpellPassive_41010",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41011,
         "ScriptName": "Buff_41011",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41020,
         "ScriptName": "SpellPassive_41020",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41030,
         "ScriptName": "SpellPassive_41030",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41040,
         "ScriptName": "SpellPassive_41040",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41050,
         "ScriptName": "SpellPassive_41050",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41060,
         "ScriptName": "SpellPassive_41060",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41070,
         "ScriptName": "SpellPassive_41070",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41080,
         "ScriptName": "SpellPassive_41080",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41081,
         "ScriptName": "Buff_41081",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41090,
         "ScriptName": "SpellPassive_41090",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41091,
         "ScriptName": "Buff_41091",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41092,
         "ScriptName": "Buff_41092",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41100,
         "ScriptName": "SpellPassive_41100",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41101,
         "ScriptName": "Buff_41101",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41110,
         "ScriptName": "SpellPassive_41110",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41111,
         "ScriptName": "Buff_41111",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41112,
         "ScriptName": "Buff_41112",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41113,
         "ScriptName": "Buff_41113",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41120,
         "ScriptName": "SpellPassive_41120",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41121,
         "ScriptName": "Buff_41121",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41122,
         "ScriptName": "Buff_41122",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41130,
         "ScriptName": "SpellPassive_41130",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41131,
         "ScriptName": "Buff_41131",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41140,
         "ScriptName": "SpellPassive_41140",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41141,
         "ScriptName": "Buff_41161",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41170,
         "ScriptName": "SpellPassive_41170",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41171,
         "ScriptName": "Buff_41171",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41190,
         "ScriptName": "SpellPassive_41190",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41191,
         "ScriptName": "Buff_41191",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41200,
         "ScriptName": "SpellPassive_41200",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41210,
         "ScriptName": "SpellPassive_41210",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41220,
         "ScriptName": "SpellPassive_41220",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41230,
         "ScriptName": "SpellPassive_41230",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41240,
         "ScriptName": "SpellPassive_41240",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41250,
         "ScriptName": "SpellPassive_41250",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41260,
         "ScriptName": "SpellPassive_41260",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41261,
         "ScriptName": "Buff_41261",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41270,
         "ScriptName": "SpellPassive_41270",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41280,
         "ScriptName": "SpellPassive_41280",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41281,
         "ScriptName": "Buff_41281",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41290,
         "ScriptName": "SpellPassive_41290",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41300,
         "ScriptName": "SpellPassive_41300",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41310,
         "ScriptName": "SpellPassive_41310",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41311,
         "ScriptName": "Buff_41311",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41312,
         "ScriptName": "Buff_41312",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41320,
         "ScriptName": "SpellPassive_41320",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41321,
         "ScriptName": "Buff_41321",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41330,
         "ScriptName": "SpellPassive_41330",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41331,
         "ScriptName": "Buff_41331",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41340,
         "ScriptName": "SpellPassive_41340",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41341,
         "ScriptName": "Buff_41341",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41350,
         "ScriptName": "SpellPassive_41350",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41360,
         "ScriptName": "SpellPassive_41360",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41370,
         "ScriptName": "SpellPassive_41370",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41371,
         "ScriptName": "Buff_41371",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41372,
         "ScriptName": "Buff_41372",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41380,
         "ScriptName": "SpellPassive_41380",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41381,
         "ScriptName": "Buff_41381",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41382,
         "ScriptName": "Buff_41382",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41390,
         "ScriptName": "SpellPassive_41390",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41400,
         "ScriptName": "SpellPassive_41400",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41401,
         "ScriptName": "Buff_41401",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41410,
         "ScriptName": "SpellPassive_41410",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41411,
         "ScriptName": "Buff_41411",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41420,
         "ScriptName": "SpellPassive_41420",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41421,
         "ScriptName": "Buff_41421",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41430,
         "ScriptName": "SpellPassive_41430",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41431,
         "ScriptName": "Buff_41431",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41440,
         "ScriptName": "SpellPassive_41440",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41441,
         "ScriptName": "Buff_41441",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41450,
         "ScriptName": "SpellPassive_41450",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 41451,
         "ScriptName": "Buff_41451",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 42000,
         "ScriptName": "SpellPassive_42000",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 42001,
         "ScriptName": "Buff_42001",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 42010,
         "ScriptName": "SpellPassive_42010",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 42011,
         "ScriptName": "Buff_42011",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 42020,
         "ScriptName": "SpellPassive_42020",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 42021,
         "ScriptName": "Buff_42021",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 42030,
         "ScriptName": "SpellPassive_42030",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 42040,
         "ScriptName": "SpellPassive_42040",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 42100,
         "ScriptName": "SpellPassive_42100",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 42200,
         "ScriptName": "SpellPassive_42200",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 49990,
         "ScriptName": "SpellPassive_49990",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
         "ID": 49991,
         "ScriptName": "Buff_49991",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 2
       },
       {
@@ -8177,14 +8375,14 @@
       {
         "ID": 52000,
         "ScriptName": "SpellPassive_52000",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/EquipPassive/52000/SpellPassive_52000",
         "NewBuffType": 2
       },
       {
         "ID": 52010,
         "ScriptName": "SpellPassive_52010",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/EquipPassive/52010/SpellPassive_52010",
         "NewBuffType": 2
       },
@@ -8217,7 +8415,7 @@
       {
         "ID": 120401,
         "ScriptName": "SpellPassive_120401",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
@@ -8229,7 +8427,7 @@
       {
         "ID": 130601,
         "ScriptName": "SpellPassive_130601",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
@@ -8267,734 +8465,807 @@
       {
         "ID": 1006002,
         "ScriptName": "Buff_1006002",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1006002/Buff_1006002",
         "NewBuffType": 5
       },
       {
         "ID": 500261,
         "ScriptName": "Buff_500261",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/500261/Buff_500261",
         "NewBuffType": 5
       },
       {
         "ID": 500361,
         "ScriptName": "Buff_500361",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/500361/Buff_500361",
         "NewBuffType": 5
       },
       {
         "ID": 500391,
         "ScriptName": "Buff_500391",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/500391/Buff_500391",
         "NewBuffType": 5
       },
       {
         "ID": 500511,
         "ScriptName": "Buff_500511",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/500511/Buff_500511",
         "NewBuffType": 5
       },
       {
         "ID": 100005,
         "ScriptName": "Buff_100005",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/100005/Buff_100005",
         "NewBuffType": 1
       },
       {
         "ID": 100705,
         "ScriptName": "Buff_100705",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 1
       },
       {
         "ID": 101302,
         "ScriptName": "Buff_101302",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/101302/Buff_101302",
         "NewBuffType": 1
       },
       {
         "ID": 110704,
         "ScriptName": "Buff_110704",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/110704/Buff_110704",
         "NewBuffType": 5
       },
       {
         "ID": 101511,
         "ScriptName": "Buff_101511",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/101511/Buff_101511",
         "NewBuffType": 5
       },
       {
         "ID": 101517,
         "ScriptName": "Buff_101517",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/101517/Buff_101517",
         "NewBuffType": 5
       },
       {
         "ID": 120201,
         "ScriptName": "Buff_120201",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/120201/Buff_120201",
         "NewBuffType": 5
       },
       {
         "ID": 120411,
         "ScriptName": "Buff_120411",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/120411/Buff_120411",
         "NewBuffType": 5
       },
       {
         "ID": 140702,
         "ScriptName": "Buff_140702",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/140702/Buff_140702",
         "NewBuffType": 5
       },
       {
         "ID": 1010125,
         "ScriptName": "Buff_1010125",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1010125/Buff_1010125",
         "NewBuffType": 5
       },
       {
         "ID": 1010132,
         "ScriptName": "Buff_1010132",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1010132/Buff_1010132",
         "NewBuffType": 5
       },
       {
         "ID": 1010135,
         "ScriptName": "Buff_1010135",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1010135/Buff_1010135",
         "NewBuffType": 5
       },
       {
         "ID": 1010137,
         "ScriptName": "Buff_1010137",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1010137/Buff_1010137",
         "NewBuffType": 5
       },
       {
         "ID": 1010145,
         "ScriptName": "Buff_1010145",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1010145/Buff_1010145",
         "NewBuffType": 5
       },
       {
         "ID": 1010200,
         "ScriptName": "Buff_1010200",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 1010400,
         "ScriptName": "Buff_1010400",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1010400/Buff_1010400",
         "NewBuffType": 5
       },
       {
         "ID": 1010401,
         "ScriptName": "Buff_1010401",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1010401/Buff_1010401",
         "NewBuffType": 5
       },
       {
         "ID": 1010501,
         "ScriptName": "Buff_1010501",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1010501/Buff_1010501",
         "NewBuffType": 5
       },
       {
         "ID": 1010502,
         "ScriptName": "Buff_1010502",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1010502/Buff_1010502",
         "NewBuffType": 5
       },
       {
         "ID": 1010503,
         "ScriptName": "Buff_1010503",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1010503/Buff_1010503",
         "NewBuffType": 5
       },
       {
         "ID": 1010730,
         "ScriptName": "Buff_1010730",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 1020137,
         "ScriptName": "Buff_1020137",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 1020500,
         "ScriptName": "Buff_1020500",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1020500/Buff_1020500",
         "NewBuffType": 5
       },
       {
         "ID": 1030150,
         "ScriptName": "Buff_1030150",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 1030430,
         "ScriptName": "Buff_1030430",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1030430/Buff_1030430",
         "NewBuffType": 5
       },
       {
         "ID": 1040320,
         "ScriptName": "Buff_1040320",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1040320/Buff_1040320",
         "NewBuffType": 5
       },
       {
         "ID": 1040330,
         "ScriptName": "Buff_1040330",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/1040330/Buff_1040330",
         "NewBuffType": 5
       },
       {
         "ID": 2010100,
         "ScriptName": "Buff_2010100",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 2010102,
         "ScriptName": "Buff_2010102",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/2010102/Buff_2010102",
         "NewBuffType": 5
       },
       {
         "ID": 2010126,
         "ScriptName": "Buff_2010126",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/2010126/Buff_2010126",
         "NewBuffType": 5
       },
       {
         "ID": 2010400,
         "ScriptName": "Buff_2010400",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/2010400/Buff_2010400",
         "NewBuffType": 5
       },
       {
         "ID": 2010420,
         "ScriptName": "Buff_2010420",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/2010420/Buff_2010420",
         "NewBuffType": 5
       },
       {
         "ID": 2010450,
         "ScriptName": "Buff_2010450",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/2010450/Buff_2010450",
         "NewBuffType": 5
       },
       {
         "ID": 2020400,
         "ScriptName": "Buff_2020400",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/2020400/Buff_2020400",
         "NewBuffType": 5
       },
       {
         "ID": 2020410,
         "ScriptName": "Buff_2020410",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/2020410/Buff_2020410",
         "NewBuffType": 5
       },
       {
         "ID": 2020411,
         "ScriptName": "Buff_2020411",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/2020411/Buff_2020411",
         "NewBuffType": 5
       },
       {
         "ID": 2023510,
         "ScriptName": "Buff_2023510",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/2023510/Buff_2023510",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 2023511,
+        "ScriptName": "Buff_2023511",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/2023511/Buff_2023511",
         "NewBuffType": 5
       },
       {
         "ID": 3010120,
         "ScriptName": "Buff_3010120",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/3010120/Buff_3010120",
         "NewBuffType": 5
       },
       {
         "ID": 3010125,
         "ScriptName": "Buff_3010125",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 3010400,
         "ScriptName": "Buff_3010400",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/3010400/Buff_3010400",
         "NewBuffType": 5
       },
       {
         "ID": 3010420,
         "ScriptName": "Buff_3010420",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/3010420/Buff_3010420",
         "NewBuffType": 5
       },
       {
         "ID": 3010430,
         "ScriptName": "Buff_3010430",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/3010430/Buff_3010430",
         "NewBuffType": 5
       },
       {
         "ID": 3010440,
         "ScriptName": "Buff_3010440",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/3010440/Buff_3010440",
         "NewBuffType": 5
       },
       {
         "ID": 3010500,
         "ScriptName": "Buff_3010500",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/3010500/Buff_3010500",
         "NewBuffType": 5
       },
       {
         "ID": 3030000,
         "ScriptName": "Buff_3030000",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/3030000/Buff_3030000",
         "NewBuffType": 5
       },
       {
         "ID": 3030005,
         "ScriptName": "Buff_3030005",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/3030005/Buff_3030005",
         "NewBuffType": 5
       },
       {
         "ID": 3030130,
         "ScriptName": "Buff_3030130",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/3030130/Buff_3030130",
         "NewBuffType": 5
       },
       {
         "ID": 3030300,
         "ScriptName": "Buff_3030300",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/3030300/Buff_3030300",
         "NewBuffType": 5
       },
       {
         "ID": 3030510,
         "ScriptName": "Buff_3030510",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/3030510/Buff_3030510",
         "NewBuffType": 5
       },
       {
         "ID": 3030512,
         "ScriptName": "Buff_3030512",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/3030512/Buff_3030512",
         "NewBuffType": 5
       },
       {
         "ID": 3030700,
         "ScriptName": "Buff_3030700",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/3030700/Buff_3030700",
         "NewBuffType": 5
       },
       {
         "ID": 4010110,
         "ScriptName": "Buff_4010110",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4010110/Buff_4010110",
         "NewBuffType": 5
       },
       {
         "ID": 4010140,
         "ScriptName": "Buff_4010140",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4010140/Buff_4010140",
         "NewBuffType": 5
       },
       {
         "ID": 4010170,
         "ScriptName": "Buff_4010170",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4010170/Buff_4010170",
         "NewBuffType": 5
       },
       {
         "ID": 4010400,
         "ScriptName": "Buff_4010400",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4010400/Buff_4010400",
         "NewBuffType": 5
       },
       {
         "ID": 4010430,
         "ScriptName": "Buff_4010430",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4010430/Buff_4010430",
         "NewBuffType": 5
       },
       {
         "ID": 4010431,
         "ScriptName": "Buff_4010431",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4010431/Buff_4010431",
         "NewBuffType": 5
       },
       {
         "ID": 4010432,
         "ScriptName": "Buff_4010432",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4010432/Buff_4010432",
         "NewBuffType": 5
       },
       {
         "ID": 4010440,
         "ScriptName": "Buff_4010440",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4010440/Buff_4010440",
         "NewBuffType": 5
       },
       {
         "ID": 4010450,
         "ScriptName": "Buff_4010450",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4010450/Buff_4010450",
         "NewBuffType": 5
       },
       {
         "ID": 4010451,
         "ScriptName": "Buff_4010451",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4010451/Buff_4010451",
         "NewBuffType": 5
       },
       {
         "ID": 4010460,
         "ScriptName": "Buff_4010460",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4010460/Buff_4010460",
         "NewBuffType": 5
       },
       {
         "ID": 4010480,
         "ScriptName": "Buff_4010480",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4010480/Buff_4010480",
         "NewBuffType": 5
       },
       {
         "ID": 4010510,
         "ScriptName": "Buff_4010510",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4010510/Buff_4010510",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 4013530,
+        "ScriptName": "Buff_4013530",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/4013530/Buff_4013530",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 4013531,
+        "ScriptName": "Buff_4013531",
+        "AssetFullName": "Buff/Unit/4013531/Buff_4013531",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 4013532,
+        "ScriptName": "Buff_4013532",
+        "AssetFullName": "Buff/Unit/4013532/Buff_4013532",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 4013533,
+        "ScriptName": "Buff_4013533",
+        "AssetFullName": "Buff/Unit/4013533/Buff_4013533",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 4013534,
+        "ScriptName": "Buff_4013534",
+        "AssetFullName": "Buff/Unit/4013534/Buff_4013534",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 4013540,
+        "ScriptName": "Buff_4013540",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/4013540/Buff_4013540",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 4013541,
+        "ScriptName": "Buff_4013541",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/4013541/Buff_4013541",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 4013550,
+        "ScriptName": "Buff_4013550",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/4013550/Buff_4013550",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 4013551,
+        "ScriptName": "Buff_4013551",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/4013551/Buff_4013551",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 4013552,
+        "ScriptName": "Buff_4013552",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/4013552/Buff_4013552",
         "NewBuffType": 5
       },
       {
         "ID": 4020810,
         "ScriptName": "Buff_4020810",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4020810/Buff_4020810",
         "NewBuffType": 5
       },
       {
         "ID": 4030126,
         "ScriptName": "Buff_4030126",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4030126/Buff_4030126",
         "NewBuffType": 5
       },
       {
         "ID": 4030131,
         "ScriptName": "Buff_4030131",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4030131/Buff_4030131",
         "NewBuffType": 5
       },
       {
         "ID": 4030160,
         "ScriptName": "Buff_4030160",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4030160/Buff_4030160",
         "NewBuffType": 5
       },
       {
         "ID": 4030400,
         "ScriptName": "Buff_4030400",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4030400/Buff_4030400",
         "NewBuffType": 5
       },
       {
         "ID": 4030401,
         "ScriptName": "Buff_4030401",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4030401/Buff_4030401",
         "NewBuffType": 5
       },
       {
         "ID": 4030410,
         "ScriptName": "Buff_4030410",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/4030410/Buff_4030410",
         "NewBuffType": 5
       },
       {
         "ID": 1010180,
         "ScriptName": "Buff_1010180",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 1010182,
         "ScriptName": "Buff_1010182",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 1020180,
         "ScriptName": "Buff_1020180",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 1020182,
         "ScriptName": "Buff_1020182",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 1030180,
         "ScriptName": "Buff_1030180",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 1030182,
         "ScriptName": "Buff_1030182",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 1040180,
         "ScriptName": "Buff_1040180",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 1040182,
         "ScriptName": "Buff_1040182",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 2010180,
         "ScriptName": "Buff_2010180",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 2010182,
         "ScriptName": "Buff_2010182",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 2020180,
         "ScriptName": "Buff_2020180",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 2020182,
         "ScriptName": "Buff_2020182",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 3010180,
         "ScriptName": "Buff_3010180",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 3010182,
         "ScriptName": "Buff_3010182",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 3030180,
         "ScriptName": "Buff_3030180",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 3030182,
         "ScriptName": "Buff_3030182",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 4010180,
         "ScriptName": "Buff_4010180",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 4010182,
         "ScriptName": "Buff_4010182",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 4020180,
         "ScriptName": "Buff_4020180",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 4020182,
         "ScriptName": "Buff_4020182",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 4030180,
         "ScriptName": "Buff_4030180",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 4030182,
         "ScriptName": "Buff_4030182",
-        "Cover": true,
+        "cover": true,
         "NewBuffType": 5
       },
       {
         "ID": 5000000,
         "ScriptName": "Buff_5000000",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/5000000/Buff_5000000",
         "NewBuffType": 5
       },
       {
         "ID": 5000010,
         "ScriptName": "Buff_5000010",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/5000010/Buff_5000010",
         "NewBuffType": 5
       },
       {
         "ID": 5000020,
         "ScriptName": "Buff_5000020",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/5000020/Buff_5000020",
         "NewBuffType": 5
       },
       {
         "ID": 5000030,
         "ScriptName": "Buff_5000030",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/5000030/Buff_5000030",
         "NewBuffType": 5
       },
       {
         "ID": 5000040,
         "ScriptName": "Buff_5000040",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/5000040/Buff_5000040",
         "NewBuffType": 5
       },
       {
         "ID": 5000050,
         "ScriptName": "Buff_5000050",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/5000050/Buff_5000050",
         "NewBuffType": 5
       },
       {
         "ID": 5000060,
         "ScriptName": "Buff_5000060",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/5000060/Buff_5000060",
         "NewBuffType": 5
       },
       {
         "ID": 5000070,
         "ScriptName": "Buff_5000070",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/5000070/Buff_5000070",
         "NewBuffType": 5
       },
       {
         "ID": 5000080,
         "ScriptName": "Buff_5000080",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/5000080/Buff_5000080",
         "NewBuffType": 5
       },
       {
         "ID": 5000090,
         "ScriptName": "Buff_5000090",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/5000090/Buff_5000090",
         "NewBuffType": 5
       },
       {
         "ID": 5000100,
         "ScriptName": "Buff_5000100",
-        "Cover": true,
+        "cover": true,
         "AssetFullName": "Buff/Unit/5000100/Buff_5000100",
         "NewBuffType": 5
       }

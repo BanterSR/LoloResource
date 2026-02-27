@@ -9340,52 +9340,914 @@
         ]
       },
       {
-        "ID": 4001
+        "ID": 4001,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "CollectFileID": 10104002,
+            "CollectItemID": 10204004,
+            "CollectBookID": 10304010,
+            "CollectTapeID": 10404002,
+            "CollectPortalID": 10504004,
+            "CollectDataID": 10604001,
+            "ChallengeID": 204002,
+            "RiddleID": 1004002
+          },
+          {
+            "Index": 2,
+            "CollectFileID": 10104003,
+            "CollectItemID": 10204008,
+            "CollectTapeID": 10404003,
+            "CollectDataID": 10604005
+          },
+          {
+            "Index": 3,
+            "CollectFileID": 10104038,
+            "CollectDataID": 10604010
+          },
+          {
+            "Index": 4,
+            "CollectFileID": 10104039
+          },
+          {
+            "Index": 5,
+            "CollectFileID": 10104040
+          },
+          {
+            "Index": 6
+          },
+          {
+            "Index": 7
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4002
+        "ID": 4002,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "ScenicID": 4003,
+            "CollectFileID": 10104001,
+            "CollectItemID": 10204001,
+            "CollectBookID": 10304027,
+            "CollectTapeID": 10404001,
+            "CollectDataID": 10604002,
+            "ChallengeID": 404003
+          },
+          {
+            "Index": 2,
+            "CollectItemID": 10204005,
+            "CollectBookID": 10304028
+          },
+          {
+            "Index": 3,
+            "CollectItemID": 10204002
+          },
+          {
+            "Index": 4,
+            "CollectItemID": 10204003
+          },
+          {
+            "Index": 5
+          },
+          {
+            "Index": 6
+          },
+          {
+            "Index": 7
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4003
+        "ID": 4003,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "ScenicID": 4008,
+            "CollectFileID": 10104015,
+            "CollectItemID": 10204037,
+            "CollectBookID": 10304026,
+            "CollectTapeID": 10404016,
+            "CollectPortalID": 10504005,
+            "CollectDataID": 10604019,
+            "RiddleID": 1104003
+          },
+          {
+            "Index": 2,
+            "CollectItemID": 10204024,
+            "CollectTapeID": 10404018,
+            "CollectPortalID": 10504003,
+            "CollectDataID": 10604013
+          },
+          {
+            "Index": 3,
+            "CollectTapeID": 10404013,
+            "CollectDataID": 10604015
+          },
+          {
+            "Index": 4,
+            "CollectDataID": 10604025
+          },
+          {
+            "Index": 5
+          },
+          {
+            "Index": 6
+          },
+          {
+            "Index": 7
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4004
+        "ID": 4004,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "CollectFileID": 10104010,
+            "CollectItemID": 10204006,
+            "CollectBookID": 10304008,
+            "CollectTapeID": 10404006,
+            "CollectPortalID": 10504002,
+            "CollectDataID": 10604003,
+            "ChallengeID": 304002,
+            "RiddleID": 904001
+          },
+          {
+            "Index": 2,
+            "CollectFileID": 10104017,
+            "CollectItemID": 10204025,
+            "CollectTapeID": 10404012,
+            "CollectDataID": 10604004,
+            "RiddleID": 904002
+          },
+          {
+            "Index": 3,
+            "CollectFileID": 10104013,
+            "CollectItemID": 10204015,
+            "CollectDataID": 10604011
+          },
+          {
+            "Index": 4,
+            "CollectFileID": 10104011,
+            "CollectDataID": 10604021
+          },
+          {
+            "Index": 5,
+            "CollectDataID": 10604024
+          },
+          {
+            "Index": 6
+          },
+          {
+            "Index": 7
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4005
+        "ID": 4005,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "ScenicID": 4004,
+            "CollectFileID": 10104004,
+            "CollectItemID": 10204018,
+            "CollectBookID": 10304017,
+            "CollectTapeID": 10404005,
+            "CollectDataID": 10604006,
+            "RiddleID": 2204002
+          },
+          {
+            "Index": 2,
+            "CollectItemID": 10204022,
+            "CollectBookID": 10304029,
+            "CollectTapeID": 10404010,
+            "CollectDataID": 10604018
+          },
+          {
+            "Index": 3,
+            "CollectItemID": 10204013,
+            "CollectTapeID": 10404007,
+            "CollectDataID": 10604017
+          },
+          {
+            "Index": 4,
+            "CollectItemID": 10204014,
+            "CollectTapeID": 10404009,
+            "CollectDataID": 10604009
+          },
+          {
+            "Index": 5,
+            "CollectItemID": 10204026,
+            "CollectDataID": 10604035
+          },
+          {
+            "Index": 6
+          },
+          {
+            "Index": 7
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4006
+        "ID": 4006,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "CollectFileID": 10104008,
+            "CollectItemID": 10204020,
+            "CollectBookID": 10304031,
+            "CollectTapeID": 10404004,
+            "CollectPortalID": 10504001,
+            "CollectDataID": 10604008,
+            "RiddleID": 904003
+          },
+          {
+            "Index": 2,
+            "CollectFileID": 10104005,
+            "CollectItemID": 10204016,
+            "CollectBookID": 10304021,
+            "CollectTapeID": 10404008,
+            "CollectPortalID": 10504007,
+            "CollectDataID": 10604016
+          },
+          {
+            "Index": 3,
+            "CollectFileID": 10104006,
+            "CollectItemID": 10204007,
+            "CollectBookID": 10304023
+          },
+          {
+            "Index": 4,
+            "CollectFileID": 10104009,
+            "CollectItemID": 10204027,
+            "CollectBookID": 10304030
+          },
+          {
+            "Index": 5,
+            "CollectItemID": 10204009
+          },
+          {
+            "Index": 6
+          },
+          {
+            "Index": 7
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4007
+        "ID": 4007,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "CollectFileID": 10104014,
+            "CollectItemID": 10204041,
+            "CollectBookID": 10304002,
+            "CollectTapeID": 10404019,
+            "CollectPortalID": 10504012,
+            "CollectDataID": 10604028,
+            "ChallengeID": 104002
+          },
+          {
+            "Index": 2,
+            "CollectFileID": 10104020,
+            "CollectItemID": 10204028,
+            "CollectBookID": 10304025,
+            "CollectTapeID": 10404024,
+            "CollectDataID": 10604033,
+            "ChallengeID": 104003
+          },
+          {
+            "Index": 3,
+            "CollectFileID": 10104023,
+            "CollectItemID": 10204019,
+            "CollectBookID": 10304022,
+            "CollectTapeID": 10404015,
+            "CollectDataID": 10604014,
+            "ChallengeID": 304003
+          },
+          {
+            "Index": 4,
+            "CollectItemID": 10204030,
+            "CollectBookID": 10304007,
+            "CollectDataID": 10604036
+          },
+          {
+            "Index": 5,
+            "CollectItemID": 10204012,
+            "CollectBookID": 10304009,
+            "CollectDataID": 10604012
+          },
+          {
+            "Index": 6,
+            "CollectDataID": 10604029
+          },
+          {
+            "Index": 7
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4008
+        "ID": 4008,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "ScenicID": 4002,
+            "CollectFileID": 10104016,
+            "CollectItemID": 10204035,
+            "CollectBookID": 10304020,
+            "CollectTapeID": 10404014,
+            "CollectPortalID": 10504008,
+            "CollectDataID": 10604023,
+            "ChallengeID": 204001,
+            "RiddleID": 1504002
+          },
+          {
+            "Index": 2,
+            "CollectFileID": 10104018,
+            "CollectItemID": 10204033,
+            "CollectBookID": 10304004,
+            "CollectTapeID": 10404017,
+            "CollectPortalID": 10504010,
+            "CollectDataID": 10604026,
+            "ChallengeID": 104001
+          },
+          {
+            "Index": 3,
+            "CollectFileID": 10104019,
+            "CollectItemID": 10204011,
+            "CollectBookID": 10304016,
+            "CollectTapeID": 10404011,
+            "CollectDataID": 10604032,
+            "ChallengeID": 904003
+          },
+          {
+            "Index": 4,
+            "CollectFileID": 10104012,
+            "CollectItemID": 10204017,
+            "CollectBookID": 10304001,
+            "CollectTapeID": 10404022,
+            "CollectDataID": 10604007
+          },
+          {
+            "Index": 5,
+            "CollectItemID": 10204038
+          },
+          {
+            "Index": 6,
+            "CollectItemID": 10204039
+          },
+          {
+            "Index": 7,
+            "CollectItemID": 10204047
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4009
+        "ID": 4009,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "CollectFileID": 10104022,
+            "CollectItemID": 10204029,
+            "CollectBookID": 10304018,
+            "CollectTapeID": 10404023,
+            "CollectPortalID": 10504006,
+            "CollectDataID": 10604022,
+            "ChallengeID": 804001,
+            "RiddleID": 1104002
+          },
+          {
+            "Index": 2,
+            "CollectItemID": 10204043,
+            "CollectBookID": 10304003,
+            "CollectTapeID": 10404025,
+            "CollectPortalID": 10504011,
+            "CollectDataID": 10604031,
+            "ChallengeID": 804003
+          },
+          {
+            "Index": 3,
+            "CollectItemID": 10204032,
+            "CollectBookID": 10304024,
+            "CollectDataID": 10604027
+          },
+          {
+            "Index": 4,
+            "CollectItemID": 10204021,
+            "CollectDataID": 10604034
+          },
+          {
+            "Index": 5,
+            "CollectItemID": 10204040,
+            "CollectDataID": 10604020
+          },
+          {
+            "Index": 6,
+            "CollectItemID": 10204010
+          },
+          {
+            "Index": 7,
+            "CollectItemID": 10204023
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4010
+        "ID": 4010,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "CollectFileID": 10104021,
+            "CollectItemID": 10204048,
+            "CollectBookID": 10304019,
+            "CollectTapeID": 10404029,
+            "CollectPortalID": 10504009,
+            "CollectDataID": 10604044,
+            "ChallengeID": 204003,
+            "RiddleID": 2204001
+          },
+          {
+            "Index": 2,
+            "CollectItemID": 10204036,
+            "CollectTapeID": 10404020,
+            "CollectDataID": 10604039,
+            "ChallengeID": 304001
+          },
+          {
+            "Index": 3,
+            "CollectItemID": 10204031
+          },
+          {
+            "Index": 4,
+            "CollectItemID": 10204049
+          },
+          {
+            "Index": 5,
+            "CollectItemID": 10204034
+          },
+          {
+            "Index": 6
+          },
+          {
+            "Index": 7
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4011
+        "ID": 4011,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "CollectFileID": 10104027,
+            "CollectItemID": 10204042,
+            "CollectBookID": 10304032,
+            "CollectTapeID": 10404030,
+            "CollectPortalID": 10504013,
+            "CollectDataID": 10604043,
+            "RiddleID": 904004
+          },
+          {
+            "Index": 2,
+            "CollectFileID": 10104025,
+            "CollectItemID": 10204044,
+            "CollectBookID": 10304005,
+            "CollectTapeID": 10404033,
+            "CollectDataID": 10604030
+          },
+          {
+            "Index": 3,
+            "CollectFileID": 10104029,
+            "CollectItemID": 10204045,
+            "CollectTapeID": 10404021,
+            "CollectDataID": 10604037
+          },
+          {
+            "Index": 4,
+            "CollectItemID": 10204050,
+            "CollectDataID": 10604046
+          },
+          {
+            "Index": 5,
+            "CollectItemID": 10204051,
+            "CollectDataID": 10604042
+          },
+          {
+            "Index": 6
+          },
+          {
+            "Index": 7
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4012
+        "ID": 4012,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "CollectFileID": 10104026,
+            "CollectItemID": 10204052,
+            "CollectTapeID": 10404028,
+            "CollectDataID": 10604047
+          },
+          {
+            "Index": 2,
+            "CollectItemID": 10204058,
+            "CollectTapeID": 10404026,
+            "CollectDataID": 10604041
+          },
+          {
+            "Index": 3,
+            "CollectTapeID": 10404027,
+            "CollectDataID": 10604050
+          },
+          {
+            "Index": 4,
+            "CollectTapeID": 10404031,
+            "CollectDataID": 10604045
+          },
+          {
+            "Index": 5
+          },
+          {
+            "Index": 6
+          },
+          {
+            "Index": 7
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4013
+        "ID": 4013,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "CollectFileID": 10104031,
+            "CollectItemID": 10204060,
+            "CollectBookID": 10304015,
+            "CollectTapeID": 10404032,
+            "CollectPortalID": 10504016,
+            "CollectDataID": 10604048,
+            "ChallengeID": 404001,
+            "RiddleID": 1504001
+          },
+          {
+            "Index": 2,
+            "CollectFileID": 10104028,
+            "CollectItemID": 10204059,
+            "CollectBookID": 10304006,
+            "CollectTapeID": 10404034,
+            "CollectDataID": 10604038,
+            "RiddleID": 1104001
+          },
+          {
+            "Index": 3,
+            "CollectFileID": 10104032,
+            "CollectItemID": 10204054,
+            "CollectBookID": 10304014,
+            "CollectTapeID": 10404035,
+            "CollectDataID": 10604040
+          },
+          {
+            "Index": 4,
+            "CollectFileID": 10104024,
+            "CollectItemID": 10204046
+          },
+          {
+            "Index": 5,
+            "CollectFileID": 10104030,
+            "CollectItemID": 10204057
+          },
+          {
+            "Index": 6,
+            "CollectItemID": 10204053
+          },
+          {
+            "Index": 7,
+            "CollectItemID": 10204056
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4014
+        "ID": 4014,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "ScenicID": 4006,
+            "CollectFileID": 10104036,
+            "CollectItemID": 10204065,
+            "CollectBookID": 10304013,
+            "CollectTapeID": 10404037,
+            "CollectPortalID": 10504014,
+            "CollectDataID": 10604054,
+            "ChallengeID": 904002,
+            "RiddleID": 2204003
+          },
+          {
+            "Index": 2,
+            "CollectFileID": 10104033,
+            "CollectItemID": 10204062,
+            "CollectPortalID": 10504017,
+            "CollectDataID": 10604052,
+            "ChallengeID": 404002
+          },
+          {
+            "Index": 3,
+            "CollectItemID": 10204061,
+            "CollectPortalID": 10504015,
+            "CollectDataID": 10604059
+          },
+          {
+            "Index": 4,
+            "CollectItemID": 10204068
+          },
+          {
+            "Index": 5,
+            "CollectItemID": 10204055
+          },
+          {
+            "Index": 6
+          },
+          {
+            "Index": 7
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4015
+        "ID": 4015,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "ScenicID": 4007,
+            "CollectFileID": 10104034,
+            "CollectItemID": 10204063,
+            "CollectBookID": 10304012,
+            "CollectTapeID": 10404036,
+            "CollectDataID": 10604056,
+            "RiddleID": 904005
+          },
+          {
+            "Index": 2,
+            "CollectItemID": 10204066,
+            "CollectDataID": 10604049,
+            "RiddleID": 904006
+          },
+          {
+            "Index": 3,
+            "CollectDataID": 10604051
+          },
+          {
+            "Index": 4
+          },
+          {
+            "Index": 5
+          },
+          {
+            "Index": 6
+          },
+          {
+            "Index": 7
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
-        "ID": 4016
+        "ID": 4016,
+        "AreaRelationDataGroup": [
+          {
+            "Index": 1,
+            "ScenicID": 4001,
+            "CollectFileID": 10104035,
+            "CollectItemID": 10204067,
+            "CollectBookID": 10304011,
+            "CollectTapeID": 10404039,
+            "CollectPortalID": 10504019,
+            "CollectDataID": 10604057,
+            "ChallengeID": 904001,
+            "RiddleID": 1004003
+          },
+          {
+            "Index": 2,
+            "CollectFileID": 10104037,
+            "CollectItemID": 10204064,
+            "CollectTapeID": 10404040,
+            "CollectPortalID": 10504018,
+            "CollectDataID": 10604053,
+            "ChallengeID": 804002,
+            "RiddleID": 1504003
+          },
+          {
+            "Index": 3,
+            "CollectItemID": 10204069,
+            "CollectTapeID": 10404038,
+            "CollectDataID": 10604055
+          },
+          {
+            "Index": 4,
+            "CollectItemID": 10204070,
+            "CollectDataID": 10604058
+          },
+          {
+            "Index": 5,
+            "CollectDataID": 10604060
+          },
+          {
+            "Index": 6
+          },
+          {
+            "Index": 7
+          },
+          {
+            "Index": 8
+          },
+          {
+            "Index": 9
+          },
+          {
+            "Index": 10
+          },
+          {
+            "Index": 11
+          }
+        ]
       },
       {
         "ID": 5001,

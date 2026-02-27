@@ -84,9 +84,10 @@
         "ProgressID": 4,
         "GatherRuleID": 4,
         "GatherLevel": 101,
-        "Para1": 9001,
-        "ShowPara1": 999,
+        "Para1": 200141,
         "SceneMonsterMinLevel": 20,
+        "SceneShowDay": "2026-02-12 08:00:00",
+        "SceneUnlockDay": "2026-02-12 08:00:00",
         "MinMapID": 4,
         "NewSceneType": 1,
         "NewSceneUnlockType": 5
@@ -1025,6 +1026,12 @@
         "NewSceneType": 2
       },
       {
+        "ID": 100107,
+        "TextID": 100107,
+        "SceneName": "Assets/Scenes/SceneGameplay/EventInstance/春节副本/春节副本.unity",
+        "NewSceneType": 2
+      },
+      {
         "ID": 100201,
         "TextID": 100201,
         "SceneName": "Assets/Scenes/SceneGameplay/Element/SceneElement01_Sakura/Element_Sakura_Light.unity",
@@ -1316,7 +1323,7 @@
           },
           {
             "NewProgressType": 7,
-            "Total": 60
+            "Total": 32
           },
           {
             "NewProgressType": 8,
@@ -1331,7 +1338,8 @@
             "Total": 60
           },
           {
-            "NewProgressType": 4
+            "NewProgressType": 4,
+            "Total": 32
           },
           {
             "NewProgressType": 3,
@@ -1339,11 +1347,11 @@
           },
           {
             "NewProgressType": 14,
-            "Total": 15
+            "Total": 18
           },
           {
             "NewProgressType": 15,
-            "Total": 18
+            "Total": 19
           },
           {
             "NewProgressType": 13
@@ -2003,6 +2011,12 @@
         "AssetPath": "Assets/Scenes/HomeStage/半周年庆/---------------------半周年庆舞台.prefab",
         "OpeningTime": "2025-09-26 05:00:00",
         "ClosingTime": "2025-10-25 23:59:59"
+      },
+      {
+        "ID": 23,
+        "AssetPath": "Assets/Scenes/HomeStage/新年/---------------------春节舞台.prefab",
+        "OpeningTime": "2026-02-12 05:00:00",
+        "ClosingTime": "2026-03-11 23:59:59"
       }
     ]
   }

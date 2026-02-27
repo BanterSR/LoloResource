@@ -6411,6 +6411,25 @@
         "NewType": 9
       },
       {
+        "ID": 200141,
+        "QuestGroup": 200141,
+        "Name": 200141,
+        "LimitNum": 1,
+        "IsImmedReward": true,
+        "ConditionSetGroupID": 200141,
+        "NewType": 9
+      },
+      {
+        "ID": 200142,
+        "QuestGroup": 200141,
+        "Name": 200141,
+        "LimitNum": 1,
+        "Reward": 2000500,
+        "ConditionSetGroupID": 200142,
+        "FinishQuestDialogID": 2001422,
+        "NewType": 9
+      },
+      {
         "ID": 220011,
         "QuestGroup": 220011,
         "Name": 220011,
@@ -7860,6 +7879,226 @@
         "FirstReward": 2303054,
         "ConditionSetGroupID": 303054,
         "NpcPicID": 10011,
+        "NewType": 2
+      },
+      {
+        "ID": 304011,
+        "QuestGroup": 304011,
+        "Name": 304011,
+        "LimitNum": 1,
+        "Reward": 2000310,
+        "FirstReward": 2304011,
+        "ConditionSetGroupID": 304011,
+        "NpcPicID": 10006,
+        "NewType": 2
+      },
+      {
+        "ID": 304012,
+        "QuestGroup": 304012,
+        "Name": 304012,
+        "LimitNum": 1,
+        "Reward": 2000310,
+        "FirstReward": 2304012,
+        "ConditionSetGroupID": 304012,
+        "NpcPicID": 10006,
+        "NewType": 2
+      },
+      {
+        "ID": 304013,
+        "QuestGroup": 304013,
+        "Name": 304013,
+        "LimitNum": 1,
+        "Reward": 2000320,
+        "FirstReward": 2304013,
+        "ConditionSetGroupID": 304013,
+        "NpcPicID": 10006,
+        "NewType": 2
+      },
+      {
+        "ID": 304014,
+        "QuestGroup": 304014,
+        "Name": 304014,
+        "LimitNum": 1,
+        "Reward": 2000320,
+        "FirstReward": 2304014,
+        "ConditionSetGroupID": 304014,
+        "NpcPicID": 10006,
+        "NewType": 2
+      },
+      {
+        "ID": 304021,
+        "QuestGroup": 304021,
+        "Name": 304021,
+        "LimitNum": 1,
+        "Reward": 2000310,
+        "FirstReward": 2304021,
+        "ConditionSetGroupID": 304021,
+        "NpcPicID": 10009,
+        "NewType": 2
+      },
+      {
+        "ID": 304022,
+        "QuestGroup": 304022,
+        "Name": 304022,
+        "LimitNum": 1,
+        "Reward": 2000310,
+        "FirstReward": 2304022,
+        "ConditionSetGroupID": 304022,
+        "NpcPicID": 10009,
+        "NewType": 2
+      },
+      {
+        "ID": 304023,
+        "QuestGroup": 304023,
+        "Name": 304023,
+        "LimitNum": 1,
+        "Reward": 2000320,
+        "FirstReward": 2304023,
+        "ConditionSetGroupID": 304023,
+        "NpcPicID": 10009,
+        "NewType": 2
+      },
+      {
+        "ID": 304024,
+        "QuestGroup": 304024,
+        "Name": 304024,
+        "LimitNum": 1,
+        "Reward": 2000320,
+        "FirstReward": 2304024,
+        "ConditionSetGroupID": 304024,
+        "NpcPicID": 10009,
+        "NewType": 2
+      },
+      {
+        "ID": 304031,
+        "QuestGroup": 304031,
+        "Name": 304031,
+        "LimitNum": 1,
+        "Reward": 2000310,
+        "FirstReward": 2304031,
+        "ConditionSetGroupID": 304031,
+        "NpcPicID": 10013,
+        "NewType": 2
+      },
+      {
+        "ID": 304032,
+        "QuestGroup": 304032,
+        "Name": 304032,
+        "LimitNum": 1,
+        "Reward": 2000310,
+        "FirstReward": 2304032,
+        "ConditionSetGroupID": 304032,
+        "NpcPicID": 10013,
+        "NewType": 2
+      },
+      {
+        "ID": 304033,
+        "QuestGroup": 304033,
+        "Name": 304033,
+        "LimitNum": 1,
+        "Reward": 2000320,
+        "FirstReward": 2304033,
+        "ConditionSetGroupID": 304033,
+        "NpcPicID": 10013,
+        "NewType": 2
+      },
+      {
+        "ID": 304034,
+        "QuestGroup": 304034,
+        "Name": 304034,
+        "LimitNum": 1,
+        "Reward": 2000320,
+        "FirstReward": 2304034,
+        "ConditionSetGroupID": 304034,
+        "NpcPicID": 10013,
+        "NewType": 2
+      },
+      {
+        "ID": 304041,
+        "QuestGroup": 304041,
+        "Name": 304041,
+        "LimitNum": 1,
+        "Reward": 2000310,
+        "FirstReward": 2304041,
+        "ConditionSetGroupID": 304041,
+        "NpcPicID": 10011,
+        "NewType": 2
+      },
+      {
+        "ID": 304042,
+        "QuestGroup": 304042,
+        "Name": 304042,
+        "LimitNum": 1,
+        "Reward": 2000310,
+        "FirstReward": 2304042,
+        "ConditionSetGroupID": 304042,
+        "NpcPicID": 10011,
+        "NewType": 2
+      },
+      {
+        "ID": 304043,
+        "QuestGroup": 304043,
+        "Name": 304043,
+        "LimitNum": 1,
+        "Reward": 2000320,
+        "FirstReward": 2304043,
+        "ConditionSetGroupID": 304043,
+        "NpcPicID": 10011,
+        "NewType": 2
+      },
+      {
+        "ID": 304044,
+        "QuestGroup": 304044,
+        "Name": 304044,
+        "LimitNum": 1,
+        "Reward": 2000320,
+        "FirstReward": 2304044,
+        "ConditionSetGroupID": 304044,
+        "NpcPicID": 10011,
+        "NewType": 2
+      },
+      {
+        "ID": 304051,
+        "QuestGroup": 304051,
+        "Name": 304051,
+        "LimitNum": 1,
+        "Reward": 2000310,
+        "FirstReward": 2304051,
+        "ConditionSetGroupID": 304051,
+        "NpcPicID": 10012,
+        "NewType": 2
+      },
+      {
+        "ID": 304052,
+        "QuestGroup": 304052,
+        "Name": 304052,
+        "LimitNum": 1,
+        "Reward": 2000310,
+        "FirstReward": 2304052,
+        "ConditionSetGroupID": 304052,
+        "NpcPicID": 10012,
+        "NewType": 2
+      },
+      {
+        "ID": 304053,
+        "QuestGroup": 304053,
+        "Name": 304053,
+        "LimitNum": 1,
+        "Reward": 2000320,
+        "FirstReward": 2304053,
+        "ConditionSetGroupID": 304053,
+        "NpcPicID": 10012,
+        "NewType": 2
+      },
+      {
+        "ID": 304054,
+        "QuestGroup": 304054,
+        "Name": 304054,
+        "LimitNum": 1,
+        "Reward": 2000320,
+        "FirstReward": 2304054,
+        "ConditionSetGroupID": 304054,
+        "NpcPicID": 10012,
         "NewType": 2
       },
       {
@@ -22086,6 +22325,38 @@
         ]
       },
       {
+        "ID": 2001411,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "QuestResourceID": 10006,
+            "IsTrack": true,
+            "TrackHide": 4.5,
+            "TrackShow": 6.5,
+            "SceneID": 9999,
+            "IsShowQuestStatus0": true,
+            "IsShowQuestStatus1": true,
+            "IsShowQuestStatus2": true,
+            "IsShowQuestStatus3": true
+          }
+        ]
+      },
+      {
+        "ID": 2001421,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 2,
+            "QuestResourceID": 2001421,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
         "ID": 2200111,
         "QuestResourceItems": [
           {
@@ -24271,6 +24542,306 @@
             "TrackHide": 3,
             "TrackShow": 4,
             "SceneID": 3,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304011,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 41001,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304012,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 41002,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304013,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 41003,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304014,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 41006,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304021,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 47001,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304022,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 47002,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304023,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 47005,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304024,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 47007,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304031,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 41010,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304032,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 41018,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304033,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 41021,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304034,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 41027,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304041,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 46001,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304042,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 46003,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304043,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 46005,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304044,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 46006,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304051,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 41008,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304052,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 41028,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304053,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 41031,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
+            "IsShowQuestStatus1": true
+          }
+        ]
+      },
+      {
+        "ID": 304054,
+        "QuestResourceItems": [
+          {
+            "Index": 1,
+            "NewQuestResourceType": 1,
+            "QuestResourceID": 43001,
+            "IsTrack": true,
+            "TrackHide": 3,
+            "TrackShow": 4,
+            "SceneID": 4,
             "IsShowQuestStatus1": true
           }
         ]
@@ -33995,6 +34566,32 @@
         ]
       },
       {
+        "ID": 200141,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              12001411
+            ],
+            "ResourceID": [
+              2001411
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 200142,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              12001421
+            ],
+            "ResourceID": [
+              2001421
+            ]
+          }
+        ]
+      },
+      {
         "ID": 220011,
         "QuestConditionSet": [
           {
@@ -35849,6 +36446,266 @@
             ],
             "ResourceID": [
               303054
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304011,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040111
+            ],
+            "ResourceID": [
+              304011
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304012,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040121
+            ],
+            "ResourceID": [
+              304012
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304013,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040131
+            ],
+            "ResourceID": [
+              304013
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304014,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040141
+            ],
+            "ResourceID": [
+              304014
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304021,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040211
+            ],
+            "ResourceID": [
+              304021
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304022,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040221
+            ],
+            "ResourceID": [
+              304022
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304023,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040231
+            ],
+            "ResourceID": [
+              304023
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304024,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040241
+            ],
+            "ResourceID": [
+              304024
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304031,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040311
+            ],
+            "ResourceID": [
+              304031
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304032,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040321
+            ],
+            "ResourceID": [
+              304032
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304033,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040331
+            ],
+            "ResourceID": [
+              304033
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304034,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040341
+            ],
+            "ResourceID": [
+              304034
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304041,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040411
+            ],
+            "ResourceID": [
+              304041
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304042,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040421
+            ],
+            "ResourceID": [
+              304042
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304043,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040431
+            ],
+            "ResourceID": [
+              304043
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304044,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040441
+            ],
+            "ResourceID": [
+              304044
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304051,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040511
+            ],
+            "ResourceID": [
+              304051
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304052,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040521
+            ],
+            "ResourceID": [
+              304052
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304053,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040531
+            ],
+            "ResourceID": [
+              304053
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304054,
+        "QuestConditionSet": [
+          {
+            "AchieveConditionID": [
+              13040541
+            ],
+            "ResourceID": [
+              304054
             ]
           }
         ]

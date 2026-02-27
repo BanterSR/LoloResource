@@ -105,6 +105,14 @@
         "AnimPrefab": "Action/Motion/扔雪球/ActionPlayer@扔雪球扔出"
       },
       {
+        "ID": 1073,
+        "AnimPrefab": "Action/Motion/投壶/ActionPlayer@投壶开始"
+      },
+      {
+        "ID": 1074,
+        "AnimPrefab": "Action/Motion/投壶/ActionPlayer@投壶扔出"
+      },
+      {
         "ID": 1080,
         "AnimPrefab": "Action/Motion/浇花/ActionPlayer@浇花"
       },
@@ -846,6 +854,30 @@
       {
         "ID": 10032,
         "AnimPrefab": "Action/Multiexpression/转圈圈/ActionPlayer@转圈圈_1级_2P_加入转圈圈"
+      },
+      {
+        "ID": 10040,
+        "AnimPrefab": "Action/Multiexpression/喂汤圆/ActionPlayer@喂汤圆_1P_开始等待2P加入"
+      },
+      {
+        "ID": 10041,
+        "AnimPrefab": "Action/Multiexpression/喂汤圆/ActionPlayer@喂汤圆_1P_触发"
+      },
+      {
+        "ID": 10042,
+        "AnimPrefab": "Action/Multiexpression/喂汤圆/ActionPlayer@喂汤圆_2P_加入"
+      },
+      {
+        "ID": 11000,
+        "AnimPrefab": "Action/Multiexpression/独轮马交互/ActionPlayer@独轮马交互_1P_开始等待2P加入"
+      },
+      {
+        "ID": 11001,
+        "AnimPrefab": "Action/Multiexpression/独轮马交互/ActionPlayer@独轮马交互_1P_触发"
+      },
+      {
+        "ID": 11002,
+        "AnimPrefab": "Action/Multiexpression/独轮马交互/ActionPlayer@独轮马交互_2P_加入"
       },
       {
         "ID": 20010,

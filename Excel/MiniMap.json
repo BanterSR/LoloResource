@@ -18,6 +18,7 @@
       },
       {
         "ID": 4,
+        "MiniMapName": "Assets/ResBundle/MiniMap/SceneBattle002_2/MiniMap.prefab",
         "MiniMapTypeID": 4
       },
       {
@@ -478,6 +479,11 @@
             "ItemID": 100002413,
             "TextID": 100002413,
             "NewMiniMapType": 310
+          },
+          {
+            "ItemID": 100002413,
+            "TextID": 100002413,
+            "NewMiniMapType": 322
           }
         ]
       },

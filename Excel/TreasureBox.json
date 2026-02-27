@@ -5829,6 +5829,13 @@
         "NewTreasureBoxRewardType": 3
       },
       {
+        "ID": 39600110,
+        "RelateID": 39600110,
+        "NewTreasureBoxType": 1,
+        "NewTreasureBoxRewardShowType": 2,
+        "NewTreasureBoxRewardType": 3
+      },
+      {
         "ID": 960010201,
         "RelateID": 960010201,
         "NewTreasureBoxType": 1,
@@ -6251,6 +6258,27 @@
       {
         "ID": 960010608,
         "RelateID": 960010608,
+        "NewTreasureBoxType": 1,
+        "NewTreasureBoxRewardShowType": 2,
+        "NewTreasureBoxRewardType": 4
+      },
+      {
+        "ID": 960011001,
+        "RelateID": 960011001,
+        "NewTreasureBoxType": 1,
+        "NewTreasureBoxRewardShowType": 2,
+        "NewTreasureBoxRewardType": 1
+      },
+      {
+        "ID": 960011002,
+        "RelateID": 960011002,
+        "NewTreasureBoxType": 1,
+        "NewTreasureBoxRewardShowType": 2,
+        "NewTreasureBoxRewardType": 1
+      },
+      {
+        "ID": 960011003,
+        "RelateID": 960011003,
         "NewTreasureBoxType": 1,
         "NewTreasureBoxRewardShowType": 2,
         "NewTreasureBoxRewardType": 4
@@ -11849,6 +11877,13 @@
         "NewRefreshType": 4
       },
       {
+        "ID": 39600110,
+        "RefreshTime": [
+          0
+        ],
+        "NewRefreshType": 4
+      },
+      {
         "ID": 960010201,
         "RefreshTime": [
           0
@@ -12210,6 +12245,24 @@
       },
       {
         "ID": 960010608,
+        "RefreshTime": [
+          0
+        ]
+      },
+      {
+        "ID": 960011001,
+        "RefreshTime": [
+          0
+        ]
+      },
+      {
+        "ID": 960011002,
+        "RefreshTime": [
+          0
+        ]
+      },
+      {
+        "ID": 960011003,
         "RefreshTime": [
           0
         ]

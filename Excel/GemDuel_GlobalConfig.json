@@ -1,0 +1,186 @@
+{
+  "GemDuelConfig": {
+    "Datas": [
+      {
+        "ID": 1,
+        "Key": "GemDuel_Player_Level_Max",
+        "Values": [
+          "60"
+        ]
+      },
+      {
+        "ID": 2,
+        "Key": "Player_ExpItem",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "ID": 1001,
+        "Key": "StaminaMax",
+        "Values": [
+          "2000"
+        ]
+      },
+      {
+        "ID": 1002,
+        "Key": "StaminaRecoverSeconds",
+        "Values": [
+          "0"
+        ]
+      },
+      {
+        "ID": 1011,
+        "Key": "ExtraStaminaMax",
+        "Values": [
+          "100"
+        ]
+      },
+      {
+        "ID": 1012,
+        "Key": "ExtraStaminaRecoverSeconds",
+        "Values": [
+          "300"
+        ]
+      },
+      {
+        "ID": 1031,
+        "Key": "StaminaPriceList",
+        "Values": [
+          "100",
+          "150",
+          "200",
+          "200",
+          "300"
+        ]
+      },
+      {
+        "ID": 1100,
+        "Key": "GemDuelTeamCharacterLimit",
+        "Values": [
+          "6"
+        ]
+      },
+      {
+        "ID": 1200,
+        "Key": "GemDuel_ArenaRefreshDailyTime",
+        "Values": [
+          "10"
+        ]
+      },
+      {
+        "ID": 1201,
+        "Key": "GemDuel_ArenaRefreshCost",
+        "Values": [
+          "20"
+        ]
+      },
+      {
+        "ID": 1202,
+        "Key": "GemDuel_ArenaChallengeTime",
+        "Values": [
+          "5"
+        ]
+      },
+      {
+        "ID": 1203,
+        "Key": "GemDuel_ArenaResetTime",
+        "Values": [
+          "5"
+        ]
+      },
+      {
+        "ID": 1204,
+        "Key": "GemDuel_ArenaRankLimit",
+        "Values": [
+          "100"
+        ]
+      },
+      {
+        "ID": 1205,
+        "Key": "GemDuel_DefaultArenaFighting",
+        "Values": [
+          "2000"
+        ]
+      },
+      {
+        "ID": 1206,
+        "Key": "GemDuel_ArenaBattleGemMod",
+        "Values": [
+          "10001"
+        ]
+      },
+      {
+        "ID": 1300,
+        "Key": "GemDuel_FightingCoefficient",
+        "Values": [
+          "6",
+          "6",
+          "6",
+          "6",
+          "10",
+          "100",
+          "10",
+          "200"
+        ]
+      },
+      {
+        "ID": 1355,
+        "Key": "GemDuel_DailyTaskLivenessLimit",
+        "Values": [
+          "100"
+        ]
+      },
+      {
+        "ID": 1356,
+        "Key": "GemDuel_WeeklyTaskLivenessLimit",
+        "Values": [
+          "100"
+        ]
+      },
+      {
+        "ID": 1357,
+        "Key": "GemDuel_DailyTaskQuicklyFinishItem",
+        "Values": [
+          "99999999"
+        ]
+      },
+      {
+        "ID": 1358,
+        "Key": "GemDuel_TaskQuicklyFinishExchange",
+        "Values": [
+          "102;100"
+        ]
+      },
+      {
+        "ID": 1400,
+        "Key": "Gacha_Record_Page_Count",
+        "Values": [
+          "10"
+        ]
+      },
+      {
+        "ID": 1401,
+        "Key": "Gacha_OptionalUp_Param",
+        "Values": [
+          "5",
+          "5"
+        ]
+      },
+      {
+        "ID": 1450,
+        "Key": "GemDuel_MoonCard_Rveryday_Currency",
+        "Values": [
+          "102:90"
+        ]
+      },
+      {
+        "ID": 1451,
+        "Key": "GemDuel_MoonCard_MaxRemainingDay",
+        "Values": [
+          "180"
+        ]
+      }
+    ]
+  }
+}
