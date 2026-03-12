@@ -15770,6 +15770,8 @@
       },
       {
         "ID": 5043279,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5043279,
         "NeedFormulaItemID": 5043279,
         "MakeLevel": 1,
@@ -15810,6 +15812,8 @@
       },
       {
         "ID": 5043280,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5043280,
         "NeedFormulaItemID": 5043280,
         "MakeLevel": 1,
@@ -16660,6 +16664,8 @@
       },
       {
         "ID": 5043301,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5043301,
         "NeedFormulaItemID": 5043301,
         "MakeLevel": 1,
@@ -17132,6 +17138,8 @@
       },
       {
         "ID": 5043313,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5043313,
         "NeedFormulaItemID": 5043313,
         "MakeLevel": 1,
@@ -25624,7 +25632,6 @@
         "ID": 5043901,
         "IsShow": true,
         "IsHandbookShow": true,
-        "NeedShowbookItemID": 5043901,
         "NeedFormulaItemID": 5043901,
         "MakeLevel": 1,
         "NeedTime": 5,
@@ -25746,7 +25753,6 @@
         "ID": 5043904,
         "IsShow": true,
         "IsHandbookShow": true,
-        "NeedShowbookItemID": 5043904,
         "NeedFormulaItemID": 5043904,
         "MakeLevel": 1,
         "NeedTime": 5,
@@ -25948,7 +25954,6 @@
         "ID": 5043909,
         "IsShow": true,
         "IsHandbookShow": true,
-        "NeedShowbookItemID": 5043909,
         "NeedFormulaItemID": 5043909,
         "MakeLevel": 1,
         "NeedTime": 5,
@@ -25990,7 +25995,6 @@
         "ID": 5043910,
         "IsShow": true,
         "IsHandbookShow": true,
-        "NeedShowbookItemID": 5043910,
         "NeedFormulaItemID": 5043910,
         "MakeLevel": 1,
         "NeedTime": 5,
@@ -26032,7 +26036,6 @@
         "ID": 5043911,
         "IsShow": true,
         "IsHandbookShow": true,
-        "NeedShowbookItemID": 5043911,
         "NeedFormulaItemID": 5043911,
         "MakeLevel": 1,
         "NeedTime": 5,
@@ -26062,7 +26065,6 @@
         "ID": 5043912,
         "IsShow": true,
         "IsHandbookShow": true,
-        "NeedShowbookItemID": 5043912,
         "NeedFormulaItemID": 5043912,
         "MakeLevel": 1,
         "NeedTime": 5,
@@ -26092,7 +26094,6 @@
         "ID": 5043913,
         "IsShow": true,
         "IsHandbookShow": true,
-        "NeedShowbookItemID": 5043913,
         "NeedFormulaItemID": 5043913,
         "MakeLevel": 1,
         "NeedTime": 5,
@@ -26145,6 +26146,28 @@
           }
         ],
         "NewMakePageType": 4
+      },
+      {
+        "ID": 5043915,
+        "IsHandbookShow": true,
+        "NeedFormulaItemID": 5043915,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20200002,
+            "ItemCount": 5
+          },
+          {
+            "ItemID": 5052007,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043915,
+        "NewMakePageType": 5
       },
       {
         "ID": 5044001,

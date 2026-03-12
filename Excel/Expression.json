@@ -1101,7 +1101,9 @@
           {
             "Index": 1,
             "ActionID": 3225,
-            "AchieveConditionID": 9003225
+            "AchieveConditionID": 9003225,
+            "IsShow": true,
+            "IsStudy": true
           }
         ]
       },
@@ -2392,7 +2394,9 @@
           {
             "Index": 1,
             "ActionID": 3225,
-            "AchieveConditionID": 9003225
+            "AchieveConditionID": 9003225,
+            "IsShow": true,
+            "IsStudy": true
           }
         ],
         "NewExpressionType": 4

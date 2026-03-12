@@ -32764,6 +32764,182 @@
         ]
       },
       {
+        "ID": 3010504,
+        "IconID": 2010125,
+        "SpellConfigureItems": [
+          {
+            "Level": 1,
+            "ScriptParams": [
+              1.5
+            ],
+            "BufferTime": 0.3,
+            "IsShowCD": true,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewSpellType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 2,
+            "ScriptParams": [
+              1.5
+            ],
+            "BufferTime": 0.3,
+            "IsShowCD": true,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewSpellType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 3,
+            "ScriptParams": [
+              1.5
+            ],
+            "BufferTime": 0.3,
+            "IsShowCD": true,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewSpellType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 4,
+            "ScriptParams": [
+              1.5
+            ],
+            "BufferTime": 0.3,
+            "IsShowCD": true,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewSpellType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 5,
+            "ScriptParams": [
+              1.5
+            ],
+            "BufferTime": 0.3,
+            "IsShowCD": true,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewSpellType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 6,
+            "ScriptParams": [
+              1.5
+            ],
+            "BufferTime": 0.3,
+            "IsShowCD": true,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewSpellType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 7,
+            "ScriptParams": [
+              1.5
+            ],
+            "BufferTime": 0.3,
+            "IsShowCD": true,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewSpellType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 8,
+            "ScriptParams": [
+              1.5
+            ],
+            "BufferTime": 0.3,
+            "IsShowCD": true,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewSpellType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 9,
+            "ScriptParams": [
+              1.5
+            ],
+            "BufferTime": 0.3,
+            "IsShowCD": true,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewSpellType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 10,
+            "ScriptParams": [
+              1.5
+            ],
+            "BufferTime": 0.3,
+            "IsShowCD": true,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewSpellType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          }
+        ]
+      },
+      {
         "ID": 3010510,
         "IconID": 2010125,
         "SpellConfigureItems": [
@@ -36805,15 +36981,16 @@
           {
             "Level": 1,
             "CostID": 10001,
-            "TextID": 10105100,
+            "TextID": 30305200,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.35,
-              2.35
+              2.75,
+              1.15,
+              0.03
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 10,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -36830,15 +37007,16 @@
           {
             "Level": 2,
             "CostID": 10002,
-            "TextID": 10105101,
+            "TextID": 30305201,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.525,
-              2.525
+              2.955,
+              1.235,
+              0.032
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 10,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -36855,15 +37033,16 @@
           {
             "Level": 3,
             "CostID": 10003,
-            "TextID": 10105102,
+            "TextID": 30305202,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.7,
-              2.7
+              3.16,
+              1.32,
+              0.034
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 10,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -36880,15 +37059,16 @@
           {
             "Level": 4,
             "CostID": 10004,
-            "TextID": 10105103,
+            "TextID": 30305203,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.875,
-              2.875
+              3.365,
+              1.405,
+              0.036
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 10,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -36905,15 +37085,16 @@
           {
             "Level": 5,
             "CostID": 10005,
-            "TextID": 10105104,
+            "TextID": 30305204,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.05,
-              3.05
+              3.57,
+              1.49,
+              0.038
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 10,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -36930,15 +37111,16 @@
           {
             "Level": 6,
             "CostID": 10006,
-            "TextID": 10105105,
+            "TextID": 30305205,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.225,
-              3.225
+              3.775,
+              1.575,
+              0.04
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 10,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -36955,15 +37137,16 @@
           {
             "Level": 7,
             "CostID": 10007,
-            "TextID": 10105106,
+            "TextID": 30305206,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.4,
-              3.4
+              3.98,
+              1.66,
+              0.042
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 10,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -36980,15 +37163,16 @@
           {
             "Level": 8,
             "CostID": 10008,
-            "TextID": 10105107,
+            "TextID": 30305207,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.575,
-              3.575
+              4.185,
+              1.745,
+              0.044
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 10,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -37005,15 +37189,16 @@
           {
             "Level": 9,
             "CostID": 10009,
-            "TextID": 10105108,
+            "TextID": 30305208,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.75,
-              3.75
+              4.39,
+              1.83,
+              0.046
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 10,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -37029,15 +37214,16 @@
           },
           {
             "Level": 10,
-            "TextID": 10105109,
+            "TextID": 30305209,
             "IsCanBreak": true,
             "ScriptParams": [
-              4.1,
-              4.1
+              4.8,
+              2,
+              0.05
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 10,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -37058,9 +37244,10 @@
         "SpellConfigureItems": [
           {
             "Level": 1,
+            "TextID": 30305200,
             "IsCanBreak": true,
             "ScriptParams": [
-              0.75
+              1.15
             ],
             "BufferTime": 0.5,
             "AddMpHit": 10,
@@ -37078,9 +37265,10 @@
           },
           {
             "Level": 2,
+            "TextID": 30305201,
             "IsCanBreak": true,
             "ScriptParams": [
-              0.81
+              1.235
             ],
             "BufferTime": 0.5,
             "AddMpHit": 10,
@@ -37098,9 +37286,10 @@
           },
           {
             "Level": 3,
+            "TextID": 30305202,
             "IsCanBreak": true,
             "ScriptParams": [
-              0.87
+              1.32
             ],
             "BufferTime": 0.5,
             "AddMpHit": 10,
@@ -37118,9 +37307,10 @@
           },
           {
             "Level": 4,
+            "TextID": 30305203,
             "IsCanBreak": true,
             "ScriptParams": [
-              0.93
+              1.405
             ],
             "BufferTime": 0.5,
             "AddMpHit": 10,
@@ -37138,9 +37328,10 @@
           },
           {
             "Level": 5,
+            "TextID": 30305204,
             "IsCanBreak": true,
             "ScriptParams": [
-              0.99
+              1.49
             ],
             "BufferTime": 0.5,
             "AddMpHit": 10,
@@ -37158,9 +37349,10 @@
           },
           {
             "Level": 6,
+            "TextID": 30305205,
             "IsCanBreak": true,
             "ScriptParams": [
-              1.05
+              1.575
             ],
             "BufferTime": 0.5,
             "AddMpHit": 10,
@@ -37178,9 +37370,10 @@
           },
           {
             "Level": 7,
+            "TextID": 30305206,
             "IsCanBreak": true,
             "ScriptParams": [
-              1.11
+              1.66
             ],
             "BufferTime": 0.5,
             "AddMpHit": 10,
@@ -37198,9 +37391,10 @@
           },
           {
             "Level": 8,
+            "TextID": 30305207,
             "IsCanBreak": true,
             "ScriptParams": [
-              1.17
+              1.745
             ],
             "BufferTime": 0.5,
             "AddMpHit": 10,
@@ -37218,9 +37412,10 @@
           },
           {
             "Level": 9,
+            "TextID": 30305208,
             "IsCanBreak": true,
             "ScriptParams": [
-              1.23
+              1.83
             ],
             "BufferTime": 0.5,
             "AddMpHit": 10,
@@ -37238,9 +37433,10 @@
           },
           {
             "Level": 10,
+            "TextID": 30305209,
             "IsCanBreak": true,
             "ScriptParams": [
-              1.35
+              2
             ],
             "BufferTime": 0.5,
             "AddMpHit": 10,
@@ -37265,13 +37461,14 @@
             "Level": 1,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.35,
-              2.35
+              2.75,
+              1.15,
+              0.03
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37287,13 +37484,14 @@
             "Level": 2,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.525,
-              2.525
+              2.955,
+              1.235,
+              0.032
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37309,13 +37507,14 @@
             "Level": 3,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.7,
-              2.7
+              3.16,
+              1.32,
+              0.034
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37331,13 +37530,14 @@
             "Level": 4,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.875,
-              2.875
+              3.365,
+              1.405,
+              0.036
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37353,13 +37553,14 @@
             "Level": 5,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.05,
-              3.05
+              3.57,
+              1.49,
+              0.038
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37375,13 +37576,14 @@
             "Level": 6,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.225,
-              3.225
+              3.775,
+              1.575,
+              0.04
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37397,13 +37599,14 @@
             "Level": 7,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.4,
-              3.4
+              3.98,
+              1.66,
+              0.042
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37419,13 +37622,14 @@
             "Level": 8,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.575,
-              3.575
+              4.185,
+              1.745,
+              0.044
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37441,13 +37645,14 @@
             "Level": 9,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.75,
-              3.75
+              4.39,
+              1.83,
+              0.046
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37463,13 +37668,14 @@
             "Level": 10,
             "IsCanBreak": true,
             "ScriptParams": [
-              4.1,
-              4.1
+              4.8,
+              2,
+              0.05
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37490,13 +37696,14 @@
             "Level": 1,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.35,
-              2.35
+              2.75,
+              1.15,
+              0.03
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37512,13 +37719,14 @@
             "Level": 2,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.525,
-              2.525
+              2.955,
+              1.235,
+              0.032
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37534,13 +37742,14 @@
             "Level": 3,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.7,
-              2.7
+              3.16,
+              1.32,
+              0.034
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37556,13 +37765,14 @@
             "Level": 4,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.875,
-              2.875
+              3.365,
+              1.405,
+              0.036
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37578,13 +37788,14 @@
             "Level": 5,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.05,
-              3.05
+              3.57,
+              1.49,
+              0.038
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37600,13 +37811,14 @@
             "Level": 6,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.225,
-              3.225
+              3.775,
+              1.575,
+              0.04
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37622,13 +37834,14 @@
             "Level": 7,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.4,
-              3.4
+              3.98,
+              1.66,
+              0.042
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37644,13 +37857,14 @@
             "Level": 8,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.575,
-              3.575
+              4.185,
+              1.745,
+              0.044
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37666,13 +37880,14 @@
             "Level": 9,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.75,
-              3.75
+              4.39,
+              1.83,
+              0.046
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37688,13 +37903,14 @@
             "Level": 10,
             "IsCanBreak": true,
             "ScriptParams": [
-              4.1,
-              4.1
+              4.8,
+              2,
+              0.05
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37715,13 +37931,14 @@
             "Level": 1,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.35,
-              2.35
+              2.75,
+              1.15,
+              0.03
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37737,13 +37954,14 @@
             "Level": 2,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.525,
-              2.525
+              2.955,
+              1.235,
+              0.032
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37759,13 +37977,14 @@
             "Level": 3,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.7,
-              2.7
+              3.16,
+              1.32,
+              0.034
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37781,13 +38000,14 @@
             "Level": 4,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.875,
-              2.875
+              3.365,
+              1.405,
+              0.036
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37803,13 +38023,14 @@
             "Level": 5,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.05,
-              3.05
+              3.57,
+              1.49,
+              0.038
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37825,13 +38046,14 @@
             "Level": 6,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.225,
-              3.225
+              3.775,
+              1.575,
+              0.04
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37847,13 +38069,14 @@
             "Level": 7,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.4,
-              3.4
+              3.98,
+              1.66,
+              0.042
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37869,13 +38092,14 @@
             "Level": 8,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.575,
-              3.575
+              4.185,
+              1.745,
+              0.044
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37891,13 +38115,14 @@
             "Level": 9,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.75,
-              3.75
+              4.39,
+              1.83,
+              0.046
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37913,13 +38138,14 @@
             "Level": 10,
             "IsCanBreak": true,
             "ScriptParams": [
-              4.1,
-              4.1
+              4.8,
+              2,
+              0.05
             ],
             "BufferTime": 0.5,
             "CD": 0.5,
             "AddMpHit": 10,
-            "AddUpHit": 2,
+            "AddUpHit": 5,
             "AddUpKill": 10,
             "CostAp": 40,
             "AddApKill": 50,
@@ -37940,15 +38166,14 @@
           {
             "Level": 1,
             "CostID": 10001,
-            "TextID": 10105100,
+            "TextID": 30305300,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.35,
-              3.25
+              5.25
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 3,
+            "CD": 8,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -37965,15 +38190,14 @@
           {
             "Level": 2,
             "CostID": 10002,
-            "TextID": 10105101,
+            "TextID": 30305301,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.525,
-              3.505
+              5.605
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 3,
+            "CD": 8,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -37990,15 +38214,14 @@
           {
             "Level": 3,
             "CostID": 10003,
-            "TextID": 10105102,
+            "TextID": 30305302,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.7,
-              3.76
+              5.96
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 3,
+            "CD": 8,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -38015,15 +38238,14 @@
           {
             "Level": 4,
             "CostID": 10004,
-            "TextID": 10105103,
+            "TextID": 30305303,
             "IsCanBreak": true,
             "ScriptParams": [
-              2.875,
-              4.015
+              6.315
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 3,
+            "CD": 8,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -38040,15 +38262,14 @@
           {
             "Level": 5,
             "CostID": 10005,
-            "TextID": 10105104,
+            "TextID": 30305304,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.05,
-              4.27
+              6.67
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 3,
+            "CD": 8,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -38065,15 +38286,14 @@
           {
             "Level": 6,
             "CostID": 10006,
-            "TextID": 10105105,
+            "TextID": 30305305,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.225,
-              4.525
+              7.025
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 3,
+            "CD": 8,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -38090,15 +38310,14 @@
           {
             "Level": 7,
             "CostID": 10007,
-            "TextID": 10105106,
+            "TextID": 30305306,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.4,
-              4.78
+              7.38
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 3,
+            "CD": 8,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -38115,15 +38334,14 @@
           {
             "Level": 8,
             "CostID": 10008,
-            "TextID": 10105107,
+            "TextID": 30305307,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.575,
-              5.035
+              7.735
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 3,
+            "CD": 8,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -38140,15 +38358,14 @@
           {
             "Level": 9,
             "CostID": 10009,
-            "TextID": 10105108,
+            "TextID": 30305308,
             "IsCanBreak": true,
             "ScriptParams": [
-              3.75,
-              5.29
+              8.09
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 3,
+            "CD": 8,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -38164,15 +38381,14 @@
           },
           {
             "Level": 10,
-            "TextID": 10105109,
+            "TextID": 30305309,
             "IsCanBreak": true,
             "ScriptParams": [
-              4.1,
-              5.8
+              8.8
             ],
             "BufferTime": 0.5,
             "IsShowCD": true,
-            "CD": 3,
+            "CD": 8,
             "AddMpHit": 10,
             "AddUpHit": 5,
             "AddUpKill": 10,
@@ -38394,20 +38610,218 @@
         ]
       },
       {
+        "ID": 3030532,
+        "SpellConfigureItems": [
+          {
+            "Level": 1,
+            "IsCanBreak": true,
+            "ScriptParams": [
+              5.25
+            ],
+            "BufferTime": 0.5,
+            "AddMpHit": 10,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewDamageType": 2,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 2,
+            "IsCanBreak": true,
+            "ScriptParams": [
+              5.605
+            ],
+            "BufferTime": 0.5,
+            "AddMpHit": 10,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewDamageType": 2,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 3,
+            "IsCanBreak": true,
+            "ScriptParams": [
+              5.96
+            ],
+            "BufferTime": 0.5,
+            "AddMpHit": 10,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewDamageType": 2,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 4,
+            "IsCanBreak": true,
+            "ScriptParams": [
+              6.315
+            ],
+            "BufferTime": 0.5,
+            "AddMpHit": 10,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewDamageType": 2,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 5,
+            "IsCanBreak": true,
+            "ScriptParams": [
+              6.67
+            ],
+            "BufferTime": 0.5,
+            "AddMpHit": 10,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewDamageType": 2,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 6,
+            "IsCanBreak": true,
+            "ScriptParams": [
+              7.025
+            ],
+            "BufferTime": 0.5,
+            "AddMpHit": 10,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewDamageType": 2,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 7,
+            "IsCanBreak": true,
+            "ScriptParams": [
+              7.38
+            ],
+            "BufferTime": 0.5,
+            "AddMpHit": 10,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewDamageType": 2,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 8,
+            "IsCanBreak": true,
+            "ScriptParams": [
+              7.735
+            ],
+            "BufferTime": 0.5,
+            "AddMpHit": 10,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewDamageType": 2,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 9,
+            "IsCanBreak": true,
+            "ScriptParams": [
+              8.09
+            ],
+            "BufferTime": 0.5,
+            "AddMpHit": 10,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewDamageType": 2,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 10,
+            "IsCanBreak": true,
+            "ScriptParams": [
+              8.8
+            ],
+            "BufferTime": 0.5,
+            "AddMpHit": 10,
+            "AddUpHit": 5,
+            "AddUpKill": 10,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewDamageType": 2,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          }
+        ]
+      },
+      {
         "ID": 3030540,
         "IconID": 3030540,
         "SpellConfigureItems": [
           {
             "Level": 1,
             "CostID": 30001,
-            "TextID": 10105100,
+            "TextID": 30305400,
             "IsCanBreak": true,
             "ScriptParams": [
-              4.75
+              0.75,
+              0.87,
+              2.35,
+              2.75
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 5,
+            "CD": 30,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -38423,14 +38837,17 @@
           {
             "Level": 2,
             "CostID": 30002,
-            "TextID": 10105101,
+            "TextID": 30305401,
             "IsCanBreak": true,
             "ScriptParams": [
-              5.175
+              0.808,
+              0.935,
+              2.505,
+              2.975
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 5,
+            "CD": 30,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -38446,14 +38863,17 @@
           {
             "Level": 3,
             "CostID": 30003,
-            "TextID": 10105102,
+            "TextID": 30305402,
             "IsCanBreak": true,
             "ScriptParams": [
-              5.6
+              0.866,
+              1,
+              2.66,
+              3.2
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 5,
+            "CD": 30,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -38469,14 +38889,17 @@
           {
             "Level": 4,
             "CostID": 30004,
-            "TextID": 10105103,
+            "TextID": 30305403,
             "IsCanBreak": true,
             "ScriptParams": [
-              6.025
+              0.924,
+              1.065,
+              2.815,
+              3.425
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 5,
+            "CD": 30,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -38492,14 +38915,17 @@
           {
             "Level": 5,
             "CostID": 30005,
-            "TextID": 10105104,
+            "TextID": 30305404,
             "IsCanBreak": true,
             "ScriptParams": [
-              6.45
+              0.982,
+              1.13,
+              2.97,
+              3.65
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 5,
+            "CD": 30,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -38515,14 +38941,17 @@
           {
             "Level": 6,
             "CostID": 30006,
-            "TextID": 10105105,
+            "TextID": 30305405,
             "IsCanBreak": true,
             "ScriptParams": [
-              6.875
+              1.04,
+              1.195,
+              3.125,
+              3.875
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 5,
+            "CD": 30,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -38538,14 +38967,17 @@
           {
             "Level": 7,
             "CostID": 30007,
-            "TextID": 10105106,
+            "TextID": 30305406,
             "IsCanBreak": true,
             "ScriptParams": [
-              7.3
+              1.098,
+              1.26,
+              3.28,
+              4.1
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 5,
+            "CD": 30,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -38561,14 +38993,17 @@
           {
             "Level": 8,
             "CostID": 30008,
-            "TextID": 10105107,
+            "TextID": 30305407,
             "IsCanBreak": true,
             "ScriptParams": [
-              7.725
+              1.156,
+              1.325,
+              3.435,
+              4.325
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 5,
+            "CD": 30,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -38584,14 +39019,17 @@
           {
             "Level": 9,
             "CostID": 30009,
-            "TextID": 10105108,
+            "TextID": 30305408,
             "IsCanBreak": true,
             "ScriptParams": [
-              8.15
+              1.214,
+              1.39,
+              3.59,
+              4.55
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 5,
+            "CD": 30,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -38606,14 +39044,17 @@
           },
           {
             "Level": 10,
-            "TextID": 10105109,
+            "TextID": 30305409,
             "IsCanBreak": true,
             "ScriptParams": [
-              9
+              1.33,
+              1.52,
+              3.9,
+              5
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 5,
+            "CD": 30,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -38622,6 +39063,131 @@
             "NewAttackType": 1,
             "NewSpellType": 2,
             "NewDamageType": 2,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          }
+        ]
+      },
+      {
+        "ID": 3030541,
+        "IconID": 3030540,
+        "SpellConfigureItems": [
+          {
+            "Level": 1,
+            "CostID": 30001,
+            "TextID": 30305400,
+            "IsCanBreak": true,
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 2,
+            "CostID": 30002,
+            "TextID": 30305401,
+            "IsCanBreak": true,
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 3,
+            "CostID": 30003,
+            "TextID": 30305402,
+            "IsCanBreak": true,
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 4,
+            "CostID": 30004,
+            "TextID": 30305403,
+            "IsCanBreak": true,
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 5,
+            "CostID": 30005,
+            "TextID": 30305404,
+            "IsCanBreak": true,
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 6,
+            "CostID": 30006,
+            "TextID": 30305405,
+            "IsCanBreak": true,
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 7,
+            "CostID": 30007,
+            "TextID": 30305406,
+            "IsCanBreak": true,
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 8,
+            "CostID": 30008,
+            "TextID": 30305407,
+            "IsCanBreak": true,
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 9,
+            "CostID": 30009,
+            "TextID": 30305408,
+            "IsCanBreak": true,
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          },
+          {
+            "Level": 10,
+            "TextID": 30305409,
+            "IsCanBreak": true,
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewSpellType": 1,
             "NewSpellTag1": 2,
             "NewSpellTag2": 2,
             "NewSpellTag3": 2

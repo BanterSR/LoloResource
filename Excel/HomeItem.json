@@ -3435,6 +3435,7 @@
         "ID": 5043278,
         "Path": "Model/Furniture/蛋糕世界家具/Scene_Cake_Prop_Cupcake_01.prefab",
         "ItemID": 5043278,
+        "IsShow": true,
         "HomeItemPointNum": 1112,
         "NewHomeItemType": 1,
         "NewHomeItemTheme": 36
@@ -3443,6 +3444,7 @@
         "ID": 5043279,
         "Path": "Model/Furniture/蛋糕世界家具/Scene_Cake_Prop_Cupcake_02.prefab",
         "ItemID": 5043279,
+        "IsShow": true,
         "HomeItemPointNum": 1112,
         "NewHomeItemType": 1,
         "NewHomeItemTheme": 36
@@ -3451,6 +3453,7 @@
         "ID": 5043280,
         "Path": "Model/Furniture/蛋糕世界家具/Scene_Cake_Prop_Cupcake_03.prefab",
         "ItemID": 5043280,
+        "IsShow": true,
         "HomeItemPointNum": 1112,
         "NewHomeItemType": 1,
         "NewHomeItemTheme": 36
@@ -3614,6 +3617,7 @@
         "ID": 5043301,
         "Path": "Model/Furniture/蛋糕世界家具/Scene_Cake_Prop_IceCream_Green.prefab",
         "ItemID": 5043301,
+        "IsShow": true,
         "HomeItemPointNum": 2324,
         "NewHomeItemTheme": 36
       },
@@ -3703,6 +3707,7 @@
         "ID": 5043313,
         "Path": "Model/Furniture/蛋糕世界家具/Scene_Cake_Prop_Raspberry.prefab",
         "ItemID": 5043313,
+        "IsShow": true,
         "HomeItemPointNum": 516,
         "NewHomeItemTheme": 36
       },
@@ -5070,6 +5075,15 @@
         "Path": "Model/Furniture/特殊家具/FancyCarousel.prefab",
         "ItemID": 5043914,
         "HomeItemPointNum": 6000,
+        "NewHomeItemType": 1,
+        "NewHomeItemTheme": 3
+      },
+      {
+        "ID": 5043915,
+        "Path": "Model/Furniture/特殊装扮/LovegodBook.prefab",
+        "ItemID": 5043915,
+        "IsShow": true,
+        "HomeItemPointNum": 1685,
         "NewHomeItemType": 1,
         "NewHomeItemTheme": 3
       },

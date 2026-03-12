@@ -462,6 +462,26 @@
         "NewShowType": 1
       },
       {
+        "ID": 3020,
+        "OpeningTime": "2026-03-12 00:00:00",
+        "ClosingTime": "2026-03-25 23:59:59",
+        "TextID": 3020,
+        "IconID": 3020,
+        "Method1ID": 3020,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 401004,
+        "VideoID1": 401004,
+        "PracticeCharacterID1": 401004,
+        "BigGuaranteePoolID": 3020,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
         "ID": 4000,
         "Index": 4,
         "TextID": 4000,
@@ -813,6 +833,26 @@
           },
           {
             "FreeGachaPoolID": 3019
+          }
+        ]
+      },
+      {
+        "ID": 3020,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3020
           }
         ]
       },
@@ -1308,6 +1348,14 @@
         "Items": [
           {
             "ItemID": 401005
+          }
+        ]
+      },
+      {
+        "ID": 3020,
+        "Items": [
+          {
+            "ItemID": 401004
           }
         ]
       },
