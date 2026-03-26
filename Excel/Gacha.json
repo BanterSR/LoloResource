@@ -482,6 +482,26 @@
         "NewShowType": 1
       },
       {
+        "ID": 3021,
+        "OpeningTime": "2026-03-26 00:00:00",
+        "ClosingTime": "2026-04-29 23:59:59",
+        "TextID": 3021,
+        "IconID": 3021,
+        "Method1ID": 3021,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 302004,
+        "VideoID1": 302004,
+        "PracticeCharacterID1": 302004,
+        "BigGuaranteePoolID": 3021,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
         "ID": 4000,
         "Index": 4,
         "TextID": 4000,
@@ -857,6 +877,26 @@
         ]
       },
       {
+        "ID": 3021,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3021
+          }
+        ]
+      },
+      {
         "ID": 4000,
         "Items": [
           {
@@ -1184,6 +1224,9 @@
           },
           {
             "ItemID": 202001
+          },
+          {
+            "ItemID": 401004
           }
         ]
       },
@@ -1356,6 +1399,14 @@
         "Items": [
           {
             "ItemID": 401004
+          }
+        ]
+      },
+      {
+        "ID": 3021,
+        "Items": [
+          {
+            "ItemID": 302004
           }
         ]
       },
@@ -2174,22 +2225,40 @@
             "ItemID": 4200303
           },
           {
-            "ItemID": 4200311
+            "ItemID": 4200311,
+            "IsOptional": true,
+            "OpeningTime": "2026-03-26 00:00:00",
+            "ClosingTime": "2026-04-28 23:59:59"
           },
           {
-            "ItemID": 4200312
+            "ItemID": 4200312,
+            "IsOptional": true,
+            "OpeningTime": "2026-03-26 00:00:00",
+            "ClosingTime": "2026-04-28 23:59:59"
           },
           {
-            "ItemID": 4200313
+            "ItemID": 4200313,
+            "IsOptional": true,
+            "OpeningTime": "2026-03-26 00:00:00",
+            "ClosingTime": "2026-04-28 23:59:59"
           },
           {
-            "ItemID": 4200331
+            "ItemID": 4200331,
+            "IsOptional": true,
+            "OpeningTime": "2026-03-26 00:00:00",
+            "ClosingTime": "2026-04-28 23:59:59"
           },
           {
-            "ItemID": 4200332
+            "ItemID": 4200332,
+            "IsOptional": true,
+            "OpeningTime": "2026-03-26 00:00:00",
+            "ClosingTime": "2026-04-28 23:59:59"
           },
           {
-            "ItemID": 4200333
+            "ItemID": 4200333,
+            "IsOptional": true,
+            "OpeningTime": "2026-03-26 00:00:00",
+            "ClosingTime": "2026-04-28 23:59:59"
           },
           {
             "ItemID": 4200372,

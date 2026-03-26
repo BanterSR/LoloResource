@@ -1313,6 +1313,14 @@
         ]
       },
       {
+        "ID": 10301,
+        "OpeningTime": "2026-03-26 05:00:00",
+        "ClosingTime": "2026-05-01 23:59:59",
+        "Path": "Model/NPC/Characters/",
+        "Prefab": "NPC_老李沙袋测试",
+        "IsCanAttack": 1
+      },
+      {
         "ID": 19600,
         "TextureID": 19600,
         "OpeningTime": "2025-05-30 05:00:00",

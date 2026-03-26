@@ -25,7 +25,8 @@
         "ID": 41104,
         "TextID": 41104,
         "HeadID": 41104,
-        "AchieveConditionID": 91041104
+        "AchieveConditionID": 91041104,
+        "IsShow": true
       },
       {
         "ID": 41201,
@@ -144,7 +145,15 @@
         "ID": 43203,
         "TextID": 43203,
         "HeadID": 43203,
-        "AchieveConditionID": 91043203
+        "AchieveConditionID": 91043203,
+        "IsShow": true
+      },
+      {
+        "ID": 43204,
+        "TextID": 43204,
+        "HeadID": 43204,
+        "AchieveConditionID": 91043204,
+        "IsShow": true
       },
       {
         "ID": 44101,
@@ -172,6 +181,13 @@
         "TextID": 44104,
         "HeadID": 44104,
         "AchieveConditionID": 91044104,
+        "IsShow": true
+      },
+      {
+        "ID": 44105,
+        "TextID": 44105,
+        "HeadID": 44105,
+        "AchieveConditionID": 91044105,
         "IsShow": true
       },
       {

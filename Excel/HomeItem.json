@@ -1179,6 +1179,7 @@
         "ID": 5042002,
         "Path": "Model/Furniture/23中国汉字/hanzi_b.prefab",
         "ItemID": 5042002,
+        "IsShow": true,
         "HomeItemPointNum": 368,
         "NewHomeItemTheme": 15
       },
@@ -1186,6 +1187,7 @@
         "ID": 5042003,
         "Path": "Model/Furniture/23中国汉字/hanzi_c.prefab",
         "ItemID": 5042003,
+        "IsShow": true,
         "HomeItemPointNum": 1962,
         "NewHomeItemTheme": 15
       },
@@ -1193,6 +1195,7 @@
         "ID": 5042004,
         "Path": "Model/Furniture/23中国汉字/hanzi_d.prefab",
         "ItemID": 5042004,
+        "IsShow": true,
         "HomeItemPointNum": 1290,
         "NewHomeItemTheme": 15
       },
@@ -1200,6 +1203,7 @@
         "ID": 5042005,
         "Path": "Model/Furniture/23中国汉字/hanzi_e.prefab",
         "ItemID": 5042005,
+        "IsShow": true,
         "HomeItemPointNum": 1047,
         "NewHomeItemType": 1,
         "NewHomeItemTheme": 15
@@ -1216,6 +1220,7 @@
         "ID": 5042007,
         "Path": "Model/Furniture/23中国汉字/hanzi_g.prefab",
         "ItemID": 5042007,
+        "IsShow": true,
         "HomeItemPointNum": 1201,
         "NewHomeItemTheme": 15
       },
@@ -1223,7 +1228,17 @@
         "ID": 5042008,
         "Path": "Model/Furniture/23中国汉字/hanzi_h",
         "ItemID": 5042008,
+        "IsShow": true,
         "HomeItemPointNum": 404,
+        "NewHomeItemTheme": 15
+      },
+      {
+        "ID": 5042009,
+        "Path": "Model/Furniture/23中国汉字/Furniture_AncientInstrument_Guqin.prefab",
+        "ItemID": 5042009,
+        "IsShow": true,
+        "HomeItemPointNum": 1923,
+        "NewHomeItemType": 2,
         "NewHomeItemTheme": 15
       },
       {
@@ -5074,6 +5089,7 @@
         "ID": 5043914,
         "Path": "Model/Furniture/特殊家具/FancyCarousel.prefab",
         "ItemID": 5043914,
+        "IsShow": true,
         "HomeItemPointNum": 6000,
         "NewHomeItemType": 1,
         "NewHomeItemTheme": 3
@@ -5084,6 +5100,15 @@
         "ItemID": 5043915,
         "IsShow": true,
         "HomeItemPointNum": 1685,
+        "NewHomeItemType": 1,
+        "NewHomeItemTheme": 3
+      },
+      {
+        "ID": 5043916,
+        "Path": "Model/Furniture/特殊装扮/PowerChair.prefab",
+        "ItemID": 5043916,
+        "IsShow": true,
+        "HomeItemPointNum": 3590,
         "NewHomeItemType": 1,
         "NewHomeItemTheme": 3
       },
@@ -5148,6 +5173,14 @@
         "ItemID": 5044008,
         "IsShow": true,
         "HomeItemPointNum": 500,
+        "NewHomeItemTheme": 4
+      },
+      {
+        "ID": 5044009,
+        "Path": "Model/Furniture/玩法装扮/QuestionableStatue.prefab",
+        "ItemID": 5044009,
+        "IsShow": true,
+        "HomeItemPointNum": 1310,
         "NewHomeItemTheme": 4
       },
       {
@@ -7831,6 +7864,123 @@
           {
             "MusicSoundID": 10003,
             "MusicPath": "Sound/MusicItem/苏打舞台/柠星麦克风_人声_Error3.mp3",
+            "MusicItemTextID": 1,
+            "MusicItemIconID": 1
+          }
+        ]
+      },
+      {
+        "ID": 5042009,
+        "NewMusicCategory": 4,
+        "Path": "UI/UI_MusicItem/乐器/中国汉字/UI_中国汉字_古琴.prefab",
+        "ActionID": "20110;20111;20112;20113 ",
+        "AudioSourcePath": "Sound/MusicItem/AudioSource/通用AudioSource.prefab",
+        "MusicaItemGroupInfo": [
+          {
+            "MusicSoundID": 1,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_1.mp3",
+            "MusicItemTextID": 31,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 2,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_2.mp3",
+            "MusicItemTextID": 32,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 3,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_3.mp3",
+            "MusicItemTextID": 33,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 4,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_4.mp3",
+            "MusicItemTextID": 34,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 5,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_5.mp3",
+            "MusicItemTextID": 35,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 6,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_6.mp3",
+            "MusicItemTextID": 31,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 7,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_7.mp3",
+            "MusicItemTextID": 32,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 8,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_8.mp3",
+            "MusicItemTextID": 33,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 9,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_9.mp3",
+            "MusicItemTextID": 34,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 10,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_10.mp3",
+            "MusicItemTextID": 35,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 11,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_11.mp3",
+            "MusicItemTextID": 31,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 12,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_12.mp3",
+            "MusicItemTextID": 32,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 13,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_13.mp3",
+            "MusicItemTextID": 33,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 14,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_14.mp3",
+            "MusicItemTextID": 34,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 15,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_15.mp3",
+            "MusicItemTextID": 35,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 10001,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_Error1.mp3",
+            "MusicItemTextID": 1,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 10002,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_Error2.mp3",
+            "MusicItemTextID": 1,
+            "MusicItemIconID": 1
+          },
+          {
+            "MusicSoundID": 10003,
+            "MusicPath": "Sound/MusicItem/中国汉字/禅院古琴_Error3.mp3",
             "MusicItemTextID": 1,
             "MusicItemIconID": 1
           }

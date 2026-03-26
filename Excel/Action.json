@@ -601,6 +601,10 @@
         "AnimPrefab": "Action/Emoji/阿门表情/ActionPlayer@阿门表情"
       },
       {
+        "ID": 3320,
+        "AnimPrefab": "Action/Emoji/蕾塞舞/ActionPlayer@蕾塞舞"
+      },
+      {
         "ID": 4000,
         "AnimPrefab": "Action/Emoji/表情_Event_01/ActionPlayer@表情_Event_01"
       },
@@ -1006,6 +1010,22 @@
       {
         "ID": 20073,
         "AnimPrefab": "Action/Musical/柠星麦克风/ActionPlayer@柠星麦克风3"
+      },
+      {
+        "ID": 20110,
+        "AnimPrefab": "Action/Musical/古琴/ActionPlayer@古琴Idle"
+      },
+      {
+        "ID": 20111,
+        "AnimPrefab": "Action/Musical/古琴/ActionPlayer@古琴1"
+      },
+      {
+        "ID": 20112,
+        "AnimPrefab": "Action/Musical/古琴/ActionPlayer@古琴2"
+      },
+      {
+        "ID": 20113,
+        "AnimPrefab": "Action/Musical/古琴/ActionPlayer@古琴3"
       }
     ]
   }

@@ -3682,6 +3682,8 @@
       },
       {
         "ID": 5042002,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5042002,
         "NeedFormulaItemID": 5042002,
         "MakeLevel": 1,
@@ -3722,6 +3724,8 @@
       },
       {
         "ID": 5042003,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5042003,
         "NeedFormulaItemID": 5042003,
         "MakeLevel": 1,
@@ -3762,6 +3766,8 @@
       },
       {
         "ID": 5042004,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5042004,
         "NeedFormulaItemID": 5042004,
         "MakeLevel": 1,
@@ -3802,6 +3808,8 @@
       },
       {
         "ID": 5042005,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5042005,
         "NeedFormulaItemID": 5042005,
         "MakeLevel": 1,
@@ -3888,6 +3896,8 @@
       },
       {
         "ID": 5042007,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5042007,
         "NeedFormulaItemID": 5042007,
         "MakeLevel": 1,
@@ -3932,6 +3942,8 @@
       },
       {
         "ID": 5042008,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5042008,
         "NeedFormulaItemID": 5042008,
         "MakeLevel": 1,
@@ -26121,6 +26133,8 @@
       },
       {
         "ID": 5043914,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5043914,
         "NeedFormulaItemID": 5043914,
         "MakeLevel": 1,
@@ -26168,6 +26182,52 @@
         "SuccessfulProbability": 0.9,
         "GetItemID": 5043915,
         "NewMakePageType": 5
+      },
+      {
+        "ID": 5043916,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedShowbookItemID": 5043916,
+        "NeedFormulaItemID": 5043916,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 20200002,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 20500002,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 5052015,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5043916,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150439161,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 150439162,
+            "RewardID": 10320
+          },
+          {
+            "AchieveConditionID": 150439163,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150439164,
+            "RewardID": 10340
+          }
+        ],
+        "NewMakePageType": 4
       },
       {
         "ID": 5044001,

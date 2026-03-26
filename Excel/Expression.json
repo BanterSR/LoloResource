@@ -620,7 +620,9 @@
           {
             "Index": 1,
             "ActionID": 3040,
-            "AchieveConditionID": 9003040
+            "AchieveConditionID": 9003040,
+            "IsShow": true,
+            "IsStudy": true
           }
         ]
       },
@@ -981,7 +983,9 @@
           {
             "Index": 1,
             "ActionID": 3180,
-            "AchieveConditionID": 9003180
+            "AchieveConditionID": 9003180,
+            "IsShow": true,
+            "IsStudy": true
           }
         ]
       },
@@ -1330,6 +1334,20 @@
             "Index": 1,
             "ActionID": 3315,
             "AchieveConditionID": 9003315,
+            "IsShow": true,
+            "IsStudy": true
+          }
+        ]
+      },
+      {
+        "ID": 3320,
+        "TextID": 3320,
+        "IconID": 3320,
+        "ExpressionGroupInfo": [
+          {
+            "Index": 1,
+            "ActionID": 3320,
+            "AchieveConditionID": 9003320,
             "IsShow": true,
             "IsStudy": true
           }
@@ -2641,6 +2659,21 @@
             "Index": 1,
             "ActionID": 3315,
             "AchieveConditionID": 9003315,
+            "IsShow": true,
+            "IsStudy": true
+          }
+        ],
+        "NewExpressionType": 4
+      },
+      {
+        "ID": 103320,
+        "TextID": 3320,
+        "IconID": 3320,
+        "ExpressionGroupInfo": [
+          {
+            "Index": 1,
+            "ActionID": 3320,
+            "AchieveConditionID": 9003320,
             "IsShow": true,
             "IsStudy": true
           }

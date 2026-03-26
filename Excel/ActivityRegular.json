@@ -75,6 +75,21 @@
         "ID": 4011,
         "DailyPoolID": 40111,
         "RandomPoolID": 40112
+      },
+      {
+        "ID": 260326130,
+        "DailyRefreshPoolID": 50901
+      },
+      {
+        "ID": 260326131,
+        "PoolID": 50902
+      },
+      {
+        "ID": 260326013
+      },
+      {
+        "ID": 260326023,
+        "PoolID": 50903
       }
     ]
   },
@@ -1779,6 +1794,356 @@
               {
                 "ItemID": 6042,
                 "ItemNum": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 50901,
+        "ActivityRegularPoolItem": [
+          {
+            "AchieveID": 80509101,
+            "Days": 1,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509102,
+            "Days": 2,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509103,
+            "Days": 3,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509104,
+            "Days": 4,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509105,
+            "Days": 5,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509106,
+            "Days": 6,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509107,
+            "Days": 7,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509108,
+            "Days": 8,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509109,
+            "Days": 9,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509110,
+            "Days": 10,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509111,
+            "Days": 11,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509112,
+            "Days": 12,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509113,
+            "Days": 13,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509114,
+            "Days": 14,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509115,
+            "Days": 15,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509116,
+            "Days": 16,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 30
+              },
+              {
+                "ItemID": 134,
+                "ItemNum": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 50902,
+        "ActivityRegularPoolItem": [
+          {
+            "AchieveID": 80509201,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 110,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 101,
+                "ItemNum": 50000
+              },
+              {
+                "ItemID": 8320,
+                "ItemNum": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 50903,
+        "ActivityRegularPoolItem": [
+          {
+            "AchieveID": 80509301,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509302,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 134,
+                "ItemNum": 20
+              },
+              {
+                "ItemID": 125,
+                "ItemNum": 2
+              },
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509303,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 134,
+                "ItemNum": 40
+              },
+              {
+                "ItemID": 125,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 104,
+                "ItemNum": 2
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509304,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 134,
+                "ItemNum": 80
+              },
+              {
+                "ItemID": 125,
+                "ItemNum": 10
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 3
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509305,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 134,
+                "ItemNum": 200
+              },
+              {
+                "ItemID": 5172,
+                "ItemNum": 1
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 5
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509306,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 134,
+                "ItemNum": 200
+              },
+              {
+                "ItemID": 125,
+                "ItemNum": 40
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 10
               }
             ]
           }

@@ -989,8 +989,16 @@
         "HairID": 4032042,
         "ClothID": 4032043,
         "FacePath": "Model/Fashion/Character_36/Character_36@face_avatar",
+        "IsShow": true,
         "DefaultWeaponID": 1303101,
         "PracticeID": 302004,
+        "OpeningTime": "2026-03-26 00:00:00",
+        "ClosingTime": "2026-04-29 23:59:59",
+        "PosterIDs": [
+          11230,
+          10220,
+          10110
+        ],
         "AssetFullName": "Model/Character/Character_36/Character_36",
         "NewWeaponType": 16,
         "NewWeaponSystemType": 3,
@@ -88960,7 +88968,7 @@
           {
             "Num": 1,
             "UIIndex": 1,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 1,
             "RewardItemID": 102,
             "RewardItemCount": 10
@@ -88968,15 +88976,15 @@
           {
             "Num": 2,
             "UIIndex": 2,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 2,
-            "RewardItemID": 632031,
+            "RewardItemID": 632041,
             "RewardItemCount": 1
           },
           {
             "Num": 3,
             "UIIndex": 3,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 3,
             "RewardItemID": 101,
             "RewardItemCount": 10000
@@ -88984,15 +88992,15 @@
           {
             "Num": 4,
             "UIIndex": 4,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 4,
-            "RewardItemID": 632032,
+            "RewardItemID": 632042,
             "RewardItemCount": 1
           },
           {
             "Num": 5,
             "UIIndex": 5,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 5,
             "RewardItemID": 102,
             "RewardItemCount": 10
@@ -89000,58 +89008,58 @@
           {
             "Num": 6,
             "UIIndex": 6,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 6,
-            "RewardItemID": 632033,
+            "RewardItemID": 632043,
             "RewardItemCount": 1
           },
           {
             "Num": 7,
             "UIIndex": 7,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 7,
-            "RewardItemID": 33203,
+            "RewardItemID": 33204,
             "RewardItemCount": 1
           },
           {
             "Num": 8,
             "UIIndex": 8,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 8,
-            "RewardItemID": 632034,
+            "RewardItemID": 632044,
             "RewardItemCount": 1
           },
           {
             "Num": 9,
             "UIIndex": 1,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 1,
-            "RewardItemID": 4200722,
+            "RewardItemID": 4200701,
             "RewardItemCount": 1,
             "NewRewardPriceType": 1
           },
           {
             "Num": 10,
             "UIIndex": 2,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 2,
-            "RewardItemID": 713185,
+            "RewardItemID": 714530,
             "RewardItemCount": 1,
             "NewRewardPriceType": 1
           },
           {
             "Num": 11,
             "UIIndex": 3,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 3,
-            "RewardItemID": 4322,
+            "RewardItemID": 4324,
             "RewardItemCount": 1,
             "NewRewardPriceType": 1
           },
           {
             "Num": 12,
             "UIIndex": 4,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 4,
             "RewardItemID": 110,
             "RewardItemCount": 1,
@@ -89060,16 +89068,16 @@
           {
             "Num": 13,
             "UIIndex": 5,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 5,
-            "RewardItemID": 5008,
+            "RewardItemID": 5043,
             "RewardItemCount": 1,
             "NewRewardPriceType": 1
           },
           {
             "Num": 14,
             "UIIndex": 6,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 6,
             "RewardItemID": 1023,
             "RewardItemCount": 1,
@@ -89078,16 +89086,16 @@
           {
             "Num": 15,
             "UIIndex": 7,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 7,
-            "RewardItemID": 5041106,
+            "RewardItemID": 5041501,
             "RewardItemCount": 1,
             "NewRewardPriceType": 1
           },
           {
             "Num": 16,
             "UIIndex": 8,
-            "UnlockItemID": 53203,
+            "UnlockItemID": 53204,
             "UnlockItemCount": 8,
             "RewardItemID": 1204,
             "RewardItemCount": 1,

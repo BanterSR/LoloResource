@@ -1330,7 +1330,33 @@
         "PosterPropertyGroupInfo": [
           {
             "Star": 1,
-            "SpellPassive": 40110000
+            "SpellPassive": 42050000,
+            "NewPosterTag1": 5,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 2,
+            "SpellPassive": 42050001,
+            "NewPosterTag1": 5,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 3,
+            "SpellPassive": 42050002,
+            "NewPosterTag1": 5,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 4,
+            "SpellPassive": 42050003,
+            "NewPosterTag1": 5,
+            "NewPosterTag2": 25
+          },
+          {
+            "Star": 5,
+            "SpellPassive": 42050004,
+            "NewPosterTag1": 5,
+            "NewPosterTag2": 25
           }
         ]
       },
@@ -2564,6 +2590,18 @@
         "PosterPropertyGroupInfo": [
           {
             "Star": 1
+          },
+          {
+            "Star": 2
+          },
+          {
+            "Star": 3
+          },
+          {
+            "Star": 4
+          },
+          {
+            "Star": 5
           }
         ]
       },
@@ -2715,7 +2753,39 @@
         "ID": 10600,
         "PosterPropertyGroupInfo": [
           {
-            "Star": 1
+            "Star": 1,
+            "SpellPassive": 42060000,
+            "NewPosterTag1": 4,
+            "NewPosterTag2": 9,
+            "NewPosterTag3": 25
+          },
+          {
+            "Star": 2,
+            "SpellPassive": 42060001,
+            "NewPosterTag1": 4,
+            "NewPosterTag2": 9,
+            "NewPosterTag3": 25
+          },
+          {
+            "Star": 3,
+            "SpellPassive": 42060002,
+            "NewPosterTag1": 4,
+            "NewPosterTag2": 9,
+            "NewPosterTag3": 25
+          },
+          {
+            "Star": 4,
+            "SpellPassive": 42060003,
+            "NewPosterTag1": 4,
+            "NewPosterTag2": 9,
+            "NewPosterTag3": 25
+          },
+          {
+            "Star": 5,
+            "SpellPassive": 42060004,
+            "NewPosterTag1": 4,
+            "NewPosterTag2": 9,
+            "NewPosterTag3": 25
           }
         ]
       },
@@ -5509,7 +5579,8 @@
       {
         "ID": 10110,
         "TextID": 10110,
-        "TextureID": 10110
+        "TextureID": 10110,
+        "IsShow": true
       },
       {
         "ID": 10120,
@@ -5786,7 +5857,8 @@
       {
         "ID": 10600,
         "TextID": 10600,
-        "TextureID": 10600
+        "TextureID": 10600,
+        "IsShow": true
       },
       {
         "ID": 10610,

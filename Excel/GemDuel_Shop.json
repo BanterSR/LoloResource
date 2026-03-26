@@ -180,6 +180,34 @@
             "Index": 2,
             "ShopPoolID": 302,
             "BuyMaxCount": -1
+          },
+          {
+            "GridID": 3,
+            "Index": 3,
+            "ShopPoolID": 303,
+            "BuyMaxCount": 1,
+            "GoodsID": "com.Nekootan.kfkj.68.2"
+          },
+          {
+            "GridID": 4,
+            "Index": 4,
+            "ShopPoolID": 304,
+            "BuyMaxCount": 1,
+            "GoodsID": "com.Nekootan.kfkj.68.3"
+          },
+          {
+            "GridID": 5,
+            "Index": 5,
+            "ShopPoolID": 305,
+            "BuyMaxCount": 1,
+            "GoodsID": "com.Nekootan.kfkj.68.4"
+          },
+          {
+            "GridID": 6,
+            "Index": 6,
+            "ShopPoolID": 306,
+            "BuyMaxCount": 1,
+            "GoodsID": "com.Nekootan.kfkj.68.5"
           }
         ]
       },
@@ -195,6 +223,58 @@
               24,
               0
             ]
+          },
+          {
+            "GridID": 2,
+            "Index": 1,
+            "ShopPoolID": 402,
+            "BuyMaxCount": 1,
+            "NewShopRefreshType": 2,
+            "RefreshTime": [
+              24,
+              0
+            ],
+            "GoodsID": "com.Nekootan.kfkj.68.6"
+          },
+          {
+            "GridID": 3,
+            "Index": 2,
+            "ShopPoolID": 403,
+            "BuyMaxCount": 1,
+            "NewShopRefreshType": 3,
+            "RefreshTime": [
+              1,
+              0
+            ],
+            "GoodsID": "com.Nekootan.kfkj.68.7"
+          },
+          {
+            "GridID": 4,
+            "Index": 3,
+            "ShopPoolID": 404,
+            "BuyMaxCount": 1,
+            "GoodsID": "com.Nekootan.kfkj.68.8"
+          },
+          {
+            "GridID": 5,
+            "Index": 4,
+            "ShopPoolID": 405,
+            "BuyMaxCount": 2,
+            "GoodsID": "com.Nekootan.kfkj.68.9"
+          },
+          {
+            "GridID": 6,
+            "Index": 5,
+            "ShopPoolID": 406,
+            "BuyMaxCount": 3,
+            "GoodsID": "com.Nekootan.kfkj.68.10"
+          },
+          {
+            "GridID": 7,
+            "Index": 6,
+            "ShopPoolID": 407,
+            "BuyMaxCount": 1,
+            "GoodsID": "com.Nekootan.kfkj.68.11"
           }
         ]
       },
@@ -277,215 +357,6 @@
               24,
               0
             ]
-          },
-          {
-            "GridID": 8,
-            "Index": 8,
-            "ShopPoolID": 11008,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 9,
-            "Index": 9,
-            "ShopPoolID": 11009,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 10,
-            "Index": 10,
-            "ShopPoolID": 11010,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 11,
-            "Index": 11,
-            "ShopPoolID": 11011,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 12,
-            "Index": 12,
-            "ShopPoolID": 11012,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 13,
-            "Index": 13,
-            "ShopPoolID": 11013,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 14,
-            "Index": 14,
-            "ShopPoolID": 11014,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 15,
-            "Index": 15,
-            "ShopPoolID": 11015,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 16,
-            "Index": 16,
-            "ShopPoolID": 11016,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 17,
-            "Index": 17,
-            "ShopPoolID": 11017,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 18,
-            "Index": 18,
-            "ShopPoolID": 11018,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 19,
-            "Index": 19,
-            "ShopPoolID": 11019,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 20,
-            "Index": 20,
-            "ShopPoolID": 11020,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 21,
-            "Index": 21,
-            "ShopPoolID": 11021,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 22,
-            "Index": 22,
-            "ShopPoolID": 11022,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 23,
-            "Index": 23,
-            "ShopPoolID": 11023,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 24,
-            "Index": 24,
-            "ShopPoolID": 11024,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 25,
-            "Index": 25,
-            "ShopPoolID": 11025,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
-          },
-          {
-            "GridID": 26,
-            "Index": 26,
-            "ShopPoolID": 11026,
-            "BuyMaxCount": 1,
-            "NewShopRefreshType": 2,
-            "RefreshTime": [
-              24,
-              0
-            ]
           }
         ]
       },
@@ -497,7 +368,7 @@
             "Index": 1,
             "ShopPoolID": 100000,
             "BuyMaxCount": 1,
-            "GoodsID": "com.Nekootan.kfkj.68.1"
+            "GoodsID": "com.Nekootan.kfkj.68.12"
           }
         ]
       },
@@ -509,7 +380,7 @@
             "Index": 1,
             "ShopPoolID": 100010,
             "BuyMaxCount": 1,
-            "GoodsID": "com.Nekootan.kfkj.68.1"
+            "GoodsID": "com.Nekootan.kfkj.68.13"
           }
         ]
       },
@@ -520,7 +391,8 @@
             "GridID": 1,
             "Index": 1,
             "ShopPoolID": 110000,
-            "BuyMaxCount": 1
+            "BuyMaxCount": 1,
+            "GoodsID": "com.Nekootan.kfkj.68.14"
           }
         ]
       },
@@ -531,7 +403,8 @@
             "GridID": 1,
             "Index": 1,
             "ShopPoolID": 110010,
-            "BuyMaxCount": 1
+            "BuyMaxCount": 1,
+            "GoodsID": "com.Nekootan.kfkj.68.15"
           }
         ]
       }
@@ -851,15 +724,195 @@
         ]
       },
       {
+        "ID": 303,
+        "Items": [
+          {
+            "ItemID": 6000010,
+            "IsRepeatedInBag": true,
+            "ItemNum": 1,
+            "Index": 3,
+            "Discount": 1,
+            "ShowDiscount": 0.1,
+            "GemDuelShopCurrencyItem": [
+              {
+                "Price": 6800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 304,
+        "Items": [
+          {
+            "ItemID": 6000010,
+            "IsRepeatedInBag": true,
+            "ItemNum": 2,
+            "Index": 4,
+            "Discount": 1,
+            "ShowDiscount": 0.2,
+            "GemDuelShopCurrencyItem": [
+              {
+                "Price": 6800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 305,
+        "Items": [
+          {
+            "ItemID": 6000010,
+            "IsRepeatedInBag": true,
+            "ItemNum": 3,
+            "Index": 5,
+            "Discount": 1,
+            "ShowDiscount": 0.3,
+            "GemDuelShopCurrencyItem": [
+              {
+                "Price": 6800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 306,
+        "Items": [
+          {
+            "ItemID": 6000010,
+            "IsRepeatedInBag": true,
+            "ItemNum": 4,
+            "Index": 6,
+            "Discount": 1,
+            "ShowDiscount": 0.4,
+            "GemDuelShopCurrencyItem": [
+              {
+                "Price": 6800
+              }
+            ]
+          }
+        ]
+      },
+      {
         "ID": 401,
         "Items": [
           {
             "ItemID": 6000010,
             "IsRepeatedInBag": true,
-            "ItemNum": 1000,
+            "ItemNum": 1,
             "Index": 1,
             "Discount": 1,
             "ShowDiscount": 1
+          }
+        ]
+      },
+      {
+        "ID": 402,
+        "Items": [
+          {
+            "ItemID": 6000010,
+            "IsRepeatedInBag": true,
+            "ItemNum": 2,
+            "Index": 2,
+            "Discount": 1,
+            "ShowDiscount": 0.2,
+            "GemDuelShopCurrencyItem": [
+              {
+                "Price": 6800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 403,
+        "Items": [
+          {
+            "ItemID": 6000010,
+            "IsRepeatedInBag": true,
+            "ItemNum": 3,
+            "Index": 3,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "GemDuelShopCurrencyItem": [
+              {
+                "Price": 6800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 404,
+        "Items": [
+          {
+            "ItemID": 6000010,
+            "IsRepeatedInBag": true,
+            "ItemNum": 4,
+            "Index": 4,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "GemDuelShopCurrencyItem": [
+              {
+                "Price": 6800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 405,
+        "Items": [
+          {
+            "ItemID": 6000010,
+            "IsRepeatedInBag": true,
+            "ItemNum": 5,
+            "Index": 5,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "GemDuelShopCurrencyItem": [
+              {
+                "Price": 6800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 406,
+        "Items": [
+          {
+            "ItemID": 6000010,
+            "IsRepeatedInBag": true,
+            "ItemNum": 6,
+            "Index": 6,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "GemDuelShopCurrencyItem": [
+              {
+                "Price": 6800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 407,
+        "Items": [
+          {
+            "ItemID": 6000010,
+            "IsRepeatedInBag": true,
+            "ItemNum": 7,
+            "Index": 7,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "GemDuelShopCurrencyItem": [
+              {
+                "Price": 6800
+              }
+            ]
           }
         ]
       },
@@ -875,7 +928,7 @@
             "ShowDiscount": 1,
             "GemDuelShopCurrencyItem": [
               {
-                "CurrencyID": 101,
+                "CurrencyID": 102,
                 "Price": 1000
               }
             ]
@@ -894,7 +947,7 @@
             "ShowDiscount": 1,
             "GemDuelShopCurrencyItem": [
               {
-                "CurrencyID": 101,
+                "CurrencyID": 102,
                 "Price": 1000
               }
             ]
@@ -905,7 +958,7 @@
         "ID": 11003,
         "Items": [
           {
-            "ItemID": 302,
+            "ItemID": 401,
             "IsRepeatedInBag": true,
             "ItemNum": 10,
             "Index": 3,
@@ -913,7 +966,7 @@
             "ShowDiscount": 1,
             "GemDuelShopCurrencyItem": [
               {
-                "CurrencyID": 101,
+                "CurrencyID": 102,
                 "Price": 1000
               }
             ]
@@ -924,7 +977,7 @@
         "ID": 11004,
         "Items": [
           {
-            "ItemID": 303,
+            "ItemID": 402,
             "IsRepeatedInBag": true,
             "ItemNum": 10,
             "Index": 4,
@@ -932,7 +985,7 @@
             "ShowDiscount": 1,
             "GemDuelShopCurrencyItem": [
               {
-                "CurrencyID": 101,
+                "CurrencyID": 102,
                 "Price": 1000
               }
             ]
@@ -943,7 +996,7 @@
         "ID": 11005,
         "Items": [
           {
-            "ItemID": 304,
+            "ItemID": 403,
             "IsRepeatedInBag": true,
             "ItemNum": 10,
             "Index": 5,
@@ -951,7 +1004,7 @@
             "ShowDiscount": 1,
             "GemDuelShopCurrencyItem": [
               {
-                "CurrencyID": 101,
+                "CurrencyID": 102,
                 "Price": 1000
               }
             ]
@@ -962,7 +1015,7 @@
         "ID": 11006,
         "Items": [
           {
-            "ItemID": 305,
+            "ItemID": 404,
             "IsRepeatedInBag": true,
             "ItemNum": 3,
             "Index": 6,
@@ -970,7 +1023,7 @@
             "ShowDiscount": 1,
             "GemDuelShopCurrencyItem": [
               {
-                "CurrencyID": 101,
+                "CurrencyID": 102,
                 "Price": 5000
               }
             ]
@@ -981,7 +1034,7 @@
         "ID": 11007,
         "Items": [
           {
-            "ItemID": 306,
+            "ItemID": 450,
             "IsRepeatedInBag": true,
             "ItemNum": 3,
             "Index": 7,
@@ -989,369 +1042,8 @@
             "ShowDiscount": 1,
             "GemDuelShopCurrencyItem": [
               {
-                "CurrencyID": 101,
+                "CurrencyID": 102,
                 "Price": 5000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11008,
-        "Items": [
-          {
-            "ItemID": 307,
-            "IsRepeatedInBag": true,
-            "ItemNum": 3,
-            "Index": 8,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 5000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11009,
-        "Items": [
-          {
-            "ItemID": 308,
-            "IsRepeatedInBag": true,
-            "ItemNum": 3,
-            "Index": 9,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 5000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11010,
-        "Items": [
-          {
-            "ItemID": 309,
-            "IsRepeatedInBag": true,
-            "ItemNum": 3,
-            "Index": 10,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 5000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11011,
-        "Items": [
-          {
-            "ItemID": 310,
-            "IsRepeatedInBag": true,
-            "ItemNum": 1,
-            "Index": 11,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 10000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11012,
-        "Items": [
-          {
-            "ItemID": 311,
-            "IsRepeatedInBag": true,
-            "ItemNum": 1,
-            "Index": 12,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 10000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11013,
-        "Items": [
-          {
-            "ItemID": 312,
-            "IsRepeatedInBag": true,
-            "ItemNum": 1,
-            "Index": 13,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 10000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11014,
-        "Items": [
-          {
-            "ItemID": 313,
-            "IsRepeatedInBag": true,
-            "ItemNum": 1,
-            "Index": 14,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 10000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11015,
-        "Items": [
-          {
-            "ItemID": 314,
-            "IsRepeatedInBag": true,
-            "ItemNum": 3,
-            "Index": 15,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 10000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11016,
-        "Items": [
-          {
-            "ItemID": 315,
-            "IsRepeatedInBag": true,
-            "ItemNum": 3,
-            "Index": 16,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 5000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11017,
-        "Items": [
-          {
-            "ItemID": 316,
-            "IsRepeatedInBag": true,
-            "ItemNum": 3,
-            "Index": 17,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 5000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11018,
-        "Items": [
-          {
-            "ItemID": 317,
-            "IsRepeatedInBag": true,
-            "ItemNum": 3,
-            "Index": 18,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 5000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11019,
-        "Items": [
-          {
-            "ItemID": 318,
-            "IsRepeatedInBag": true,
-            "ItemNum": 3,
-            "Index": 19,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 5000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11020,
-        "Items": [
-          {
-            "ItemID": 319,
-            "IsRepeatedInBag": true,
-            "ItemNum": 3,
-            "Index": 20,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 5000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11021,
-        "Items": [
-          {
-            "ItemID": 320,
-            "IsRepeatedInBag": true,
-            "ItemNum": 1,
-            "Index": 21,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 10000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11022,
-        "Items": [
-          {
-            "ItemID": 321,
-            "IsRepeatedInBag": true,
-            "ItemNum": 1,
-            "Index": 22,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 10000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11023,
-        "Items": [
-          {
-            "ItemID": 322,
-            "IsRepeatedInBag": true,
-            "ItemNum": 1,
-            "Index": 23,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 10000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11024,
-        "Items": [
-          {
-            "ItemID": 323,
-            "IsRepeatedInBag": true,
-            "ItemNum": 1,
-            "Index": 24,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 10000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11025,
-        "Items": [
-          {
-            "ItemID": 324,
-            "IsRepeatedInBag": true,
-            "ItemNum": 1,
-            "Index": 25,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 10000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "ID": 11026,
-        "Items": [
-          {
-            "ItemID": 325,
-            "IsRepeatedInBag": true,
-            "ItemNum": 1,
-            "Index": 26,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "GemDuelShopCurrencyItem": [
-              {
-                "CurrencyID": 101,
-                "Price": 10000
               }
             ]
           }
