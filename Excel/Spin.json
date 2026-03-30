@@ -4487,6 +4487,106 @@
         "NewSpinPageType": 4
       },
       {
+        "ID": 4032042,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedFormulaItemID": 4032042,
+        "SpinLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "SpinItems": [
+          {
+            "ItemID": 5033003,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 5052004,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 5052014,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 5032020,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 4032042,
+        "SpinAchieveRewards": [
+          {
+            "AchieveConditionID": 140320421,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 140320422,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 140320423,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 140320424,
+            "RewardID": 10340
+          }
+        ],
+        "NewSpinToolType": 1,
+        "NewSpinPageType": 3
+      },
+      {
+        "ID": 4032043,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedFormulaItemID": 4032043,
+        "SpinLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "SpinItems": [
+          {
+            "ItemID": 5033015,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 5033007,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 5052001,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 5032020,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 4032043,
+        "SpinAchieveRewards": [
+          {
+            "AchieveConditionID": 140320431,
+            "RewardID": 10110
+          },
+          {
+            "AchieveConditionID": 140320432,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 140320433,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 140320434,
+            "RewardID": 10240
+          }
+        ],
+        "NewSpinToolType": 1,
+        "NewSpinPageType": 4
+      },
+      {
         "ID": 4041012,
         "IsShow": true,
         "IsHandbookShow": true,
