@@ -14802,7 +14802,6 @@
         "Items": [
           {
             "ItemID": 6027010,
-            "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 1,
             "MinLevel": 1,
@@ -14823,7 +14822,6 @@
         "Items": [
           {
             "ItemID": 1006010,
-            "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 1,
             "MinLevel": 1,
@@ -14844,7 +14842,6 @@
         "Items": [
           {
             "ItemID": 1001006,
-            "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 1,
             "MinLevel": 1,
@@ -14865,7 +14862,6 @@
         "Items": [
           {
             "ItemID": 5043916,
-            "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 1,
             "MinLevel": 1,
@@ -14886,10 +14882,10 @@
         "Items": [
           {
             "ItemID": 5043902,
-            "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 1,
             "AddItemID": 5176,
+            "AddItemNum": 1,
             "MinLevel": 1,
             "MaxLevel": 100,
             "Discount": 1,
