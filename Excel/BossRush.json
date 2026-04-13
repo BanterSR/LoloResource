@@ -28,7 +28,22 @@
         "BattleCostItem": 131,
         "CostItemRecover": 3,
         "BattleTime": 3600,
+        "NextSeason": 1003,
         "StageNameTextID": 1002
+      },
+      {
+        "ID": 1003,
+        "StartTime": "2026-04-09 08:00:00",
+        "EndTime": "2026-04-23 22:00:00",
+        "ShowRankTime": "2026-04-09 08:00:00",
+        "SeasonStage": 1003,
+        "SeasonAchieve": 1003,
+        "SeasonRankReward": 1003,
+        "SeasonRankAdd": 1003,
+        "BattleCostItem": 131,
+        "CostItemRecover": 3,
+        "BattleTime": 3600,
+        "StageNameTextID": 1003
       }
     ]
   },
@@ -103,6 +118,41 @@
             "NewUpTag4": 3
           }
         ]
+      },
+      {
+        "ID": 1003,
+        "BossRushStageGroupInfo": [
+          {
+            "TextID": 10011,
+            "IconID": 10011,
+            "DungeonID": 940001,
+            "BeginDay": 1,
+            "MaxHP": 25000000,
+            "NewUpTag2": 1,
+            "NewUpTag3": 2,
+            "NewUpTag4": 3
+          },
+          {
+            "TextID": 10012,
+            "IconID": 10012,
+            "DungeonID": 940002,
+            "BeginDay": 2,
+            "MaxHP": 50000000,
+            "NewUpTag2": 1,
+            "NewUpTag3": 2,
+            "NewUpTag4": 3
+          },
+          {
+            "TextID": 10013,
+            "IconID": 10013,
+            "DungeonID": 940003,
+            "BeginDay": 3,
+            "MaxHP": 200000000,
+            "NewUpTag2": 1,
+            "NewUpTag3": 2,
+            "NewUpTag4": 3
+          }
+        ]
       }
     ]
   },
@@ -170,6 +220,39 @@
           },
           {
             "AchieveID": 18100117,
+            "RewardID": 5050107
+          }
+        ]
+      },
+      {
+        "ID": 1003,
+        "BossRushAchieveGroupInfo": [
+          {
+            "AchieveID": 18100121,
+            "RewardID": 5050101
+          },
+          {
+            "AchieveID": 18100122,
+            "RewardID": 5050102
+          },
+          {
+            "AchieveID": 18100123,
+            "RewardID": 5050103
+          },
+          {
+            "AchieveID": 18100124,
+            "RewardID": 5050104
+          },
+          {
+            "AchieveID": 18100125,
+            "RewardID": 5050105
+          },
+          {
+            "AchieveID": 18100126,
+            "RewardID": 5050106
+          },
+          {
+            "AchieveID": 18100127,
             "RewardID": 5050107
           }
         ]
@@ -309,6 +392,74 @@
               10000
             ],
             "RewardID": 5050217,
+            "IconID": 1007,
+            "Rank": 7
+          }
+        ]
+      },
+      {
+        "ID": 1003,
+        "BossRushRankGroupInfo": [
+          {
+            "RankRange": [
+              0,
+              100
+            ],
+            "RewardID": 5050311,
+            "IconID": 1001,
+            "Rank": 1
+          },
+          {
+            "RankRange": [
+              100,
+              1000
+            ],
+            "RewardID": 5050312,
+            "IconID": 1002,
+            "Rank": 2
+          },
+          {
+            "RankRange": [
+              1000,
+              2000
+            ],
+            "RewardID": 5050313,
+            "IconID": 1003,
+            "Rank": 3
+          },
+          {
+            "RankRange": [
+              2000,
+              3000
+            ],
+            "RewardID": 5050314,
+            "IconID": 1004,
+            "Rank": 4
+          },
+          {
+            "RankRange": [
+              3000,
+              5000
+            ],
+            "RewardID": 5050315,
+            "IconID": 1005,
+            "Rank": 5
+          },
+          {
+            "RankRange": [
+              5000,
+              7000
+            ],
+            "RewardID": 5050316,
+            "IconID": 1006,
+            "Rank": 6
+          },
+          {
+            "RankRange": [
+              7000,
+              10000
+            ],
+            "RewardID": 5050317,
             "IconID": 1007,
             "Rank": 7
           }
@@ -2535,6 +2686,1116 @@
             "Num": 1,
             "ScoreMin": 16918200,
             "ScoreMax": 18798000
+          }
+        ]
+      },
+      {
+        "ID": 1003,
+        "BossRushRankStuffInfo": [
+          {
+            "Num": 150,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 150,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 150,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 150,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 150,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 150,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 150,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 150,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 10,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 10,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 52650000,
+            "ScoreMax": 58500000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 52650000,
+            "ScoreMax": 58500000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 52650000,
+            "ScoreMax": 58500000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 52650000,
+            "ScoreMax": 58500000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 52650000,
+            "ScoreMax": 58500000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 52650000,
+            "ScoreMax": 58500000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 52650000,
+            "ScoreMax": 58500000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 52650000,
+            "ScoreMax": 58500000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 52650000,
+            "ScoreMax": 58500000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 52650000,
+            "ScoreMax": 58500000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 15,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 8,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 2,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 52650000,
+            "ScoreMax": 58500000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 3,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 3,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 3,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 3,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 3,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 3,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 3510000,
+            "ScoreMax": 3900000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 7020000,
+            "ScoreMax": 7800000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 10530000,
+            "ScoreMax": 11700000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 14040000,
+            "ScoreMax": 15600000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 17550000,
+            "ScoreMax": 19500000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 21060000,
+            "ScoreMax": 23400000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 24570000,
+            "ScoreMax": 27300000
+          },
+          {
+            "Num": 5,
+            "ScoreMin": 28080000,
+            "ScoreMax": 31200000
+          },
+          {
+            "Num": 3,
+            "ScoreMin": 31590000,
+            "ScoreMax": 35100000
+          },
+          {
+            "Num": 3,
+            "ScoreMin": 35100000,
+            "ScoreMax": 39000000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 38610000,
+            "ScoreMax": 42900000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 42120000,
+            "ScoreMax": 46800000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 45630000,
+            "ScoreMax": 50700000
+          },
+          {
+            "Num": 1,
+            "ScoreMin": 49140000,
+            "ScoreMax": 54600000
           }
         ]
       }

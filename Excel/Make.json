@@ -27401,6 +27401,98 @@
         "SuccessfulProbability": 1,
         "GetItemID": 5046014,
         "NewMakePageType": 4
+      },
+      {
+        "ID": 5046021,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedShowbookItemID": 5046021,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 669,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 650,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 5046021,
+        "NewMakePageType": 4
+      },
+      {
+        "ID": 5046022,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedShowbookItemID": 5046022,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 670,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 650,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 5046022,
+        "NewMakePageType": 4
+      },
+      {
+        "ID": 5046023,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedShowbookItemID": 5046023,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 671,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 650,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 5046023,
+        "NewMakePageType": 4
+      },
+      {
+        "ID": 5046024,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedShowbookItemID": 5046024,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 672,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 650,
+            "ItemCount": 2
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 5046024,
+        "NewMakePageType": 4
       }
     ]
   },
