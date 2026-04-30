@@ -90,6 +90,10 @@
       {
         "ID": 260326023,
         "PoolID": 50903
+      },
+      {
+        "ID": 260430022,
+        "PoolID": 50904
       }
     ]
   },
@@ -2144,6 +2148,84 @@
               {
                 "ItemID": 110,
                 "ItemNum": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 50904,
+        "ActivityRegularPoolItem": [
+          {
+            "AchieveID": 80509401,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 101,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509402,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 20
+              },
+              {
+                "ItemID": 104,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509403,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 100
+              },
+              {
+                "ItemID": 104,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 125,
+                "ItemNum": 3
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509404,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 200
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 3
+              },
+              {
+                "ItemID": 5166,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "AchieveID": 80509405,
+            "ActivityRegularPoolRewardItem": [
+              {
+                "ItemID": 102,
+                "ItemNum": 300
+              },
+              {
+                "ItemID": 110,
+                "ItemNum": 5
+              },
+              {
+                "ItemID": 125,
+                "ItemNum": 15
               }
             ]
           }

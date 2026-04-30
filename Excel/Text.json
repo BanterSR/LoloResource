@@ -3694,7 +3694,7 @@
       {
         "ID": 413,
         "Key": "Text_Friend_TransformError_Text",
-        "ChineseSimplified": "副本中不能使用改功能"
+        "ChineseSimplified": "副本中不能使用该功能"
       },
       {
         "ID": 414,
@@ -12001,6 +12001,56 @@
         "ID": 2633,
         "Key": "Text_WishList_Tips_82",
         "ChineseSimplified": "是否花费 \u003C#FF0000\u003E\u003Cs\u003E{0} X {1}\u003C/color\u003E\u003C/s\u003E {2} X {3} 购买 {4} X 1 赠送给好友 {5} ？"
+      },
+      {
+        "ID": 2634,
+        "Key": "Text_QuickArmor_No",
+        "ChineseSimplified": "没有合适的防具"
+      },
+      {
+        "ID": 2635,
+        "Key": "Text_QuickArmor_Selected",
+        "ChineseSimplified": "已选择"
+      },
+      {
+        "ID": 2636,
+        "Key": "Text_TreasureMap_Use",
+        "ChineseSimplified": "是否使用藏宝图？"
+      },
+      {
+        "ID": 2637,
+        "Key": "Text_TreasureMap_Tf",
+        "ChineseSimplified": "是否使用藏宝图，并且传送到此场景？"
+      },
+      {
+        "ID": 2638,
+        "Key": "Text_Catcher_Use",
+        "ChineseSimplified": "捕捉器只能在场景战斗中使用！"
+      },
+      {
+        "ID": 2639,
+        "Key": "Text_Shop_LimitShopTips",
+        "ChineseSimplified": "需要解锁{0} 任意格子"
+      },
+      {
+        "ID": 2640,
+        "Key": "Text_Shop_LimitShopPos",
+        "ChineseSimplified": " {0}号"
+      },
+      {
+        "ID": 2641,
+        "Key": "Text_Pet_MaxCount",
+        "ChineseSimplified": "宠物背包已满"
+      },
+      {
+        "ID": 2642,
+        "Key": "Text_Archaeology_Book_Collected",
+        "ChineseSimplified": "\u003CU\u003E已收集\u003C/U\u003E"
+      },
+      {
+        "ID": 2643,
+        "Key": "Text_Archaeology_Book_UnCollect",
+        "ChineseSimplified": "未收集"
       },
       {
         "ID": 2700,

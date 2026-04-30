@@ -1366,6 +1366,21 @@
         "ID": 1760,
         "Key": "StatusCode_MOON_CARD_DAYS_LIMIT",
         "ChineseSimplified": "月卡天数已达上限"
+      },
+      {
+        "ID": 1801,
+        "Key": "StatusCode_SHOP_GRID_UNLOCKED",
+        "ChineseSimplified": "购买商品未解锁"
+      },
+      {
+        "ID": 1811,
+        "Key": "StatusCode_PET_NOT_FOUND",
+        "ChineseSimplified": "宠物不存在"
+      },
+      {
+        "ID": 1812,
+        "Key": "StatusCode_PET_GRID_FULL",
+        "ChineseSimplified": "宠物仓库已满"
       }
     ]
   },

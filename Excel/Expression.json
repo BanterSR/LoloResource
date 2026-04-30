@@ -357,6 +357,18 @@
         "NewExpressionType": 3
       },
       {
+        "ID": 2008,
+        "TextID": 2008,
+        "IconID": 2008,
+        "ExpressionGroupInfo": [
+          {
+            "Index": 1,
+            "IsShow": true
+          }
+        ],
+        "NewExpressionType": 3
+      },
+      {
         "ID": 1040,
         "TextID": 1040,
         "IconID": 1040,
@@ -984,7 +996,8 @@
           {
             "Index": 1,
             "ActionID": 3180,
-            "AchieveConditionID": 9003180
+            "AchieveConditionID": 9003180,
+            "IsShow": true
           }
         ]
       },
@@ -1008,7 +1021,9 @@
           {
             "Index": 1,
             "ActionID": 3190,
-            "AchieveConditionID": 9003190
+            "AchieveConditionID": 9003190,
+            "IsShow": true,
+            "IsStudy": true
           }
         ]
       },
@@ -3069,6 +3084,59 @@
         "RequesterPlayActionID": 10042,
         "IntimacyLimit": -1,
         "RequesterPlayDistance": 1.65
+      }
+    ]
+  },
+  "Catcher": {
+    "Datas": [
+      {
+        "ID": 120000,
+        "ActionID": 1075,
+        "NeedItemID": 200100001,
+        "NeedItemCount": 1,
+        "SpellID": 951
+      },
+      {
+        "ID": 120001,
+        "ActionID": 1075,
+        "NeedItemID": 200100002,
+        "NeedItemCount": 1,
+        "SpellID": 952
+      },
+      {
+        "ID": 120002,
+        "ActionID": 1075,
+        "NeedItemID": 200100003,
+        "NeedItemCount": 1,
+        "SpellID": 953
+      },
+      {
+        "ID": 120003,
+        "ActionID": 1075,
+        "NeedItemID": 200100004,
+        "NeedItemCount": 1,
+        "SpellID": 954
+      },
+      {
+        "ID": 120004,
+        "ActionID": 1075,
+        "NeedItemID": 200100005,
+        "NeedItemCount": 1,
+        "SpellID": 955
+      },
+      {
+        "ID": 120005,
+        "ActionID": 1075,
+        "NeedItemID": 200100006,
+        "NeedItemCount": 1,
+        "SpellID": 956
+      },
+      {
+        "ID": 120006,
+        "ActionID": 1075,
+        "NeedItemID": 200100007,
+        "NeedItemCount": 1,
+        "SpellID": 957
       }
     ]
   }

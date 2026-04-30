@@ -883,6 +883,45 @@
         "NewWeaponType": 18
       },
       {
+        "ID": 1007001,
+        "ItemID": 1007001,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "RollSpellGroupID": 100400,
+        "NormalSpellID": 1007000,
+        "AssetFullName": "Model/Weapon/TypeLife/Shovel/Weapon_Shovel_01",
+        "NewWeaponSystemType": 6,
+        "NewChoppingCorrectionType": 4,
+        "NewWeaponType": 22
+      },
+      {
+        "ID": 1007002,
+        "ItemID": 1007002,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "RollSpellGroupID": 100400,
+        "NormalSpellID": 1007000,
+        "AssetFullName": "Model/Weapon/TypeLife/Shovel/Weapon_Shovel_02",
+        "NewWeaponSystemType": 6,
+        "NewChoppingCorrectionType": 4,
+        "NewWeaponType": 22
+      },
+      {
+        "ID": 1007003,
+        "ItemID": 1007003,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 1,
+        "RollSpellGroupID": 100400,
+        "NormalSpellID": 1007000,
+        "AssetFullName": "Model/Weapon/TypeLife/Shovel/Weapon_Shovel_04",
+        "NewWeaponSystemType": 6,
+        "NewChoppingCorrectionType": 4,
+        "NewWeaponType": 22
+      },
+      {
         "ID": 1009001,
         "ItemID": 1009001,
         "Durability": 100,

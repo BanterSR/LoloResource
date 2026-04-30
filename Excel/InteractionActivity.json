@@ -327,5 +327,22 @@
         ]
       }
     ]
+  },
+  "HomecomingReward": {
+    "Datas": [
+      {
+        "ID": 90001,
+        "HomecomingRewardItem": [
+          {
+            "ItemID": 102,
+            "ItemNum": 500
+          },
+          {
+            "ItemID": 125,
+            "ItemNum": 50
+          }
+        ]
+      }
+    ]
   }
 }

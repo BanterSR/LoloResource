@@ -566,6 +566,10 @@
         "ScriptID": 930
       },
       {
+        "ID": 951,
+        "ScriptID": 951
+      },
+      {
         "ID": 1000,
         "ScriptID": 110,
         "ScriptParams": [
@@ -4562,6 +4566,13 @@
         "ScriptName": "Buff_930",
         "cover": true,
         "AssetFullName": "Buff/Unit/930/Buff_930",
+        "NewBuffType": 5
+      },
+      {
+        "ID": 951,
+        "ScriptName": "Buff_951",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/951/Buff_951",
         "NewBuffType": 5
       },
       {

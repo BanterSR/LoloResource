@@ -3638,6 +3638,890 @@
         "NewHandicraftPageType": 1
       },
       {
+        "ID": 2001000010,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20200001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20300001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 3002,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 3003,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100001,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000020,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600016,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600020,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600022,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100002,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000021,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600021,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600023,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600015,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100002,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000022,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400002,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400009,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400001,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100002,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000023,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400017,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400018,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400010,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100002,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000024,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20100003,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100004,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100005,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100006,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100002,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000025,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20100021,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100022,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100026,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100025,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100002,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000030,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600019,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600013,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600027,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100003,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000031,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600011,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600017,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600010,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100003,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000032,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400004,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400011,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400003,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100003,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000033,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400019,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400020,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400012,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100003,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000034,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20100007,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100008,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100010,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100009,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100003,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000035,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20100023,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100024,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100019,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100020,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100003,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000040,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600024,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600018,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600025,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100004,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000041,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600006,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600007,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600026,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100004,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000042,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400006,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400013,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400005,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100004,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000043,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400022,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400021,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400014,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100004,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000044,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20100013,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100014,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100011,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100012,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100004,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000045,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20100029,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100030,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100031,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100032,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100004,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000050,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600005,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600008,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100005,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000051,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600002,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600004,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20600009,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100005,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000052,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400008,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400015,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400007,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100005,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000053,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100001,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400023,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400024,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20400016,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100005,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000054,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20100015,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100016,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100017,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100018,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100005,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000055,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 20100027,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100028,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100033,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20100034,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100005,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000060,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100002,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 200100003,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 200100004,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 200100005,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100006,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000061,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100002,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 20200002,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20300002,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100006,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000062,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100003,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 20200002,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20300002,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100006,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000063,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100004,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 20200002,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20300002,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100006,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
+        "ID": 2001000064,
+        "IsShow": true,
+        "HandicraftLevel": 1,
+        "NeedTime": 3,
+        "NeedItemID": 11,
+        "NeedItemCount": 10,
+        "HandicraftItems": [
+          {
+            "ItemID": 200100005,
+            "ItemCount": 4
+          },
+          {
+            "ItemID": 20200002,
+            "ItemCount": 1
+          },
+          {
+            "ItemID": 20300002,
+            "ItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 200100006,
+        "NewHandicraftType": 1,
+        "NewHandicraftPageType": 1
+      },
+      {
         "ID": 1102,
         "IsShow": true,
         "HandicraftLevel": 1,

@@ -1,0 +1,95 @@
+{
+  "ArchaeologyAchieve": {
+    "Datas": [
+      {
+        "ID": 1,
+        "NewArchaeologyType": 1,
+        "Items": [
+          {
+            "AchieveID": 150000101,
+            "RewardID": 7000260
+          },
+          {
+            "AchieveID": 150000102,
+            "RewardID": 7000270
+          },
+          {
+            "AchieveID": 150000103,
+            "RewardID": 7000280
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "NewArchaeologyType": 4,
+        "Items": [
+          {
+            "AchieveID": 150000201,
+            "RewardID": 7000290
+          },
+          {
+            "AchieveID": 150000202,
+            "RewardID": 7000300
+          },
+          {
+            "AchieveID": 150000203,
+            "RewardID": 7000310
+          }
+        ]
+      },
+      {
+        "ID": 3,
+        "NewArchaeologyType": 3,
+        "Items": [
+          {
+            "AchieveID": 150000301,
+            "RewardID": 7000320
+          },
+          {
+            "AchieveID": 150000302,
+            "RewardID": 7000330
+          },
+          {
+            "AchieveID": 150000303,
+            "RewardID": 7000340
+          }
+        ]
+      },
+      {
+        "ID": 4,
+        "NewArchaeologyType": 2,
+        "Items": [
+          {
+            "AchieveID": 150000401,
+            "RewardID": 7000350
+          },
+          {
+            "AchieveID": 150000402,
+            "RewardID": 7000360
+          },
+          {
+            "AchieveID": 150000403,
+            "RewardID": 7000370
+          }
+        ]
+      },
+      {
+        "ID": 5,
+        "Items": [
+          {
+            "AchieveID": 150000501,
+            "RewardID": 7000380
+          },
+          {
+            "AchieveID": 150000502,
+            "RewardID": 7000390
+          },
+          {
+            "AchieveID": 150000503,
+            "RewardID": 7000400
+          }
+        ]
+      }
+    ]
+  }
+}

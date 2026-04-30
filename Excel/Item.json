@@ -6933,6 +6933,13 @@
         "NewBagItemTag": 44
       },
       {
+        "ID": 7261,
+        "TextID": 7261,
+        "IconID": 7261,
+        "Quality": 1,
+        "NewBagItemTag": 44
+      },
+      {
         "ID": 7300,
         "TextID": 7200,
         "IconID": 7200,
@@ -12794,6 +12801,20 @@
         "NewBagItemTag": 40
       },
       {
+        "ID": 621015,
+        "TextID": 621015,
+        "IconID": 621015,
+        "Quality": 1,
+        "NewBagItemTag": 40
+      },
+      {
+        "ID": 621016,
+        "TextID": 621016,
+        "IconID": 621016,
+        "Quality": 1,
+        "NewBagItemTag": 40
+      },
+      {
         "ID": 621017,
         "TextID": 621017,
         "IconID": 621017,
@@ -14971,6 +14992,30 @@
         "IconID": 1006010,
         "RelateID": 1006010,
         "Quality": 1,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1007001,
+        "TextID": 1007001,
+        "IconID": 1007001,
+        "RelateID": 1007001,
+        "Quality": 1,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1007002,
+        "TextID": 1007002,
+        "IconID": 1007002,
+        "RelateID": 1007002,
+        "Quality": 2,
+        "NewBagItemTag": 2
+      },
+      {
+        "ID": 1007003,
+        "TextID": 1007003,
+        "IconID": 1007003,
+        "RelateID": 1007003,
+        "Quality": 3,
         "NewBagItemTag": 2
       },
       {
@@ -32445,6 +32490,33 @@
         "NewBagItemTag": 21
       },
       {
+        "ID": 4200991,
+        "TextID": 4200991,
+        "IconID": 4200991,
+        "RelateID": 4200991,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4200992,
+        "TextID": 4200992,
+        "IconID": 4200992,
+        "RelateID": 4200992,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4200993,
+        "TextID": 4200993,
+        "IconID": 4200993,
+        "RelateID": 4200993,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
         "ID": 4201001,
         "TextID": 4201001,
         "IconID": 4201001,
@@ -32485,6 +32557,69 @@
         "TextID": 4201005,
         "IconID": 4201005,
         "RelateID": 4201005,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4201021,
+        "TextID": 4201021,
+        "IconID": 4201021,
+        "RelateID": 4201021,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4201022,
+        "TextID": 4201022,
+        "IconID": 4201022,
+        "RelateID": 4201022,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4201023,
+        "TextID": 4201023,
+        "IconID": 4201023,
+        "RelateID": 4201023,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4201024,
+        "TextID": 4201024,
+        "IconID": 4201024,
+        "RelateID": 4201024,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4201025,
+        "TextID": 4201025,
+        "IconID": 4201025,
+        "RelateID": 4201025,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4201026,
+        "TextID": 4201026,
+        "IconID": 4201026,
+        "RelateID": 4201026,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4201027,
+        "TextID": 4201027,
+        "IconID": 4201027,
+        "RelateID": 4201027,
         "Quality": 1,
         "BgID": 7,
         "NewBagItemTag": 21
@@ -42614,6 +42749,15 @@
         "NewBagItemTag": 34
       },
       {
+        "ID": 5044208,
+        "TextID": 5044208,
+        "IconID": 5044208,
+        "RelateID": 5044208,
+        "Quality": 1,
+        "IsShowNum": true,
+        "NewBagItemTag": 34
+      },
+      {
         "ID": 5044301,
         "TextID": 5044301,
         "IconID": 5044301,
@@ -43173,6 +43317,3844 @@
         "IsShowNum": true,
         "NewBagItemTag": 8,
         "NewUITag": 7
+      },
+      {
+        "ID": 5060001,
+        "TextID": 5060001,
+        "IconID": 5060001,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5060002,
+        "TextID": 5060002,
+        "IconID": 5060002,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5060003,
+        "TextID": 5060003,
+        "IconID": 5060003,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5060004,
+        "TextID": 5060004,
+        "IconID": 5060004,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5060005,
+        "TextID": 5060005,
+        "IconID": 5060005,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5060006,
+        "TextID": 5060006,
+        "IconID": 5060006,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5060007,
+        "TextID": 5060007,
+        "IconID": 5060007,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5060008,
+        "TextID": 5060008,
+        "IconID": 5060008,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5060009,
+        "TextID": 5060009,
+        "IconID": 5060009,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5060010,
+        "TextID": 5060010,
+        "IconID": 5060010,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5070001,
+        "TextID": 5070001,
+        "IconID": 5070001,
+        "RelateID": 5070001,
+        "IsShowNum": true,
+        "NewBagItemTag": 53,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5070002,
+        "TextID": 5070002,
+        "IconID": 5070002,
+        "RelateID": 5070002,
+        "IsShowNum": true,
+        "NewBagItemTag": 53,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5080001,
+        "TextID": 5080001,
+        "IconID": 5080001,
+        "RelateID": 1,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5080002,
+        "TextID": 5080002,
+        "IconID": 5080002,
+        "RelateID": 2,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5080003,
+        "TextID": 5080003,
+        "IconID": 5080003,
+        "RelateID": 3,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5080004,
+        "TextID": 5080004,
+        "IconID": 5080004,
+        "RelateID": 4,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5080005,
+        "TextID": 5080005,
+        "IconID": 5080005,
+        "RelateID": 5,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5080006,
+        "TextID": 5080006,
+        "IconID": 5080006,
+        "RelateID": 6,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5080007,
+        "TextID": 5080007,
+        "IconID": 5080007,
+        "RelateID": 7,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5080008,
+        "TextID": 5080008,
+        "IconID": 5080008,
+        "RelateID": 8,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5080009,
+        "TextID": 5080009,
+        "IconID": 5080009,
+        "RelateID": 9,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5080010,
+        "TextID": 5080010,
+        "IconID": 5080010,
+        "RelateID": 10,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5080101,
+        "TextID": 5080101,
+        "IconID": 5080101,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5080102,
+        "TextID": 5080102,
+        "IconID": 5080102,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5080103,
+        "TextID": 5080103,
+        "IconID": 5080103,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5080104,
+        "TextID": 5080104,
+        "IconID": 5080104,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5080105,
+        "TextID": 5080105,
+        "IconID": 5080105,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5080106,
+        "TextID": 5080106,
+        "IconID": 5080106,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5080107,
+        "TextID": 5080107,
+        "IconID": 5080107,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5080108,
+        "TextID": 5080108,
+        "IconID": 5080108,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5080109,
+        "TextID": 5080109,
+        "IconID": 5080109,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5080110,
+        "TextID": 5080110,
+        "IconID": 5080110,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090001,
+        "TextID": 5090001,
+        "IconID": 5090001,
+        "RelateID": 1,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5090002,
+        "TextID": 5090002,
+        "IconID": 5090002,
+        "RelateID": 2,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5090003,
+        "TextID": 5090003,
+        "IconID": 5090003,
+        "RelateID": 3,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5090004,
+        "TextID": 5090004,
+        "IconID": 5090004,
+        "RelateID": 4,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5090005,
+        "TextID": 5090005,
+        "IconID": 5090005,
+        "RelateID": 5,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5090006,
+        "TextID": 5090006,
+        "IconID": 5090006,
+        "RelateID": 6,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5090007,
+        "TextID": 5090007,
+        "IconID": 5090007,
+        "RelateID": 7,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5090008,
+        "TextID": 5090008,
+        "IconID": 5090008,
+        "RelateID": 8,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5090009,
+        "TextID": 5090009,
+        "IconID": 5090009,
+        "RelateID": 9,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5090010,
+        "TextID": 5090010,
+        "IconID": 5090010,
+        "RelateID": 10,
+        "IsShowNum": true,
+        "NewBagItemTag": 12,
+        "NewUITag": 7
+      },
+      {
+        "ID": 5090101,
+        "TextID": 5090101,
+        "IconID": 5090101,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090102,
+        "TextID": 5090102,
+        "IconID": 5090102,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090103,
+        "TextID": 5090103,
+        "IconID": 5090103,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090104,
+        "TextID": 5090104,
+        "IconID": 5090104,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090105,
+        "TextID": 5090105,
+        "IconID": 5090105,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090106,
+        "TextID": 5090106,
+        "IconID": 5090106,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090107,
+        "TextID": 5090107,
+        "IconID": 5090107,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090108,
+        "TextID": 5090108,
+        "IconID": 5090108,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090109,
+        "TextID": 5090109,
+        "IconID": 5090109,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090110,
+        "TextID": 5090110,
+        "IconID": 5090110,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090111,
+        "TextID": 5090111,
+        "IconID": 5090111,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090112,
+        "TextID": 5090112,
+        "IconID": 5090112,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090113,
+        "TextID": 5090113,
+        "IconID": 5090113,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090114,
+        "TextID": 5090114,
+        "IconID": 5090114,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090115,
+        "TextID": 5090115,
+        "IconID": 5090115,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090116,
+        "TextID": 5090116,
+        "IconID": 5090116,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090117,
+        "TextID": 5090117,
+        "IconID": 5090117,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090118,
+        "TextID": 5090118,
+        "IconID": 5090118,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090119,
+        "TextID": 5090119,
+        "IconID": 5090119,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090120,
+        "TextID": 5090120,
+        "IconID": 5090120,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090121,
+        "TextID": 5090121,
+        "IconID": 5090121,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090122,
+        "TextID": 5090122,
+        "IconID": 5090122,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090123,
+        "TextID": 5090123,
+        "IconID": 5090123,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090124,
+        "TextID": 5090124,
+        "IconID": 5090124,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090125,
+        "TextID": 5090125,
+        "IconID": 5090125,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090126,
+        "TextID": 5090126,
+        "IconID": 5090126,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090127,
+        "TextID": 5090127,
+        "IconID": 5090127,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090128,
+        "TextID": 5090128,
+        "IconID": 5090128,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090129,
+        "TextID": 5090129,
+        "IconID": 5090129,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090130,
+        "TextID": 5090130,
+        "IconID": 5090130,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090131,
+        "TextID": 5090131,
+        "IconID": 5090131,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090132,
+        "TextID": 5090132,
+        "IconID": 5090132,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090133,
+        "TextID": 5090133,
+        "IconID": 5090133,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090134,
+        "TextID": 5090134,
+        "IconID": 5090134,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090135,
+        "TextID": 5090135,
+        "IconID": 5090135,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090136,
+        "TextID": 5090136,
+        "IconID": 5090136,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090137,
+        "TextID": 5090137,
+        "IconID": 5090137,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090138,
+        "TextID": 5090138,
+        "IconID": 5090138,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090139,
+        "TextID": 5090139,
+        "IconID": 5090139,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090140,
+        "TextID": 5090140,
+        "IconID": 5090140,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090141,
+        "TextID": 5090141,
+        "IconID": 5090141,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090142,
+        "TextID": 5090142,
+        "IconID": 5090142,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090143,
+        "TextID": 5090143,
+        "IconID": 5090143,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090144,
+        "TextID": 5090144,
+        "IconID": 5090144,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090145,
+        "TextID": 5090145,
+        "IconID": 5090145,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090146,
+        "TextID": 5090146,
+        "IconID": 5090146,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090147,
+        "TextID": 5090147,
+        "IconID": 5090147,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090148,
+        "TextID": 5090148,
+        "IconID": 5090148,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090149,
+        "TextID": 5090149,
+        "IconID": 5090149,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090150,
+        "TextID": 5090150,
+        "IconID": 5090150,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090201,
+        "TextID": 5090201,
+        "IconID": 5090201,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090202,
+        "TextID": 5090202,
+        "IconID": 5090202,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090203,
+        "TextID": 5090203,
+        "IconID": 5090203,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090204,
+        "TextID": 5090204,
+        "IconID": 5090204,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090205,
+        "TextID": 5090205,
+        "IconID": 5090205,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090206,
+        "TextID": 5090206,
+        "IconID": 5090206,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090207,
+        "TextID": 5090207,
+        "IconID": 5090207,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090208,
+        "TextID": 5090208,
+        "IconID": 5090208,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090209,
+        "TextID": 5090209,
+        "IconID": 5090209,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090210,
+        "TextID": 5090210,
+        "IconID": 5090210,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090211,
+        "TextID": 5090211,
+        "IconID": 5090211,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090212,
+        "TextID": 5090212,
+        "IconID": 5090212,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090213,
+        "TextID": 5090213,
+        "IconID": 5090213,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090214,
+        "TextID": 5090214,
+        "IconID": 5090214,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090215,
+        "TextID": 5090215,
+        "IconID": 5090215,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090216,
+        "TextID": 5090216,
+        "IconID": 5090216,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090217,
+        "TextID": 5090217,
+        "IconID": 5090217,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090218,
+        "TextID": 5090218,
+        "IconID": 5090218,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090219,
+        "TextID": 5090219,
+        "IconID": 5090219,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090220,
+        "TextID": 5090220,
+        "IconID": 5090220,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090221,
+        "TextID": 5090221,
+        "IconID": 5090221,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090222,
+        "TextID": 5090222,
+        "IconID": 5090222,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090223,
+        "TextID": 5090223,
+        "IconID": 5090223,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090224,
+        "TextID": 5090224,
+        "IconID": 5090224,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090225,
+        "TextID": 5090225,
+        "IconID": 5090225,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090226,
+        "TextID": 5090226,
+        "IconID": 5090226,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090227,
+        "TextID": 5090227,
+        "IconID": 5090227,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090228,
+        "TextID": 5090228,
+        "IconID": 5090228,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090229,
+        "TextID": 5090229,
+        "IconID": 5090229,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090230,
+        "TextID": 5090230,
+        "IconID": 5090230,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090231,
+        "TextID": 5090231,
+        "IconID": 5090231,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090232,
+        "TextID": 5090232,
+        "IconID": 5090232,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090233,
+        "TextID": 5090233,
+        "IconID": 5090233,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090234,
+        "TextID": 5090234,
+        "IconID": 5090234,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090235,
+        "TextID": 5090235,
+        "IconID": 5090235,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090236,
+        "TextID": 5090236,
+        "IconID": 5090236,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090237,
+        "TextID": 5090237,
+        "IconID": 5090237,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090238,
+        "TextID": 5090238,
+        "IconID": 5090238,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090239,
+        "TextID": 5090239,
+        "IconID": 5090239,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090240,
+        "TextID": 5090240,
+        "IconID": 5090240,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090241,
+        "TextID": 5090241,
+        "IconID": 5090241,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090242,
+        "TextID": 5090242,
+        "IconID": 5090242,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090243,
+        "TextID": 5090243,
+        "IconID": 5090243,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090244,
+        "TextID": 5090244,
+        "IconID": 5090244,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090245,
+        "TextID": 5090245,
+        "IconID": 5090245,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090246,
+        "TextID": 5090246,
+        "IconID": 5090246,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090247,
+        "TextID": 5090247,
+        "IconID": 5090247,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090248,
+        "TextID": 5090248,
+        "IconID": 5090248,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090249,
+        "TextID": 5090249,
+        "IconID": 5090249,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090250,
+        "TextID": 5090250,
+        "IconID": 5090250,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090301,
+        "TextID": 5090301,
+        "IconID": 5090301,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090302,
+        "TextID": 5090302,
+        "IconID": 5090302,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090303,
+        "TextID": 5090303,
+        "IconID": 5090303,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090304,
+        "TextID": 5090304,
+        "IconID": 5090304,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090305,
+        "TextID": 5090305,
+        "IconID": 5090305,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090306,
+        "TextID": 5090306,
+        "IconID": 5090306,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090307,
+        "TextID": 5090307,
+        "IconID": 5090307,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090308,
+        "TextID": 5090308,
+        "IconID": 5090308,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090309,
+        "TextID": 5090309,
+        "IconID": 5090309,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090310,
+        "TextID": 5090310,
+        "IconID": 5090310,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090311,
+        "TextID": 5090311,
+        "IconID": 5090311,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090312,
+        "TextID": 5090312,
+        "IconID": 5090312,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090313,
+        "TextID": 5090313,
+        "IconID": 5090313,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090314,
+        "TextID": 5090314,
+        "IconID": 5090314,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090315,
+        "TextID": 5090315,
+        "IconID": 5090315,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090316,
+        "TextID": 5090316,
+        "IconID": 5090316,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090317,
+        "TextID": 5090317,
+        "IconID": 5090317,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090318,
+        "TextID": 5090318,
+        "IconID": 5090318,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090319,
+        "TextID": 5090319,
+        "IconID": 5090319,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090320,
+        "TextID": 5090320,
+        "IconID": 5090320,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090321,
+        "TextID": 5090321,
+        "IconID": 5090321,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090322,
+        "TextID": 5090322,
+        "IconID": 5090322,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090323,
+        "TextID": 5090323,
+        "IconID": 5090323,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090324,
+        "TextID": 5090324,
+        "IconID": 5090324,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090325,
+        "TextID": 5090325,
+        "IconID": 5090325,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090326,
+        "TextID": 5090326,
+        "IconID": 5090326,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090327,
+        "TextID": 5090327,
+        "IconID": 5090327,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090328,
+        "TextID": 5090328,
+        "IconID": 5090328,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090329,
+        "TextID": 5090329,
+        "IconID": 5090329,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090330,
+        "TextID": 5090330,
+        "IconID": 5090330,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090331,
+        "TextID": 5090331,
+        "IconID": 5090331,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090332,
+        "TextID": 5090332,
+        "IconID": 5090332,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090333,
+        "TextID": 5090333,
+        "IconID": 5090333,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090334,
+        "TextID": 5090334,
+        "IconID": 5090334,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090335,
+        "TextID": 5090335,
+        "IconID": 5090335,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090336,
+        "TextID": 5090336,
+        "IconID": 5090336,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090337,
+        "TextID": 5090337,
+        "IconID": 5090337,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090338,
+        "TextID": 5090338,
+        "IconID": 5090338,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090339,
+        "TextID": 5090339,
+        "IconID": 5090339,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090340,
+        "TextID": 5090340,
+        "IconID": 5090340,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090341,
+        "TextID": 5090341,
+        "IconID": 5090341,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090342,
+        "TextID": 5090342,
+        "IconID": 5090342,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090343,
+        "TextID": 5090343,
+        "IconID": 5090343,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090344,
+        "TextID": 5090344,
+        "IconID": 5090344,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090345,
+        "TextID": 5090345,
+        "IconID": 5090345,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090346,
+        "TextID": 5090346,
+        "IconID": 5090346,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090347,
+        "TextID": 5090347,
+        "IconID": 5090347,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090348,
+        "TextID": 5090348,
+        "IconID": 5090348,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090349,
+        "TextID": 5090349,
+        "IconID": 5090349,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090350,
+        "TextID": 5090350,
+        "IconID": 5090350,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090401,
+        "TextID": 5090401,
+        "IconID": 5090401,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090402,
+        "TextID": 5090402,
+        "IconID": 5090402,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090403,
+        "TextID": 5090403,
+        "IconID": 5090403,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090404,
+        "TextID": 5090404,
+        "IconID": 5090404,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090405,
+        "TextID": 5090405,
+        "IconID": 5090405,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090406,
+        "TextID": 5090406,
+        "IconID": 5090406,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090407,
+        "TextID": 5090407,
+        "IconID": 5090407,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090408,
+        "TextID": 5090408,
+        "IconID": 5090408,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090409,
+        "TextID": 5090409,
+        "IconID": 5090409,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090410,
+        "TextID": 5090410,
+        "IconID": 5090410,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090411,
+        "TextID": 5090411,
+        "IconID": 5090411,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090412,
+        "TextID": 5090412,
+        "IconID": 5090412,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090413,
+        "TextID": 5090413,
+        "IconID": 5090413,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090414,
+        "TextID": 5090414,
+        "IconID": 5090414,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090415,
+        "TextID": 5090415,
+        "IconID": 5090415,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090416,
+        "TextID": 5090416,
+        "IconID": 5090416,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090417,
+        "TextID": 5090417,
+        "IconID": 5090417,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090418,
+        "TextID": 5090418,
+        "IconID": 5090418,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090419,
+        "TextID": 5090419,
+        "IconID": 5090419,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090420,
+        "TextID": 5090420,
+        "IconID": 5090420,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090421,
+        "TextID": 5090421,
+        "IconID": 5090421,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090422,
+        "TextID": 5090422,
+        "IconID": 5090422,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090423,
+        "TextID": 5090423,
+        "IconID": 5090423,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090424,
+        "TextID": 5090424,
+        "IconID": 5090424,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090425,
+        "TextID": 5090425,
+        "IconID": 5090425,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090426,
+        "TextID": 5090426,
+        "IconID": 5090426,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090427,
+        "TextID": 5090427,
+        "IconID": 5090427,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090428,
+        "TextID": 5090428,
+        "IconID": 5090428,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090429,
+        "TextID": 5090429,
+        "IconID": 5090429,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090430,
+        "TextID": 5090430,
+        "IconID": 5090430,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090431,
+        "TextID": 5090431,
+        "IconID": 5090431,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090432,
+        "TextID": 5090432,
+        "IconID": 5090432,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090433,
+        "TextID": 5090433,
+        "IconID": 5090433,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090434,
+        "TextID": 5090434,
+        "IconID": 5090434,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090435,
+        "TextID": 5090435,
+        "IconID": 5090435,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090436,
+        "TextID": 5090436,
+        "IconID": 5090436,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090437,
+        "TextID": 5090437,
+        "IconID": 5090437,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090438,
+        "TextID": 5090438,
+        "IconID": 5090438,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090439,
+        "TextID": 5090439,
+        "IconID": 5090439,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090440,
+        "TextID": 5090440,
+        "IconID": 5090440,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090441,
+        "TextID": 5090441,
+        "IconID": 5090441,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090442,
+        "TextID": 5090442,
+        "IconID": 5090442,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090443,
+        "TextID": 5090443,
+        "IconID": 5090443,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090444,
+        "TextID": 5090444,
+        "IconID": 5090444,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090445,
+        "TextID": 5090445,
+        "IconID": 5090445,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090446,
+        "TextID": 5090446,
+        "IconID": 5090446,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090447,
+        "TextID": 5090447,
+        "IconID": 5090447,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090448,
+        "TextID": 5090448,
+        "IconID": 5090448,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090449,
+        "TextID": 5090449,
+        "IconID": 5090449,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090450,
+        "TextID": 5090450,
+        "IconID": 5090450,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090501,
+        "TextID": 5090501,
+        "IconID": 5090501,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090502,
+        "TextID": 5090502,
+        "IconID": 5090502,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090503,
+        "TextID": 5090503,
+        "IconID": 5090503,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090504,
+        "TextID": 5090504,
+        "IconID": 5090504,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090505,
+        "TextID": 5090505,
+        "IconID": 5090505,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090506,
+        "TextID": 5090506,
+        "IconID": 5090506,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090507,
+        "TextID": 5090507,
+        "IconID": 5090507,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090508,
+        "TextID": 5090508,
+        "IconID": 5090508,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090509,
+        "TextID": 5090509,
+        "IconID": 5090509,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090510,
+        "TextID": 5090510,
+        "IconID": 5090510,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090511,
+        "TextID": 5090511,
+        "IconID": 5090511,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090512,
+        "TextID": 5090512,
+        "IconID": 5090512,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090513,
+        "TextID": 5090513,
+        "IconID": 5090513,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090514,
+        "TextID": 5090514,
+        "IconID": 5090514,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090515,
+        "TextID": 5090515,
+        "IconID": 5090515,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090516,
+        "TextID": 5090516,
+        "IconID": 5090516,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090517,
+        "TextID": 5090517,
+        "IconID": 5090517,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090518,
+        "TextID": 5090518,
+        "IconID": 5090518,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090519,
+        "TextID": 5090519,
+        "IconID": 5090519,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090520,
+        "TextID": 5090520,
+        "IconID": 5090520,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090521,
+        "TextID": 5090521,
+        "IconID": 5090521,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090522,
+        "TextID": 5090522,
+        "IconID": 5090522,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090523,
+        "TextID": 5090523,
+        "IconID": 5090523,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090524,
+        "TextID": 5090524,
+        "IconID": 5090524,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090525,
+        "TextID": 5090525,
+        "IconID": 5090525,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090526,
+        "TextID": 5090526,
+        "IconID": 5090526,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090527,
+        "TextID": 5090527,
+        "IconID": 5090527,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090528,
+        "TextID": 5090528,
+        "IconID": 5090528,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090529,
+        "TextID": 5090529,
+        "IconID": 5090529,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090530,
+        "TextID": 5090530,
+        "IconID": 5090530,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090531,
+        "TextID": 5090531,
+        "IconID": 5090531,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090532,
+        "TextID": 5090532,
+        "IconID": 5090532,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090533,
+        "TextID": 5090533,
+        "IconID": 5090533,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090534,
+        "TextID": 5090534,
+        "IconID": 5090534,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090535,
+        "TextID": 5090535,
+        "IconID": 5090535,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090536,
+        "TextID": 5090536,
+        "IconID": 5090536,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090537,
+        "TextID": 5090537,
+        "IconID": 5090537,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090538,
+        "TextID": 5090538,
+        "IconID": 5090538,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090539,
+        "TextID": 5090539,
+        "IconID": 5090539,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090540,
+        "TextID": 5090540,
+        "IconID": 5090540,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090541,
+        "TextID": 5090541,
+        "IconID": 5090541,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090542,
+        "TextID": 5090542,
+        "IconID": 5090542,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090543,
+        "TextID": 5090543,
+        "IconID": 5090543,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090544,
+        "TextID": 5090544,
+        "IconID": 5090544,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090545,
+        "TextID": 5090545,
+        "IconID": 5090545,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090546,
+        "TextID": 5090546,
+        "IconID": 5090546,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090547,
+        "TextID": 5090547,
+        "IconID": 5090547,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090548,
+        "TextID": 5090548,
+        "IconID": 5090548,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090549,
+        "TextID": 5090549,
+        "IconID": 5090549,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090550,
+        "TextID": 5090550,
+        "IconID": 5090550,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090601,
+        "TextID": 5090601,
+        "IconID": 5090601,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090602,
+        "TextID": 5090602,
+        "IconID": 5090602,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090603,
+        "TextID": 5090603,
+        "IconID": 5090603,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090604,
+        "TextID": 5090604,
+        "IconID": 5090604,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090605,
+        "TextID": 5090605,
+        "IconID": 5090605,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090606,
+        "TextID": 5090606,
+        "IconID": 5090606,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090607,
+        "TextID": 5090607,
+        "IconID": 5090607,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090608,
+        "TextID": 5090608,
+        "IconID": 5090608,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090609,
+        "TextID": 5090609,
+        "IconID": 5090609,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090610,
+        "TextID": 5090610,
+        "IconID": 5090610,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090611,
+        "TextID": 5090611,
+        "IconID": 5090611,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090612,
+        "TextID": 5090612,
+        "IconID": 5090612,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090613,
+        "TextID": 5090613,
+        "IconID": 5090613,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090614,
+        "TextID": 5090614,
+        "IconID": 5090614,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090615,
+        "TextID": 5090615,
+        "IconID": 5090615,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090616,
+        "TextID": 5090616,
+        "IconID": 5090616,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090617,
+        "TextID": 5090617,
+        "IconID": 5090617,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090618,
+        "TextID": 5090618,
+        "IconID": 5090618,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090619,
+        "TextID": 5090619,
+        "IconID": 5090619,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090620,
+        "TextID": 5090620,
+        "IconID": 5090620,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090621,
+        "TextID": 5090621,
+        "IconID": 5090621,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090622,
+        "TextID": 5090622,
+        "IconID": 5090622,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090623,
+        "TextID": 5090623,
+        "IconID": 5090623,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090624,
+        "TextID": 5090624,
+        "IconID": 5090624,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090625,
+        "TextID": 5090625,
+        "IconID": 5090625,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090626,
+        "TextID": 5090626,
+        "IconID": 5090626,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090627,
+        "TextID": 5090627,
+        "IconID": 5090627,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090628,
+        "TextID": 5090628,
+        "IconID": 5090628,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090629,
+        "TextID": 5090629,
+        "IconID": 5090629,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090630,
+        "TextID": 5090630,
+        "IconID": 5090630,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090631,
+        "TextID": 5090631,
+        "IconID": 5090631,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090632,
+        "TextID": 5090632,
+        "IconID": 5090632,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090633,
+        "TextID": 5090633,
+        "IconID": 5090633,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090634,
+        "TextID": 5090634,
+        "IconID": 5090634,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090635,
+        "TextID": 5090635,
+        "IconID": 5090635,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090636,
+        "TextID": 5090636,
+        "IconID": 5090636,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090637,
+        "TextID": 5090637,
+        "IconID": 5090637,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090638,
+        "TextID": 5090638,
+        "IconID": 5090638,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090639,
+        "TextID": 5090639,
+        "IconID": 5090639,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090640,
+        "TextID": 5090640,
+        "IconID": 5090640,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090641,
+        "TextID": 5090641,
+        "IconID": 5090641,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090642,
+        "TextID": 5090642,
+        "IconID": 5090642,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090643,
+        "TextID": 5090643,
+        "IconID": 5090643,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090644,
+        "TextID": 5090644,
+        "IconID": 5090644,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090645,
+        "TextID": 5090645,
+        "IconID": 5090645,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090646,
+        "TextID": 5090646,
+        "IconID": 5090646,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090647,
+        "TextID": 5090647,
+        "IconID": 5090647,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090648,
+        "TextID": 5090648,
+        "IconID": 5090648,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090649,
+        "TextID": 5090649,
+        "IconID": 5090649,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090650,
+        "TextID": 5090650,
+        "IconID": 5090650,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090701,
+        "TextID": 5090701,
+        "IconID": 5090701,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090702,
+        "TextID": 5090702,
+        "IconID": 5090702,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090703,
+        "TextID": 5090703,
+        "IconID": 5090703,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090704,
+        "TextID": 5090704,
+        "IconID": 5090704,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090705,
+        "TextID": 5090705,
+        "IconID": 5090705,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090706,
+        "TextID": 5090706,
+        "IconID": 5090706,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090707,
+        "TextID": 5090707,
+        "IconID": 5090707,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090708,
+        "TextID": 5090708,
+        "IconID": 5090708,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090709,
+        "TextID": 5090709,
+        "IconID": 5090709,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090710,
+        "TextID": 5090710,
+        "IconID": 5090710,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090711,
+        "TextID": 5090711,
+        "IconID": 5090711,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090712,
+        "TextID": 5090712,
+        "IconID": 5090712,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090713,
+        "TextID": 5090713,
+        "IconID": 5090713,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090714,
+        "TextID": 5090714,
+        "IconID": 5090714,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090715,
+        "TextID": 5090715,
+        "IconID": 5090715,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090716,
+        "TextID": 5090716,
+        "IconID": 5090716,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090717,
+        "TextID": 5090717,
+        "IconID": 5090717,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090718,
+        "TextID": 5090718,
+        "IconID": 5090718,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090719,
+        "TextID": 5090719,
+        "IconID": 5090719,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090720,
+        "TextID": 5090720,
+        "IconID": 5090720,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090721,
+        "TextID": 5090721,
+        "IconID": 5090721,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090722,
+        "TextID": 5090722,
+        "IconID": 5090722,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090723,
+        "TextID": 5090723,
+        "IconID": 5090723,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090724,
+        "TextID": 5090724,
+        "IconID": 5090724,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090725,
+        "TextID": 5090725,
+        "IconID": 5090725,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090726,
+        "TextID": 5090726,
+        "IconID": 5090726,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090727,
+        "TextID": 5090727,
+        "IconID": 5090727,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090728,
+        "TextID": 5090728,
+        "IconID": 5090728,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090729,
+        "TextID": 5090729,
+        "IconID": 5090729,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090730,
+        "TextID": 5090730,
+        "IconID": 5090730,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090731,
+        "TextID": 5090731,
+        "IconID": 5090731,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090732,
+        "TextID": 5090732,
+        "IconID": 5090732,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090733,
+        "TextID": 5090733,
+        "IconID": 5090733,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090734,
+        "TextID": 5090734,
+        "IconID": 5090734,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090735,
+        "TextID": 5090735,
+        "IconID": 5090735,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090736,
+        "TextID": 5090736,
+        "IconID": 5090736,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090737,
+        "TextID": 5090737,
+        "IconID": 5090737,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090738,
+        "TextID": 5090738,
+        "IconID": 5090738,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090739,
+        "TextID": 5090739,
+        "IconID": 5090739,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090740,
+        "TextID": 5090740,
+        "IconID": 5090740,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090741,
+        "TextID": 5090741,
+        "IconID": 5090741,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090742,
+        "TextID": 5090742,
+        "IconID": 5090742,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090743,
+        "TextID": 5090743,
+        "IconID": 5090743,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090744,
+        "TextID": 5090744,
+        "IconID": 5090744,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090745,
+        "TextID": 5090745,
+        "IconID": 5090745,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090746,
+        "TextID": 5090746,
+        "IconID": 5090746,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090747,
+        "TextID": 5090747,
+        "IconID": 5090747,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090748,
+        "TextID": 5090748,
+        "IconID": 5090748,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090749,
+        "TextID": 5090749,
+        "IconID": 5090749,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090750,
+        "TextID": 5090750,
+        "IconID": 5090750,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090801,
+        "TextID": 5090801,
+        "IconID": 5090801,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090802,
+        "TextID": 5090802,
+        "IconID": 5090802,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090803,
+        "TextID": 5090803,
+        "IconID": 5090803,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090804,
+        "TextID": 5090804,
+        "IconID": 5090804,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090805,
+        "TextID": 5090805,
+        "IconID": 5090805,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090806,
+        "TextID": 5090806,
+        "IconID": 5090806,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090807,
+        "TextID": 5090807,
+        "IconID": 5090807,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090808,
+        "TextID": 5090808,
+        "IconID": 5090808,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090809,
+        "TextID": 5090809,
+        "IconID": 5090809,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090810,
+        "TextID": 5090810,
+        "IconID": 5090810,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090811,
+        "TextID": 5090811,
+        "IconID": 5090811,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090812,
+        "TextID": 5090812,
+        "IconID": 5090812,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090813,
+        "TextID": 5090813,
+        "IconID": 5090813,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090814,
+        "TextID": 5090814,
+        "IconID": 5090814,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090815,
+        "TextID": 5090815,
+        "IconID": 5090815,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090816,
+        "TextID": 5090816,
+        "IconID": 5090816,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090817,
+        "TextID": 5090817,
+        "IconID": 5090817,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090818,
+        "TextID": 5090818,
+        "IconID": 5090818,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090819,
+        "TextID": 5090819,
+        "IconID": 5090819,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090820,
+        "TextID": 5090820,
+        "IconID": 5090820,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090821,
+        "TextID": 5090821,
+        "IconID": 5090821,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090822,
+        "TextID": 5090822,
+        "IconID": 5090822,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090823,
+        "TextID": 5090823,
+        "IconID": 5090823,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090824,
+        "TextID": 5090824,
+        "IconID": 5090824,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090825,
+        "TextID": 5090825,
+        "IconID": 5090825,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090826,
+        "TextID": 5090826,
+        "IconID": 5090826,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090827,
+        "TextID": 5090827,
+        "IconID": 5090827,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090828,
+        "TextID": 5090828,
+        "IconID": 5090828,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090829,
+        "TextID": 5090829,
+        "IconID": 5090829,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090830,
+        "TextID": 5090830,
+        "IconID": 5090830,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090831,
+        "TextID": 5090831,
+        "IconID": 5090831,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090832,
+        "TextID": 5090832,
+        "IconID": 5090832,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090833,
+        "TextID": 5090833,
+        "IconID": 5090833,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090834,
+        "TextID": 5090834,
+        "IconID": 5090834,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090835,
+        "TextID": 5090835,
+        "IconID": 5090835,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090836,
+        "TextID": 5090836,
+        "IconID": 5090836,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090837,
+        "TextID": 5090837,
+        "IconID": 5090837,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090838,
+        "TextID": 5090838,
+        "IconID": 5090838,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090839,
+        "TextID": 5090839,
+        "IconID": 5090839,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090840,
+        "TextID": 5090840,
+        "IconID": 5090840,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090841,
+        "TextID": 5090841,
+        "IconID": 5090841,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090842,
+        "TextID": 5090842,
+        "IconID": 5090842,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090843,
+        "TextID": 5090843,
+        "IconID": 5090843,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090844,
+        "TextID": 5090844,
+        "IconID": 5090844,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090845,
+        "TextID": 5090845,
+        "IconID": 5090845,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090846,
+        "TextID": 5090846,
+        "IconID": 5090846,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090847,
+        "TextID": 5090847,
+        "IconID": 5090847,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090848,
+        "TextID": 5090848,
+        "IconID": 5090848,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090849,
+        "TextID": 5090849,
+        "IconID": 5090849,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090850,
+        "TextID": 5090850,
+        "IconID": 5090850,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090901,
+        "TextID": 5090901,
+        "IconID": 5090901,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090902,
+        "TextID": 5090902,
+        "IconID": 5090902,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090903,
+        "TextID": 5090903,
+        "IconID": 5090903,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090904,
+        "TextID": 5090904,
+        "IconID": 5090904,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090905,
+        "TextID": 5090905,
+        "IconID": 5090905,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090906,
+        "TextID": 5090906,
+        "IconID": 5090906,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090907,
+        "TextID": 5090907,
+        "IconID": 5090907,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090908,
+        "TextID": 5090908,
+        "IconID": 5090908,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090909,
+        "TextID": 5090909,
+        "IconID": 5090909,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090910,
+        "TextID": 5090910,
+        "IconID": 5090910,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090911,
+        "TextID": 5090911,
+        "IconID": 5090911,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090912,
+        "TextID": 5090912,
+        "IconID": 5090912,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090913,
+        "TextID": 5090913,
+        "IconID": 5090913,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090914,
+        "TextID": 5090914,
+        "IconID": 5090914,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090915,
+        "TextID": 5090915,
+        "IconID": 5090915,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090916,
+        "TextID": 5090916,
+        "IconID": 5090916,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090917,
+        "TextID": 5090917,
+        "IconID": 5090917,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090918,
+        "TextID": 5090918,
+        "IconID": 5090918,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090919,
+        "TextID": 5090919,
+        "IconID": 5090919,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090920,
+        "TextID": 5090920,
+        "IconID": 5090920,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090921,
+        "TextID": 5090921,
+        "IconID": 5090921,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090922,
+        "TextID": 5090922,
+        "IconID": 5090922,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090923,
+        "TextID": 5090923,
+        "IconID": 5090923,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090924,
+        "TextID": 5090924,
+        "IconID": 5090924,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090925,
+        "TextID": 5090925,
+        "IconID": 5090925,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090926,
+        "TextID": 5090926,
+        "IconID": 5090926,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090927,
+        "TextID": 5090927,
+        "IconID": 5090927,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090928,
+        "TextID": 5090928,
+        "IconID": 5090928,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090929,
+        "TextID": 5090929,
+        "IconID": 5090929,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090930,
+        "TextID": 5090930,
+        "IconID": 5090930,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090931,
+        "TextID": 5090931,
+        "IconID": 5090931,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090932,
+        "TextID": 5090932,
+        "IconID": 5090932,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090933,
+        "TextID": 5090933,
+        "IconID": 5090933,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090934,
+        "TextID": 5090934,
+        "IconID": 5090934,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090935,
+        "TextID": 5090935,
+        "IconID": 5090935,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090936,
+        "TextID": 5090936,
+        "IconID": 5090936,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090937,
+        "TextID": 5090937,
+        "IconID": 5090937,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090938,
+        "TextID": 5090938,
+        "IconID": 5090938,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090939,
+        "TextID": 5090939,
+        "IconID": 5090939,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090940,
+        "TextID": 5090940,
+        "IconID": 5090940,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090941,
+        "TextID": 5090941,
+        "IconID": 5090941,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090942,
+        "TextID": 5090942,
+        "IconID": 5090942,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090943,
+        "TextID": 5090943,
+        "IconID": 5090943,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090944,
+        "TextID": 5090944,
+        "IconID": 5090944,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090945,
+        "TextID": 5090945,
+        "IconID": 5090945,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090946,
+        "TextID": 5090946,
+        "IconID": 5090946,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090947,
+        "TextID": 5090947,
+        "IconID": 5090947,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090948,
+        "TextID": 5090948,
+        "IconID": 5090948,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090949,
+        "TextID": 5090949,
+        "IconID": 5090949,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5090950,
+        "TextID": 5090950,
+        "IconID": 5090950,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091001,
+        "TextID": 5091001,
+        "IconID": 5091001,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091002,
+        "TextID": 5091002,
+        "IconID": 5091002,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091003,
+        "TextID": 5091003,
+        "IconID": 5091003,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091004,
+        "TextID": 5091004,
+        "IconID": 5091004,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091005,
+        "TextID": 5091005,
+        "IconID": 5091005,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091006,
+        "TextID": 5091006,
+        "IconID": 5091006,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091007,
+        "TextID": 5091007,
+        "IconID": 5091007,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091008,
+        "TextID": 5091008,
+        "IconID": 5091008,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091009,
+        "TextID": 5091009,
+        "IconID": 5091009,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091010,
+        "TextID": 5091010,
+        "IconID": 5091010,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091011,
+        "TextID": 5091011,
+        "IconID": 5091011,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091012,
+        "TextID": 5091012,
+        "IconID": 5091012,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091013,
+        "TextID": 5091013,
+        "IconID": 5091013,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091014,
+        "TextID": 5091014,
+        "IconID": 5091014,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091015,
+        "TextID": 5091015,
+        "IconID": 5091015,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091016,
+        "TextID": 5091016,
+        "IconID": 5091016,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091017,
+        "TextID": 5091017,
+        "IconID": 5091017,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091018,
+        "TextID": 5091018,
+        "IconID": 5091018,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091019,
+        "TextID": 5091019,
+        "IconID": 5091019,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091020,
+        "TextID": 5091020,
+        "IconID": 5091020,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091021,
+        "TextID": 5091021,
+        "IconID": 5091021,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091022,
+        "TextID": 5091022,
+        "IconID": 5091022,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091023,
+        "TextID": 5091023,
+        "IconID": 5091023,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091024,
+        "TextID": 5091024,
+        "IconID": 5091024,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091025,
+        "TextID": 5091025,
+        "IconID": 5091025,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091026,
+        "TextID": 5091026,
+        "IconID": 5091026,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091027,
+        "TextID": 5091027,
+        "IconID": 5091027,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091028,
+        "TextID": 5091028,
+        "IconID": 5091028,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091029,
+        "TextID": 5091029,
+        "IconID": 5091029,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091030,
+        "TextID": 5091030,
+        "IconID": 5091030,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091031,
+        "TextID": 5091031,
+        "IconID": 5091031,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091032,
+        "TextID": 5091032,
+        "IconID": 5091032,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091033,
+        "TextID": 5091033,
+        "IconID": 5091033,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091034,
+        "TextID": 5091034,
+        "IconID": 5091034,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091035,
+        "TextID": 5091035,
+        "IconID": 5091035,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091036,
+        "TextID": 5091036,
+        "IconID": 5091036,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091037,
+        "TextID": 5091037,
+        "IconID": 5091037,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091038,
+        "TextID": 5091038,
+        "IconID": 5091038,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091039,
+        "TextID": 5091039,
+        "IconID": 5091039,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091040,
+        "TextID": 5091040,
+        "IconID": 5091040,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091041,
+        "TextID": 5091041,
+        "IconID": 5091041,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091042,
+        "TextID": 5091042,
+        "IconID": 5091042,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091043,
+        "TextID": 5091043,
+        "IconID": 5091043,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091044,
+        "TextID": 5091044,
+        "IconID": 5091044,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091045,
+        "TextID": 5091045,
+        "IconID": 5091045,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091046,
+        "TextID": 5091046,
+        "IconID": 5091046,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091047,
+        "TextID": 5091047,
+        "IconID": 5091047,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091048,
+        "TextID": 5091048,
+        "IconID": 5091048,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091049,
+        "TextID": 5091049,
+        "IconID": 5091049,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
+      },
+      {
+        "ID": 5091050,
+        "TextID": 5091050,
+        "IconID": 5091050,
+        "IsShowNum": true,
+        "NewBagItemTag": 8
       },
       {
         "ID": 6000010,
@@ -47926,6 +51908,22 @@
         "NewBagItemTag": 14
       },
       {
+        "ID": 9000001,
+        "TextID": 9000001,
+        "IconID": 9000001,
+        "RelateID": 9000001,
+        "Quality": 1,
+        "NewBagItemTag": 1
+      },
+      {
+        "ID": 9000002,
+        "TextID": 9000002,
+        "IconID": 9000002,
+        "RelateID": 9000002,
+        "Quality": 1,
+        "NewBagItemTag": 1
+      },
+      {
         "ID": 10010011,
         "TextID": 10010011,
         "IconID": 10010011,
@@ -48124,6 +52122,762 @@
         "RelateID": 10010055,
         "Quality": 1,
         "NewBagItemTag": 46
+      },
+      {
+        "ID": 200001001,
+        "TextID": 200001001,
+        "IconID": 200001001,
+        "RelateID": 200001001,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001002,
+        "TextID": 200001002,
+        "IconID": 200001002,
+        "RelateID": 200001002,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001003,
+        "TextID": 200001003,
+        "IconID": 200001003,
+        "RelateID": 200001003,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001004,
+        "TextID": 200001004,
+        "IconID": 200001004,
+        "RelateID": 200001004,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001005,
+        "TextID": 200001005,
+        "IconID": 200001005,
+        "RelateID": 200001005,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001006,
+        "TextID": 200001006,
+        "IconID": 200001006,
+        "RelateID": 200001006,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001007,
+        "TextID": 200001007,
+        "IconID": 200001007,
+        "RelateID": 200001007,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001008,
+        "TextID": 200001008,
+        "IconID": 200001008,
+        "RelateID": 200001008,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001009,
+        "TextID": 200001009,
+        "IconID": 200001009,
+        "RelateID": 200001009,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001010,
+        "TextID": 200001010,
+        "IconID": 200001010,
+        "RelateID": 200001010,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001011,
+        "TextID": 200001011,
+        "IconID": 200001011,
+        "RelateID": 200001011,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001012,
+        "TextID": 200001012,
+        "IconID": 200001012,
+        "RelateID": 200001012,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001013,
+        "TextID": 200001013,
+        "IconID": 200001013,
+        "RelateID": 200001013,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001014,
+        "TextID": 200001014,
+        "IconID": 200001014,
+        "RelateID": 200001014,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001015,
+        "TextID": 200001015,
+        "IconID": 200001015,
+        "RelateID": 200001015,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001016,
+        "TextID": 200001016,
+        "IconID": 200001016,
+        "RelateID": 200001016,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001017,
+        "TextID": 200001017,
+        "IconID": 200001017,
+        "RelateID": 200001017,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001018,
+        "TextID": 200001018,
+        "IconID": 200001018,
+        "RelateID": 200001018,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001019,
+        "TextID": 200001019,
+        "IconID": 200001019,
+        "RelateID": 200001019,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001020,
+        "TextID": 200001020,
+        "IconID": 200001020,
+        "RelateID": 200001020,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001021,
+        "TextID": 200001021,
+        "IconID": 200001021,
+        "RelateID": 200001021,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001022,
+        "TextID": 200001022,
+        "IconID": 200001022,
+        "RelateID": 200001022,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001101,
+        "TextID": 200001101,
+        "IconID": 200001101,
+        "RelateID": 200001101,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001102,
+        "TextID": 200001102,
+        "IconID": 200001102,
+        "RelateID": 200001102,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001103,
+        "TextID": 200001103,
+        "IconID": 200001103,
+        "RelateID": 200001103,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001104,
+        "TextID": 200001104,
+        "IconID": 200001104,
+        "RelateID": 200001104,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001105,
+        "TextID": 200001105,
+        "IconID": 200001105,
+        "RelateID": 200001105,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001106,
+        "TextID": 200001106,
+        "IconID": 200001106,
+        "RelateID": 200001106,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001107,
+        "TextID": 200001107,
+        "IconID": 200001107,
+        "RelateID": 200001107,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001108,
+        "TextID": 200001108,
+        "IconID": 200001108,
+        "RelateID": 200001108,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001109,
+        "TextID": 200001109,
+        "IconID": 200001109,
+        "RelateID": 200001109,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001110,
+        "TextID": 200001110,
+        "IconID": 200001110,
+        "RelateID": 200001110,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001111,
+        "TextID": 200001111,
+        "IconID": 200001111,
+        "RelateID": 200001111,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001112,
+        "TextID": 200001112,
+        "IconID": 200001112,
+        "RelateID": 200001112,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001113,
+        "TextID": 200001113,
+        "IconID": 200001113,
+        "RelateID": 200001113,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001114,
+        "TextID": 200001114,
+        "IconID": 200001114,
+        "RelateID": 200001114,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001115,
+        "TextID": 200001115,
+        "IconID": 200001115,
+        "RelateID": 200001115,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001116,
+        "TextID": 200001116,
+        "IconID": 200001116,
+        "RelateID": 200001116,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001201,
+        "TextID": 200001201,
+        "IconID": 200001201,
+        "RelateID": 200001201,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001202,
+        "TextID": 200001202,
+        "IconID": 200001202,
+        "RelateID": 200001202,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001203,
+        "TextID": 200001203,
+        "IconID": 200001203,
+        "RelateID": 200001203,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001204,
+        "TextID": 200001204,
+        "IconID": 200001204,
+        "RelateID": 200001204,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001205,
+        "TextID": 200001205,
+        "IconID": 200001205,
+        "RelateID": 200001205,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001206,
+        "TextID": 200001206,
+        "IconID": 200001206,
+        "RelateID": 200001206,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001207,
+        "TextID": 200001207,
+        "IconID": 200001207,
+        "RelateID": 200001207,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001208,
+        "TextID": 200001208,
+        "IconID": 200001208,
+        "RelateID": 200001208,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001209,
+        "TextID": 200001209,
+        "IconID": 200001209,
+        "RelateID": 200001209,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001210,
+        "TextID": 200001210,
+        "IconID": 200001210,
+        "RelateID": 200001210,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001211,
+        "TextID": 200001211,
+        "IconID": 200001211,
+        "RelateID": 200001211,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001212,
+        "TextID": 200001212,
+        "IconID": 200001212,
+        "RelateID": 200001212,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001213,
+        "TextID": 200001213,
+        "IconID": 200001213,
+        "RelateID": 200001213,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001214,
+        "TextID": 200001214,
+        "IconID": 200001214,
+        "RelateID": 200001214,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001215,
+        "TextID": 200001215,
+        "IconID": 200001215,
+        "RelateID": 200001215,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001216,
+        "TextID": 200001216,
+        "IconID": 200001216,
+        "RelateID": 200001216,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001217,
+        "TextID": 200001217,
+        "IconID": 200001217,
+        "RelateID": 200001217,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001301,
+        "TextID": 200001301,
+        "IconID": 200001301,
+        "RelateID": 200001301,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001302,
+        "TextID": 200001302,
+        "IconID": 200001302,
+        "RelateID": 200001302,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001303,
+        "TextID": 200001303,
+        "IconID": 200001303,
+        "RelateID": 200001303,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001304,
+        "TextID": 200001304,
+        "IconID": 200001304,
+        "RelateID": 200001304,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001305,
+        "TextID": 200001305,
+        "IconID": 200001305,
+        "RelateID": 200001305,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001306,
+        "TextID": 200001306,
+        "IconID": 200001306,
+        "RelateID": 200001306,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001307,
+        "TextID": 200001307,
+        "IconID": 200001307,
+        "RelateID": 200001307,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200002051,
+        "TextID": 200002051,
+        "IconID": 200002051,
+        "RelateID": 200002051,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001401,
+        "TextID": 200001401,
+        "IconID": 200001401,
+        "RelateID": 200001401,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001402,
+        "TextID": 200001402,
+        "IconID": 200001402,
+        "RelateID": 200001402,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001403,
+        "TextID": 200001403,
+        "IconID": 200001403,
+        "RelateID": 200001403,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001404,
+        "TextID": 200001404,
+        "IconID": 200001404,
+        "RelateID": 200001404,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001405,
+        "TextID": 200001405,
+        "IconID": 200001405,
+        "RelateID": 200001405,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001406,
+        "TextID": 200001406,
+        "IconID": 200001406,
+        "RelateID": 200001406,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001407,
+        "TextID": 200001407,
+        "IconID": 200001407,
+        "RelateID": 200001407,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001408,
+        "TextID": 200001408,
+        "IconID": 200001408,
+        "RelateID": 200001408,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200001409,
+        "TextID": 200001409,
+        "IconID": 200001409,
+        "RelateID": 200001409,
+        "Quality": 3,
+        "NewBagItemTag": 56,
+        "NewUITag": 9
+      },
+      {
+        "ID": 200100000,
+        "TextID": 200100000,
+        "IconID": 200100000,
+        "RelateID": 200100000,
+        "Quality": 1,
+        "NewBagItemTag": 57,
+        "NewUITag": 8
+      },
+      {
+        "ID": 200100001,
+        "TextID": 200100001,
+        "IconID": 200100001,
+        "RelateID": 100001,
+        "Quality": 1,
+        "NewBagItemTag": 55,
+        "NewUITag": 11
+      },
+      {
+        "ID": 200100002,
+        "TextID": 200100002,
+        "IconID": 200100002,
+        "RelateID": 100002,
+        "Quality": 2,
+        "NewBagItemTag": 55,
+        "NewUITag": 11
+      },
+      {
+        "ID": 200100003,
+        "TextID": 200100003,
+        "IconID": 200100003,
+        "RelateID": 100003,
+        "Quality": 2,
+        "NewBagItemTag": 55,
+        "NewUITag": 11
+      },
+      {
+        "ID": 200100004,
+        "TextID": 200100004,
+        "IconID": 200100004,
+        "RelateID": 100004,
+        "Quality": 2,
+        "NewBagItemTag": 55,
+        "NewUITag": 11
+      },
+      {
+        "ID": 200100005,
+        "TextID": 200100005,
+        "IconID": 200100005,
+        "RelateID": 100005,
+        "Quality": 2,
+        "NewBagItemTag": 55,
+        "NewUITag": 11
+      },
+      {
+        "ID": 200100006,
+        "TextID": 200100006,
+        "IconID": 200100006,
+        "RelateID": 100006,
+        "Quality": 3,
+        "NewBagItemTag": 55,
+        "NewUITag": 11
+      },
+      {
+        "ID": 200100007,
+        "TextID": 200100007,
+        "IconID": 200100007,
+        "RelateID": 100007,
+        "Quality": 4,
+        "NewBagItemTag": 55,
+        "NewUITag": 11
+      },
+      {
+        "ID": 200101000,
+        "TextID": 200101000,
+        "IconID": 200101000,
+        "RelateID": 200101000,
+        "Quality": 4,
+        "NewBagItemTag": 58,
+        "NewUITag": 10
+      },
+      {
+        "ID": 200101001,
+        "TextID": 200101001,
+        "IconID": 200101001,
+        "RelateID": 200101001,
+        "Quality": 3,
+        "NewBagItemTag": 58,
+        "NewUITag": 10
+      },
+      {
+        "ID": 200101002,
+        "TextID": 200101002,
+        "IconID": 200101002,
+        "RelateID": 200101002,
+        "Quality": 2,
+        "NewBagItemTag": 58,
+        "NewUITag": 10
+      },
+      {
+        "ID": 200101003,
+        "TextID": 200101003,
+        "IconID": 200101003,
+        "RelateID": 200101003,
+        "Quality": 1,
+        "NewBagItemTag": 58,
+        "NewUITag": 10
       },
       {
         "ID": 10199001,

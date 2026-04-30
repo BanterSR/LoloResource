@@ -1,0 +1,1763 @@
+{
+  "Pet": {
+    "Datas": [
+      {
+        "ID": 200001001,
+        "MonsterID": 1001,
+        "Hp": 50,
+        "Pow": 75,
+        "Str": 35,
+        "Int": 70,
+        "Dex": 40,
+        "Luc": 30,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ]
+      },
+      {
+        "ID": 200001002,
+        "MonsterID": 1002,
+        "Hp": 25,
+        "Pow": 20,
+        "Str": 15,
+        "Int": 105,
+        "Dex": 90,
+        "Luc": 55,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ]
+      },
+      {
+        "ID": 200001003,
+        "MonsterID": 1003,
+        "Hp": 44,
+        "Pow": 50,
+        "Str": 45,
+        "Int": 62,
+        "Dex": 55,
+        "Luc": 52,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ]
+      },
+      {
+        "ID": 200001004,
+        "MonsterID": 1004,
+        "DecisionCapture": true,
+        "Hp": 70,
+        "Pow": 110,
+        "Str": 80,
+        "Int": 55,
+        "Dex": 105,
+        "Luc": 80,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          500
+        ],
+        "NewSpecialFeature": 1
+      },
+      {
+        "ID": 200001005,
+        "MonsterID": 1005,
+        "DecisionCapture": true,
+        "Hp": 50,
+        "Pow": 85,
+        "Str": 85,
+        "Int": 55,
+        "Dex": 50,
+        "Luc": 55,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          1000,
+          1
+        ],
+        "NewSpecialFeature": 52
+      },
+      {
+        "ID": 200001006,
+        "MonsterID": 1006,
+        "DecisionCapture": true,
+        "Hp": 50,
+        "Pow": 50,
+        "Str": 62,
+        "Int": 40,
+        "Dex": 65,
+        "Luc": 62,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          3000
+        ],
+        "NewSpecialFeature": 6
+      },
+      {
+        "ID": 200001007,
+        "MonsterID": 1007,
+        "DecisionCapture": true,
+        "Hp": 75,
+        "Pow": 80,
+        "Str": 95,
+        "Int": 90,
+        "Dex": 50,
+        "Luc": 100,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          1
+        ],
+        "NewSpecialFeature": 4
+      },
+      {
+        "ID": 200001008,
+        "MonsterID": 1008,
+        "DecisionCapture": true,
+        "Hp": 65,
+        "Pow": 50,
+        "Str": 35,
+        "Int": 115,
+        "Dex": 95,
+        "Luc": 95,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          2000,
+          1
+        ],
+        "NewSpecialFeature": 56
+      },
+      {
+        "ID": 200001009,
+        "MonsterID": 1009,
+        "DecisionCapture": true,
+        "Hp": 90,
+        "Pow": 50,
+        "Str": 34,
+        "Int": 60,
+        "Dex": 70,
+        "Luc": 44,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          2000,
+          1
+        ],
+        "NewSpecialFeature": 50
+      },
+      {
+        "ID": 200001010,
+        "MonsterID": 1010,
+        "DecisionCapture": true,
+        "Hp": 100,
+        "Pow": 130,
+        "Str": 100,
+        "Int": 63,
+        "Dex": 97,
+        "Luc": 60,
+        "Rarity": 4,
+        "ReleaseReward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          1000
+        ],
+        "NewSpecialFeature": 9
+      },
+      {
+        "ID": 200001011,
+        "MonsterID": 1011,
+        "DecisionCapture": true,
+        "Hp": 75,
+        "Pow": 105,
+        "Str": 75,
+        "Int": 105,
+        "Dex": 45,
+        "Luc": 75,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          1000
+        ],
+        "NewSpecialFeature": 7
+      },
+      {
+        "ID": 200001012,
+        "MonsterID": 1012,
+        "DecisionCapture": true,
+        "Hp": 39,
+        "Pow": 52,
+        "Str": 43,
+        "Int": 60,
+        "Dex": 65,
+        "Luc": 50,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          2000,
+          3
+        ],
+        "NewSpecialFeature": 50
+      },
+      {
+        "ID": 200001013,
+        "MonsterID": 1013,
+        "DecisionCapture": true,
+        "Hp": 60,
+        "Pow": 55,
+        "Str": 90,
+        "Int": 145,
+        "Dex": 80,
+        "Luc": 90,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          1000,
+          1
+        ],
+        "NewSpecialFeature": 51
+      },
+      {
+        "ID": 200001014,
+        "MonsterID": 1014,
+        "DecisionCapture": true,
+        "Hp": 35,
+        "Pow": 65,
+        "Str": 85,
+        "Int": 25,
+        "Dex": 85,
+        "Luc": 25,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          1500,
+          1
+        ],
+        "NewSpecialFeature": 53
+      },
+      {
+        "ID": 200001015,
+        "MonsterID": 1015,
+        "Hp": 72,
+        "Pow": 95,
+        "Str": 67,
+        "Int": 103,
+        "Dex": 122,
+        "Luc": 71,
+        "Rarity": 4,
+        "ReleaseReward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ]
+      },
+      {
+        "ID": 200001016,
+        "MonsterID": 1016,
+        "Hp": 89,
+        "Pow": 145,
+        "Str": 90,
+        "Int": 105,
+        "Dex": 91,
+        "Luc": 80,
+        "Rarity": 4,
+        "ReleaseReward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ]
+      },
+      {
+        "ID": 200001017,
+        "MonsterID": 1017,
+        "Hp": 55,
+        "Pow": 85,
+        "Str": 55,
+        "Int": 35,
+        "Dex": 60,
+        "Luc": 35,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ]
+      },
+      {
+        "ID": 200001018,
+        "MonsterID": 1018,
+        "Hp": 75,
+        "Pow": 95,
+        "Str": 60,
+        "Int": 95,
+        "Dex": 115,
+        "Luc": 60,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          500
+        ],
+        "NewSpecialFeature": 3
+      },
+      {
+        "ID": 200001019,
+        "MonsterID": 1019,
+        "DecisionCapture": true,
+        "Hp": 80,
+        "Pow": 45,
+        "Str": 65,
+        "Int": 90,
+        "Dex": 80,
+        "Luc": 110,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          2000,
+          1
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001020,
+        "MonsterID": 1020,
+        "Hp": 75,
+        "Pow": 105,
+        "Str": 75,
+        "Int": 105,
+        "Dex": 45,
+        "Luc": 75,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ]
+      },
+      {
+        "ID": 200001021,
+        "MonsterID": 1021,
+        "Hp": 75,
+        "Pow": 115,
+        "Str": 65,
+        "Int": 55,
+        "Dex": 112,
+        "Luc": 65,
+        "Rarity": 4,
+        "ReleaseReward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ]
+      },
+      {
+        "ID": 200001022,
+        "MonsterID": 1022,
+        "Hp": 59,
+        "Pow": 40,
+        "Str": 60,
+        "Int": 65,
+        "Dex": 55,
+        "Luc": 60,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ]
+      },
+      {
+        "ID": 200001101,
+        "MonsterID": 1101,
+        "Hp": 72,
+        "Pow": 80,
+        "Str": 49,
+        "Int": 40,
+        "Dex": 40,
+        "Luc": 49,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001102,
+        "MonsterID": 1102,
+        "Hp": 50,
+        "Pow": 60,
+        "Str": 95,
+        "Int": 120,
+        "Dex": 70,
+        "Luc": 70,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001103,
+        "MonsterID": 1103,
+        "Hp": 62,
+        "Pow": 55,
+        "Str": 50,
+        "Int": 58,
+        "Dex": 55,
+        "Luc": 62,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001104,
+        "MonsterID": 1104,
+        "Hp": 49,
+        "Pow": 55,
+        "Str": 42,
+        "Int": 40,
+        "Dex": 90,
+        "Luc": 40,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001105,
+        "MonsterID": 1105,
+        "Hp": 50,
+        "Pow": 75,
+        "Str": 35,
+        "Int": 40,
+        "Dex": 84,
+        "Luc": 40,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001106,
+        "MonsterID": 1106,
+        "Hp": 70,
+        "Pow": 75,
+        "Str": 60,
+        "Int": 105,
+        "Dex": 50,
+        "Luc": 60,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001107,
+        "MonsterID": 1107,
+        "Hp": 100,
+        "Pow": 134,
+        "Str": 110,
+        "Int": 95,
+        "Dex": 61,
+        "Luc": 100,
+        "Rarity": 4,
+        "ReleaseReward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001108,
+        "MonsterID": 1108,
+        "Hp": 67,
+        "Pow": 89,
+        "Str": 116,
+        "Int": 79,
+        "Dex": 33,
+        "Luc": 116,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001109,
+        "MonsterID": 1109,
+        "Hp": 60,
+        "Pow": 55,
+        "Str": 90,
+        "Int": 145,
+        "Dex": 80,
+        "Luc": 90,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001110,
+        "MonsterID": 1110,
+        "Hp": 105,
+        "Pow": 105,
+        "Str": 75,
+        "Int": 65,
+        "Dex": 50,
+        "Luc": 100,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001111,
+        "MonsterID": 1111,
+        "Hp": 55,
+        "Pow": 90,
+        "Str": 80,
+        "Int": 50,
+        "Dex": 96,
+        "Luc": 105,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001112,
+        "MonsterID": 1112,
+        "Hp": 70,
+        "Pow": 75,
+        "Str": 60,
+        "Int": 105,
+        "Dex": 50,
+        "Luc": 60,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001113,
+        "MonsterID": 1113,
+        "Hp": 40,
+        "Pow": 30,
+        "Str": 50,
+        "Int": 55,
+        "Dex": 100,
+        "Luc": 55,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001114,
+        "MonsterID": 1114,
+        "Hp": 45,
+        "Pow": 60,
+        "Str": 45,
+        "Int": 35,
+        "Dex": 35,
+        "Luc": 45,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001115,
+        "MonsterID": 1115,
+        "Hp": 85,
+        "Pow": 80,
+        "Str": 90,
+        "Int": 105,
+        "Dex": 60,
+        "Luc": 95,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001116,
+        "MonsterID": 1116,
+        "Hp": 50,
+        "Pow": 105,
+        "Str": 125,
+        "Int": 55,
+        "Dex": 50,
+        "Luc": 95,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001201,
+        "MonsterID": 1201,
+        "Hp": 40,
+        "Pow": 30,
+        "Str": 50,
+        "Int": 55,
+        "Dex": 100,
+        "Luc": 55,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001202,
+        "MonsterID": 1202,
+        "Hp": 59,
+        "Pow": 74,
+        "Str": 50,
+        "Int": 35,
+        "Dex": 35,
+        "Luc": 50,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001203,
+        "MonsterID": 1203,
+        "Hp": 105,
+        "Pow": 140,
+        "Str": 95,
+        "Int": 55,
+        "Dex": 45,
+        "Luc": 65,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001204,
+        "MonsterID": 1204,
+        "Hp": 160,
+        "Pow": 110,
+        "Str": 65,
+        "Int": 65,
+        "Dex": 30,
+        "Luc": 110,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001205,
+        "MonsterID": 1205,
+        "DecisionCapture": true,
+        "Hp": 135,
+        "Pow": 85,
+        "Str": 40,
+        "Int": 40,
+        "Dex": 5,
+        "Luc": 85,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          30
+        ],
+        "NewSpecialFeature": 6
+      },
+      {
+        "ID": 200001206,
+        "MonsterID": 1206,
+        "Hp": 135,
+        "Pow": 85,
+        "Str": 40,
+        "Int": 40,
+        "Dex": 5,
+        "Luc": 85,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001207,
+        "MonsterID": 1207,
+        "Hp": 64,
+        "Pow": 76,
+        "Str": 48,
+        "Int": 81,
+        "Dex": 112,
+        "Luc": 90,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001208,
+        "MonsterID": 1208,
+        "Hp": 90,
+        "Pow": 85,
+        "Str": 100,
+        "Int": 95,
+        "Dex": 85,
+        "Luc": 125,
+        "Rarity": 4,
+        "ReleaseReward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001209,
+        "MonsterID": 1209,
+        "Hp": 45,
+        "Pow": 55,
+        "Str": 45,
+        "Int": 65,
+        "Dex": 75,
+        "Luc": 45,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001210,
+        "MonsterID": 1210,
+        "Hp": 50,
+        "Pow": 70,
+        "Str": 55,
+        "Int": 45,
+        "Dex": 75,
+        "Luc": 55,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001211,
+        "MonsterID": 1211,
+        "Hp": 40,
+        "Pow": 30,
+        "Str": 50,
+        "Int": 55,
+        "Dex": 100,
+        "Luc": 55,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001212,
+        "MonsterID": 1212,
+        "Hp": 50,
+        "Pow": 50,
+        "Str": 50,
+        "Int": 50,
+        "Dex": 50,
+        "Luc": 50,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001213,
+        "MonsterID": 1213,
+        "Hp": 107,
+        "Pow": 139,
+        "Str": 139,
+        "Int": 53,
+        "Dex": 79,
+        "Luc": 53,
+        "Rarity": 4,
+        "ReleaseReward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001214,
+        "MonsterID": 1214,
+        "Hp": 25,
+        "Pow": 35,
+        "Str": 70,
+        "Int": 95,
+        "Dex": 45,
+        "Luc": 55,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001215,
+        "MonsterID": 1215,
+        "Hp": 45,
+        "Pow": 80,
+        "Str": 100,
+        "Int": 35,
+        "Dex": 28,
+        "Luc": 37,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001216,
+        "MonsterID": 1216,
+        "Hp": 70,
+        "Pow": 90,
+        "Str": 70,
+        "Int": 60,
+        "Dex": 40,
+        "Luc": 70,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001217,
+        "MonsterID": 1217,
+        "Hp": 100,
+        "Pow": 100,
+        "Str": 100,
+        "Int": 100,
+        "Dex": 100,
+        "Luc": 100,
+        "Rarity": 4,
+        "ReleaseReward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001301,
+        "MonsterID": 1301,
+        "Hp": 65,
+        "Pow": 76,
+        "Str": 84,
+        "Int": 54,
+        "Dex": 105,
+        "Luc": 96,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001302,
+        "MonsterID": 1302,
+        "Hp": 68,
+        "Pow": 105,
+        "Str": 65,
+        "Int": 65,
+        "Dex": 92,
+        "Luc": 70,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001303,
+        "MonsterID": 1303,
+        "Hp": 90,
+        "Pow": 50,
+        "Str": 34,
+        "Int": 60,
+        "Dex": 70,
+        "Luc": 44,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001304,
+        "MonsterID": 1304,
+        "Hp": 75,
+        "Pow": 100,
+        "Str": 95,
+        "Int": 40,
+        "Dex": 110,
+        "Luc": 70,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001305,
+        "MonsterID": 1305,
+        "Hp": 65,
+        "Pow": 80,
+        "Str": 140,
+        "Int": 40,
+        "Dex": 70,
+        "Luc": 70,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001306,
+        "MonsterID": 1306,
+        "Hp": 120,
+        "Pow": 70,
+        "Str": 120,
+        "Int": 75,
+        "Dex": 85,
+        "Luc": 130,
+        "Rarity": 4,
+        "ReleaseReward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001307,
+        "MonsterID": 1307,
+        "Hp": 75,
+        "Pow": 90,
+        "Str": 50,
+        "Int": 110,
+        "Dex": 95,
+        "Luc": 80,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200002051,
+        "MonsterID": 912051,
+        "ReleaseReward": [
+          0
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001401,
+        "MonsterID": 1401,
+        "Hp": 60,
+        "Pow": 90,
+        "Str": 55,
+        "Int": 90,
+        "Dex": 110,
+        "Luc": 80,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001402,
+        "MonsterID": 1402,
+        "Hp": 70,
+        "Pow": 40,
+        "Str": 50,
+        "Int": 40,
+        "Dex": 75,
+        "Luc": 50,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001403,
+        "MonsterID": 1403,
+        "Hp": 70,
+        "Pow": 90,
+        "Str": 90,
+        "Int": 135,
+        "Dex": 125,
+        "Luc": 90,
+        "Rarity": 4,
+        "ReleaseReward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001404,
+        "MonsterID": 1404,
+        "Hp": 80,
+        "Pow": 100,
+        "Str": 200,
+        "Int": 50,
+        "Dex": 50,
+        "Luc": 100,
+        "Rarity": 4,
+        "ReleaseReward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001405,
+        "MonsterID": 1405,
+        "Hp": 41,
+        "Pow": 64,
+        "Str": 45,
+        "Int": 50,
+        "Dex": 50,
+        "Luc": 50,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001406,
+        "MonsterID": 1406,
+        "Hp": 106,
+        "Pow": 75,
+        "Str": 65,
+        "Int": 65,
+        "Dex": 90,
+        "Luc": 121,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001407,
+        "MonsterID": 1407,
+        "Hp": 60,
+        "Pow": 100,
+        "Str": 85,
+        "Int": 80,
+        "Dex": 100,
+        "Luc": 85,
+        "Rarity": 3,
+        "ReleaseReward": [
+          10001,
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001408,
+        "MonsterID": 1408,
+        "Hp": 250,
+        "Pow": 5,
+        "Str": 5,
+        "Int": 35,
+        "Dex": 50,
+        "Luc": 105,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      },
+      {
+        "ID": 200001409,
+        "MonsterID": 1409,
+        "Hp": 70,
+        "Pow": 40,
+        "Str": 50,
+        "Int": 40,
+        "Dex": 75,
+        "Luc": 50,
+        "Rarity": 2,
+        "ReleaseReward": [
+          10002,
+          10003
+        ],
+        "Parma": [
+          20,
+          0,
+          0
+        ],
+        "NewSpecialFeature": 8
+      }
+    ]
+  },
+  "Nature": {
+    "Datas": [
+      {
+        "ID": 110,
+        "NewPetNatureType": 5,
+        "NewSkilledBuffType": 5,
+        "SkilledBuffValue": [
+          1000
+        ],
+        "NewLackBuffType": 6,
+        "LackBuffValue": [
+          2000
+        ]
+      },
+      {
+        "ID": 111,
+        "NewPetNatureType": 6,
+        "NewSkilledBuffType": 5,
+        "SkilledBuffValue": [
+          1000
+        ],
+        "NewLackBuffType": 7,
+        "LackBuffValue": [
+          500
+        ]
+      },
+      {
+        "ID": 112,
+        "NewPetNatureType": 7,
+        "NewSkilledBuffType": 5,
+        "SkilledBuffValue": [
+          1000
+        ],
+        "NewLackBuffType": 8,
+        "LackBuffValue": [
+          1000
+        ]
+      },
+      {
+        "ID": 113,
+        "NewPetNatureType": 8,
+        "NewSkilledBuffType": 5,
+        "SkilledBuffValue": [
+          1000
+        ],
+        "NewLackBuffType": 9,
+        "LackBuffValue": [
+          500
+        ]
+      },
+      {
+        "ID": 120,
+        "NewPetNatureType": 9,
+        "NewSkilledBuffType": 6,
+        "SkilledBuffValue": [
+          2000
+        ],
+        "NewLackBuffType": 5,
+        "LackBuffValue": [
+          1000
+        ]
+      },
+      {
+        "ID": 121,
+        "NewPetNatureType": 10,
+        "NewSkilledBuffType": 6,
+        "SkilledBuffValue": [
+          2000
+        ],
+        "NewLackBuffType": 7,
+        "LackBuffValue": [
+          500
+        ]
+      },
+      {
+        "ID": 122,
+        "NewPetNatureType": 11,
+        "NewSkilledBuffType": 6,
+        "SkilledBuffValue": [
+          2000
+        ],
+        "NewLackBuffType": 8,
+        "LackBuffValue": [
+          1000
+        ]
+      },
+      {
+        "ID": 123,
+        "NewPetNatureType": 12,
+        "NewSkilledBuffType": 6,
+        "SkilledBuffValue": [
+          2000
+        ],
+        "NewLackBuffType": 9,
+        "LackBuffValue": [
+          500
+        ]
+      },
+      {
+        "ID": 130,
+        "NewPetNatureType": 13,
+        "NewSkilledBuffType": 7,
+        "SkilledBuffValue": [
+          500
+        ],
+        "NewLackBuffType": 5,
+        "LackBuffValue": [
+          1000
+        ]
+      },
+      {
+        "ID": 131,
+        "NewPetNatureType": 14,
+        "NewSkilledBuffType": 7,
+        "SkilledBuffValue": [
+          500
+        ],
+        "NewLackBuffType": 6,
+        "LackBuffValue": [
+          2000
+        ]
+      },
+      {
+        "ID": 132,
+        "NewPetNatureType": 15,
+        "NewSkilledBuffType": 7,
+        "SkilledBuffValue": [
+          500
+        ],
+        "NewLackBuffType": 8,
+        "LackBuffValue": [
+          1000
+        ]
+      },
+      {
+        "ID": 133,
+        "NewPetNatureType": 16,
+        "NewSkilledBuffType": 7,
+        "SkilledBuffValue": [
+          500
+        ],
+        "NewLackBuffType": 9,
+        "LackBuffValue": [
+          500
+        ]
+      },
+      {
+        "ID": 140,
+        "NewPetNatureType": 17,
+        "NewSkilledBuffType": 8,
+        "SkilledBuffValue": [
+          1000
+        ],
+        "NewLackBuffType": 5,
+        "LackBuffValue": [
+          1000
+        ]
+      },
+      {
+        "ID": 141,
+        "NewPetNatureType": 18,
+        "NewSkilledBuffType": 8,
+        "SkilledBuffValue": [
+          1000
+        ],
+        "NewLackBuffType": 6,
+        "LackBuffValue": [
+          2000
+        ]
+      },
+      {
+        "ID": 142,
+        "NewPetNatureType": 19,
+        "NewSkilledBuffType": 8,
+        "SkilledBuffValue": [
+          1000
+        ],
+        "NewLackBuffType": 7,
+        "LackBuffValue": [
+          500
+        ]
+      },
+      {
+        "ID": 143,
+        "NewPetNatureType": 20,
+        "NewSkilledBuffType": 8,
+        "SkilledBuffValue": [
+          1000
+        ],
+        "NewLackBuffType": 9,
+        "LackBuffValue": [
+          500
+        ]
+      },
+      {
+        "ID": 150,
+        "NewPetNatureType": 21,
+        "NewSkilledBuffType": 9,
+        "SkilledBuffValue": [
+          500
+        ],
+        "NewLackBuffType": 5,
+        "LackBuffValue": [
+          1000
+        ]
+      },
+      {
+        "ID": 151,
+        "NewPetNatureType": 22,
+        "NewSkilledBuffType": 9,
+        "SkilledBuffValue": [
+          500
+        ],
+        "NewLackBuffType": 6,
+        "LackBuffValue": [
+          2000
+        ]
+      },
+      {
+        "ID": 152,
+        "NewPetNatureType": 23,
+        "NewSkilledBuffType": 9,
+        "SkilledBuffValue": [
+          500
+        ],
+        "NewLackBuffType": 7,
+        "LackBuffValue": [
+          500
+        ]
+      },
+      {
+        "ID": 153,
+        "NewPetNatureType": 24,
+        "NewSkilledBuffType": 9,
+        "SkilledBuffValue": [
+          500
+        ],
+        "NewLackBuffType": 8,
+        "LackBuffValue": [
+          1000
+        ]
+      }
+    ]
+  },
+  "ReleaseReward": {
+    "Datas": [
+      {
+        "ID": 10000,
+        "ReleaseRewardItem": [
+          {
+            "ReleaseRewardID": 200101000,
+            "ReleaseRewardCount": 1
+          },
+          {
+            "ReleaseRewardID": 200101000,
+            "ReleaseRewardCount": 2
+          },
+          {
+            "ReleaseRewardID": 200101000,
+            "ReleaseRewardCount": 3
+          },
+          {
+            "ReleaseRewardID": 200101000,
+            "ReleaseRewardCount": 4
+          }
+        ]
+      },
+      {
+        "ID": 10001,
+        "ReleaseRewardItem": [
+          {
+            "ReleaseRewardID": 200101001,
+            "ReleaseRewardCount": 1
+          },
+          {
+            "ReleaseRewardID": 200101001,
+            "ReleaseRewardCount": 2
+          },
+          {
+            "ReleaseRewardID": 200101001,
+            "ReleaseRewardCount": 3
+          },
+          {
+            "ReleaseRewardID": 200101001,
+            "ReleaseRewardCount": 4
+          }
+        ]
+      },
+      {
+        "ID": 10002,
+        "ReleaseRewardItem": [
+          {
+            "ReleaseRewardID": 200101002,
+            "ReleaseRewardCount": 1
+          },
+          {
+            "ReleaseRewardID": 200101002,
+            "ReleaseRewardCount": 2
+          },
+          {
+            "ReleaseRewardID": 200101002,
+            "ReleaseRewardCount": 3
+          },
+          {
+            "ReleaseRewardID": 200101002,
+            "ReleaseRewardCount": 4
+          }
+        ]
+      },
+      {
+        "ID": 10003,
+        "ReleaseRewardItem": [
+          {
+            "ReleaseRewardID": 200101003,
+            "ReleaseRewardCount": 1
+          },
+          {
+            "ReleaseRewardID": 200101003,
+            "ReleaseRewardCount": 2
+          },
+          {
+            "ReleaseRewardID": 200101003,
+            "ReleaseRewardCount": 3
+          },
+          {
+            "ReleaseRewardID": 200101003,
+            "ReleaseRewardCount": 4
+          }
+        ]
+      }
+    ]
+  },
+  "Completeness": {
+    "Datas": [
+      {
+        "ID": 100000,
+        "PositiveEffect": 10000,
+        "ReverseEffect": 10000,
+        "TextID": 100000
+      },
+      {
+        "ID": 100010,
+        "PositiveEffect": 8000,
+        "ReverseEffect": 8000,
+        "TextID": 100010
+      },
+      {
+        "ID": 100020,
+        "PositiveEffect": 6000,
+        "ReverseEffect": 6000,
+        "TextID": 100020
+      },
+      {
+        "ID": 100030,
+        "PositiveEffect": 4000,
+        "ReverseEffect": 4000,
+        "TextID": 100030
+      },
+      {
+        "ID": 100040,
+        "PositiveEffect": 2000,
+        "ReverseEffect": 2000,
+        "TextID": 100040
+      },
+      {
+        "ID": 100050,
+        "TextID": 100050
+      }
+    ]
+  }
+}

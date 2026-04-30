@@ -5,7 +5,7 @@
         "ID": 99999,
         "Key": "BuildHashCode",
         "Values": [
-          "71190421"
+          "51740850"
         ]
       },
       {
@@ -2294,6 +2294,27 @@
         "Key": "Wish_Conent_Max_Length",
         "Values": [
           "50"
+        ]
+      },
+      {
+        "ID": 4601,
+        "Key": "PetBagOriginal",
+        "Values": [
+          "100"
+        ]
+      },
+      {
+        "ID": 4602,
+        "Key": "PetBagMax",
+        "Values": [
+          "3000"
+        ]
+      },
+      {
+        "ID": 4603,
+        "Key": "PetBagExpandRadix",
+        "Values": [
+          "1"
         ]
       }
     ]

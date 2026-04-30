@@ -219,6 +219,13 @@
         "Icon": 20002
       },
       {
+        "ID": 20003,
+        "OpeningTime": "2026-04-30 00:00:00",
+        "ClosingTime": "2026-10-31 23:59:59",
+        "BlessingTreeInfoID": 20003,
+        "Icon": 20001
+      },
+      {
         "ID": 30001,
         "OpeningTime": "2025-11-27 00:00:00",
         "ClosingTime": "2025-12-07 23:59:59",
@@ -2966,6 +2973,146 @@
             "ItemID": 125,
             "ItemCount": 777,
             "RewardItemID": 1009004,
+            "RewardItemCount": 1
+          }
+        ]
+      },
+      {
+        "ID": 20003,
+        "BlessingTreeInfoGroupInfo": [
+          {
+            "BoxID": 11,
+            "ItemID": 125,
+            "ItemCount": 15,
+            "RewardItemID": 5054001,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 20,
+            "RelateBoxID": 11,
+            "ItemID": 125,
+            "ItemCount": 15,
+            "RewardItemID": 5054001,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 21,
+            "RelateBoxID": 11,
+            "ItemID": 125,
+            "ItemCount": 5,
+            "RewardItemID": 6020760,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 22,
+            "RelateBoxID": 11,
+            "ItemID": 125,
+            "ItemCount": 15,
+            "RewardItemID": 5054001,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 30,
+            "RelateBoxID": 21,
+            "ItemID": 125,
+            "ItemCount": 5,
+            "RewardItemID": 6020770,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 31,
+            "RelateBoxID": 21,
+            "ItemID": 125,
+            "ItemCount": 40,
+            "RewardItemID": 5054001,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 32,
+            "RelateBoxID": 21,
+            "ItemID": 125,
+            "ItemCount": 5,
+            "RewardItemID": 6020780,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 40,
+            "RelateBoxID": 31,
+            "ItemID": 125,
+            "ItemCount": 40,
+            "RewardItemID": 5054001,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 41,
+            "RelateBoxID": 31,
+            "ItemID": 125,
+            "ItemCount": 5,
+            "RewardItemID": 6020790,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 42,
+            "RelateBoxID": 31,
+            "ItemID": 125,
+            "ItemCount": 40,
+            "RewardItemID": 5054001,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 50,
+            "RelateBoxID": 41,
+            "ItemID": 125,
+            "ItemCount": 60,
+            "RewardItemID": 5054001,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 51,
+            "RelateBoxID": 41,
+            "ItemID": 125,
+            "ItemCount": 60,
+            "RewardItemID": 5054001,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 52,
+            "RelateBoxID": 41,
+            "ItemID": 125,
+            "ItemCount": 60,
+            "RewardItemID": 5054001,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 60,
+            "RelateBoxID": 51,
+            "ItemID": 125,
+            "ItemCount": 80,
+            "RewardItemID": 5054001,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 61,
+            "RelateBoxID": 51,
+            "ItemID": 125,
+            "ItemCount": 80,
+            "RewardItemID": 5054001,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 62,
+            "RelateBoxID": 51,
+            "ItemID": 125,
+            "ItemCount": 80,
+            "RewardItemID": 5054001,
+            "RewardItemCount": 1
+          },
+          {
+            "BoxID": 71,
+            "RelateBoxID": 61,
+            "ItemID": 125,
+            "ItemCount": 15,
+            "RewardItemID": 6020750,
             "RewardItemCount": 1
           }
         ]
