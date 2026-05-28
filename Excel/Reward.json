@@ -36550,6 +36550,132 @@
         ]
       },
       {
+        "ID": 6100000,
+        "RewardPoolGroup": [
+          {
+            "RewardPoolGroupID": 6100000
+          },
+          {
+            "RewardPoolGroupID": 6100001
+          },
+          {
+            "RewardPoolGroupID": 6100002
+          },
+          {
+            "RewardPoolGroupID": 6100003
+          },
+          {
+            "RewardPoolGroupID": 6100004
+          },
+          {
+            "RewardPoolGroupID": 6100005
+          }
+        ]
+      },
+      {
+        "ID": 6100010,
+        "RewardPoolGroup": [
+          {
+            "RewardPoolGroupID": 6100010
+          },
+          {
+            "RewardPoolGroupID": 6100011
+          },
+          {
+            "RewardPoolGroupID": 6100012
+          },
+          {
+            "RewardPoolGroupID": 6100013
+          },
+          {
+            "RewardPoolGroupID": 6100014
+          }
+        ]
+      },
+      {
+        "ID": 6100020,
+        "RewardPoolGroup": [
+          {
+            "RewardPoolGroupID": 6100020
+          },
+          {
+            "RewardPoolGroupID": 6100021
+          },
+          {
+            "RewardPoolGroupID": 6100022
+          },
+          {
+            "RewardPoolGroupID": 6100023
+          },
+          {
+            "RewardPoolGroupID": 6100024
+          }
+        ]
+      },
+      {
+        "ID": 6100030,
+        "RewardPoolGroup": [
+          {
+            "RewardPoolGroupID": 6100030
+          },
+          {
+            "RewardPoolGroupID": 6100031
+          },
+          {
+            "RewardPoolGroupID": 6100032
+          },
+          {
+            "RewardPoolGroupID": 6100033
+          },
+          {
+            "RewardPoolGroupID": 6100034
+          }
+        ]
+      },
+      {
+        "ID": 6100040,
+        "RewardPoolGroup": [
+          {
+            "RewardPoolGroupID": 6100040
+          },
+          {
+            "RewardPoolGroupID": 6100041
+          },
+          {
+            "RewardPoolGroupID": 6100042
+          },
+          {
+            "RewardPoolGroupID": 6100043
+          },
+          {
+            "RewardPoolGroupID": 6100044
+          }
+        ]
+      },
+      {
+        "ID": 6100050,
+        "RewardPoolGroup": [
+          {
+            "RewardPoolGroupID": 6100050
+          },
+          {
+            "RewardPoolGroupID": 6100051
+          },
+          {
+            "RewardPoolGroupID": 6100052
+          },
+          {
+            "RewardPoolGroupID": 6100053
+          },
+          {
+            "RewardPoolGroupID": 6100054
+          },
+          {
+            "RewardPoolGroupID": 6100055
+          }
+        ]
+      },
+      {
         "ID": 999999999,
         "RewardPoolGroup": [
           {
@@ -172100,6 +172226,390 @@
         ]
       },
       {
+        "ID": 6100000,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10430,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100001,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10450,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100002,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10480,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100003,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10510,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100004,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10930,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100005,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 102,
+            "ItemMinCount": 50,
+            "ItemMaxCount": 50,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100010,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10610,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100011,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10960,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100012,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10600,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100013,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10910,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100014,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 102,
+            "ItemMinCount": 50,
+            "ItemMaxCount": 50,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100020,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10440,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100021,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10490,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100022,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10500,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100023,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10630,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100024,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 102,
+            "ItemMinCount": 50,
+            "ItemMaxCount": 50,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100030,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 11020,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100031,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10150,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100032,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10050,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100033,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10970,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100034,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 102,
+            "ItemMinCount": 100,
+            "ItemMaxCount": 100,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100040,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10830,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100041,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10330,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100042,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10110,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100043,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10060,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100044,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 102,
+            "ItemMinCount": 150,
+            "ItemMaxCount": 150,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100050,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10730,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100051,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10570,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100052,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 10890,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100053,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 11140,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100054,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 11040,
+            "ItemMinCount": 1,
+            "ItemMaxCount": 1,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
+        "ID": 6100055,
+        "RewardItemPoolGroup": [
+          {
+            "ItemID": 102,
+            "ItemMinCount": 200,
+            "ItemMaxCount": 200,
+            "MinLevelLimit": 1,
+            "MaxLevelLimit": 100
+          }
+        ]
+      },
+      {
         "ID": 999999999,
         "RewardItemPoolGroup": [
           {
@@ -205154,6 +205664,54 @@
         "WorldLevelPoolGroup": [
           {
             "PoolID": 6027200
+          }
+        ]
+      },
+      {
+        "ID": 6100000,
+        "WorldLevelPoolGroup": [
+          {
+            "PoolID": 6100000
+          }
+        ]
+      },
+      {
+        "ID": 6100010,
+        "WorldLevelPoolGroup": [
+          {
+            "PoolID": 6100010
+          }
+        ]
+      },
+      {
+        "ID": 6100020,
+        "WorldLevelPoolGroup": [
+          {
+            "PoolID": 6100020
+          }
+        ]
+      },
+      {
+        "ID": 6100030,
+        "WorldLevelPoolGroup": [
+          {
+            "PoolID": 6100030
+          }
+        ]
+      },
+      {
+        "ID": 6100040,
+        "WorldLevelPoolGroup": [
+          {
+            "PoolID": 6100040
+          }
+        ]
+      },
+      {
+        "ID": 6100050,
+        "WorldLevelPoolGroup": [
+          {
+            "PoolID": 6100050
           }
         ]
       },

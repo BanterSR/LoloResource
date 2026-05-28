@@ -1974,6 +1974,95 @@
         "Index": 1,
         "ActivityID": 1,
         "NewActivityType": 5
+      },
+      {
+        "ID": 260514030,
+        "OpeningTime": "2026-05-28 00:00:00",
+        "ClosingTime": "2026-06-10 23:59:59",
+        "TextID": 260514030,
+        "IconID": 260514030,
+        "Index": 1,
+        "ActivityID": 1,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 260514020,
+        "OpeningTime": "2026-05-28 00:00:00",
+        "ClosingTime": "2026-06-27 23:59:59",
+        "TextID": 260514020,
+        "IconID": 260514020,
+        "Index": 204,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 260514010,
+        "OpeningTime": "2026-05-28 00:00:00",
+        "ClosingTime": "2026-06-24 23:59:59",
+        "TextID": 7004,
+        "IconID": 7004,
+        "Index": 103,
+        "ActivityID": 7004,
+        "NewActivityType": 6
+      },
+      {
+        "ID": 260514011,
+        "OpeningTime": "2026-05-28 00:00:00",
+        "ClosingTime": "2026-06-24 23:59:59",
+        "TextID": 7005,
+        "IconID": 7005,
+        "Index": 104,
+        "ActivityID": 7005,
+        "NewActivityType": 6
+      },
+      {
+        "ID": 260514012,
+        "OpeningTime": "2026-06-11 00:00:00",
+        "ClosingTime": "2026-07-08 23:59:59",
+        "TextID": 7009,
+        "IconID": 7023,
+        "Index": 102,
+        "ActivityID": 7023,
+        "NewActivityType": 6
+      },
+      {
+        "ID": 260514040,
+        "OpeningTime": "2026-05-28 00:00:00",
+        "ClosingTime": "2026-07-08 23:59:59",
+        "TextID": 260514040,
+        "IconID": 260514040,
+        "Index": 5,
+        "ActivityID": 6,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 260514041,
+        "OpeningTime": "2026-05-28 00:00:00",
+        "ClosingTime": "2026-07-08 23:59:59",
+        "TextID": 260514041,
+        "IconID": 260514041,
+        "Index": 5,
+        "ActivityID": 6,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 260514070,
+        "OpeningTime": "2026-06-01 00:00:00",
+        "ClosingTime": "2026-06-30 23:59:59",
+        "TextID": 260430070,
+        "IconID": 260430070,
+        "Index": 5,
+        "ActivityID": 10140,
+        "NewActivityType": 3
+      },
+      {
+        "ID": 260514090,
+        "OpeningTime": "2026-06-01 00:00:00",
+        "ClosingTime": "2026-06-30 23:59:59",
+        "TextID": 260430090,
+        "IconID": 260430090,
+        "Index": 5,
+        "ActivityID": 2,
+        "NewActivityType": 5
       }
     ]
   }

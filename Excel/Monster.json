@@ -1362,6 +1362,66 @@
         "NewCampType": 2,
         "NewTag": 3,
         "NewArmorType": 1
+      },
+      {
+        "ID": 2101,
+        "GrowthModelID": 1205,
+        "DungeonGrowthModelID": 1205,
+        "NormalSpellIDs": [
+          120409
+        ],
+        "NameID": 2101,
+        "CharacterIcon": 2101,
+        "PetID": 200001205,
+        "AssetFullName": "Model/Monster/Japanese/Monster_25_cake Variant",
+        "NewCampType": 2,
+        "NewTag": 1,
+        "NewArmorType": 1
+      },
+      {
+        "ID": 2102,
+        "GrowthModelID": 1205,
+        "DungeonGrowthModelID": 1205,
+        "NormalSpellIDs": [
+          120409
+        ],
+        "NameID": 2102,
+        "CharacterIcon": 2102,
+        "PetID": 200001205,
+        "AssetFullName": "Model/Monster/Japanese/Monster_25_coffee Variant",
+        "NewCampType": 2,
+        "NewTag": 1,
+        "NewArmorType": 1
+      },
+      {
+        "ID": 2103,
+        "GrowthModelID": 1205,
+        "DungeonGrowthModelID": 1205,
+        "NormalSpellIDs": [
+          120409
+        ],
+        "NameID": 2103,
+        "CharacterIcon": 2103,
+        "PetID": 200001205,
+        "AssetFullName": "Model/Monster/Japanese/Monster_25_mahjong Variant",
+        "NewCampType": 2,
+        "NewTag": 1,
+        "NewArmorType": 1
+      },
+      {
+        "ID": 2104,
+        "GrowthModelID": 1205,
+        "DungeonGrowthModelID": 1205,
+        "NormalSpellIDs": [
+          120409
+        ],
+        "NameID": 2104,
+        "CharacterIcon": 2104,
+        "PetID": 200001205,
+        "AssetFullName": "Model/Monster/Japanese/Monster_25_yaki Variant",
+        "NewCampType": 2,
+        "NewTag": 1,
+        "NewArmorType": 1
       }
     ]
   },

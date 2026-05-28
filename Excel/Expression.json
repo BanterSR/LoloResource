@@ -592,7 +592,9 @@
           {
             "Index": 1,
             "ActionID": 3025,
-            "AchieveConditionID": 9003025
+            "AchieveConditionID": 9003025,
+            "IsShow": true,
+            "IsStudy": true
           }
         ]
       },
@@ -997,7 +999,8 @@
             "Index": 1,
             "ActionID": 3180,
             "AchieveConditionID": 9003180,
-            "IsShow": true
+            "IsShow": true,
+            "IsStudy": true
           }
         ]
       },
@@ -1864,7 +1867,9 @@
           {
             "Index": 1,
             "ActionID": 3025,
-            "AchieveConditionID": 9003025
+            "AchieveConditionID": 9003025,
+            "IsShow": true,
+            "IsStudy": true
           }
         ],
         "NewExpressionType": 4
@@ -2326,7 +2331,9 @@
           {
             "Index": 1,
             "ActionID": 3190,
-            "AchieveConditionID": 9003190
+            "AchieveConditionID": 9003190,
+            "IsShow": true,
+            "IsStudy": true
           }
         ],
         "NewExpressionType": 4
