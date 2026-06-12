@@ -3164,7 +3164,7 @@
           {
             "Level": 1,
             "ScriptParams": [
-              0.45
+              1
             ],
             "BufferTime": 0.3,
             "NewAttackType": 1,
@@ -3181,7 +3181,92 @@
           {
             "Level": 1,
             "ScriptParams": [
-              0.375
+              0.625
+            ],
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          }
+        ]
+      },
+      {
+        "ID": 130503,
+        "SpellConfigureItems": [
+          {
+            "Level": 1,
+            "ScriptParams": [
+              0.625
+            ],
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          }
+        ]
+      },
+      {
+        "ID": 130504,
+        "SpellConfigureItems": [
+          {
+            "Level": 1,
+            "ScriptParams": [
+              1.25
+            ],
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          }
+        ]
+      },
+      {
+        "ID": 130505,
+        "SpellConfigureItems": [
+          {
+            "Level": 1,
+            "ScriptParams": [
+              0.75
+            ],
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          }
+        ]
+      },
+      {
+        "ID": 130506,
+        "SpellConfigureItems": [
+          {
+            "Level": 1,
+            "ScriptParams": [
+              1
+            ],
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewDamageType": 3,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          }
+        ]
+      },
+      {
+        "ID": 130507,
+        "SpellConfigureItems": [
+          {
+            "Level": 1,
+            "ScriptParams": [
+              1
             ],
             "BufferTime": 0.3,
             "NewAttackType": 1,
@@ -32303,7 +32388,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "AddUpHit": 7,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -32324,7 +32409,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "AddUpHit": 7,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -32345,7 +32430,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "AddUpHit": 7,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -32366,7 +32451,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "AddUpHit": 7,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -32387,7 +32472,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "AddUpHit": 7,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -32408,7 +32493,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "AddUpHit": 7,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -32429,7 +32514,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "AddUpHit": 7,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -32450,7 +32535,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "AddUpHit": 7,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -32471,7 +32556,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "AddUpHit": 7,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -32491,7 +32576,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "AddUpHit": 7,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33223,7 +33308,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33245,7 +33330,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33267,7 +33352,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33289,7 +33374,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33311,7 +33396,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33333,7 +33418,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33355,7 +33440,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33377,7 +33462,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33399,7 +33484,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33420,7 +33505,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33446,7 +33531,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33466,7 +33551,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33486,7 +33571,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33506,7 +33591,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33526,7 +33611,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33546,7 +33631,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33566,7 +33651,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33586,7 +33671,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33606,7 +33691,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33626,7 +33711,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 8,
+            "CD": 1,
             "AddUpHit": 4,
             "AddUpKill": 10,
             "CostAp": 100,
@@ -33655,7 +33740,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -33678,7 +33763,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -33701,7 +33786,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -33724,7 +33809,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -33747,7 +33832,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -33770,7 +33855,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -33793,7 +33878,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -33816,7 +33901,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -33839,7 +33924,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -33861,7 +33946,7 @@
             ],
             "BufferTime": 0.3,
             "IsShowCD": true,
-            "CD": 10,
+            "CD": 1,
             "UltraCD": 1.5,
             "CostUp": 200,
             "AddUpKill": 10,
@@ -39873,6 +39958,46 @@
             "NewSpellType": 1,
             "NewSpellTag1": 2,
             "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          }
+        ]
+      },
+      {
+        "ID": 3030600,
+        "SpellConfigureItems": [
+          {
+            "Level": 1,
+            "TextID": 3030600,
+            "ScriptParams": [
+              1,
+              1.05
+            ],
+            "BufferTime": 0.3,
+            "NewAttackType": 1,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 2,
+            "NewSpellTag3": 2
+          }
+        ]
+      },
+      {
+        "ID": 3030601,
+        "SpellConfigureItems": [
+          {
+            "Level": 1,
+            "ScriptParams": [
+              1
+            ],
+            "BufferTime": 0.3,
+            "AddUpHit": 3,
+            "AddUpKill": 10,
+            "CostAp": 60,
+            "AddApKill": 50,
+            "AddApBreak": 50,
+            "NewAttackType": 1,
+            "NewDamageType": 2,
+            "NewSpellTag1": 2,
+            "NewSpellTag2": 1,
             "NewSpellTag3": 2
           }
         ]

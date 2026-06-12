@@ -178,6 +178,10 @@
         "ScriptID": 140
       },
       {
+        "ID": 141,
+        "ScriptID": 141
+      },
+      {
         "ID": 180,
         "ScriptID": 180
       },
@@ -3936,6 +3940,13 @@
         "ScriptName": "Buff_140",
         "cover": true,
         "AssetFullName": "Buff/Unit/140/Buff_140",
+        "NewBuffType": 6
+      },
+      {
+        "ID": 141,
+        "ScriptName": "Buff_141",
+        "cover": true,
+        "AssetFullName": "Buff/Unit/141/Buff_141",
         "NewBuffType": 6
       },
       {
