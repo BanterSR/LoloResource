@@ -261,6 +261,20 @@
         "NewExpressionType": 2
       },
       {
+        "ID": 10700,
+        "TextID": 10700,
+        "IconID": 10700,
+        "ExpressionGroupInfo": [
+          {
+            "Index": 1,
+            "ActionID": 10043,
+            "AchieveConditionID": 9010700,
+            "MultiplayerID": 110010
+          }
+        ],
+        "NewExpressionType": 2
+      },
+      {
         "ID": 2000,
         "TextID": 2000,
         "IconID": 2000,
@@ -3574,6 +3588,15 @@
         "RequesterPlayActionID": 10042,
         "IntimacyLimit": -1,
         "RequesterPlayDistance": 1.65
+      },
+      {
+        "ID": 110010,
+        "PlayerNumber": 2,
+        "ActionLevel": 2,
+        "StarterPlayActionID": 10044,
+        "RequesterPlayActionID": 10045,
+        "IntimacyLimit": 600,
+        "RequesterPlayDistance": 0.8239
       }
     ]
   },

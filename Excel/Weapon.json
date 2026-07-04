@@ -1147,6 +1147,51 @@
         "NewWeaponType": 21
       },
       {
+        "ID": 1009016,
+        "ItemID": 1009016,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 2,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100902,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_Bumper_01",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009017,
+        "ItemID": 1009017,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 2,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100902,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_Bumper_02",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
+        "ID": 1009018,
+        "ItemID": 1009018,
+        "Durability": 100,
+        "WeaponPropertyID": 1001001,
+        "BaseScore": 2,
+        "PassiveSpellIDs": [
+          52010
+        ],
+        "RollSpellGroupID": 100902,
+        "NormalSpellID": 1000000,
+        "AssetFullName": "Model/Weapon/Cars/Weapon_Car_Bumper_03",
+        "NewWeaponSystemType": 6,
+        "NewWeaponType": 21
+      },
+      {
         "ID": 1019001,
         "ItemID": 1019001,
         "WeaponPropertyID": 1001001,

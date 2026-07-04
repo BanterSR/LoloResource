@@ -15026,6 +15026,14 @@
         ]
       },
       {
+        "ID": 720000,
+        "AssetFullName": [
+          "Texture/Icon/Dongzuo/icon_biaoqing_69",
+          "Texture/Icon/Dongzuo/",
+          "Texture/Icon/Dongzuo/"
+        ]
+      },
+      {
         "ID": 1000001,
         "AssetFullName": [
           "Texture/Item/Weapon/icon_wuqi_dajian_03",
@@ -15695,6 +15703,30 @@
           "Texture/Item/Weapon/Weapon_Car_15",
           "Texture/Item/Weapon/Weapon_Car_15",
           "Texture/Item/Weapon/Weapon_Car_15"
+        ]
+      },
+      {
+        "ID": 1009016,
+        "AssetFullName": [
+          "Texture/Item/Weapon/Weapon_Car_Bumper_01",
+          "Texture/Item/Weapon/Weapon_Car_Bumper_01",
+          "Texture/Item/Weapon/Weapon_Car_Bumper_01"
+        ]
+      },
+      {
+        "ID": 1009017,
+        "AssetFullName": [
+          "Texture/Item/Weapon/Weapon_Car_Bumper_02",
+          "Texture/Item/Weapon/Weapon_Car_Bumper_02",
+          "Texture/Item/Weapon/Weapon_Car_Bumper_02"
+        ]
+      },
+      {
+        "ID": 1009018,
+        "AssetFullName": [
+          "Texture/Item/Weapon/Weapon_Car_Bumper_03",
+          "Texture/Item/Weapon/Weapon_Car_Bumper_03",
+          "Texture/Item/Weapon/Weapon_Car_Bumper_03"
         ]
       },
       {
@@ -40348,8 +40380,8 @@
       {
         "ID": 5043702,
         "AssetFullName": [
-          "Texture/Item/jiaju/",
-          "Texture/Item/jiaju/",
+          "Texture/Item/jiaju/icon_jiaju_dangao2_02",
+          "Texture/Item/jiaju/icon_jiaju_dangao2_02",
           "Texture/Item/jiaju/"
         ]
       },
@@ -40524,8 +40556,8 @@
       {
         "ID": 5043724,
         "AssetFullName": [
-          "Texture/Item/jiaju/",
-          "Texture/Item/jiaju/",
+          "Texture/Item/jiaju/icon_jiaju_dangao2_04",
+          "Texture/Item/jiaju/icon_jiaju_dangao2_04",
           "Texture/Item/jiaju/"
         ]
       },
@@ -76388,6 +76420,10 @@
         "AssetFullName": "Texture/Icon/Dongzuo/icon_biaoqing_96"
       },
       {
+        "ID": 10700,
+        "AssetFullName": "Texture/Icon/Dongzuo/icon_biaoqing_69"
+      },
+      {
         "ID": 2000,
         "AssetFullName": "Texture/Icon/Dongzuo/icon_gongju_08"
       },
@@ -88780,6 +88816,42 @@
           "Texture/Background/activity/扭蛋机21-浓浓粽意/img_phone_banner",
           "Texture/Background/activity/扭蛋机21-浓浓粽意/bg_activity_logo"
         ]
+      },
+      {
+        "ID": 260625070,
+        "AssetFullName": [
+          "Texture/Background/",
+          "Texture/Background/BP/img_BP_16",
+          "Texture/Background/",
+          "Texture/Background/"
+        ]
+      },
+      {
+        "ID": 260625090,
+        "AssetFullName": [
+          "Texture/Background/activity/通行证跳转16/btn_activity_cebianlan",
+          "Texture/Background/activity/通行证跳转16/bg_activity_beijing",
+          "Texture/Background/activity/通行证跳转16/img_phone_banner",
+          "Texture/Background/activity/通行证跳转16/"
+        ]
+      },
+      {
+        "ID": 260625010,
+        "AssetFullName": [
+          "Texture/Background/activity/扭蛋机22-气球派对/btn_activity_cebianlan",
+          "Texture/Background/activity/扭蛋机22-气球派对/bg_activity_beijing_2",
+          "Texture/Background/activity/扭蛋机22-气球派对/img_phone_banner",
+          "Texture/Background/activity/扭蛋机22-气球派对/bg_activity_logo"
+        ]
+      },
+      {
+        "ID": 260625011,
+        "AssetFullName": [
+          "Texture/Background/activity/扭蛋机23-咖啡之翼/btn_activity_cebianlan",
+          "Texture/Background/activity/扭蛋机23-咖啡之翼/bg_activity_beijing_2",
+          "Texture/Background/activity/扭蛋机23-咖啡之翼/img_phone_banner",
+          "Texture/Background/activity/扭蛋机23-咖啡之翼/bg_activity_logo"
+        ]
       }
     ]
   },
@@ -89559,35 +89631,35 @@
       {
         "ID": 102,
         "AssetFullName": [
-          "Texture/Background/ui/logo_qiyuanshu_01",
+          "Texture/Background/ui/logo_qiyuanshu_02",
           "Texture/Background/ui/"
         ]
       },
       {
         "ID": 103,
         "AssetFullName": [
-          "Texture/Background/ui/logo_qiyuanshu_01",
+          "Texture/Background/ui/logo_qiyuanshu_03",
           "Texture/Background/ui/"
         ]
       },
       {
         "ID": 104,
         "AssetFullName": [
-          "Texture/Background/ui/logo_qiyuanshu_01",
+          "Texture/Background/ui/logo_qiyuanshu_04",
           "Texture/Background/ui/"
         ]
       },
       {
         "ID": 105,
         "AssetFullName": [
-          "Texture/Background/ui/logo_qiyuanshu_01",
+          "Texture/Background/ui/logo_qiyuanshu_05",
           "Texture/Background/ui/"
         ]
       },
       {
         "ID": 106,
         "AssetFullName": [
-          "Texture/Background/ui/logo_qiyuanshu_01",
+          "Texture/Background/ui/logo_qiyuanshu_06",
           "Texture/Background/ui/"
         ]
       },
@@ -89742,6 +89814,13 @@
         "ID": 10007,
         "AssetFullName": [
           "Texture/Background/ui/logo_qiyuanshu_creation_2",
+          "Texture/Background/ui/"
+        ]
+      },
+      {
+        "ID": 10008,
+        "AssetFullName": [
+          "Texture/Background/ui/logo_qiyuanshu_creation_1",
           "Texture/Background/ui/"
         ]
       },
