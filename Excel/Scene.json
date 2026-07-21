@@ -192,6 +192,13 @@
         "NewSceneShowType": 4
       },
       {
+        "ID": 2000,
+        "TextID": 1,
+        "IconID": 1,
+        "SceneName": "Assets/Scenes/SceneBattle001/Scene/白天/SceneBattle001_Day1.unity",
+        "NewSceneType": 2
+      },
+      {
         "ID": 10000,
         "TextID": 10000,
         "SceneName": "Assets/Scenes/SceneGameplay/PlayerTry/TestRoom.unity",
@@ -2023,6 +2030,210 @@
         "AssetPath": "Assets/Scenes/HomeStage/周年庆典/---------------------周年庆典舞台.prefab",
         "OpeningTime": "2026-03-26 05:00:00",
         "ClosingTime": "2026-05-01 23:59:59"
+      },
+      {
+        "ID": 25,
+        "AssetPath": "Assets/Scenes/HomeStage/万圣节/---------------------万圣节舞台.prefab",
+        "OpeningTime": "2026-07-16 05:00:00",
+        "ClosingTime": "2026-07-27 23:59:59"
+      },
+      {
+        "ID": 26,
+        "AssetPath": "Assets/Scenes/HomeStage/圣诞节/---------------------圣诞节舞台2.0.prefab",
+        "OpeningTime": "2026-07-30 05:00:00",
+        "ClosingTime": "2026-08-10 23:59:59"
+      },
+      {
+        "ID": 27,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第0天.prefab",
+        "OpeningTime": "2026-08-13 00:00:00",
+        "ClosingTime": "2026-08-13 23:59:59"
+      },
+      {
+        "ID": 28,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第1天.prefab",
+        "OpeningTime": "2026-08-14 00:00:00",
+        "ClosingTime": "2026-08-14 23:59:59"
+      },
+      {
+        "ID": 29,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第2天.prefab",
+        "OpeningTime": "2026-08-15 00:00:00",
+        "ClosingTime": "2026-08-15 23:59:59"
+      },
+      {
+        "ID": 30,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第3天.prefab",
+        "OpeningTime": "2026-08-16 00:00:00",
+        "ClosingTime": "2026-08-16 23:59:59"
+      },
+      {
+        "ID": 31,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第4天.prefab",
+        "OpeningTime": "2026-08-17 00:00:00",
+        "ClosingTime": "2026-08-17 23:59:59"
+      },
+      {
+        "ID": 32,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第5天.prefab",
+        "OpeningTime": "2026-08-18 00:00:00",
+        "ClosingTime": "2026-08-18 23:59:59"
+      },
+      {
+        "ID": 33,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第6天.prefab",
+        "OpeningTime": "2026-08-19 00:00:00",
+        "ClosingTime": "2026-08-19 23:59:59"
+      },
+      {
+        "ID": 34,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台.prefab",
+        "OpeningTime": "2026-08-18 00:00:00",
+        "ClosingTime": "2026-08-23 23:59:59"
+      },
+      {
+        "ID": 35,
+        "AssetPath": "Assets/Scenes/HomeStage/火锅/---------------------火锅舞台.prefab",
+        "OpeningTime": "2026-08-27 00:00:00",
+        "ClosingTime": "2026-09-06 23:59:59"
+      },
+      {
+        "ID": 36,
+        "AssetPath": "Assets/Scenes/HomeStage/圣诞节/---------------------圣诞节舞台.prefab",
+        "OpeningTime": "2026-09-10 05:00:00",
+        "ClosingTime": "2026-09-20 23:59:59"
+      },
+      {
+        "ID": 37,
+        "AssetPath": "Assets/Scenes/HomeStage/摩天轮/---------------------摩天轮舞台_第1天.prefab",
+        "OpeningTime": "2026-09-24 12:00:00",
+        "ClosingTime": "2026-09-25 05:00:00"
+      },
+      {
+        "ID": 38,
+        "AssetPath": "Assets/Scenes/HomeStage/摩天轮/---------------------摩天轮舞台_第2天.prefab",
+        "OpeningTime": "2026-09-25 05:00:00",
+        "ClosingTime": "2026-09-26 05:00:00"
+      },
+      {
+        "ID": 39,
+        "AssetPath": "Assets/Scenes/HomeStage/摩天轮/---------------------摩天轮舞台_第3-6天.prefab",
+        "OpeningTime": "2026-09-26 05:00:00",
+        "ClosingTime": "2026-09-27 05:00:00"
+      },
+      {
+        "ID": 40,
+        "AssetPath": "Assets/Scenes/HomeStage/摩天轮/---------------------摩天轮舞台_第7天.prefab",
+        "OpeningTime": "2026-09-27 05:00:00",
+        "ClosingTime": "2026-09-28 05:00:00"
+      },
+      {
+        "ID": 41,
+        "AssetPath": "Assets/Scenes/HomeStage/摩天轮/---------------------摩天轮舞台_第8天.prefab",
+        "OpeningTime": "2026-09-28 05:00:00",
+        "ClosingTime": "2026-09-29 05:00:00"
+      },
+      {
+        "ID": 42,
+        "AssetPath": "Assets/Scenes/HomeStage/摩天轮/---------------------摩天轮舞台_第9天.prefab",
+        "OpeningTime": "2026-09-29 05:00:00",
+        "ClosingTime": "2026-10-04 23:59:59"
+      },
+      {
+        "ID": 43,
+        "AssetPath": "Assets/Scenes/HomeStage/蛋糕/---------------------蛋糕舞台.prefab",
+        "OpeningTime": "2026-10-08 05:00:00",
+        "ClosingTime": "2026-10-18 23:59:59"
+      },
+      {
+        "ID": 44,
+        "AssetPath": "Assets/Scenes/HomeStage/万圣节/---------------------万圣节舞台.prefab",
+        "OpeningTime": "2026-10-22 05:00:00",
+        "ClosingTime": "2026-11-01 23:59:59"
+      },
+      {
+        "ID": 45,
+        "AssetPath": "Assets/Scenes/HomeStage/半周年庆/---------------------半周年庆舞台.prefab",
+        "OpeningTime": "2026-11-05 05:00:00",
+        "ClosingTime": "2026-11-15 23:59:59"
+      },
+      {
+        "ID": 46,
+        "AssetPath": "Assets/Scenes/HomeStage/新年/---------------------春节舞台.prefab",
+        "OpeningTime": "2026-11-19 05:00:00",
+        "ClosingTime": "2026-11-29 23:59:59"
+      },
+      {
+        "ID": 47,
+        "AssetPath": "Assets/Scenes/HomeStage/周年庆典/---------------------周年庆典舞台.prefab",
+        "OpeningTime": "2026-12-03 05:00:00",
+        "ClosingTime": "2026-12-13 23:59:59"
+      },
+      {
+        "ID": 48,
+        "AssetPath": "Assets/Scenes/HomeStage/圣诞节/---------------------圣诞节舞台2.0.prefab",
+        "OpeningTime": "2026-12-17 05:00:00",
+        "ClosingTime": "2026-12-27 23:59:59"
+      },
+      {
+        "ID": 49,
+        "AssetPath": "Assets/Scenes/HomeStage/乐队招募/---------------------乐队招募舞台.prefab",
+        "OpeningTime": "2026-12-31 05:00:00",
+        "ClosingTime": "2027-01-10 23:59:59"
+      },
+      {
+        "ID": 50,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第0天.prefab",
+        "OpeningTime": "2027-01-14 00:00:00",
+        "ClosingTime": "2027-01-14 23:59:59"
+      },
+      {
+        "ID": 51,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第1天.prefab",
+        "OpeningTime": "2027-01-15 00:00:00",
+        "ClosingTime": "2027-01-15 23:59:59"
+      },
+      {
+        "ID": 52,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第2天.prefab",
+        "OpeningTime": "2027-01-16 00:00:00",
+        "ClosingTime": "2027-01-16 23:59:59"
+      },
+      {
+        "ID": 53,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第3天.prefab",
+        "OpeningTime": "2027-01-17 00:00:00",
+        "ClosingTime": "2027-01-17 23:59:59"
+      },
+      {
+        "ID": 54,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第4天.prefab",
+        "OpeningTime": "2027-01-18 00:00:00",
+        "ClosingTime": "2027-01-18 23:59:59"
+      },
+      {
+        "ID": 55,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第5天.prefab",
+        "OpeningTime": "2027-01-19 00:00:00",
+        "ClosingTime": "2027-01-19 23:59:59"
+      },
+      {
+        "ID": 56,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台_第6天.prefab",
+        "OpeningTime": "2027-01-20 00:00:00",
+        "ClosingTime": "2027-01-20 23:59:59"
+      },
+      {
+        "ID": 57,
+        "AssetPath": "Assets/Scenes/HomeStage/樱花季/---------------------樱花季舞台.prefab",
+        "OpeningTime": "2027-01-21 00:00:00",
+        "ClosingTime": "2027-01-24 23:59:59"
+      },
+      {
+        "ID": 58,
+        "AssetPath": "Assets/Scenes/HomeStage/新年/---------------------春节舞台.prefab",
+        "OpeningTime": "2027-01-28 05:00:00",
+        "ClosingTime": "2027-02-28 23:59:59"
       }
     ]
   }

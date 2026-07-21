@@ -14510,6 +14510,24 @@
       },
       {
         "ID": 50235,
+        "TextID": 50012,
+        "ScriptParams": [
+          0.25
+        ],
+        "ScriptID": 50012,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 50236,
+        "TextID": 50236,
+        "ScriptParams": [
+          0.08
+        ],
+        "ScriptID": 50236,
+        "HideInSpellPanel": true
+      },
+      {
+        "ID": 50237,
         "TextID": 50103,
         "ScriptParams": [
           0.125
@@ -14518,37 +14536,19 @@
         "HideInSpellPanel": true
       },
       {
-        "ID": 50236,
-        "TextID": 50236,
-        "ScriptParams": [
-          0.2
-        ],
-        "ScriptID": 50236,
-        "HideInSpellPanel": true
-      },
-      {
-        "ID": 50237,
-        "TextID": 50015,
-        "ScriptParams": [
-          0.1
-        ],
-        "ScriptID": 50015,
-        "HideInSpellPanel": true
-      },
-      {
         "ID": 50238,
-        "TextID": 50014,
+        "TextID": 50016,
         "ScriptParams": [
-          0.36
+          0.25
         ],
-        "ScriptID": 50014,
+        "ScriptID": 50016,
         "HideInSpellPanel": true
       },
       {
         "ID": 50239,
         "TextID": 50239,
         "ScriptParams": [
-          0.4
+          0.09
         ],
         "ScriptID": 50239,
         "HideInSpellPanel": true

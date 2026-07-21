@@ -1,0 +1,67 @@
+{
+  "Exploration": {
+    "Datas": [
+      {
+        "ID": 1,
+        "DungeonId": 2000,
+        "QuestAchieveID": 10000
+      }
+    ]
+  },
+  "ExplorationAchieve": {
+    "Datas": [
+      {
+        "ID": 10000,
+        "ExplorationAchieveGroupInfo": [
+          {
+            "Index": 1
+          },
+          {
+            "Index": 2
+          },
+          {
+            "Index": 3
+          },
+          {
+            "Index": 4
+          },
+          {
+            "Index": 5
+          },
+          {
+            "Index": 6
+          },
+          {
+            "Index": 7
+          },
+          {
+            "Index": 8
+          }
+        ]
+      }
+    ]
+  },
+  "ExplorationItem": {
+    "Datas": [
+      {
+        "ID": 300000000,
+        "SpecialDropId": 700089,
+        "Quantity": 2,
+        "ExplorationItems": [
+          {
+            "ItemID": 101,
+            "Value": 100000
+          },
+          {
+            "ItemID": 108,
+            "Value": 50000
+          },
+          {
+            "ItemID": 1999,
+            "Value": 888
+          }
+        ]
+      }
+    ]
+  }
+}

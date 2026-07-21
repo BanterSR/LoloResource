@@ -1151,11 +1151,11 @@
         "ItemID": 1009016,
         "Durability": 100,
         "WeaponPropertyID": 1001001,
-        "BaseScore": 2,
+        "BaseScore": 1,
         "PassiveSpellIDs": [
           52010
         ],
-        "RollSpellGroupID": 100902,
+        "RollSpellGroupID": 100906,
         "NormalSpellID": 1000000,
         "AssetFullName": "Model/Weapon/Cars/Weapon_Car_Bumper_01",
         "NewWeaponSystemType": 6,
@@ -1166,11 +1166,11 @@
         "ItemID": 1009017,
         "Durability": 100,
         "WeaponPropertyID": 1001001,
-        "BaseScore": 2,
+        "BaseScore": 1,
         "PassiveSpellIDs": [
           52010
         ],
-        "RollSpellGroupID": 100902,
+        "RollSpellGroupID": 100906,
         "NormalSpellID": 1000000,
         "AssetFullName": "Model/Weapon/Cars/Weapon_Car_Bumper_02",
         "NewWeaponSystemType": 6,
@@ -1181,11 +1181,11 @@
         "ItemID": 1009018,
         "Durability": 100,
         "WeaponPropertyID": 1001001,
-        "BaseScore": 2,
+        "BaseScore": 1,
         "PassiveSpellIDs": [
           52010
         ],
-        "RollSpellGroupID": 100902,
+        "RollSpellGroupID": 100906,
         "NormalSpellID": 1000000,
         "AssetFullName": "Model/Weapon/Cars/Weapon_Car_Bumper_03",
         "NewWeaponSystemType": 6,
@@ -134496,6 +134496,17 @@
           1009185,
           1009185,
           1009185
+        ]
+      },
+      {
+        "ID": 100906,
+        "RollSpellIDs": [
+          1009186,
+          1009186,
+          1009186,
+          1009186,
+          1009186,
+          1009186
         ]
       }
     ]

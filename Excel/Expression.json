@@ -937,6 +937,19 @@
         ]
       },
       {
+        "ID": 3150,
+        "TextID": 3150,
+        "IconID": 3150,
+        "ExpressionGroupInfo": [
+          {
+            "Index": 1,
+            "ActionID": 3150,
+            "AchieveConditionID": 9003150,
+            "IsStudy": true
+          }
+        ]
+      },
+      {
         "ID": 3155,
         "TextID": 3155,
         "IconID": 3155,
@@ -1352,7 +1365,9 @@
           {
             "Index": 1,
             "ActionID": 3310,
-            "AchieveConditionID": 9003310
+            "AchieveConditionID": 9003310,
+            "IsShow": true,
+            "IsStudy": true
           }
         ]
       },
@@ -2914,7 +2929,9 @@
           {
             "Index": 1,
             "ActionID": 3310,
-            "AchieveConditionID": 9003310
+            "AchieveConditionID": 9003310,
+            "IsShow": true,
+            "IsStudy": true
           }
         ],
         "NewExpressionType": 4

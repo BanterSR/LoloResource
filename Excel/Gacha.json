@@ -51,6 +51,22 @@
         "NewShowType": 1
       },
       {
+        "ID": 2002,
+        "Index": 6,
+        "TextID": 2002,
+        "IconID": 2002,
+        "Method1ID": 2002,
+        "ConsumeItem1ID": 104,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 104,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "BigGuaranteePoolID": 210,
+        "NewUIGachaType": 2,
+        "NewShowType": 1
+      },
+      {
         "ID": 3000,
         "Index": 3,
         "OpeningTime": "2025-04-01 00:00:00",
@@ -345,6 +361,26 @@
         "NewShowType": 1
       },
       {
+        "ID": 3022,
+        "Index": 3,
+        "OpeningTime": "2026-07-16 00:00:00",
+        "ClosingTime": "2026-08-13 23:59:59",
+        "TextID": 3022,
+        "IconID": 3022,
+        "Method1ID": 3022,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CharacterID1": 301003,
+        "PracticeCharacterID1": 301003,
+        "BigGuaranteePoolID": 3022,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
         "ID": 4000,
         "Index": 7,
         "TextID": 4000,
@@ -355,6 +391,69 @@
         "ConsumeItem2Num": 3600,
         "NewUIGachaType": 5,
         "NewShowType": 2
+      },
+      {
+        "ID": 9000,
+        "Index": 1,
+        "TextID": 9000,
+        "IconID": 9000,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "MaxTimes": 70,
+        "CardPoolRange": [
+          3000,
+          3001,
+          3002,
+          3003,
+          3004,
+          3006,
+          3007,
+          3008,
+          3010,
+          3011,
+          3013,
+          3016,
+          3019,
+          3021
+        ],
+        "NewUIGachaType": 6,
+        "NewShowType": 4
+      },
+      {
+        "ID": 9001,
+        "Index": 1,
+        "OpeningTime": "2026-05-14 00:00:00",
+        "ClosingTime": "2026-05-27 23:59:59",
+        "TextID": 9001,
+        "IconID": 9001,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "CardPoolRange": [
+          3000,
+          3001,
+          3002,
+          3003,
+          3004,
+          3006,
+          3007,
+          3008,
+          3010,
+          3011,
+          3013,
+          3016,
+          3019,
+          3021
+        ],
+        "NewUIGachaType": 10,
+        "NewShowType": 4
       },
       {
         "ID": 103005,
@@ -1048,6 +1147,26 @@
           },
           {
             "FreeGachaPoolID": 3021
+          }
+        ]
+      },
+      {
+        "ID": 3022,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3022
           }
         ]
       },
@@ -2124,6 +2243,14 @@
         "Items": [
           {
             "ItemID": 302004
+          }
+        ]
+      },
+      {
+        "ID": 3022,
+        "Items": [
+          {
+            "ItemID": 301003
           }
         ]
       },
