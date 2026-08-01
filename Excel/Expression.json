@@ -2563,7 +2563,9 @@
           {
             "Index": 1,
             "ActionID": 3180,
-            "AchieveConditionID": 9003180
+            "AchieveConditionID": 9003180,
+            "IsShow": true,
+            "IsStudy": true
           }
         ],
         "NewExpressionType": 4

@@ -1255,8 +1255,8 @@
       {
         "ID": 10261,
         "TextureID": 10261,
-        "OpeningTime": "2026-02-12 05:00:00",
-        "ClosingTime": "2026-03-12 23:59:59",
+        "OpeningTime": "2026-07-30 00:00:00",
+        "ClosingTime": "2026-12-31 23:59:59",
         "Path": "Model/NPC/Characters/",
         "Prefab": "NPC_孙女",
         "Funcs": [
@@ -1265,8 +1265,8 @@
             "SubMeterID": 10261
           },
           {
-            "NewNPCFunction": 25,
-            "SubMeterID": 40013
+            "NewNPCFunction": 2,
+            "SubMeterID": 10261
           }
         ]
       },
@@ -6088,7 +6088,15 @@
         ]
       },
       {
-        "ID": 10261
+        "ID": 10261,
+        "NpcShopGroupInfo": [
+          {
+            "ShopID": 20500
+          },
+          {
+            "ShopID": 20600
+          }
+        ]
       },
       {
         "ID": 19600,

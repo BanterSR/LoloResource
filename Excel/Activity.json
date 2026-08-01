@@ -2213,6 +2213,36 @@
         "Index": 5,
         "ActivityID": 2,
         "NewActivityType": 5
+      },
+      {
+        "ID": 260715040,
+        "OpeningTime": "2026-08-01 00:00:00",
+        "ClosingTime": "2026-08-31 23:59:59",
+        "TextID": 260715040,
+        "IconID": 260715040,
+        "Index": 5,
+        "ActivityID": 6,
+        "NewActivityType": 5
+      },
+      {
+        "ID": 260715100,
+        "OpeningTime": "2026-08-06 00:00:00",
+        "ClosingTime": "2026-08-19 23:59:59",
+        "TextID": 260715100,
+        "IconID": 260715100,
+        "Index": 3,
+        "ActivityID": 2027,
+        "NewActivityType": 1
+      },
+      {
+        "ID": 260715041,
+        "OpeningTime": "2026-08-01 00:00:00",
+        "ClosingTime": "2026-08-14 23:59:59",
+        "TextID": 260715041,
+        "IconID": 260715041,
+        "Index": 5,
+        "ActivityID": 6,
+        "NewActivityType": 5
       }
     ]
   }
