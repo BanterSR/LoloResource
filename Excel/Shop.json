@@ -618,6 +618,14 @@
         "NewShopType": 5
       },
       {
+        "ID": 100170,
+        "TextID": 100000,
+        "OpeningTime": "2026-09-01 00:00:00",
+        "ClosingTime": "2026-09-30 23:59:59",
+        "GridID": 100170,
+        "NewShopType": 5
+      },
+      {
         "ID": 1101001,
         "TextID": 1101001,
         "GridID": 1101001,
@@ -2387,6 +2395,14 @@
             "Index": 67,
             "ShopPoolID": 9040582,
             "BuyMaxCount": 10,
+            "IsGift": true
+          },
+          {
+            "GridID": 193,
+            "Index": 68,
+            "ShopPoolID": 9040583,
+            "BuyMaxCount": 1,
+            "GoodsID": "com.Nekootan.kfkj.30.11",
             "IsGift": true
           }
         ]
@@ -7112,6 +7128,17 @@
               24,
               0
             ]
+          },
+          {
+            "GridID": 13,
+            "Index": 12,
+            "ShopPoolID": 20512,
+            "BuyMaxCount": -1,
+            "NewShopRefreshType": 2,
+            "RefreshTime": [
+              24,
+              0
+            ]
           }
         ]
       },
@@ -7509,6 +7536,18 @@
             "GridID": 1,
             "Index": 1,
             "ShopPoolID": 100160,
+            "BuyMaxCount": 1,
+            "GoodsID": "com.Nekootan.kfkj.68.1"
+          }
+        ]
+      },
+      {
+        "ID": 100170,
+        "Items": [
+          {
+            "GridID": 1,
+            "Index": 1,
+            "ShopPoolID": 100170,
             "BuyMaxCount": 1,
             "GoodsID": "com.Nekootan.kfkj.68.1"
           }
@@ -12737,6 +12776,28 @@
               {
                 "CurrencyID": 108,
                 "Price": 3180
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 9040583,
+        "Items": [
+          {
+            "ItemID": 6027240,
+            "IsRepeatedInBag": true,
+            "ItemNum": 1,
+            "Index": 1,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "OpeningTime": "2026-08-15 10:00:00",
+            "ClosingTime": "2026-09-11 23:59:59",
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "Price": 3000
               }
             ]
           }
@@ -28748,6 +28809,28 @@
             "MaxLevel": 100,
             "OpeningTime": "2026-08-01 00:00:00",
             "ClosingTime": "2026-08-31 23:59:59",
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "Price": 6800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 100170,
+        "Items": [
+          {
+            "ItemID": 108,
+            "IsRepeatedInBag": true,
+            "ItemNum": 680,
+            "Index": 1,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "OpeningTime": "2026-09-01 00:00:00",
+            "ClosingTime": "2026-09-30 23:59:59",
             "Discount": 1,
             "ShowDiscount": 1,
             "ShopCurrencyItem": [
@@ -58183,6 +58266,187 @@
               {
                 "CurrencyID": 5052024,
                 "Price": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 20512,
+        "Items": [
+          {
+            "ItemID": 6035,
+            "IsRepeatedInBag": true,
+            "ItemNum": 500,
+            "Index": 400,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 6007,
+                "Price": 1
+              }
+            ]
+          },
+          {
+            "ItemID": 6035,
+            "IsRepeatedInBag": true,
+            "ItemNum": 500,
+            "Index": 401,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 6013,
+                "Price": 1
+              }
+            ]
+          },
+          {
+            "ItemID": 6035,
+            "IsRepeatedInBag": true,
+            "ItemNum": 500,
+            "Index": 402,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 6019,
+                "Price": 1
+              }
+            ]
+          },
+          {
+            "ItemID": 6035,
+            "IsRepeatedInBag": true,
+            "ItemNum": 100,
+            "Index": 403,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 6022,
+                "Price": 1
+              }
+            ]
+          },
+          {
+            "ItemID": 6035,
+            "IsRepeatedInBag": true,
+            "ItemNum": 300,
+            "Index": 404,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 6023,
+                "Price": 1
+              }
+            ]
+          },
+          {
+            "ItemID": 6035,
+            "IsRepeatedInBag": true,
+            "ItemNum": 500,
+            "Index": 405,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 6024,
+                "Price": 1
+              }
+            ]
+          },
+          {
+            "ItemID": 6035,
+            "IsRepeatedInBag": true,
+            "ItemNum": 500,
+            "Index": 406,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 6030,
+                "Price": 1
+              }
+            ]
+          },
+          {
+            "ItemID": 6035,
+            "IsRepeatedInBag": true,
+            "ItemNum": 500,
+            "Index": 407,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 6032,
+                "Price": 1
+              }
+            ]
+          },
+          {
+            "ItemID": 6035,
+            "IsRepeatedInBag": true,
+            "ItemNum": 500,
+            "Index": 408,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 6034,
+                "Price": 1
+              }
+            ]
+          },
+          {
+            "ItemID": 6035,
+            "IsRepeatedInBag": true,
+            "ItemNum": 500,
+            "Index": 409,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 6039,
+                "Price": 1
+              }
+            ]
+          },
+          {
+            "ItemID": 6035,
+            "IsRepeatedInBag": true,
+            "ItemNum": 500,
+            "Index": 410,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 6040,
+                "Price": 1
               }
             ]
           }
