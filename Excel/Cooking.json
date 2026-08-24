@@ -4613,6 +4613,150 @@
         "GetItemID": 6043,
         "NewCookPageType": 4,
         "NewCookToolType": 3
+      },
+      {
+        "ID": 6049,
+        "IsShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "OpeningTime": "2026-09-24 05:00:00",
+        "ClosingTime": "2026-10-08 23:59:59",
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5012002,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 6045,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 5011013,
+            "FoodItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 6049,
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 6050,
+        "IsShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "OpeningTime": "2026-09-24 05:00:00",
+        "ClosingTime": "2026-10-08 23:59:59",
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5012002,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 6046,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 5011013,
+            "FoodItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 6050,
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 6051,
+        "IsShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "OpeningTime": "2026-09-24 05:00:00",
+        "ClosingTime": "2026-10-08 23:59:59",
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 5012002,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 6047,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 5011013,
+            "FoodItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 6051,
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 6052,
+        "IsShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "OpeningTime": "2026-09-24 05:00:00",
+        "ClosingTime": "2026-10-08 23:59:59",
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 6048,
+            "FoodItemCount": 2
+          },
+          {
+            "FoodItemID": 6045,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 5011013,
+            "FoodItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 6052,
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
+      },
+      {
+        "ID": 6053,
+        "IsShow": true,
+        "CookLevel": 1,
+        "NeedTime": 5,
+        "OpeningTime": "2026-09-24 05:00:00",
+        "ClosingTime": "2026-10-08 23:59:59",
+        "NeedItemID": 11,
+        "NeedItemCount": 1,
+        "CookFoodItems": [
+          {
+            "FoodItemID": 6049,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 6050,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 6051,
+            "FoodItemCount": 1
+          },
+          {
+            "FoodItemID": 6052,
+            "FoodItemCount": 1
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 6053,
+        "NewCookPageType": 3,
+        "NewCookToolType": 2
       }
     ]
   },

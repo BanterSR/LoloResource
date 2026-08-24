@@ -26969,6 +26969,152 @@
         ],
         "NewSpinToolType": 1,
         "NewSpinPageType": 4
+      },
+      {
+        "ID": 4201051,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedFormulaItemID": 4201051,
+        "SpinLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "SpinItems": [
+          {
+            "ItemID": 5033003,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 5052022,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 5052020,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 5032020,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 4201051,
+        "SpinAchieveRewards": [
+          {
+            "AchieveConditionID": 142010511,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 142010512,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 142010513,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 142010514,
+            "RewardID": 10140
+          }
+        ],
+        "NewSpinToolType": 1,
+        "NewSpinPageType": 5
+      },
+      {
+        "ID": 4201052,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedFormulaItemID": 4201052,
+        "SpinLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "SpinItems": [
+          {
+            "ItemID": 5033003,
+            "ItemCount": 5
+          },
+          {
+            "ItemID": 5033007,
+            "ItemCount": 3
+          },
+          {
+            "ItemID": 5052001,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 5032020,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 4201052,
+        "SpinAchieveRewards": [
+          {
+            "AchieveConditionID": 142010521,
+            "RewardID": 10310
+          },
+          {
+            "AchieveConditionID": 142010522,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 142010523,
+            "RewardID": 10130
+          },
+          {
+            "AchieveConditionID": 142010524,
+            "RewardID": 10240
+          }
+        ],
+        "NewSpinToolType": 1,
+        "NewSpinPageType": 3
+      },
+      {
+        "ID": 4201053,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedFormulaItemID": 4201053,
+        "SpinLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 30,
+        "SpinItems": [
+          {
+            "ItemID": 5033005,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 5052003,
+            "ItemCount": 2
+          },
+          {
+            "ItemID": 5032020,
+            "ItemCount": 3
+          }
+        ],
+        "SuccessfulProbability": 1,
+        "GetItemID": 4201053,
+        "SpinAchieveRewards": [
+          {
+            "AchieveConditionID": 142010531,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 142010532,
+            "RewardID": 10120
+          },
+          {
+            "AchieveConditionID": 142010533,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 142010534,
+            "RewardID": 10240
+          }
+        ],
+        "NewSpinToolType": 1,
+        "NewSpinPageType": 4
       }
     ]
   },

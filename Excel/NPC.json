@@ -1256,7 +1256,7 @@
         "ID": 10261,
         "TextureID": 10261,
         "OpeningTime": "2026-07-30 00:00:00",
-        "ClosingTime": "2026-12-31 23:59:59",
+        "ClosingTime": "2100-12-31 23:59:59",
         "Path": "Model/NPC/Characters/",
         "Prefab": "NPC_孙女",
         "Funcs": [
@@ -1328,6 +1328,19 @@
         "Path": "Model/NPC/Characters/",
         "Prefab": "NPC_老李沙袋测试",
         "IsCanAttack": 1
+      },
+      {
+        "ID": 10311,
+        "OpeningTime": "2026-09-24 05:00:00",
+        "ClosingTime": "2026-10-08 23:59:59",
+        "Path": "Model/NPC/Characters/",
+        "Prefab": "NPC_兔",
+        "Funcs": [
+          {
+            "NewNPCFunction": 2,
+            "SubMeterID": 10311
+          }
+        ]
       },
       {
         "ID": 19600,
@@ -6111,6 +6124,14 @@
         "NpcShopGroupInfo": [
           {
             "ShopID": 18100
+          }
+        ]
+      },
+      {
+        "ID": 10311,
+        "NpcShopGroupInfo": [
+          {
+            "ShopID": 20700
           }
         ]
       }
