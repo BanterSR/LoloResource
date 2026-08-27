@@ -4166,7 +4166,7 @@
       {
         "ID": 479,
         "Key": "Tips_HotUpdate_Resource_InitAfterHotUpdateStart",
-        "ChineseSimplified": "正在初始化，首次进入游戏时间需要1分钟左右，请耐心等待。",
+        "ChineseSimplified": "正在初始化，首次进入游戏时间需要1分钟左右，请耐心等待。若长时间卡主，可以清理缓存试试？",
         "ChineseTraditional": "正在初始化，首次进入游戏时间需要1分钟左右，请耐心等待。",
         "English": "Initializing… First entry may take about 1 minute. Please wait.",
         "Japanese": "正在初始化，首次进入游戏时间需要1分钟左右，请耐心等待。",
@@ -12181,6 +12181,16 @@
         "ID": 2669,
         "Key": "Text_SWFResult_Info",
         "ChineseSimplified": "是否离开副本，显示结算？"
+      },
+      {
+        "ID": 2670,
+        "Key": "Text_Npc_Gomoku",
+        "ChineseSimplified": "五子棋"
+      },
+      {
+        "ID": 2671,
+        "Key": "Tips_OnClearCache",
+        "ChineseSimplified": "是否清除缓存数据，清除后游戏会关闭，需要手动启动？"
       },
       {
         "ID": 2700,
