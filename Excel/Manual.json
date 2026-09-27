@@ -45,6 +45,26 @@
               274.07996,
               0
             ]
+          },
+          {
+            "Index": 3,
+            "IndexIconID": 10013,
+            "IndexTextID": 10013,
+            "IsTransfer": true,
+            "TransferSceneID": 1,
+            "RewardID": 1001300,
+            "UnLockRewardID": 201,
+            "FlagID": 15107,
+            "Position": [
+              -41.99,
+              39.58,
+              70.48
+            ],
+            "Rotation": [
+              0,
+              26.424747,
+              0
+            ]
           }
         ]
       },
@@ -4156,6 +4176,17 @@
             "ShowItemID": 604
           },
           {
+            "ItemID": 1403506,
+            "NeedItems": [
+              1403106,
+              1403206,
+              1403306,
+              1403406,
+              1403506
+            ],
+            "ShowItemID": 604
+          },
+          {
             "ItemID": 1402501
           },
           {
@@ -4282,6 +4313,17 @@
             "ShowItemID": 603
           },
           {
+            "ItemID": 1403406,
+            "NeedItems": [
+              1403106,
+              1403206,
+              1403306,
+              1403406,
+              1403506
+            ],
+            "ShowItemID": 603
+          },
+          {
             "ItemID": 1402401
           },
           {
@@ -4399,6 +4441,17 @@
             "ShowItemID": 602
           },
           {
+            "ItemID": 1403306,
+            "NeedItems": [
+              1403106,
+              1403206,
+              1403306,
+              1403406,
+              1403506
+            ],
+            "ShowItemID": 602
+          },
+          {
             "ItemID": 1402301
           },
           {
@@ -4512,6 +4565,17 @@
               1402305,
               1402405,
               1402505
+            ],
+            "ShowItemID": 601
+          },
+          {
+            "ItemID": 1403206,
+            "NeedItems": [
+              1403106,
+              1403206,
+              1403306,
+              1403406,
+              1403506
             ],
             "ShowItemID": 601
           },
@@ -4642,6 +4706,17 @@
             "ShowItemID": 604
           },
           {
+            "ItemID": 1403506,
+            "NeedItems": [
+              1403106,
+              1403206,
+              1403306,
+              1403406,
+              1403506
+            ],
+            "ShowItemID": 604
+          },
+          {
             "ItemID": 1402501
           },
           {
@@ -4759,6 +4834,17 @@
             "ShowItemID": 603
           },
           {
+            "ItemID": 1403406,
+            "NeedItems": [
+              1403106,
+              1403206,
+              1403306,
+              1403406,
+              1403506
+            ],
+            "ShowItemID": 603
+          },
+          {
             "ItemID": 1402401
           },
           {
@@ -4872,6 +4958,17 @@
               1402305,
               1402405,
               1402505
+            ],
+            "ShowItemID": 602
+          },
+          {
+            "ItemID": 1403306,
+            "NeedItems": [
+              1403106,
+              1403206,
+              1403306,
+              1403406,
+              1403506
             ],
             "ShowItemID": 602
           },
@@ -7463,6 +7560,21 @@
         ]
       },
       {
+        "ID": 1001300,
+        "ManualRewardItems": [
+          {
+            "ItemID": 1,
+            "ShowNum": 300
+          },
+          {
+            "ItemID": 200101002
+          },
+          {
+            "ItemID": 200101001
+          }
+        ]
+      },
+      {
         "ID": 2001100,
         "ManualRewardItems": [
           {
@@ -9212,6 +9324,126 @@
           {
             "ItemID": 101,
             "ShowNum": 3000
+          }
+        ]
+      },
+      {
+        "ID": 1001301,
+        "ManualRewardItems": [
+          {
+            "ItemID": 1,
+            "ShowNum": 300
+          },
+          {
+            "ItemID": 200101002
+          }
+        ]
+      },
+      {
+        "ID": 1001302,
+        "ManualRewardItems": [
+          {
+            "ItemID": 1,
+            "ShowNum": 300
+          },
+          {
+            "ItemID": 200101002
+          }
+        ]
+      },
+      {
+        "ID": 1001303,
+        "ManualRewardItems": [
+          {
+            "ItemID": 1,
+            "ShowNum": 300
+          },
+          {
+            "ItemID": 200101002
+          }
+        ]
+      },
+      {
+        "ID": 1001304,
+        "ManualRewardItems": [
+          {
+            "ItemID": 1,
+            "ShowNum": 300
+          },
+          {
+            "ItemID": 200101001
+          }
+        ]
+      },
+      {
+        "ID": 1001305,
+        "ManualRewardItems": [
+          {
+            "ItemID": 1,
+            "ShowNum": 300
+          },
+          {
+            "ItemID": 200101001
+          }
+        ]
+      },
+      {
+        "ID": 1001306,
+        "ManualRewardItems": [
+          {
+            "ItemID": 1,
+            "ShowNum": 300
+          },
+          {
+            "ItemID": 200101001
+          }
+        ]
+      },
+      {
+        "ID": 1001307,
+        "ManualRewardItems": [
+          {
+            "ItemID": 1,
+            "ShowNum": 300
+          },
+          {
+            "ItemID": 200101001
+          }
+        ]
+      },
+      {
+        "ID": 1001308,
+        "ManualRewardItems": [
+          {
+            "ItemID": 1,
+            "ShowNum": 300
+          },
+          {
+            "ItemID": 200101000
+          }
+        ]
+      },
+      {
+        "ID": 1001309,
+        "ManualRewardItems": [
+          {
+            "ItemID": 1,
+            "ShowNum": 300
+          },
+          {
+            "ItemID": 200101000
+          }
+        ]
+      },
+      {
+        "ID": 1001310,
+        "ManualRewardItems": [
+          {
+            "ItemID": 1,
+            "ShowNum": 300
+          },
+          {
+            "ItemID": 200101000
           }
         ]
       },

@@ -305,6 +305,15 @@
         ]
       },
       {
+        "ID": 18300,
+        "TextID": 18300,
+        "IconID": 18300,
+        "GridID": 18300,
+        "ItemIDs": [
+          121
+        ]
+      },
+      {
         "ID": 19000,
         "TextID": 19000,
         "IconID": 19000,
@@ -3558,7 +3567,6 @@
           },
           {
             "GridID": 52,
-            "Index": 10,
             "ShopPoolID": 951,
             "BuyMaxCount": 1
           },
@@ -3600,7 +3608,6 @@
           },
           {
             "GridID": 59,
-            "Index": 5,
             "ShopPoolID": 958,
             "BuyMaxCount": 1
           },
@@ -3612,7 +3619,6 @@
           },
           {
             "GridID": 61,
-            "Index": 1,
             "ShopPoolID": 960,
             "BuyMaxCount": 1
           },
@@ -3631,13 +3637,13 @@
           },
           {
             "GridID": 68,
-            "Index": 1,
+            "Index": 31,
             "ShopPoolID": 967,
             "BuyMaxCount": 1
           },
           {
             "GridID": 69,
-            "Index": 1,
+            "Index": 32,
             "ShopPoolID": 968,
             "BuyMaxCount": 1
           },
@@ -5492,6 +5498,18 @@
             "Index": 11,
             "ShopPoolID": 18111,
             "BuyMaxCount": -1
+          },
+          {
+            "GridID": 12,
+            "Index": 12,
+            "ShopPoolID": 18112,
+            "BuyMaxCount": -1
+          },
+          {
+            "GridID": 13,
+            "Index": 13,
+            "ShopPoolID": 18113,
+            "BuyMaxCount": -1
           }
         ]
       },
@@ -5545,6 +5563,17 @@
             "Index": 8,
             "ShopPoolID": 18208,
             "BuyMaxCount": 1
+          }
+        ]
+      },
+      {
+        "ID": 18300,
+        "Items": [
+          {
+            "GridID": 1,
+            "Index": 1,
+            "ShopPoolID": 18301,
+            "BuyMaxCount": -1
           }
         ]
       },
@@ -7436,37 +7465,37 @@
             "GridID": 1,
             "Index": 1,
             "ShopPoolID": 20800,
-            "BuyMaxCount": 12
+            "BuyMaxCount": 1
           },
           {
             "GridID": 2,
             "Index": 2,
             "ShopPoolID": 20801,
-            "BuyMaxCount": 2
+            "BuyMaxCount": 1
           },
           {
             "GridID": 3,
             "Index": 3,
             "ShopPoolID": 20802,
-            "BuyMaxCount": 2
+            "BuyMaxCount": 1
           },
           {
             "GridID": 4,
             "Index": 4,
             "ShopPoolID": 20803,
-            "BuyMaxCount": 1
+            "BuyMaxCount": 12
           },
           {
             "GridID": 5,
             "Index": 5,
             "ShopPoolID": 20804,
-            "BuyMaxCount": 1
+            "BuyMaxCount": 2
           },
           {
             "GridID": 6,
             "Index": 6,
             "ShopPoolID": 20805,
-            "BuyMaxCount": 1
+            "BuyMaxCount": 2
           },
           {
             "GridID": 7,
@@ -7514,7 +7543,7 @@
             "GridID": 14,
             "Index": 14,
             "ShopPoolID": 20813,
-            "BuyMaxCount": 8
+            "BuyMaxCount": 1
           },
           {
             "GridID": 15,
@@ -7574,6 +7603,12 @@
             "GridID": 24,
             "Index": 24,
             "ShopPoolID": 20823,
+            "BuyMaxCount": 6
+          },
+          {
+            "GridID": 25,
+            "Index": 25,
+            "ShopPoolID": 20824,
             "BuyMaxCount": 5,
             "NewShopRefreshType": 2,
             "RefreshTime": [
@@ -15935,8 +15970,8 @@
             "Index": 1,
             "MinLevel": 1,
             "MaxLevel": 100,
-            "OpeningTime": "2026-01-08 00:00:00",
-            "ClosingTime": "2026-01-28 23:59:59",
+            "OpeningTime": "2026-09-24 00:00:00",
+            "ClosingTime": "2026-10-28 23:59:59",
             "Discount": 1,
             "ShowDiscount": 1,
             "ShopCurrencyItem": [
@@ -16088,8 +16123,8 @@
             "Index": 1,
             "MinLevel": 1,
             "MaxLevel": 100,
-            "OpeningTime": "2026-02-12 00:00:00",
-            "ClosingTime": "2026-02-25 00:00:00",
+            "OpeningTime": "2026-09-24 00:00:00",
+            "ClosingTime": "2026-10-28 23:59:59",
             "Discount": 1,
             "ShowDiscount": 1,
             "ShopCurrencyItem": [
@@ -16132,8 +16167,8 @@
             "Index": 1,
             "MinLevel": 1,
             "MaxLevel": 100,
-            "OpeningTime": "2026-03-12 00:00:00",
-            "ClosingTime": "2026-03-25 23:59:59",
+            "OpeningTime": "2026-09-24 00:00:00",
+            "ClosingTime": "2026-10-28 23:59:59",
             "Discount": 1,
             "ShowDiscount": 1,
             "ShopCurrencyItem": [
@@ -22800,7 +22835,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 121,
-                "Price": 800
+                "Price": 8000
               }
             ]
           }
@@ -22820,7 +22855,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 121,
-                "Price": 800
+                "Price": 8000
               }
             ]
           }
@@ -22840,7 +22875,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 121,
-                "Price": 800
+                "Price": 8000
               }
             ]
           }
@@ -22860,7 +22895,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 121,
-                "Price": 1200
+                "Price": 12000
               }
             ]
           }
@@ -22880,7 +22915,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 121,
-                "Price": 1200
+                "Price": 12000
               }
             ]
           }
@@ -22900,7 +22935,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 121,
-                "Price": 1200
+                "Price": 12000
               }
             ]
           }
@@ -22921,7 +22956,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 121,
-                "Price": 2000
+                "Price": 20000
               }
             ]
           }
@@ -22942,7 +22977,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 121,
-                "Price": 1000
+                "Price": 10000
               }
             ]
           }
@@ -22963,7 +22998,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 121,
-                "Price": 1000
+                "Price": 10000
               }
             ]
           }
@@ -22984,7 +23019,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 121,
-                "Price": 1000
+                "Price": 10000
               }
             ]
           }
@@ -23005,7 +23040,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 121,
-                "Price": 500
+                "Price": 5000
               }
             ]
           }
@@ -23013,6 +23048,48 @@
       },
       {
         "ID": 18112,
+        "Items": [
+          {
+            "ItemID": 5044010,
+            "IsRepeatedInBag": true,
+            "ItemNum": 1,
+            "Index": 1,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 121,
+                "Price": 60000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 18113,
+        "Items": [
+          {
+            "ItemID": 5044012,
+            "IsRepeatedInBag": true,
+            "ItemNum": 1,
+            "Index": 1,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 121,
+                "Price": 30000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 18114,
         "Items": [
           {
             "ItemID": 5044006,
@@ -23026,7 +23103,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 121,
-                "Price": 2000
+                "Price": 20000
               }
             ]
           }
@@ -23188,6 +23265,27 @@
               {
                 "CurrencyID": 125,
                 "Price": 60
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 18301,
+        "Items": [
+          {
+            "ItemID": 3007,
+            "IsRepeatedInBag": true,
+            "ItemNum": 1,
+            "Index": 1,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 121,
+                "Price": 2000
               }
             ]
           }
@@ -28903,10 +29001,31 @@
         "ID": 20800,
         "Items": [
           {
-            "ItemID": 102,
+            "ItemID": 1403506,
             "IsRepeatedInBag": true,
-            "ItemNum": 50,
+            "ItemNum": 1,
             "Index": 5,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 6053,
+                "Price": 20
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 20801,
+        "Items": [
+          {
+            "ItemID": 1001002,
+            "IsRepeatedInBag": true,
+            "ItemNum": 1,
+            "Index": 6,
             "MinLevel": 1,
             "MaxLevel": 100,
             "Discount": 1,
@@ -28921,31 +29040,10 @@
         ]
       },
       {
-        "ID": 20801,
-        "Items": [
-          {
-            "ItemID": 104,
-            "IsRepeatedInBag": true,
-            "ItemNum": 1,
-            "Index": 6,
-            "MinLevel": 1,
-            "MaxLevel": 100,
-            "Discount": 1,
-            "ShowDiscount": 1,
-            "ShopCurrencyItem": [
-              {
-                "CurrencyID": 6053,
-                "Price": 10
-              }
-            ]
-          }
-        ]
-      },
-      {
         "ID": 20802,
         "Items": [
           {
-            "ItemID": 110,
+            "ItemID": 1003004,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 7,
@@ -28956,7 +29054,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 6053,
-                "Price": 10
+                "Price": 15
               }
             ]
           }
@@ -28966,9 +29064,9 @@
         "ID": 20803,
         "Items": [
           {
-            "ItemID": 1001002,
+            "ItemID": 102,
             "IsRepeatedInBag": true,
-            "ItemNum": 1,
+            "ItemNum": 50,
             "Index": 8,
             "MinLevel": 1,
             "MaxLevel": 100,
@@ -28977,7 +29075,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 6053,
-                "Price": 20
+                "Price": 15
               }
             ]
           }
@@ -28987,7 +29085,7 @@
         "ID": 20804,
         "Items": [
           {
-            "ItemID": 1003004,
+            "ItemID": 104,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 9,
@@ -28998,7 +29096,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 6053,
-                "Price": 20
+                "Price": 5
               }
             ]
           }
@@ -29008,7 +29106,7 @@
         "ID": 20805,
         "Items": [
           {
-            "ItemID": 643027,
+            "ItemID": 110,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 10,
@@ -29029,7 +29127,7 @@
         "ID": 20806,
         "Items": [
           {
-            "ItemID": 643028,
+            "ItemID": 643027,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 11,
@@ -29050,7 +29148,7 @@
         "ID": 20807,
         "Items": [
           {
-            "ItemID": 643029,
+            "ItemID": 643028,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 12,
@@ -29071,7 +29169,7 @@
         "ID": 20808,
         "Items": [
           {
-            "ItemID": 643030,
+            "ItemID": 643029,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 13,
@@ -29092,7 +29190,7 @@
         "ID": 20809,
         "Items": [
           {
-            "ItemID": 260,
+            "ItemID": 643030,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 14,
@@ -29113,7 +29211,7 @@
         "ID": 20810,
         "Items": [
           {
-            "ItemID": 280,
+            "ItemID": 260,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 15,
@@ -29134,7 +29232,7 @@
         "ID": 20811,
         "Items": [
           {
-            "ItemID": 172,
+            "ItemID": 280,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 16,
@@ -29155,7 +29253,7 @@
         "ID": 20812,
         "Items": [
           {
-            "ItemID": 182,
+            "ItemID": 172,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 17,
@@ -29176,7 +29274,7 @@
         "ID": 20813,
         "Items": [
           {
-            "ItemID": 200100002,
+            "ItemID": 182,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 18,
@@ -29187,7 +29285,7 @@
             "ShopCurrencyItem": [
               {
                 "CurrencyID": 6053,
-                "Price": 2
+                "Price": 5
               }
             ]
           }
@@ -29197,7 +29295,7 @@
         "ID": 20814,
         "Items": [
           {
-            "ItemID": 200100003,
+            "ItemID": 200100002,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 19,
@@ -29218,7 +29316,7 @@
         "ID": 20815,
         "Items": [
           {
-            "ItemID": 200100004,
+            "ItemID": 200100003,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 20,
@@ -29239,7 +29337,7 @@
         "ID": 20816,
         "Items": [
           {
-            "ItemID": 200100005,
+            "ItemID": 200100004,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 21,
@@ -29260,7 +29358,7 @@
         "ID": 20817,
         "Items": [
           {
-            "ItemID": 5052009,
+            "ItemID": 200100005,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 22,
@@ -29281,7 +29379,7 @@
         "ID": 20818,
         "Items": [
           {
-            "ItemID": 5052014,
+            "ItemID": 5052009,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 23,
@@ -29302,7 +29400,7 @@
         "ID": 20819,
         "Items": [
           {
-            "ItemID": 5052011,
+            "ItemID": 5052014,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 24,
@@ -29323,7 +29421,7 @@
         "ID": 20820,
         "Items": [
           {
-            "ItemID": 5052019,
+            "ItemID": 5052011,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 25,
@@ -29344,7 +29442,7 @@
         "ID": 20821,
         "Items": [
           {
-            "ItemID": 5052018,
+            "ItemID": 5052019,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 26,
@@ -29365,7 +29463,7 @@
         "ID": 20822,
         "Items": [
           {
-            "ItemID": 5052020,
+            "ItemID": 5052018,
             "IsRepeatedInBag": true,
             "ItemNum": 1,
             "Index": 27,
@@ -29384,6 +29482,27 @@
       },
       {
         "ID": 20823,
+        "Items": [
+          {
+            "ItemID": 5052020,
+            "IsRepeatedInBag": true,
+            "ItemNum": 1,
+            "Index": 28,
+            "MinLevel": 1,
+            "MaxLevel": 100,
+            "Discount": 1,
+            "ShowDiscount": 1,
+            "ShopCurrencyItem": [
+              {
+                "CurrencyID": 6053,
+                "Price": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 20824,
         "Items": [
           {
             "ItemID": 401,

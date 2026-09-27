@@ -2142,21 +2142,18 @@
           4100062,
           4100162,
           4200372
-        ],
-        "NewSexType": 1
+        ]
       },
       {
         "ID": 4100282,
         "ItemID": 4100282,
         "AssetFullName": "Model/Fashion/Fashion_1028/Fashion_1028@hair_avatar",
-        "NewSexType": 1,
         "NewFashionType": 1
       },
       {
         "ID": 4100283,
         "ItemID": 4100283,
         "AssetFullName": "Model/Fashion/Fashion_1028/Fashion_1028@cloth_avatar",
-        "NewSexType": 1,
         "NewFashionType": 2
       },
       {
@@ -5133,6 +5130,32 @@
         "ItemID": 4201065,
         "AssetFullName": "Model/Fashion/Fashion_106/Fashion_106@pend_pelvis_avatar",
         "NewFashionType": 6
+      },
+      {
+        "ID": 4201081,
+        "ItemID": 4201081,
+        "AssetFullName": "Model/Fashion/Fashion_108/Fashion_108@hat_avatar",
+        "NewSexType": 2
+      },
+      {
+        "ID": 4201082,
+        "ItemID": 4201082,
+        "AssetFullName": "Model/Fashion/Fashion_108/Fashion_108@hair_avatar",
+        "NewSexType": 2,
+        "NewFashionType": 1
+      },
+      {
+        "ID": 4201083,
+        "ItemID": 4201083,
+        "AssetFullName": "Model/Fashion/Fashion_108/Fashion_108@cloth_avatar",
+        "NewSexType": 2,
+        "NewFashionType": 2
+      },
+      {
+        "ID": 4201084,
+        "ItemID": 4201084,
+        "AssetFullName": "Model/Fashion/Fashion_108/Fashion_108@pend_upface_avatar",
+        "NewFashionType": 7
       },
       {
         "ID": 4300011,

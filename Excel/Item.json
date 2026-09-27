@@ -2465,6 +2465,15 @@
         "NewUITag": 7
       },
       {
+        "ID": 3007,
+        "TextID": 3007,
+        "IconID": 3007,
+        "Quality": 1,
+        "IsShowNum": true,
+        "NewBagItemTag": 8,
+        "NewUITag": 7
+      },
+      {
         "ID": 4000,
         "TextID": 4000,
         "IconID": 4000,
@@ -33733,6 +33742,42 @@
         "NewBagItemTag": 21
       },
       {
+        "ID": 4201081,
+        "TextID": 4201081,
+        "IconID": 4201081,
+        "RelateID": 4201081,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4201082,
+        "TextID": 4201082,
+        "IconID": 4201082,
+        "RelateID": 4201082,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4201083,
+        "TextID": 4201083,
+        "IconID": 4201083,
+        "RelateID": 4201083,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
+        "ID": 4201084,
+        "TextID": 4201084,
+        "IconID": 4201084,
+        "RelateID": 4201084,
+        "Quality": 1,
+        "BgID": 7,
+        "NewBagItemTag": 21
+      },
+      {
         "ID": 4300011,
         "TextID": 4300011,
         "IconID": 4300011,
@@ -43699,6 +43744,33 @@
         "TextID": 5044009,
         "IconID": 5044009,
         "RelateID": 5044009,
+        "Quality": 1,
+        "IsShowNum": true,
+        "NewBagItemTag": 34
+      },
+      {
+        "ID": 5044010,
+        "TextID": 5044010,
+        "IconID": 5044010,
+        "RelateID": 5044010,
+        "Quality": 1,
+        "IsShowNum": true,
+        "NewBagItemTag": 34
+      },
+      {
+        "ID": 5044011,
+        "TextID": 5044011,
+        "IconID": 5044011,
+        "RelateID": 5044011,
+        "Quality": 1,
+        "IsShowNum": true,
+        "NewBagItemTag": 34
+      },
+      {
+        "ID": 5044012,
+        "TextID": 5044012,
+        "IconID": 5044012,
+        "RelateID": 5044012,
         "Quality": 1,
         "IsShowNum": true,
         "NewBagItemTag": 34

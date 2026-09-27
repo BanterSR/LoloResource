@@ -20912,6 +20912,8 @@
       },
       {
         "ID": 5043510,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5043510,
         "NeedFormulaItemID": 5043510,
         "MakeLevel": 1,
@@ -22578,6 +22580,8 @@
       },
       {
         "ID": 5043724,
+        "IsShow": true,
+        "IsHandbookShow": true,
         "NeedShowbookItemID": 5043724,
         "NeedFormulaItemID": 5043724,
         "MakeLevel": 1,
@@ -26534,6 +26538,44 @@
           {
             "AchieveConditionID": 150440081,
             "RewardID": 10210
+          }
+        ],
+        "NewMakePageType": 4
+      },
+      {
+        "ID": 5044012,
+        "IsShow": true,
+        "IsHandbookShow": true,
+        "NeedShowbookItemID": 5044012,
+        "NeedFormulaItemID": 5044012,
+        "MakeLevel": 1,
+        "NeedTime": 5,
+        "NeedItemID": 11,
+        "NeedItemCount": 50,
+        "MakeItems": [
+          {
+            "ItemID": 3007,
+            "ItemCount": 4
+          }
+        ],
+        "SuccessfulProbability": 0.9,
+        "GetItemID": 5044012,
+        "MakeAchieveRewards": [
+          {
+            "AchieveConditionID": 150440121,
+            "RewardID": 10210
+          },
+          {
+            "AchieveConditionID": 150440122,
+            "RewardID": 10220
+          },
+          {
+            "AchieveConditionID": 150440123,
+            "RewardID": 10330
+          },
+          {
+            "AchieveConditionID": 150440124,
+            "RewardID": 10340
           }
         ],
         "NewMakePageType": 4

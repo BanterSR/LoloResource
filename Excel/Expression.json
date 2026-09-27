@@ -269,6 +269,7 @@
             "Index": 1,
             "ActionID": 10043,
             "AchieveConditionID": 9010700,
+            "IsStudy": true,
             "MultiplayerID": 110010
           }
         ],
@@ -945,6 +946,7 @@
             "Index": 1,
             "ActionID": 3150,
             "AchieveConditionID": 9003150,
+            "IsShow": true,
             "IsStudy": true
           }
         ]
@@ -2483,6 +2485,21 @@
         "NewExpressionType": 4
       },
       {
+        "ID": 103150,
+        "TextID": 3150,
+        "IconID": 3150,
+        "ExpressionGroupInfo": [
+          {
+            "Index": 1,
+            "ActionID": 3150,
+            "AchieveConditionID": 9003150,
+            "IsShow": true,
+            "IsStudy": true
+          }
+        ],
+        "NewExpressionType": 4
+      },
+      {
         "ID": 103155,
         "TextID": 3155,
         "IconID": 3155,
@@ -3611,10 +3628,10 @@
       {
         "ID": 110010,
         "PlayerNumber": 2,
-        "ActionLevel": 2,
+        "ActionLevel": 1,
         "StarterPlayActionID": 10044,
         "RequesterPlayActionID": 10045,
-        "IntimacyLimit": 600,
+        "IntimacyLimit": -1,
         "RequesterPlayDistance": 0.8239
       }
     ]
