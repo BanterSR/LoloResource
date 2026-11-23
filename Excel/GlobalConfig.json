@@ -5,7 +5,7 @@
         "ID": 99999,
         "Key": "BuildHashCode",
         "Values": [
-          "11502190"
+          "44278789"
         ]
       },
       {
@@ -357,7 +357,7 @@
         "ID": 49,
         "Key": "ShopBuy_Item_MaxNum",
         "Values": [
-          "9999"
+          "1000"
         ]
       },
       {
@@ -1939,7 +1939,7 @@
         "ID": 3051,
         "Key": "GameCredits_WeekMax",
         "Values": [
-          "300000"
+          "5000000"
         ]
       },
       {
@@ -1951,7 +1951,8 @@
       },
       {
         "ID": 3053,
-        "Key": "GameCredits_WeekBonus"
+        "Key": "GameCredits_WeekBonus",
+        "Values": []
       },
       {
         "ID": 3054,
@@ -1962,11 +1963,13 @@
       },
       {
         "ID": 3055,
-        "Key": "GameCredits_WeekMag"
+        "Key": "GameCredits_WeekMag",
+        "Values": []
       },
       {
         "ID": 3056,
-        "Key": "GameCredits_DayMag"
+        "Key": "GameCredits_DayMag",
+        "Values": []
       },
       {
         "ID": 3057,
@@ -1987,6 +1990,13 @@
         "Key": "Gomoku_SubIndex",
         "Values": [
           "10040101"
+        ]
+      },
+      {
+        "ID": 3060,
+        "Key": "Gomoku_OnLine_FailTime",
+        "Values": [
+          "15"
         ]
       },
       {

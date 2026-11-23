@@ -255,7 +255,10 @@
       },
       {
         "ID": 10,
-        "UpgradeLevelByProficiency": 10000
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 0,
+        "NeedItemCount": 0,
+        "HandicraftLevelAchieve": []
       }
     ]
   },
@@ -265,9 +268,13 @@
         "ID": 5052001,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -279,7 +286,7 @@
             "ItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.8,
+        "SuccessfulProbability": 0.800000011920929,
         "GetItemID": 5052001,
         "HandicraftAchieveRewards": [
           {
@@ -299,15 +306,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052002,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -339,15 +352,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052003,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -359,7 +378,7 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.85,
+        "SuccessfulProbability": 0.8500000238418579,
         "GetItemID": 5052003,
         "HandicraftAchieveRewards": [
           {
@@ -379,15 +398,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052004,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -399,7 +424,7 @@
             "ItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.85,
+        "SuccessfulProbability": 0.8500000238418579,
         "GetItemID": 5052004,
         "HandicraftAchieveRewards": [
           {
@@ -419,15 +444,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052005,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -459,15 +490,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052006,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -479,7 +516,7 @@
             "ItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.8,
+        "SuccessfulProbability": 0.800000011920929,
         "GetItemID": 5052006,
         "HandicraftAchieveRewards": [
           {
@@ -499,15 +536,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052007,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -519,7 +562,7 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.9,
+        "SuccessfulProbability": 0.8999999761581421,
         "GetItemID": 5052007,
         "HandicraftAchieveRewards": [
           {
@@ -539,15 +582,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052008,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -559,7 +608,7 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.9,
+        "SuccessfulProbability": 0.8999999761581421,
         "GetItemID": 5052008,
         "HandicraftAchieveRewards": [
           {
@@ -579,15 +628,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052009,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -619,15 +674,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052010,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -659,15 +720,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052011,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -679,7 +746,7 @@
             "ItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.8,
+        "SuccessfulProbability": 0.800000011920929,
         "GetItemID": 5052011,
         "HandicraftAchieveRewards": [
           {
@@ -699,15 +766,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052012,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -719,7 +792,7 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.9,
+        "SuccessfulProbability": 0.8999999761581421,
         "GetItemID": 5052012,
         "HandicraftAchieveRewards": [
           {
@@ -739,15 +812,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052013,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -779,15 +858,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052014,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -799,7 +884,7 @@
             "ItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.85,
+        "SuccessfulProbability": 0.8500000238418579,
         "GetItemID": 5052014,
         "HandicraftAchieveRewards": [
           {
@@ -819,15 +904,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052015,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -859,15 +950,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052016,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -879,7 +976,7 @@
             "ItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.8,
+        "SuccessfulProbability": 0.800000011920929,
         "GetItemID": 5052016,
         "HandicraftAchieveRewards": [
           {
@@ -899,15 +996,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052017,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -919,7 +1022,7 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.9,
+        "SuccessfulProbability": 0.8999999761581421,
         "GetItemID": 5052017,
         "HandicraftAchieveRewards": [
           {
@@ -939,15 +1042,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052018,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -959,7 +1068,7 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.8,
+        "SuccessfulProbability": 0.800000011920929,
         "GetItemID": 5052018,
         "HandicraftAchieveRewards": [
           {
@@ -979,15 +1088,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052019,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -999,7 +1114,7 @@
             "ItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.85,
+        "SuccessfulProbability": 0.8500000238418579,
         "GetItemID": 5052019,
         "HandicraftAchieveRewards": [
           {
@@ -1019,15 +1134,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052020,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -1039,7 +1160,7 @@
             "ItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.9,
+        "SuccessfulProbability": 0.8999999761581421,
         "GetItemID": 5052020,
         "HandicraftAchieveRewards": [
           {
@@ -1059,15 +1180,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052021,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -1099,15 +1226,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052022,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -1139,15 +1272,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052023,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -1159,7 +1298,7 @@
             "ItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.85,
+        "SuccessfulProbability": 0.8500000238418579,
         "GetItemID": 5052023,
         "HandicraftAchieveRewards": [
           {
@@ -1179,15 +1318,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 5052024,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -1199,7 +1344,7 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.85,
+        "SuccessfulProbability": 0.8500000238418579,
         "GetItemID": 5052024,
         "HandicraftAchieveRewards": [
           {
@@ -1219,15 +1364,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 4
       },
       {
         "ID": 801,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1239,7 +1390,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 801,
         "HandicraftAchieveRewards": [
           {
@@ -1259,15 +1410,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 802,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1279,7 +1436,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 802,
         "HandicraftAchieveRewards": [
           {
@@ -1299,15 +1456,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 803,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1323,7 +1486,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 803,
         "HandicraftAchieveRewards": [
           {
@@ -1343,15 +1506,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 804,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1367,7 +1536,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 804,
         "HandicraftAchieveRewards": [
           {
@@ -1387,15 +1556,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 805,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1411,7 +1586,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 805,
         "HandicraftAchieveRewards": [
           {
@@ -1431,15 +1606,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 806,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1451,7 +1632,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 806,
         "HandicraftAchieveRewards": [
           {
@@ -1471,15 +1652,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 807,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1491,7 +1678,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 807,
         "HandicraftAchieveRewards": [
           {
@@ -1511,15 +1698,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 808,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1531,7 +1724,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 808,
         "HandicraftAchieveRewards": [
           {
@@ -1551,15 +1744,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 811,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1571,7 +1770,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 811,
         "HandicraftAchieveRewards": [
           {
@@ -1591,15 +1790,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 812,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1615,7 +1820,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 812,
         "HandicraftAchieveRewards": [
           {
@@ -1635,15 +1840,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 813,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1659,7 +1870,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 813,
         "HandicraftAchieveRewards": [
           {
@@ -1679,15 +1890,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 814,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1703,7 +1920,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 814,
         "HandicraftAchieveRewards": [
           {
@@ -1723,15 +1940,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 815,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1743,7 +1966,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 815,
         "HandicraftAchieveRewards": [
           {
@@ -1763,15 +1986,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 816,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1787,7 +2016,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 816,
         "HandicraftAchieveRewards": [
           {
@@ -1807,15 +2036,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 817,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1831,7 +2066,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 817,
         "HandicraftAchieveRewards": [
           {
@@ -1851,15 +2086,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 818,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1871,7 +2112,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 818,
         "HandicraftAchieveRewards": [
           {
@@ -1891,15 +2132,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 821,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1911,7 +2158,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 821,
         "HandicraftAchieveRewards": [
           {
@@ -1931,15 +2178,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 822,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1951,7 +2204,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 822,
         "HandicraftAchieveRewards": [
           {
@@ -1971,15 +2224,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 823,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -1995,7 +2254,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 823,
         "HandicraftAchieveRewards": [
           {
@@ -2015,15 +2274,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 824,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2039,7 +2304,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 824,
         "HandicraftAchieveRewards": [
           {
@@ -2059,15 +2324,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 825,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2083,7 +2354,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 825,
         "HandicraftAchieveRewards": [
           {
@@ -2103,15 +2374,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 826,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2127,7 +2404,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 826,
         "HandicraftAchieveRewards": [
           {
@@ -2147,15 +2424,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 827,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2171,7 +2454,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 827,
         "HandicraftAchieveRewards": [
           {
@@ -2191,15 +2474,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 828,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2215,7 +2504,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 828,
         "HandicraftAchieveRewards": [
           {
@@ -2235,15 +2524,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 831,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2255,7 +2550,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 831,
         "HandicraftAchieveRewards": [
           {
@@ -2275,15 +2570,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 832,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2299,7 +2600,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 832,
         "HandicraftAchieveRewards": [
           {
@@ -2319,15 +2620,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 833,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2343,7 +2650,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 833,
         "HandicraftAchieveRewards": [
           {
@@ -2363,15 +2670,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 834,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2387,7 +2700,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 834,
         "HandicraftAchieveRewards": [
           {
@@ -2407,15 +2720,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 835,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2431,7 +2750,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 835,
         "HandicraftAchieveRewards": [
           {
@@ -2451,15 +2770,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 836,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2475,7 +2800,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 836,
         "HandicraftAchieveRewards": [
           {
@@ -2495,15 +2820,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 837,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2515,7 +2846,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 837,
         "HandicraftAchieveRewards": [
           {
@@ -2535,15 +2866,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 838,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2559,7 +2896,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 838,
         "HandicraftAchieveRewards": [
           {
@@ -2579,15 +2916,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 841,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2599,7 +2942,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 841,
         "HandicraftAchieveRewards": [
           {
@@ -2619,15 +2962,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 842,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2643,7 +2992,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 842,
         "HandicraftAchieveRewards": [
           {
@@ -2663,15 +3012,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 843,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2687,7 +3042,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 843,
         "HandicraftAchieveRewards": [
           {
@@ -2707,15 +3062,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 844,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2727,7 +3088,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 844,
         "HandicraftAchieveRewards": [
           {
@@ -2747,15 +3108,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 845,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2771,7 +3138,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 845,
         "HandicraftAchieveRewards": [
           {
@@ -2791,15 +3158,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 846,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2815,7 +3188,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 846,
         "HandicraftAchieveRewards": [
           {
@@ -2835,15 +3208,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 847,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2859,7 +3238,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 847,
         "HandicraftAchieveRewards": [
           {
@@ -2879,15 +3258,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 848,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2907,7 +3292,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 848,
         "HandicraftAchieveRewards": [
           {
@@ -2927,15 +3312,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 851,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2947,7 +3338,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 851,
         "HandicraftAchieveRewards": [
           {
@@ -2967,15 +3358,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 852,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -2991,7 +3388,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 852,
         "HandicraftAchieveRewards": [
           {
@@ -3011,15 +3408,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 853,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3035,7 +3438,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 853,
         "HandicraftAchieveRewards": [
           {
@@ -3055,15 +3458,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 854,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3079,7 +3488,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 854,
         "HandicraftAchieveRewards": [
           {
@@ -3099,15 +3508,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 855,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3119,7 +3534,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 855,
         "HandicraftAchieveRewards": [
           {
@@ -3139,15 +3554,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 856,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3163,7 +3584,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 856,
         "HandicraftAchieveRewards": [
           {
@@ -3183,15 +3604,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 857,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3207,7 +3634,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 857,
         "HandicraftAchieveRewards": [
           {
@@ -3227,15 +3654,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 858,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3251,7 +3684,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 858,
         "HandicraftAchieveRewards": [
           {
@@ -3271,15 +3704,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 861,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3291,7 +3730,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 861,
         "HandicraftAchieveRewards": [
           {
@@ -3311,15 +3750,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 862,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3331,7 +3776,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 862,
         "HandicraftAchieveRewards": [
           {
@@ -3351,15 +3796,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 863,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3375,7 +3826,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 863,
         "HandicraftAchieveRewards": [
           {
@@ -3395,15 +3846,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 864,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3415,7 +3872,7 @@
             "ItemCount": 2
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 864,
         "HandicraftAchieveRewards": [
           {
@@ -3435,15 +3892,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 865,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3459,7 +3922,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 865,
         "HandicraftAchieveRewards": [
           {
@@ -3479,15 +3942,21 @@
             "RewardID": 10140
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 866,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3503,7 +3972,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 866,
         "HandicraftAchieveRewards": [
           {
@@ -3523,15 +3992,21 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 867,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3543,7 +4018,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 867,
         "HandicraftAchieveRewards": [
           {
@@ -3563,15 +4038,21 @@
             "RewardID": 10340
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 868,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3587,7 +4068,7 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 868,
         "HandicraftAchieveRewards": [
           {
@@ -3607,11 +4088,16 @@
             "RewardID": 10240
           }
         ],
+        "NewHandicraftToolType": 0,
+        "NewHandicraftType": 0,
         "NewHandicraftPageType": 5
       },
       {
         "ID": 6018,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
@@ -3632,17 +4118,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 6018,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000010,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3662,17 +4155,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100001,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000020,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3692,17 +4192,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100002,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000021,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3722,17 +4229,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100002,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000022,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3752,17 +4266,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100002,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000023,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3782,17 +4303,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100002,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000024,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3812,17 +4340,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100002,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000025,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3842,17 +4377,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100002,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000030,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3872,17 +4414,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100003,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000031,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3902,17 +4451,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100003,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000032,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3932,17 +4488,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100003,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000033,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3962,17 +4525,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100003,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000034,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -3992,17 +4562,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100003,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000035,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4022,17 +4599,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100003,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000040,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4052,17 +4636,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100004,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000041,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4082,17 +4673,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100004,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000042,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4112,17 +4710,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100004,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000043,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4142,17 +4747,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100004,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000044,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4172,17 +4784,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100004,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000045,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4202,17 +4821,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100004,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000050,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4232,17 +4858,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100005,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000051,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4262,17 +4895,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100005,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000052,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4292,17 +4932,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100005,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000053,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4322,17 +4969,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100005,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000054,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4352,17 +5006,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100005,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000055,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4382,17 +5043,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100005,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000060,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4412,17 +5080,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100006,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000061,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4438,17 +5113,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100006,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000062,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4464,17 +5146,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100006,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000063,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4490,17 +5179,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100006,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 2001000064,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 10,
         "HandicraftItems": [
           {
@@ -4516,17 +5212,24 @@
             "ItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 200100006,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 1102,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4534,17 +5237,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 1102,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 1103,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4552,17 +5262,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 1103,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 20200002,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -4570,17 +5287,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 20200002,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 20300002,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -4588,17 +5312,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 20300002,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 20500002,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 5,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 20,
         "HandicraftItems": [
           {
@@ -4606,19 +5337,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 20500002,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 6000080,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
-        "OpeningTime": "2025-10-23 00:00:00",
-        "ClosingTime": "2025-11-10 23:59:59",
+        "OpeningTime": "2026-10-29 15:00:00",
+        "ClosingTime": "2026-11-11 23:59:59",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4634,19 +5370,24 @@
             "ItemCount": 5
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 6000080,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 6000081,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
-        "OpeningTime": "2025-10-23 00:00:00",
-        "ClosingTime": "2025-11-10 23:59:59",
+        "OpeningTime": "2026-10-29 15:00:00",
+        "ClosingTime": "2026-11-11 23:59:59",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4662,19 +5403,24 @@
             "ItemCount": 4
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 6000080,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 6000082,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
-        "OpeningTime": "2025-10-23 00:00:00",
-        "ClosingTime": "2025-11-10 23:59:59",
+        "OpeningTime": "2026-10-29 15:00:00",
+        "ClosingTime": "2026-11-11 23:59:59",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4690,17 +5436,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 6000080,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 1
       },
       {
         "ID": 5000002,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4708,17 +5461,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 5000002,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 5000003,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4726,17 +5486,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 5000003,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 5000005,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4744,17 +5511,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 5000005,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 5000006,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4762,17 +5536,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 5000006,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 5000008,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4780,17 +5561,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 5000008,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 5000009,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4798,17 +5586,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 5000009,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 5000011,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4816,17 +5611,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 5000011,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 5000012,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4834,17 +5636,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 5000012,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 5000014,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4852,17 +5661,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 5000014,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 5000015,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4870,17 +5686,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 5000015,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 1001,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4888,17 +5711,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 1001,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 1002,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4906,17 +5736,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 1002,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 1003,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4924,17 +5761,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 1003,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 1011,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4942,17 +5786,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 1011,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 1012,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4960,17 +5811,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 1012,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 1013,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4978,17 +5836,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 1013,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 1021,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -4996,17 +5861,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 1021,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 1022,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -5014,17 +5886,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 1022,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 1023,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -5032,17 +5911,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 1023,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 1031,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -5050,17 +5936,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 1031,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 1032,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -5068,17 +5961,24 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 1032,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       },
       {
         "ID": 1033,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
+        "NeedFormulaItemID": 0,
         "HandicraftLevel": 1,
         "NeedTime": 3,
         "NeedItemID": 11,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemCount": 1,
         "HandicraftItems": [
           {
@@ -5086,8 +5986,10 @@
             "ItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 1033,
+        "HandicraftAchieveRewards": [],
+        "NewHandicraftToolType": 0,
         "NewHandicraftType": 1,
         "NewHandicraftPageType": 6
       }
@@ -5103,18 +6005,21 @@
             "IconID": 35100,
             "TextID": 35101,
             "NewLifeSpellEffectType": 17,
-            "SpellParam1": 0.01,
+            "SpellParam1": 0.009999999776482582,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 1,
             "NeedTime": 1800,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 1000
+            "NeedCurrencyCount": 1000,
+            "HandicraftNeedItem": []
           },
           {
             "Level": 2,
             "IconID": 35100,
             "TextID": 35102,
             "NewLifeSpellEffectType": 17,
-            "SpellParam1": 0.02,
+            "SpellParam1": 0.019999999552965164,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 2,
             "NeedTime": 3600,
             "NeedCurrencyID": 101,
@@ -5131,7 +6036,8 @@
             "IconID": 35100,
             "TextID": 35103,
             "NewLifeSpellEffectType": 17,
-            "SpellParam1": 0.03,
+            "SpellParam1": 0.029999999329447746,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 3,
             "NeedTime": 7200,
             "NeedCurrencyID": 101,
@@ -5148,7 +6054,8 @@
             "IconID": 35100,
             "TextID": 35104,
             "NewLifeSpellEffectType": 17,
-            "SpellParam1": 0.04,
+            "SpellParam1": 0.03999999910593033,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 4,
             "NeedTime": 14400,
             "NeedCurrencyID": 101,
@@ -5165,7 +6072,8 @@
             "IconID": 35100,
             "TextID": 35105,
             "NewLifeSpellEffectType": 17,
-            "SpellParam1": 0.05,
+            "SpellParam1": 0.05000000074505806,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 5,
             "NeedTime": 21600,
             "NeedCurrencyID": 101,
@@ -5182,7 +6090,8 @@
             "IconID": 35100,
             "TextID": 35106,
             "NewLifeSpellEffectType": 17,
-            "SpellParam1": 0.06,
+            "SpellParam1": 0.05999999865889549,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 6,
             "NeedTime": 32400,
             "NeedCurrencyID": 101,
@@ -5199,7 +6108,8 @@
             "IconID": 35100,
             "TextID": 35107,
             "NewLifeSpellEffectType": 17,
-            "SpellParam1": 0.07,
+            "SpellParam1": 0.07000000029802322,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 7,
             "NeedTime": 43200,
             "NeedCurrencyID": 101,
@@ -5216,7 +6126,8 @@
             "IconID": 35100,
             "TextID": 35108,
             "NewLifeSpellEffectType": 17,
-            "SpellParam1": 0.08,
+            "SpellParam1": 0.07999999821186066,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 8,
             "NeedTime": 86400,
             "NeedCurrencyID": 101,
@@ -5233,7 +6144,8 @@
             "IconID": 35100,
             "TextID": 35109,
             "NewLifeSpellEffectType": 17,
-            "SpellParam1": 0.09,
+            "SpellParam1": 0.09000000357627869,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 9,
             "NeedTime": 129600,
             "NeedCurrencyID": 101,
@@ -5250,7 +6162,8 @@
             "IconID": 35100,
             "TextID": 35110,
             "NewLifeSpellEffectType": 17,
-            "SpellParam1": 0.1,
+            "SpellParam1": 0.10000000149011612,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 10,
             "NeedTime": 259200,
             "NeedCurrencyID": 101,
@@ -5272,18 +6185,21 @@
             "IconID": 35200,
             "TextID": 35201,
             "NewLifeSpellEffectType": 21,
-            "SpellParam1": 0.01,
+            "SpellParam1": 0.009999999776482582,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 1,
             "NeedTime": 1800,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 1000
+            "NeedCurrencyCount": 1000,
+            "HandicraftNeedItem": []
           },
           {
             "Level": 2,
             "IconID": 35200,
             "TextID": 35202,
             "NewLifeSpellEffectType": 21,
-            "SpellParam1": 0.02,
+            "SpellParam1": 0.019999999552965164,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 2,
             "NeedTime": 3600,
             "NeedCurrencyID": 101,
@@ -5300,7 +6216,8 @@
             "IconID": 35200,
             "TextID": 35203,
             "NewLifeSpellEffectType": 21,
-            "SpellParam1": 0.03,
+            "SpellParam1": 0.029999999329447746,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 3,
             "NeedTime": 7200,
             "NeedCurrencyID": 101,
@@ -5317,7 +6234,8 @@
             "IconID": 35200,
             "TextID": 35204,
             "NewLifeSpellEffectType": 21,
-            "SpellParam1": 0.04,
+            "SpellParam1": 0.03999999910593033,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 4,
             "NeedTime": 14400,
             "NeedCurrencyID": 101,
@@ -5334,7 +6252,8 @@
             "IconID": 35200,
             "TextID": 35205,
             "NewLifeSpellEffectType": 21,
-            "SpellParam1": 0.05,
+            "SpellParam1": 0.05000000074505806,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 5,
             "NeedTime": 21600,
             "NeedCurrencyID": 101,
@@ -5351,7 +6270,8 @@
             "IconID": 35200,
             "TextID": 35206,
             "NewLifeSpellEffectType": 21,
-            "SpellParam1": 0.06,
+            "SpellParam1": 0.05999999865889549,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 6,
             "NeedTime": 32400,
             "NeedCurrencyID": 101,
@@ -5368,7 +6288,8 @@
             "IconID": 35200,
             "TextID": 35207,
             "NewLifeSpellEffectType": 21,
-            "SpellParam1": 0.07,
+            "SpellParam1": 0.07000000029802322,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 7,
             "NeedTime": 43200,
             "NeedCurrencyID": 101,
@@ -5385,7 +6306,8 @@
             "IconID": 35200,
             "TextID": 35208,
             "NewLifeSpellEffectType": 21,
-            "SpellParam1": 0.08,
+            "SpellParam1": 0.07999999821186066,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 8,
             "NeedTime": 86400,
             "NeedCurrencyID": 101,
@@ -5402,7 +6324,8 @@
             "IconID": 35200,
             "TextID": 35209,
             "NewLifeSpellEffectType": 21,
-            "SpellParam1": 0.09,
+            "SpellParam1": 0.09000000357627869,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 9,
             "NeedTime": 129600,
             "NeedCurrencyID": 101,
@@ -5419,7 +6342,8 @@
             "IconID": 35200,
             "TextID": 35210,
             "NewLifeSpellEffectType": 21,
-            "SpellParam1": 0.1,
+            "SpellParam1": 0.10000000149011612,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 10,
             "NeedTime": 259200,
             "NeedCurrencyID": 101,
@@ -5441,18 +6365,21 @@
             "IconID": 35300,
             "TextID": 35301,
             "NewLifeSpellEffectType": 22,
-            "SpellParam1": 0.02,
+            "SpellParam1": 0.019999999552965164,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 1,
             "NeedTime": 1800,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 1000
+            "NeedCurrencyCount": 1000,
+            "HandicraftNeedItem": []
           },
           {
             "Level": 2,
             "IconID": 35300,
             "TextID": 35302,
             "NewLifeSpellEffectType": 22,
-            "SpellParam1": 0.04,
+            "SpellParam1": 0.03999999910593033,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 2,
             "NeedTime": 3600,
             "NeedCurrencyID": 101,
@@ -5469,7 +6396,8 @@
             "IconID": 35300,
             "TextID": 35303,
             "NewLifeSpellEffectType": 22,
-            "SpellParam1": 0.06,
+            "SpellParam1": 0.05999999865889549,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 3,
             "NeedTime": 7200,
             "NeedCurrencyID": 101,
@@ -5486,7 +6414,8 @@
             "IconID": 35300,
             "TextID": 35304,
             "NewLifeSpellEffectType": 22,
-            "SpellParam1": 0.08,
+            "SpellParam1": 0.07999999821186066,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 4,
             "NeedTime": 14400,
             "NeedCurrencyID": 101,
@@ -5503,7 +6432,8 @@
             "IconID": 35300,
             "TextID": 35305,
             "NewLifeSpellEffectType": 22,
-            "SpellParam1": 0.1,
+            "SpellParam1": 0.10000000149011612,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 5,
             "NeedTime": 21600,
             "NeedCurrencyID": 101,
@@ -5520,7 +6450,8 @@
             "IconID": 35300,
             "TextID": 35306,
             "NewLifeSpellEffectType": 22,
-            "SpellParam1": 0.12,
+            "SpellParam1": 0.11999999731779099,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 6,
             "NeedTime": 32400,
             "NeedCurrencyID": 101,
@@ -5537,7 +6468,8 @@
             "IconID": 35300,
             "TextID": 35307,
             "NewLifeSpellEffectType": 22,
-            "SpellParam1": 0.14,
+            "SpellParam1": 0.14000000059604645,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 7,
             "NeedTime": 43200,
             "NeedCurrencyID": 101,
@@ -5554,7 +6486,8 @@
             "IconID": 35300,
             "TextID": 35308,
             "NewLifeSpellEffectType": 22,
-            "SpellParam1": 0.16,
+            "SpellParam1": 0.1599999964237213,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 8,
             "NeedTime": 86400,
             "NeedCurrencyID": 101,
@@ -5571,7 +6504,8 @@
             "IconID": 35300,
             "TextID": 35309,
             "NewLifeSpellEffectType": 22,
-            "SpellParam1": 0.18,
+            "SpellParam1": 0.18000000715255737,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 9,
             "NeedTime": 129600,
             "NeedCurrencyID": 101,
@@ -5588,7 +6522,8 @@
             "IconID": 35300,
             "TextID": 35310,
             "NewLifeSpellEffectType": 22,
-            "SpellParam1": 0.2,
+            "SpellParam1": 0.20000000298023224,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 10,
             "NeedTime": 259200,
             "NeedCurrencyID": 101,
@@ -5610,18 +6545,21 @@
             "IconID": 35400,
             "TextID": 35401,
             "NewLifeSpellEffectType": 23,
-            "SpellParam1": 1,
+            "SpellParam1": 1.0,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 1,
             "NeedTime": 1800,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 1000
+            "NeedCurrencyCount": 1000,
+            "HandicraftNeedItem": []
           },
           {
             "Level": 2,
             "IconID": 35400,
             "TextID": 35402,
             "NewLifeSpellEffectType": 23,
-            "SpellParam1": 2,
+            "SpellParam1": 2.0,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 2,
             "NeedTime": 3600,
             "NeedCurrencyID": 101,
@@ -5638,7 +6576,8 @@
             "IconID": 35400,
             "TextID": 35403,
             "NewLifeSpellEffectType": 23,
-            "SpellParam1": 3,
+            "SpellParam1": 3.0,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 3,
             "NeedTime": 7200,
             "NeedCurrencyID": 101,
@@ -5655,7 +6594,8 @@
             "IconID": 35400,
             "TextID": 35404,
             "NewLifeSpellEffectType": 23,
-            "SpellParam1": 4,
+            "SpellParam1": 4.0,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 4,
             "NeedTime": 14400,
             "NeedCurrencyID": 101,
@@ -5672,7 +6612,8 @@
             "IconID": 35400,
             "TextID": 35405,
             "NewLifeSpellEffectType": 23,
-            "SpellParam1": 5,
+            "SpellParam1": 5.0,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 5,
             "NeedTime": 21600,
             "NeedCurrencyID": 101,
@@ -5689,7 +6630,8 @@
             "IconID": 35400,
             "TextID": 35406,
             "NewLifeSpellEffectType": 23,
-            "SpellParam1": 6,
+            "SpellParam1": 6.0,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 6,
             "NeedTime": 32400,
             "NeedCurrencyID": 101,
@@ -5706,7 +6648,8 @@
             "IconID": 35400,
             "TextID": 35407,
             "NewLifeSpellEffectType": 23,
-            "SpellParam1": 7,
+            "SpellParam1": 7.0,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 7,
             "NeedTime": 43200,
             "NeedCurrencyID": 101,
@@ -5723,7 +6666,8 @@
             "IconID": 35400,
             "TextID": 35408,
             "NewLifeSpellEffectType": 23,
-            "SpellParam1": 8,
+            "SpellParam1": 8.0,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 8,
             "NeedTime": 86400,
             "NeedCurrencyID": 101,
@@ -5740,7 +6684,8 @@
             "IconID": 35400,
             "TextID": 35409,
             "NewLifeSpellEffectType": 23,
-            "SpellParam1": 9,
+            "SpellParam1": 9.0,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 9,
             "NeedTime": 129600,
             "NeedCurrencyID": 101,
@@ -5757,7 +6702,8 @@
             "IconID": 35400,
             "TextID": 35410,
             "NewLifeSpellEffectType": 23,
-            "SpellParam1": 10,
+            "SpellParam1": 10.0,
+            "SpellParam2": 0.0,
             "NeedHandicraftLevel": 10,
             "NeedTime": 259200,
             "NeedCurrencyID": 101,
@@ -5779,20 +6725,21 @@
             "IconID": 35500,
             "TextID": 35501,
             "NewLifeSpellEffectType": 24,
-            "SpellParam1": 0.1,
-            "SpellParam2": 1,
+            "SpellParam1": 0.10000000149011612,
+            "SpellParam2": 1.0,
             "NeedHandicraftLevel": 1,
             "NeedTime": 1800,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 1000
+            "NeedCurrencyCount": 1000,
+            "HandicraftNeedItem": []
           },
           {
             "Level": 2,
             "IconID": 35500,
             "TextID": 35502,
             "NewLifeSpellEffectType": 24,
-            "SpellParam1": 0.1,
-            "SpellParam2": 2,
+            "SpellParam1": 0.10000000149011612,
+            "SpellParam2": 2.0,
             "NeedHandicraftLevel": 2,
             "NeedTime": 3600,
             "NeedCurrencyID": 101,
@@ -5809,8 +6756,8 @@
             "IconID": 35500,
             "TextID": 35503,
             "NewLifeSpellEffectType": 24,
-            "SpellParam1": 0.1,
-            "SpellParam2": 3,
+            "SpellParam1": 0.10000000149011612,
+            "SpellParam2": 3.0,
             "NeedHandicraftLevel": 3,
             "NeedTime": 7200,
             "NeedCurrencyID": 101,
@@ -5827,8 +6774,8 @@
             "IconID": 35500,
             "TextID": 35504,
             "NewLifeSpellEffectType": 24,
-            "SpellParam1": 0.1,
-            "SpellParam2": 4,
+            "SpellParam1": 0.10000000149011612,
+            "SpellParam2": 4.0,
             "NeedHandicraftLevel": 4,
             "NeedTime": 14400,
             "NeedCurrencyID": 101,
@@ -5845,8 +6792,8 @@
             "IconID": 35500,
             "TextID": 35505,
             "NewLifeSpellEffectType": 24,
-            "SpellParam1": 0.1,
-            "SpellParam2": 5,
+            "SpellParam1": 0.10000000149011612,
+            "SpellParam2": 5.0,
             "NeedHandicraftLevel": 5,
             "NeedTime": 21600,
             "NeedCurrencyID": 101,
@@ -5863,8 +6810,8 @@
             "IconID": 35500,
             "TextID": 35506,
             "NewLifeSpellEffectType": 24,
-            "SpellParam1": 0.12,
-            "SpellParam2": 5,
+            "SpellParam1": 0.11999999731779099,
+            "SpellParam2": 5.0,
             "NeedHandicraftLevel": 6,
             "NeedTime": 32400,
             "NeedCurrencyID": 101,
@@ -5881,8 +6828,8 @@
             "IconID": 35500,
             "TextID": 35507,
             "NewLifeSpellEffectType": 24,
-            "SpellParam1": 0.14,
-            "SpellParam2": 5,
+            "SpellParam1": 0.14000000059604645,
+            "SpellParam2": 5.0,
             "NeedHandicraftLevel": 7,
             "NeedTime": 43200,
             "NeedCurrencyID": 101,
@@ -5899,8 +6846,8 @@
             "IconID": 35500,
             "TextID": 35508,
             "NewLifeSpellEffectType": 24,
-            "SpellParam1": 0.16,
-            "SpellParam2": 5,
+            "SpellParam1": 0.1599999964237213,
+            "SpellParam2": 5.0,
             "NeedHandicraftLevel": 8,
             "NeedTime": 86400,
             "NeedCurrencyID": 101,
@@ -5917,8 +6864,8 @@
             "IconID": 35500,
             "TextID": 35509,
             "NewLifeSpellEffectType": 24,
-            "SpellParam1": 0.18,
-            "SpellParam2": 5,
+            "SpellParam1": 0.18000000715255737,
+            "SpellParam2": 5.0,
             "NeedHandicraftLevel": 9,
             "NeedTime": 129600,
             "NeedCurrencyID": 101,
@@ -5935,8 +6882,8 @@
             "IconID": 35500,
             "TextID": 35510,
             "NewLifeSpellEffectType": 24,
-            "SpellParam1": 0.2,
-            "SpellParam2": 5,
+            "SpellParam1": 0.20000000298023224,
+            "SpellParam2": 5.0,
             "NeedHandicraftLevel": 10,
             "NeedTime": 259200,
             "NeedCurrencyID": 101,

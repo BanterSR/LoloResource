@@ -46,6 +46,7 @@
         "ActivityInviteQuestPoolItem": [
           {
             "AchieveID": 80601001,
+            "CompleteID": 0,
             "ActivityInvitePoolRewardItem": [
               {
                 "ItemID": 101,
@@ -1045,6 +1046,7 @@
           },
           {
             "AchieveID": 80601101,
+            "CompleteID": 0,
             "ActivityInvitePoolRewardItem": [
               {
                 "ItemID": 102,
@@ -2044,6 +2046,7 @@
           },
           {
             "AchieveID": 80601201,
+            "CompleteID": 0,
             "ActivityInvitePoolRewardItem": [
               {
                 "ItemID": 118,
@@ -3047,10 +3050,14 @@
         "ID": 6003,
         "ActivityInviteQuestPoolItem": [
           {
-            "AchieveID": 80601301
+            "AchieveID": 80601301,
+            "CompleteID": 0,
+            "ActivityInvitePoolRewardItem": []
           },
           {
-            "AchieveID": 80601302
+            "AchieveID": 80601302,
+            "CompleteID": 0,
+            "ActivityInvitePoolRewardItem": []
           }
         ]
       }

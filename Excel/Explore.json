@@ -10,6 +10,8 @@
         "QuickNeedItemCount": 1,
         "NeedSceneID": 1,
         "NeedPlayerLevel": 1,
+        "NeedItem": 0,
+        "NeedItemCount": 0,
         "ExploreAreaItem": [
           {
             "RewarItemID": 101
@@ -17,7 +19,8 @@
           {
             "RewarItemID": 109
           }
-        ]
+        ],
+        "NewExploreDifficulty": 0
       },
       {
         "ID": 10102,
@@ -28,6 +31,8 @@
         "QuickNeedItemCount": 1,
         "NeedSceneID": 1,
         "NeedPlayerLevel": 1,
+        "NeedItem": 0,
+        "NeedItemCount": 0,
         "ExploreAreaItem": [
           {
             "RewarItemID": 2070
@@ -41,7 +46,8 @@
           {
             "RewarItemID": 101
           }
-        ]
+        ],
+        "NewExploreDifficulty": 0
       },
       {
         "ID": 10201,

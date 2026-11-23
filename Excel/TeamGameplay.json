@@ -14,6 +14,7 @@
             "PlayerMin": 3,
             "PlayerMax": 16,
             "SubUIIndex": 1,
+            "ItemUnlock": 0,
             "NewPlayMode": 1,
             "RoomCost": [
               117,
@@ -35,6 +36,7 @@
             "PlayerMin": 3,
             "PlayerMax": 16,
             "SubUIIndex": 1,
+            "ItemUnlock": 0,
             "NewPlayMode": 2,
             "RoomCost": [
               117,
@@ -52,43 +54,63 @@
         "SubModeItems": [
           {
             "Index": 10010101,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010101.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010101.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10010102,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010102.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010102.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10010103,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010103.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010103.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10010104,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010104.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010104.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10010105,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010105.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010105.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10010106,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010106.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010106.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10010107,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010107.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010107.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10010108,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010108.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010108.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10010109,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010109.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010109.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10010110,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010110.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010110.prefab",
+            "NewGamePlayerStartType": 0
           }
         ]
       },
@@ -97,43 +119,63 @@
         "SubModeItems": [
           {
             "Index": 10020101,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020101.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020101.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10020102,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020102.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020102.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10020103,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020103.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020103.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10020104,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020104.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020104.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10020105,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020105.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020105.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10020106,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020106.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020106.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10020107,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020107.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020107.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10020108,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020108.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020108.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10020109,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020109.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020109.prefab",
+            "NewGamePlayerStartType": 0
           },
           {
             "Index": 10020110,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020110.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020110.prefab",
+            "NewGamePlayerStartType": 0
           }
         ]
       },
@@ -142,7 +184,9 @@
         "SubModeItems": [
           {
             "Index": 10030101,
-            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/SpearFight/SpearFight_10030101.prefab"
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/SpearFight/SpearFight_10030101.prefab",
+            "NewGamePlayerStartType": 0
           }
         ]
       },
@@ -150,7 +194,10 @@
         "ID": 100401,
         "SubModeItems": [
           {
-            "Index": 10040101
+            "Index": 10040101,
+            "Para": 0,
+            "AssetPath": "",
+            "NewGamePlayerStartType": 0
           }
         ]
       },
@@ -158,7 +205,10 @@
         "ID": 100501,
         "SubModeItems": [
           {
-            "Index": 10050101
+            "Index": 10050101,
+            "Para": 0,
+            "AssetPath": "",
+            "NewGamePlayerStartType": 0
           }
         ]
       },
@@ -166,7 +216,16 @@
         "ID": 100601,
         "SubModeItems": [
           {
-            "Index": 10060101
+            "Index": 10060101,
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/Collapse/坍塌地块1.prefab",
+            "NewGamePlayerStartType": 0
+          },
+          {
+            "Index": 10060102,
+            "Para": 0,
+            "AssetPath": "Assets/ResBundle/Level/MultiplayerChallenge/Collapse/坍塌地块1.prefab",
+            "NewGamePlayerStartType": 0
           }
         ]
       }

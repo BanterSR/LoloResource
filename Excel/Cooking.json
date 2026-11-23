@@ -270,7 +270,10 @@
       },
       {
         "ID": 10,
-        "UpgradeLevelByProficiency": 10000
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 0,
+        "NeedItemCount": 0,
+        "CookLevelQuest": []
       }
     ]
   },
@@ -280,8 +283,11 @@
         "ID": 5012001,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 4,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 3,
         "CookFoodItems": [
@@ -290,8 +296,9 @@
             "FoodItemCount": 2
           }
         ],
-        "SuccessfulProbability": 0.9,
+        "SuccessfulProbability": 0.8999999761581421,
         "GetItemID": 5012001,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150120011,
@@ -318,8 +325,11 @@
         "ID": 5012002,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 4,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 3,
         "CookFoodItems": [
@@ -328,8 +338,9 @@
             "FoodItemCount": 1
           }
         ],
-        "SuccessfulProbability": 0.92,
+        "SuccessfulProbability": 0.9200000166893005,
         "GetItemID": 5012002,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150120021,
@@ -356,8 +367,11 @@
         "ID": 5012003,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 4,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 3,
         "CookFoodItems": [
@@ -370,8 +384,9 @@
             "FoodItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.85,
+        "SuccessfulProbability": 0.8500000238418579,
         "GetItemID": 5012003,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150120031,
@@ -398,8 +413,11 @@
         "ID": 5012004,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 4,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 3,
         "CookFoodItems": [
@@ -412,8 +430,9 @@
             "FoodItemCount": 1
           }
         ],
-        "SuccessfulProbability": 0.86,
+        "SuccessfulProbability": 0.8600000143051147,
         "GetItemID": 5012004,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150120041,
@@ -440,8 +459,11 @@
         "ID": 5012005,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 4,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 3,
         "CookFoodItems": [
@@ -458,8 +480,9 @@
             "FoodItemCount": 1
           }
         ],
-        "SuccessfulProbability": 0.88,
+        "SuccessfulProbability": 0.8799999952316284,
         "GetItemID": 5012005,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150120051,
@@ -486,8 +509,11 @@
         "ID": 5012006,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 4,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 3,
         "CookFoodItems": [
@@ -500,8 +526,9 @@
             "FoodItemCount": 1
           }
         ],
-        "SuccessfulProbability": 0.94,
+        "SuccessfulProbability": 0.9399999976158142,
         "GetItemID": 5012006,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150120061,
@@ -528,8 +555,11 @@
         "ID": 5012007,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 4,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 3,
         "CookFoodItems": [
@@ -542,8 +572,9 @@
             "FoodItemCount": 1
           }
         ],
-        "SuccessfulProbability": 0.9,
+        "SuccessfulProbability": 0.8999999761581421,
         "GetItemID": 5012007,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150120071,
@@ -570,8 +601,11 @@
         "ID": 5012008,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 4,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 3,
         "CookFoodItems": [
@@ -584,8 +618,9 @@
             "FoodItemCount": 1
           }
         ],
-        "SuccessfulProbability": 0.85,
+        "SuccessfulProbability": 0.8500000238418579,
         "GetItemID": 5012008,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150120081,
@@ -612,8 +647,11 @@
         "ID": 5012009,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 4,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 3,
         "CookFoodItems": [
@@ -626,8 +664,9 @@
             "FoodItemCount": 1
           }
         ],
-        "SuccessfulProbability": 0.95,
+        "SuccessfulProbability": 0.949999988079071,
         "GetItemID": 5012009,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150120091,
@@ -654,8 +693,11 @@
         "ID": 5012010,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 4,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 3,
         "CookFoodItems": [
@@ -672,8 +714,9 @@
             "FoodItemCount": 2
           }
         ],
-        "SuccessfulProbability": 0.86,
+        "SuccessfulProbability": 0.8600000143051147,
         "GetItemID": 5012010,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150120101,
@@ -700,8 +743,11 @@
         "ID": 5012011,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 4,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 3,
         "CookFoodItems": [
@@ -710,8 +756,9 @@
             "FoodItemCount": 1
           }
         ],
-        "SuccessfulProbability": 0.93,
+        "SuccessfulProbability": 0.9300000071525574,
         "GetItemID": 5012011,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150120111,
@@ -738,8 +785,11 @@
         "ID": 5013007,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 10,
         "CookFoodItems": [
@@ -756,8 +806,9 @@
             "FoodItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.8,
+        "SuccessfulProbability": 0.800000011920929,
         "GetItemID": 5013007,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150130071,
@@ -777,14 +828,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013012,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 10,
         "CookFoodItems": [
@@ -801,8 +856,9 @@
             "FoodItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.85,
+        "SuccessfulProbability": 0.8500000238418579,
         "GetItemID": 5013012,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150130121,
@@ -822,14 +878,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013014,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 10,
         "CookFoodItems": [
@@ -850,8 +910,9 @@
             "FoodItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.8,
+        "SuccessfulProbability": 0.800000011920929,
         "GetItemID": 5013014,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150130141,
@@ -871,14 +932,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013016,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 10,
         "CookFoodItems": [
@@ -897,6 +962,7 @@
         ],
         "SuccessfulProbability": 0.75,
         "GetItemID": 5013016,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150130161,
@@ -916,14 +982,18 @@
           }
         ],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013019,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 10,
         "CookFoodItems": [
@@ -944,8 +1014,9 @@
             "FoodItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.78,
+        "SuccessfulProbability": 0.7799999713897705,
         "GetItemID": 5013019,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150130191,
@@ -965,14 +1036,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013023,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 10,
         "CookFoodItems": [
@@ -989,8 +1064,9 @@
             "FoodItemCount": 2
           }
         ],
-        "SuccessfulProbability": 0.8,
+        "SuccessfulProbability": 0.800000011920929,
         "GetItemID": 5013023,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150130231,
@@ -1010,14 +1086,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013026,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 10,
         "CookFoodItems": [
@@ -1038,8 +1118,9 @@
             "FoodItemCount": 2
           }
         ],
-        "SuccessfulProbability": 0.94,
+        "SuccessfulProbability": 0.9399999976158142,
         "GetItemID": 5013026,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150130261,
@@ -1059,14 +1140,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013034,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 10,
         "CookFoodItems": [
@@ -1087,8 +1172,9 @@
             "FoodItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.8,
+        "SuccessfulProbability": 0.800000011920929,
         "GetItemID": 5013034,
+        "NeedFormulaItemID": 0,
         "CookFoodQuestRewards": [
           {
             "AchieveConditionID": 150130341,
@@ -1108,14 +1194,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013001,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1132,7 +1222,7 @@
             "FoodItemCount": 4
           }
         ],
-        "SuccessfulProbability": 0.7,
+        "SuccessfulProbability": 0.699999988079071,
         "GetItemID": 5013001,
         "NeedFormulaItemID": 5023041,
         "CookFoodQuestRewards": [
@@ -1154,14 +1244,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013002,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1174,7 +1268,7 @@
             "FoodItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.71,
+        "SuccessfulProbability": 0.7099999785423279,
         "GetItemID": 5013002,
         "NeedFormulaItemID": 5023002,
         "CookFoodQuestRewards": [
@@ -1196,14 +1290,18 @@
           }
         ],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013003,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1220,7 +1318,7 @@
             "FoodItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.78,
+        "SuccessfulProbability": 0.7799999713897705,
         "GetItemID": 5013003,
         "NeedFormulaItemID": 5023001,
         "CookFoodQuestRewards": [
@@ -1242,14 +1340,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013004,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1266,7 +1368,7 @@
             "FoodItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.81,
+        "SuccessfulProbability": 0.8100000023841858,
         "GetItemID": 5013004,
         "NeedFormulaItemID": 5023003,
         "CookFoodQuestRewards": [
@@ -1288,14 +1390,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013005,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1312,7 +1418,7 @@
             "FoodItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.73,
+        "SuccessfulProbability": 0.7300000190734863,
         "GetItemID": 5013005,
         "NeedFormulaItemID": 5023004,
         "CookFoodQuestRewards": [
@@ -1334,14 +1440,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013006,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1362,7 +1472,7 @@
             "FoodItemCount": 6
           }
         ],
-        "SuccessfulProbability": 0.77,
+        "SuccessfulProbability": 0.7699999809265137,
         "GetItemID": 5013006,
         "NeedFormulaItemID": 5023042,
         "CookFoodQuestRewards": [
@@ -1384,14 +1494,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013008,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1408,7 +1522,7 @@
             "FoodItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.83,
+        "SuccessfulProbability": 0.8299999833106995,
         "GetItemID": 5013008,
         "NeedFormulaItemID": 5023005,
         "CookFoodQuestRewards": [
@@ -1430,14 +1544,18 @@
           }
         ],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013009,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1458,7 +1576,7 @@
             "FoodItemCount": 10
           }
         ],
-        "SuccessfulProbability": 0.7,
+        "SuccessfulProbability": 0.699999988079071,
         "GetItemID": 5013009,
         "NeedFormulaItemID": 5023004,
         "CookFoodQuestRewards": [
@@ -1480,14 +1598,18 @@
           }
         ],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013010,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1508,7 +1630,7 @@
             "FoodItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.84,
+        "SuccessfulProbability": 0.8399999737739563,
         "GetItemID": 5013010,
         "NeedFormulaItemID": 5023006,
         "CookFoodQuestRewards": [
@@ -1530,14 +1652,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013011,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1558,7 +1684,7 @@
             "FoodItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.84,
+        "SuccessfulProbability": 0.8399999737739563,
         "GetItemID": 5013011,
         "NeedFormulaItemID": 5023007,
         "CookFoodQuestRewards": [
@@ -1580,14 +1706,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013013,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1608,7 +1738,7 @@
             "FoodItemCount": 7
           }
         ],
-        "SuccessfulProbability": 0.69,
+        "SuccessfulProbability": 0.6899999976158142,
         "GetItemID": 5013013,
         "NeedFormulaItemID": 5023008,
         "CookFoodQuestRewards": [
@@ -1630,14 +1760,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013015,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1658,7 +1792,7 @@
             "FoodItemCount": 9
           }
         ],
-        "SuccessfulProbability": 0.82,
+        "SuccessfulProbability": 0.8199999928474426,
         "GetItemID": 5013015,
         "NeedFormulaItemID": 5023043,
         "CookFoodQuestRewards": [
@@ -1680,14 +1814,18 @@
           }
         ],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013017,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1708,7 +1846,7 @@
             "FoodItemCount": 7
           }
         ],
-        "SuccessfulProbability": 0.76,
+        "SuccessfulProbability": 0.7599999904632568,
         "GetItemID": 5013017,
         "NeedFormulaItemID": 5023009,
         "CookFoodQuestRewards": [
@@ -1730,14 +1868,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013018,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1758,7 +1900,7 @@
             "FoodItemCount": 12
           }
         ],
-        "SuccessfulProbability": 0.79,
+        "SuccessfulProbability": 0.7900000214576721,
         "GetItemID": 5013018,
         "NeedFormulaItemID": 5023010,
         "CookFoodQuestRewards": [
@@ -1780,14 +1922,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013020,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1808,7 +1954,7 @@
             "FoodItemCount": 12
           }
         ],
-        "SuccessfulProbability": 0.67,
+        "SuccessfulProbability": 0.6700000166893005,
         "GetItemID": 5013020,
         "NeedFormulaItemID": 5023011,
         "CookFoodQuestRewards": [
@@ -1830,14 +1976,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013021,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1858,7 +2008,7 @@
             "FoodItemCount": 8
           }
         ],
-        "SuccessfulProbability": 0.66,
+        "SuccessfulProbability": 0.6600000262260437,
         "GetItemID": 5013021,
         "NeedFormulaItemID": 5023012,
         "CookFoodQuestRewards": [
@@ -1880,14 +2030,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013022,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1900,7 +2054,7 @@
             "FoodItemCount": 7
           }
         ],
-        "SuccessfulProbability": 0.82,
+        "SuccessfulProbability": 0.8199999928474426,
         "GetItemID": 5013022,
         "NeedFormulaItemID": 5023007,
         "CookFoodQuestRewards": [
@@ -1922,14 +2076,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013024,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1950,7 +2108,7 @@
             "FoodItemCount": 9
           }
         ],
-        "SuccessfulProbability": 0.81,
+        "SuccessfulProbability": 0.8100000023841858,
         "GetItemID": 5013024,
         "NeedFormulaItemID": 5023045,
         "CookFoodQuestRewards": [
@@ -1972,14 +2130,18 @@
           }
         ],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013025,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -1996,7 +2158,7 @@
             "FoodItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.74,
+        "SuccessfulProbability": 0.7400000095367432,
         "GetItemID": 5013025,
         "NeedFormulaItemID": 5023006,
         "CookFoodQuestRewards": [
@@ -2018,14 +2180,18 @@
           }
         ],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013027,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2046,7 +2212,7 @@
             "FoodItemCount": 12
           }
         ],
-        "SuccessfulProbability": 0.84,
+        "SuccessfulProbability": 0.8399999737739563,
         "GetItemID": 5013027,
         "NeedFormulaItemID": 5023014,
         "CookFoodQuestRewards": [
@@ -2068,14 +2234,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013028,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2096,7 +2266,7 @@
             "FoodItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.73,
+        "SuccessfulProbability": 0.7300000190734863,
         "GetItemID": 5013028,
         "NeedFormulaItemID": 5023015,
         "CookFoodQuestRewards": [
@@ -2118,14 +2288,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013029,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2150,7 +2324,7 @@
             "FoodItemCount": 10
           }
         ],
-        "SuccessfulProbability": 0.73,
+        "SuccessfulProbability": 0.7300000190734863,
         "GetItemID": 5013029,
         "NeedFormulaItemID": 5023016,
         "CookFoodQuestRewards": [
@@ -2172,14 +2346,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013030,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2196,7 +2374,7 @@
             "FoodItemCount": 12
           }
         ],
-        "SuccessfulProbability": 0.67,
+        "SuccessfulProbability": 0.6700000166893005,
         "GetItemID": 5013030,
         "NeedFormulaItemID": 5023046,
         "CookFoodQuestRewards": [
@@ -2218,14 +2396,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013031,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2242,7 +2424,7 @@
             "FoodItemCount": 12
           }
         ],
-        "SuccessfulProbability": 0.77,
+        "SuccessfulProbability": 0.7699999809265137,
         "GetItemID": 5013031,
         "NeedFormulaItemID": 5023047,
         "CookFoodQuestRewards": [
@@ -2264,14 +2446,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013032,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2296,7 +2482,7 @@
             "FoodItemCount": 8
           }
         ],
-        "SuccessfulProbability": 0.84,
+        "SuccessfulProbability": 0.8399999737739563,
         "GetItemID": 5013032,
         "NeedFormulaItemID": 5023017,
         "CookFoodQuestRewards": [
@@ -2318,14 +2504,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013033,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2350,7 +2540,7 @@
             "FoodItemCount": 10
           }
         ],
-        "SuccessfulProbability": 0.67,
+        "SuccessfulProbability": 0.6700000166893005,
         "GetItemID": 5013033,
         "NeedFormulaItemID": 5023016,
         "CookFoodQuestRewards": [
@@ -2372,14 +2562,18 @@
           }
         ],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013035,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2404,7 +2598,7 @@
             "FoodItemCount": 8
           }
         ],
-        "SuccessfulProbability": 0.82,
+        "SuccessfulProbability": 0.8199999928474426,
         "GetItemID": 5013035,
         "NeedFormulaItemID": 5023043,
         "CookFoodQuestRewards": [
@@ -2426,14 +2620,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013036,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2458,7 +2656,7 @@
             "FoodItemCount": 12
           }
         ],
-        "SuccessfulProbability": 0.76,
+        "SuccessfulProbability": 0.7599999904632568,
         "GetItemID": 5013036,
         "NeedFormulaItemID": 5023018,
         "CookFoodQuestRewards": [
@@ -2480,14 +2678,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013037,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2508,7 +2710,7 @@
             "FoodItemCount": 3
           }
         ],
-        "SuccessfulProbability": 0.66,
+        "SuccessfulProbability": 0.6600000262260437,
         "GetItemID": 5013037,
         "NeedFormulaItemID": 5012003,
         "CookFoodQuestRewards": [
@@ -2530,14 +2732,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013038,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2562,7 +2768,7 @@
             "FoodItemCount": 10
           }
         ],
-        "SuccessfulProbability": 0.72,
+        "SuccessfulProbability": 0.7200000286102295,
         "GetItemID": 5013038,
         "NeedFormulaItemID": 5023019,
         "CookFoodQuestRewards": [
@@ -2584,14 +2790,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013039,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2616,7 +2826,7 @@
             "FoodItemCount": 8
           }
         ],
-        "SuccessfulProbability": 0.83,
+        "SuccessfulProbability": 0.8299999833106995,
         "GetItemID": 5013039,
         "NeedFormulaItemID": 5023020,
         "CookFoodQuestRewards": [
@@ -2638,14 +2848,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013040,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2666,7 +2880,7 @@
             "FoodItemCount": 7
           }
         ],
-        "SuccessfulProbability": 0.7,
+        "SuccessfulProbability": 0.699999988079071,
         "GetItemID": 5013040,
         "NeedFormulaItemID": 5023021,
         "CookFoodQuestRewards": [
@@ -2688,14 +2902,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013041,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2708,7 +2926,7 @@
             "FoodItemCount": 2
           }
         ],
-        "SuccessfulProbability": 0.76,
+        "SuccessfulProbability": 0.7599999904632568,
         "GetItemID": 5013041,
         "NeedFormulaItemID": 5023013,
         "CookFoodQuestRewards": [
@@ -2730,14 +2948,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013042,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2758,7 +2980,7 @@
             "FoodItemCount": 8
           }
         ],
-        "SuccessfulProbability": 0.83,
+        "SuccessfulProbability": 0.8299999833106995,
         "GetItemID": 5013042,
         "NeedFormulaItemID": 5023023,
         "CookFoodQuestRewards": [
@@ -2780,14 +3002,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013043,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2808,7 +3034,7 @@
             "FoodItemCount": 10
           }
         ],
-        "SuccessfulProbability": 0.69,
+        "SuccessfulProbability": 0.6899999976158142,
         "GetItemID": 5013043,
         "NeedFormulaItemID": 5023046,
         "CookFoodQuestRewards": [
@@ -2830,14 +3056,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013044,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2854,7 +3084,7 @@
             "FoodItemCount": 4
           }
         ],
-        "SuccessfulProbability": 0.81,
+        "SuccessfulProbability": 0.8100000023841858,
         "GetItemID": 5013044,
         "NeedFormulaItemID": 5023003,
         "CookFoodQuestRewards": [
@@ -2876,14 +3106,18 @@
           }
         ],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013045,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2908,7 +3142,7 @@
             "FoodItemCount": 8
           }
         ],
-        "SuccessfulProbability": 0.71,
+        "SuccessfulProbability": 0.7099999785423279,
         "GetItemID": 5013045,
         "NeedFormulaItemID": 5023021,
         "CookFoodQuestRewards": [
@@ -2930,14 +3164,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013046,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -2962,7 +3200,7 @@
             "FoodItemCount": 10
           }
         ],
-        "SuccessfulProbability": 0.77,
+        "SuccessfulProbability": 0.7699999809265137,
         "GetItemID": 5013046,
         "NeedFormulaItemID": 5023022,
         "CookFoodQuestRewards": [
@@ -2984,14 +3222,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013047,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3016,7 +3258,7 @@
             "FoodItemCount": 10
           }
         ],
-        "SuccessfulProbability": 0.77,
+        "SuccessfulProbability": 0.7699999809265137,
         "GetItemID": 5013047,
         "NeedFormulaItemID": 5023049,
         "CookFoodQuestRewards": [
@@ -3038,14 +3280,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013048,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3088,14 +3334,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013049,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3120,7 +3370,7 @@
             "FoodItemCount": 7
           }
         ],
-        "SuccessfulProbability": 0.68,
+        "SuccessfulProbability": 0.6800000071525574,
         "GetItemID": 5013049,
         "NeedFormulaItemID": 5023032,
         "CookFoodQuestRewards": [
@@ -3142,14 +3392,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013050,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3170,7 +3424,7 @@
             "FoodItemCount": 6
           }
         ],
-        "SuccessfulProbability": 0.66,
+        "SuccessfulProbability": 0.6600000262260437,
         "GetItemID": 5013050,
         "NeedFormulaItemID": 5023025,
         "CookFoodQuestRewards": [
@@ -3192,14 +3446,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013051,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3220,7 +3478,7 @@
             "FoodItemCount": 8
           }
         ],
-        "SuccessfulProbability": 0.82,
+        "SuccessfulProbability": 0.8199999928474426,
         "GetItemID": 5013051,
         "NeedFormulaItemID": 5023051,
         "CookFoodQuestRewards": [
@@ -3242,14 +3500,18 @@
           }
         ],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013052,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3274,7 +3536,7 @@
             "FoodItemCount": 12
           }
         ],
-        "SuccessfulProbability": 0.77,
+        "SuccessfulProbability": 0.7699999809265137,
         "GetItemID": 5013052,
         "NeedFormulaItemID": 5023026,
         "CookFoodQuestRewards": [
@@ -3296,14 +3558,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013053,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3328,7 +3594,7 @@
             "FoodItemCount": 8
           }
         ],
-        "SuccessfulProbability": 0.84,
+        "SuccessfulProbability": 0.8399999737739563,
         "GetItemID": 5013053,
         "NeedFormulaItemID": 5023050,
         "CookFoodQuestRewards": [
@@ -3350,14 +3616,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013054,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3382,7 +3652,7 @@
             "FoodItemCount": 7
           }
         ],
-        "SuccessfulProbability": 0.77,
+        "SuccessfulProbability": 0.7699999809265137,
         "GetItemID": 5013054,
         "NeedFormulaItemID": 5023048,
         "CookFoodQuestRewards": [
@@ -3404,14 +3674,18 @@
           }
         ],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013055,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3436,7 +3710,7 @@
             "FoodItemCount": 6
           }
         ],
-        "SuccessfulProbability": 0.68,
+        "SuccessfulProbability": 0.6800000071525574,
         "GetItemID": 5013055,
         "NeedFormulaItemID": 5023027,
         "CookFoodQuestRewards": [
@@ -3458,14 +3732,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013056,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3490,7 +3768,7 @@
             "FoodItemCount": 9
           }
         ],
-        "SuccessfulProbability": 0.74,
+        "SuccessfulProbability": 0.7400000095367432,
         "GetItemID": 5013056,
         "NeedFormulaItemID": 5023028,
         "CookFoodQuestRewards": [
@@ -3512,14 +3790,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013057,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3544,7 +3826,7 @@
             "FoodItemCount": 10
           }
         ],
-        "SuccessfulProbability": 0.84,
+        "SuccessfulProbability": 0.8399999737739563,
         "GetItemID": 5013057,
         "NeedFormulaItemID": 5023052,
         "CookFoodQuestRewards": [
@@ -3566,14 +3848,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013058,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3598,7 +3884,7 @@
             "FoodItemCount": 8
           }
         ],
-        "SuccessfulProbability": 0.7,
+        "SuccessfulProbability": 0.699999988079071,
         "GetItemID": 5013058,
         "NeedFormulaItemID": 5023029,
         "CookFoodQuestRewards": [
@@ -3620,14 +3906,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013059,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3652,7 +3942,7 @@
             "FoodItemCount": 7
           }
         ],
-        "SuccessfulProbability": 0.72,
+        "SuccessfulProbability": 0.7200000286102295,
         "GetItemID": 5013059,
         "NeedFormulaItemID": 5023032,
         "CookFoodQuestRewards": [
@@ -3674,14 +3964,18 @@
           }
         ],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013060,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3706,7 +4000,7 @@
             "FoodItemCount": 6
           }
         ],
-        "SuccessfulProbability": 0.76,
+        "SuccessfulProbability": 0.7599999904632568,
         "GetItemID": 5013060,
         "NeedFormulaItemID": 5023053,
         "CookFoodQuestRewards": [
@@ -3728,14 +4022,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013061,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3760,7 +4058,7 @@
             "FoodItemCount": 6
           }
         ],
-        "SuccessfulProbability": 0.77,
+        "SuccessfulProbability": 0.7699999809265137,
         "GetItemID": 5013061,
         "NeedFormulaItemID": 5012010,
         "CookFoodQuestRewards": [
@@ -3782,14 +4080,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013062,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3810,7 +4112,7 @@
             "FoodItemCount": 8
           }
         ],
-        "SuccessfulProbability": 0.78,
+        "SuccessfulProbability": 0.7799999713897705,
         "GetItemID": 5013062,
         "NeedFormulaItemID": 5023030,
         "CookFoodQuestRewards": [
@@ -3832,14 +4134,18 @@
           }
         ],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013063,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3860,7 +4166,7 @@
             "FoodItemCount": 10
           }
         ],
-        "SuccessfulProbability": 0.71,
+        "SuccessfulProbability": 0.7099999785423279,
         "GetItemID": 5013063,
         "NeedFormulaItemID": 5023031,
         "CookFoodQuestRewards": [
@@ -3882,14 +4188,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013064,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3914,7 +4224,7 @@
             "FoodItemCount": 11
           }
         ],
-        "SuccessfulProbability": 0.84,
+        "SuccessfulProbability": 0.8399999737739563,
         "GetItemID": 5013064,
         "NeedFormulaItemID": 5023036,
         "CookFoodQuestRewards": [
@@ -3936,14 +4246,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013065,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -3964,7 +4278,7 @@
             "FoodItemCount": 6
           }
         ],
-        "SuccessfulProbability": 0.81,
+        "SuccessfulProbability": 0.8100000023841858,
         "GetItemID": 5013065,
         "NeedFormulaItemID": 5011016,
         "CookFoodQuestRewards": [
@@ -3986,14 +4300,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013066,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -4018,7 +4336,7 @@
             "FoodItemCount": 8
           }
         ],
-        "SuccessfulProbability": 0.65,
+        "SuccessfulProbability": 0.6499999761581421,
         "GetItemID": 5013066,
         "NeedFormulaItemID": 5023033,
         "CookFoodQuestRewards": [
@@ -4040,14 +4358,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013067,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -4072,7 +4394,7 @@
             "FoodItemCount": 6
           }
         ],
-        "SuccessfulProbability": 0.71,
+        "SuccessfulProbability": 0.7099999785423279,
         "GetItemID": 5013067,
         "NeedFormulaItemID": 5023054,
         "CookFoodQuestRewards": [
@@ -4094,14 +4416,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013068,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -4126,7 +4452,7 @@
             "FoodItemCount": 12
           }
         ],
-        "SuccessfulProbability": 0.74,
+        "SuccessfulProbability": 0.7400000095367432,
         "GetItemID": 5013068,
         "NeedFormulaItemID": 5011008,
         "CookFoodQuestRewards": [
@@ -4148,14 +4474,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013069,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -4180,7 +4510,7 @@
             "FoodItemCount": 5
           }
         ],
-        "SuccessfulProbability": 0.71,
+        "SuccessfulProbability": 0.7099999785423279,
         "GetItemID": 5013069,
         "NeedFormulaItemID": 5023034,
         "CookFoodQuestRewards": [
@@ -4202,14 +4532,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013070,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -4234,7 +4568,7 @@
             "FoodItemCount": 10
           }
         ],
-        "SuccessfulProbability": 0.66,
+        "SuccessfulProbability": 0.6600000262260437,
         "GetItemID": 5013070,
         "NeedFormulaItemID": 5023035,
         "CookFoodQuestRewards": [
@@ -4256,14 +4590,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013071,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -4284,7 +4622,7 @@
             "FoodItemCount": 8
           }
         ],
-        "SuccessfulProbability": 0.66,
+        "SuccessfulProbability": 0.6600000262260437,
         "GetItemID": 5013071,
         "NeedFormulaItemID": 5023055,
         "CookFoodQuestRewards": [
@@ -4306,14 +4644,18 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013072,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -4330,7 +4672,7 @@
             "FoodItemCount": 10
           }
         ],
-        "SuccessfulProbability": 0.81,
+        "SuccessfulProbability": 0.8100000023841858,
         "GetItemID": 5013072,
         "NeedFormulaItemID": 5023037,
         "CookFoodQuestRewards": [
@@ -4352,14 +4694,18 @@
           }
         ],
         "NewCookPageType": 2,
+        "NewCookFoodType": 0,
         "NewCookToolType": 1
       },
       {
         "ID": 5013073,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -4380,7 +4726,7 @@
             "FoodItemCount": 12
           }
         ],
-        "SuccessfulProbability": 0.8,
+        "SuccessfulProbability": 0.800000011920929,
         "GetItemID": 5013073,
         "NeedFormulaItemID": 5023049,
         "CookFoodQuestRewards": [
@@ -4402,14 +4748,18 @@
           }
         ],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 5013074,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -4434,7 +4784,7 @@
             "FoodItemCount": 12
           }
         ],
-        "SuccessfulProbability": 0.77,
+        "SuccessfulProbability": 0.7699999809265137,
         "GetItemID": 5013074,
         "NeedFormulaItemID": 5023038,
         "CookFoodQuestRewards": [
@@ -4456,14 +4806,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013075,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -4484,7 +4838,7 @@
             "FoodItemCount": 10
           }
         ],
-        "SuccessfulProbability": 0.66,
+        "SuccessfulProbability": 0.6600000262260437,
         "GetItemID": 5013075,
         "NeedFormulaItemID": 5023039,
         "CookFoodQuestRewards": [
@@ -4506,14 +4860,18 @@
           }
         ],
         "NewCookPageType": 5,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 5013076,
         "IsShow": true,
         "IsHandbookShow": true,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "NeedItemID": 11,
         "NeedItemCount": 30,
         "CookFoodItems": [
@@ -4534,7 +4892,7 @@
             "FoodItemCount": 8
           }
         ],
-        "SuccessfulProbability": 0.81,
+        "SuccessfulProbability": 0.8100000023841858,
         "GetItemID": 5013076,
         "NeedFormulaItemID": 5023040,
         "CookFoodQuestRewards": [
@@ -4556,11 +4914,14 @@
           }
         ],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 6029,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
         "OpeningTime": "2026-01-07 23:59:59",
@@ -4581,14 +4942,19 @@
             "FoodItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 6029,
+        "NeedFormulaItemID": 0,
+        "CookFoodQuestRewards": [],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 6043,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
         "OpeningTime": "2026-02-26 00:00:00",
@@ -4609,18 +4975,23 @@
             "FoodItemCount": 3
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 6043,
+        "NeedFormulaItemID": 0,
+        "CookFoodQuestRewards": [],
         "NewCookPageType": 4,
+        "NewCookFoodType": 0,
         "NewCookToolType": 3
       },
       {
         "ID": 6049,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
         "OpeningTime": "2026-09-24 05:00:00",
-        "ClosingTime": "2026-10-08 23:59:59",
+        "ClosingTime": "2026-10-15 23:59:59",
         "NeedItemID": 11,
         "NeedItemCount": 1,
         "CookFoodItems": [
@@ -4637,18 +5008,23 @@
             "FoodItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 6049,
+        "NeedFormulaItemID": 0,
+        "CookFoodQuestRewards": [],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 6050,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
         "OpeningTime": "2026-09-24 05:00:00",
-        "ClosingTime": "2026-10-08 23:59:59",
+        "ClosingTime": "2026-10-15 23:59:59",
         "NeedItemID": 11,
         "NeedItemCount": 1,
         "CookFoodItems": [
@@ -4665,18 +5041,23 @@
             "FoodItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 6050,
+        "NeedFormulaItemID": 0,
+        "CookFoodQuestRewards": [],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 6051,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
         "OpeningTime": "2026-09-24 05:00:00",
-        "ClosingTime": "2026-10-08 23:59:59",
+        "ClosingTime": "2026-10-15 23:59:59",
         "NeedItemID": 11,
         "NeedItemCount": 1,
         "CookFoodItems": [
@@ -4693,18 +5074,23 @@
             "FoodItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 6051,
+        "NeedFormulaItemID": 0,
+        "CookFoodQuestRewards": [],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 6052,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
         "OpeningTime": "2026-09-24 05:00:00",
-        "ClosingTime": "2026-10-08 23:59:59",
+        "ClosingTime": "2026-10-15 23:59:59",
         "NeedItemID": 11,
         "NeedItemCount": 1,
         "CookFoodItems": [
@@ -4721,18 +5107,23 @@
             "FoodItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 6052,
+        "NeedFormulaItemID": 0,
+        "CookFoodQuestRewards": [],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       },
       {
         "ID": 6053,
         "IsShow": true,
+        "IsHandbookShow": false,
+        "NeedShowbookItemID": 0,
         "CookLevel": 1,
         "NeedTime": 5,
         "OpeningTime": "2026-09-24 05:00:00",
-        "ClosingTime": "2026-10-08 23:59:59",
+        "ClosingTime": "2026-10-15 23:59:59",
         "NeedItemID": 11,
         "NeedItemCount": 1,
         "CookFoodItems": [
@@ -4753,9 +5144,12 @@
             "FoodItemCount": 1
           }
         ],
-        "SuccessfulProbability": 1,
+        "SuccessfulProbability": 1.0,
         "GetItemID": 6053,
+        "NeedFormulaItemID": 0,
+        "CookFoodQuestRewards": [],
         "NewCookPageType": 3,
+        "NewCookFoodType": 0,
         "NewCookToolType": 2
       }
     ]
@@ -5312,17 +5706,22 @@
             "Level": 1,
             "IconID": 31100,
             "TextID": 30101,
-            "SpellParam1": 0.01,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.009999999776482582,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 1,
             "NeedTime": 1800,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 1000
+            "NeedCurrencyCount": 1000,
+            "CookNeedItem": []
           },
           {
             "Level": 2,
             "IconID": 31100,
             "TextID": 30102,
-            "SpellParam1": 0.02,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.019999999552965164,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 2,
             "NeedTime": 3600,
             "NeedCurrencyID": 101,
@@ -5338,7 +5737,9 @@
             "Level": 3,
             "IconID": 31100,
             "TextID": 30103,
-            "SpellParam1": 0.03,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.029999999329447746,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 3,
             "NeedTime": 7200,
             "NeedCurrencyID": 101,
@@ -5354,7 +5755,9 @@
             "Level": 4,
             "IconID": 31100,
             "TextID": 30104,
-            "SpellParam1": 0.04,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.03999999910593033,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 4,
             "NeedTime": 14400,
             "NeedCurrencyID": 101,
@@ -5370,7 +5773,9 @@
             "Level": 5,
             "IconID": 31100,
             "TextID": 30105,
-            "SpellParam1": 0.05,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.05000000074505806,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 5,
             "NeedTime": 21600,
             "NeedCurrencyID": 101,
@@ -5386,7 +5791,9 @@
             "Level": 6,
             "IconID": 31100,
             "TextID": 30106,
-            "SpellParam1": 0.06,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.05999999865889549,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 6,
             "NeedTime": 32400,
             "NeedCurrencyID": 101,
@@ -5402,7 +5809,9 @@
             "Level": 7,
             "IconID": 31100,
             "TextID": 30107,
-            "SpellParam1": 0.07,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.07000000029802322,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 7,
             "NeedTime": 43200,
             "NeedCurrencyID": 101,
@@ -5418,7 +5827,9 @@
             "Level": 8,
             "IconID": 31100,
             "TextID": 30108,
-            "SpellParam1": 0.08,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.07999999821186066,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 8,
             "NeedTime": 86400,
             "NeedCurrencyID": 101,
@@ -5434,7 +5845,9 @@
             "Level": 9,
             "IconID": 31100,
             "TextID": 30109,
-            "SpellParam1": 0.09,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.09000000357627869,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 9,
             "NeedTime": 129600,
             "NeedCurrencyID": 101,
@@ -5450,7 +5863,9 @@
             "Level": 10,
             "IconID": 31100,
             "TextID": 30110,
-            "SpellParam1": 0.1,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.10000000149011612,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 10,
             "NeedTime": 259200,
             "NeedCurrencyID": 101,
@@ -5472,18 +5887,21 @@
             "IconID": 31200,
             "TextID": 30201,
             "NewLifeSpellEffectType": 1,
-            "SpellParam1": 0.01,
+            "SpellParam1": 0.009999999776482582,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 1,
             "NeedTime": 1800,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 1000
+            "NeedCurrencyCount": 1000,
+            "CookNeedItem": []
           },
           {
             "Level": 2,
             "IconID": 31200,
             "TextID": 30202,
             "NewLifeSpellEffectType": 1,
-            "SpellParam1": 0.02,
+            "SpellParam1": 0.019999999552965164,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 2,
             "NeedTime": 3600,
             "NeedCurrencyID": 101,
@@ -5500,7 +5918,8 @@
             "IconID": 31200,
             "TextID": 30203,
             "NewLifeSpellEffectType": 1,
-            "SpellParam1": 0.03,
+            "SpellParam1": 0.029999999329447746,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 3,
             "NeedTime": 7200,
             "NeedCurrencyID": 101,
@@ -5517,7 +5936,8 @@
             "IconID": 31200,
             "TextID": 30204,
             "NewLifeSpellEffectType": 1,
-            "SpellParam1": 0.04,
+            "SpellParam1": 0.03999999910593033,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 4,
             "NeedTime": 14400,
             "NeedCurrencyID": 101,
@@ -5534,7 +5954,8 @@
             "IconID": 31200,
             "TextID": 30205,
             "NewLifeSpellEffectType": 1,
-            "SpellParam1": 0.05,
+            "SpellParam1": 0.05000000074505806,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 5,
             "NeedTime": 21600,
             "NeedCurrencyID": 101,
@@ -5551,7 +5972,8 @@
             "IconID": 31200,
             "TextID": 30206,
             "NewLifeSpellEffectType": 1,
-            "SpellParam1": 0.06,
+            "SpellParam1": 0.05999999865889549,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 6,
             "NeedTime": 32400,
             "NeedCurrencyID": 101,
@@ -5568,7 +5990,8 @@
             "IconID": 31200,
             "TextID": 30207,
             "NewLifeSpellEffectType": 1,
-            "SpellParam1": 0.07,
+            "SpellParam1": 0.07000000029802322,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 7,
             "NeedTime": 43200,
             "NeedCurrencyID": 101,
@@ -5585,7 +6008,8 @@
             "IconID": 31200,
             "TextID": 30208,
             "NewLifeSpellEffectType": 1,
-            "SpellParam1": 0.08,
+            "SpellParam1": 0.07999999821186066,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 8,
             "NeedTime": 86400,
             "NeedCurrencyID": 101,
@@ -5602,7 +6026,8 @@
             "IconID": 31200,
             "TextID": 30209,
             "NewLifeSpellEffectType": 1,
-            "SpellParam1": 0.09,
+            "SpellParam1": 0.09000000357627869,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 9,
             "NeedTime": 129600,
             "NeedCurrencyID": 101,
@@ -5619,7 +6044,8 @@
             "IconID": 31200,
             "TextID": 30210,
             "NewLifeSpellEffectType": 1,
-            "SpellParam1": 0.1,
+            "SpellParam1": 0.10000000149011612,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 10,
             "NeedTime": 259200,
             "NeedCurrencyID": 101,
@@ -5641,18 +6067,21 @@
             "IconID": 31300,
             "TextID": 30301,
             "NewLifeSpellEffectType": 2,
-            "SpellParam1": 0.1,
+            "SpellParam1": 0.10000000149011612,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 1,
             "NeedTime": 1800,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 1000
+            "NeedCurrencyCount": 1000,
+            "CookNeedItem": []
           },
           {
             "Level": 2,
             "IconID": 31300,
             "TextID": 30302,
             "NewLifeSpellEffectType": 2,
-            "SpellParam1": 0.15,
+            "SpellParam1": 0.15000000596046448,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 2,
             "NeedTime": 3600,
             "NeedCurrencyID": 101,
@@ -5669,7 +6098,8 @@
             "IconID": 31300,
             "TextID": 30303,
             "NewLifeSpellEffectType": 2,
-            "SpellParam1": 0.2,
+            "SpellParam1": 0.20000000298023224,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 3,
             "NeedTime": 7200,
             "NeedCurrencyID": 101,
@@ -5687,6 +6117,7 @@
             "TextID": 30304,
             "NewLifeSpellEffectType": 2,
             "SpellParam1": 0.25,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 4,
             "NeedTime": 14400,
             "NeedCurrencyID": 101,
@@ -5703,7 +6134,8 @@
             "IconID": 31300,
             "TextID": 30305,
             "NewLifeSpellEffectType": 2,
-            "SpellParam1": 0.3,
+            "SpellParam1": 0.30000001192092896,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 5,
             "NeedTime": 21600,
             "NeedCurrencyID": 101,
@@ -5720,7 +6152,8 @@
             "IconID": 31300,
             "TextID": 30306,
             "NewLifeSpellEffectType": 2,
-            "SpellParam1": 0.35,
+            "SpellParam1": 0.3499999940395355,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 6,
             "NeedTime": 32400,
             "NeedCurrencyID": 101,
@@ -5737,7 +6170,8 @@
             "IconID": 31300,
             "TextID": 30307,
             "NewLifeSpellEffectType": 2,
-            "SpellParam1": 0.4,
+            "SpellParam1": 0.4000000059604645,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 7,
             "NeedTime": 43200,
             "NeedCurrencyID": 101,
@@ -5754,7 +6188,8 @@
             "IconID": 31300,
             "TextID": 30308,
             "NewLifeSpellEffectType": 2,
-            "SpellParam1": 0.45,
+            "SpellParam1": 0.44999998807907104,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 8,
             "NeedTime": 86400,
             "NeedCurrencyID": 101,
@@ -5772,6 +6207,7 @@
             "TextID": 30309,
             "NewLifeSpellEffectType": 2,
             "SpellParam1": 0.5,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 9,
             "NeedTime": 129600,
             "NeedCurrencyID": 101,
@@ -5788,7 +6224,8 @@
             "IconID": 31300,
             "TextID": 30310,
             "NewLifeSpellEffectType": 2,
-            "SpellParam1": 0.55,
+            "SpellParam1": 0.550000011920929,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 10,
             "NeedTime": 259200,
             "NeedCurrencyID": 101,
@@ -5810,18 +6247,21 @@
             "IconID": 31400,
             "TextID": 30401,
             "NewLifeSpellEffectType": 3,
-            "SpellParam1": 0.05,
+            "SpellParam1": 0.05000000074505806,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 1,
             "NeedTime": 1800,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 1000
+            "NeedCurrencyCount": 1000,
+            "CookNeedItem": []
           },
           {
             "Level": 2,
             "IconID": 31400,
             "TextID": 30402,
             "NewLifeSpellEffectType": 3,
-            "SpellParam1": 0.07,
+            "SpellParam1": 0.07000000029802322,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 2,
             "NeedTime": 3600,
             "NeedCurrencyID": 101,
@@ -5838,7 +6278,8 @@
             "IconID": 31400,
             "TextID": 30403,
             "NewLifeSpellEffectType": 3,
-            "SpellParam1": 0.09,
+            "SpellParam1": 0.09000000357627869,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 3,
             "NeedTime": 7200,
             "NeedCurrencyID": 101,
@@ -5855,7 +6296,8 @@
             "IconID": 31400,
             "TextID": 30404,
             "NewLifeSpellEffectType": 3,
-            "SpellParam1": 0.11,
+            "SpellParam1": 0.10999999940395355,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 4,
             "NeedTime": 14400,
             "NeedCurrencyID": 101,
@@ -5872,7 +6314,8 @@
             "IconID": 31400,
             "TextID": 30405,
             "NewLifeSpellEffectType": 3,
-            "SpellParam1": 0.13,
+            "SpellParam1": 0.12999999523162842,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 5,
             "NeedTime": 21600,
             "NeedCurrencyID": 101,
@@ -5889,7 +6332,8 @@
             "IconID": 31400,
             "TextID": 30406,
             "NewLifeSpellEffectType": 3,
-            "SpellParam1": 0.15,
+            "SpellParam1": 0.15000000596046448,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 6,
             "NeedTime": 32400,
             "NeedCurrencyID": 101,
@@ -5906,7 +6350,8 @@
             "IconID": 31400,
             "TextID": 30407,
             "NewLifeSpellEffectType": 3,
-            "SpellParam1": 0.17,
+            "SpellParam1": 0.17000000178813934,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 7,
             "NeedTime": 43200,
             "NeedCurrencyID": 101,
@@ -5923,7 +6368,8 @@
             "IconID": 31400,
             "TextID": 30408,
             "NewLifeSpellEffectType": 3,
-            "SpellParam1": 0.19,
+            "SpellParam1": 0.1899999976158142,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 8,
             "NeedTime": 86400,
             "NeedCurrencyID": 101,
@@ -5940,7 +6386,8 @@
             "IconID": 31400,
             "TextID": 30409,
             "NewLifeSpellEffectType": 3,
-            "SpellParam1": 0.21,
+            "SpellParam1": 0.20999999344348907,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 9,
             "NeedTime": 129600,
             "NeedCurrencyID": 101,
@@ -5957,7 +6404,8 @@
             "IconID": 31400,
             "TextID": 30410,
             "NewLifeSpellEffectType": 3,
-            "SpellParam1": 0.23,
+            "SpellParam1": 0.23000000417232513,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 10,
             "NeedTime": 259200,
             "NeedCurrencyID": 101,
@@ -5979,18 +6427,21 @@
             "IconID": 31500,
             "TextID": 30501,
             "NewLifeSpellEffectType": 4,
-            "SpellParam1": 0.05,
+            "SpellParam1": 0.05000000074505806,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 1,
             "NeedTime": 1800,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 1000
+            "NeedCurrencyCount": 1000,
+            "CookNeedItem": []
           },
           {
             "Level": 2,
             "IconID": 31500,
             "TextID": 30502,
             "NewLifeSpellEffectType": 4,
-            "SpellParam1": 0.1,
+            "SpellParam1": 0.10000000149011612,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 2,
             "NeedTime": 3600,
             "NeedCurrencyID": 101,
@@ -6007,7 +6458,8 @@
             "IconID": 31500,
             "TextID": 30503,
             "NewLifeSpellEffectType": 4,
-            "SpellParam1": 0.15,
+            "SpellParam1": 0.15000000596046448,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 3,
             "NeedTime": 7200,
             "NeedCurrencyID": 101,
@@ -6024,7 +6476,8 @@
             "IconID": 31500,
             "TextID": 30504,
             "NewLifeSpellEffectType": 4,
-            "SpellParam1": 0.2,
+            "SpellParam1": 0.20000000298023224,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 4,
             "NeedTime": 14400,
             "NeedCurrencyID": 101,
@@ -6042,6 +6495,7 @@
             "TextID": 30505,
             "NewLifeSpellEffectType": 4,
             "SpellParam1": 0.25,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 5,
             "NeedTime": 21600,
             "NeedCurrencyID": 101,
@@ -6058,7 +6512,8 @@
             "IconID": 31500,
             "TextID": 30506,
             "NewLifeSpellEffectType": 4,
-            "SpellParam1": 0.3,
+            "SpellParam1": 0.30000001192092896,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 6,
             "NeedTime": 32400,
             "NeedCurrencyID": 101,
@@ -6075,7 +6530,8 @@
             "IconID": 31500,
             "TextID": 30507,
             "NewLifeSpellEffectType": 4,
-            "SpellParam1": 0.35,
+            "SpellParam1": 0.3499999940395355,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 7,
             "NeedTime": 43200,
             "NeedCurrencyID": 101,
@@ -6092,7 +6548,8 @@
             "IconID": 31500,
             "TextID": 30508,
             "NewLifeSpellEffectType": 4,
-            "SpellParam1": 0.4,
+            "SpellParam1": 0.4000000059604645,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 8,
             "NeedTime": 86400,
             "NeedCurrencyID": 101,
@@ -6109,7 +6566,8 @@
             "IconID": 31500,
             "TextID": 30509,
             "NewLifeSpellEffectType": 4,
-            "SpellParam1": 0.45,
+            "SpellParam1": 0.44999998807907104,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 9,
             "NeedTime": 129600,
             "NeedCurrencyID": 101,
@@ -6127,6 +6585,7 @@
             "TextID": 30510,
             "NewLifeSpellEffectType": 4,
             "SpellParam1": 0.5,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 10,
             "NeedTime": 259200,
             "NeedCurrencyID": 101,
@@ -6148,18 +6607,21 @@
             "IconID": 31600,
             "TextID": 30601,
             "NewLifeSpellEffectType": 5,
-            "SpellParam1": 0.01,
+            "SpellParam1": 0.009999999776482582,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 1,
             "NeedTime": 1800,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 1000
+            "NeedCurrencyCount": 1000,
+            "CookNeedItem": []
           },
           {
             "Level": 2,
             "IconID": 31600,
             "TextID": 30602,
             "NewLifeSpellEffectType": 5,
-            "SpellParam1": 0.02,
+            "SpellParam1": 0.019999999552965164,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 2,
             "NeedTime": 3600,
             "NeedCurrencyID": 101,
@@ -6176,7 +6638,8 @@
             "IconID": 31600,
             "TextID": 30603,
             "NewLifeSpellEffectType": 5,
-            "SpellParam1": 0.03,
+            "SpellParam1": 0.029999999329447746,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 3,
             "NeedTime": 7200,
             "NeedCurrencyID": 101,
@@ -6193,7 +6656,8 @@
             "IconID": 31600,
             "TextID": 30604,
             "NewLifeSpellEffectType": 5,
-            "SpellParam1": 0.04,
+            "SpellParam1": 0.03999999910593033,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 4,
             "NeedTime": 14400,
             "NeedCurrencyID": 101,
@@ -6210,7 +6674,8 @@
             "IconID": 31600,
             "TextID": 30605,
             "NewLifeSpellEffectType": 5,
-            "SpellParam1": 0.05,
+            "SpellParam1": 0.05000000074505806,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 5,
             "NeedTime": 21600,
             "NeedCurrencyID": 101,
@@ -6227,7 +6692,8 @@
             "IconID": 31600,
             "TextID": 30606,
             "NewLifeSpellEffectType": 5,
-            "SpellParam1": 0.06,
+            "SpellParam1": 0.05999999865889549,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 6,
             "NeedTime": 32400,
             "NeedCurrencyID": 101,
@@ -6244,7 +6710,8 @@
             "IconID": 31600,
             "TextID": 30607,
             "NewLifeSpellEffectType": 5,
-            "SpellParam1": 0.07,
+            "SpellParam1": 0.07000000029802322,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 7,
             "NeedTime": 43200,
             "NeedCurrencyID": 101,
@@ -6261,7 +6728,8 @@
             "IconID": 31600,
             "TextID": 30608,
             "NewLifeSpellEffectType": 5,
-            "SpellParam1": 0.08,
+            "SpellParam1": 0.07999999821186066,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 8,
             "NeedTime": 86400,
             "NeedCurrencyID": 101,
@@ -6278,7 +6746,8 @@
             "IconID": 31600,
             "TextID": 30609,
             "NewLifeSpellEffectType": 5,
-            "SpellParam1": 0.09,
+            "SpellParam1": 0.09000000357627869,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 9,
             "NeedTime": 129600,
             "NeedCurrencyID": 101,
@@ -6295,7 +6764,8 @@
             "IconID": 31600,
             "TextID": 30610,
             "NewLifeSpellEffectType": 5,
-            "SpellParam1": 0.1,
+            "SpellParam1": 0.10000000149011612,
+            "SpellParam2": 0.0,
             "NeedCookLevel": 10,
             "NeedTime": 259200,
             "NeedCurrencyID": 101,

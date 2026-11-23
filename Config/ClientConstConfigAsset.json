@@ -1,0 +1,1066 @@
+{
+  "Encounter_War_Range": [
+    10,
+    30
+  ],
+  "Encounter_War_Time_Range": [
+    5,
+    10
+  ],
+  "Encounter_War_MaxNum": 3,
+  "Encounter_War_TreasureExistTime": 60,
+  "Encounter_War_MissionDistance": 10,
+  "Encounter_War_ShowModelDis": 15,
+  "Encounter_War_HideModelDis": 20,
+  "Init_Team_List": [
+    {
+      "CharacterId": 102001,
+      "WeaponItemId": 1102301,
+      "ArmorHeadItemId": 0,
+      "ArmorBodyItemId": 0,
+      "ArmorHandItemId": 0,
+      "ArmorShoeItemId": 0,
+      "SpellCardId1": 0,
+      "SpellCardId2": 0,
+      "TeamIndex": 1
+    }
+  ],
+  "PolygonColliderCloseWaitTime": 10,
+  "PolygonColliderTimeRecoveryFactor": 0.10000000149011612,
+  "AchieveTipsTimeIntervalSec": 0.20000000298023224,
+  "AchieveTipsMinTimeSec": 1.0,
+  "AchieveTipsMaxTimeSec": 5.0,
+  "NewPlayer_Item_Date": [
+    1001001,
+    1001002,
+    1002001,
+    1002002,
+    1002003,
+    1003001,
+    1003002,
+    1004001,
+    1004002,
+    1004003,
+    1005001,
+    1005002,
+    1005003,
+    1101101,
+    1101102,
+    1101103,
+    1101104,
+    1101105,
+    1102101,
+    1102102,
+    1102103,
+    1102104,
+    1102105,
+    1102106,
+    1103101,
+    1103102,
+    1103103,
+    1103104,
+    1103105,
+    1103106,
+    1103107,
+    1103108,
+    1201101,
+    1201102,
+    1201103,
+    1201104,
+    1201105,
+    1301101,
+    1301102,
+    1301103,
+    1301104,
+    1301105,
+    1302101,
+    1302102,
+    1302103,
+    1302104,
+    1302105,
+    1401101,
+    1401102,
+    1401103,
+    1401104,
+    1401105,
+    1402101,
+    1402102,
+    1402103,
+    1402104,
+    1402105,
+    1403101,
+    1403102,
+    1403103,
+    1403104,
+    1403105,
+    1403106,
+    1403107,
+    1403108,
+    1101106,
+    1101107,
+    1101108
+  ],
+  "MoonStone_UnlockPage_ItemCount": [
+    8
+  ],
+  "WeaponCorrectionData": {
+    "CorrectionS": 1.149999976158142,
+    "CorrectionA": 1.0750000476837158,
+    "CorrectionB": 1.0,
+    "CorrectionC": 0.8999999761581421,
+    "CorrectionD": 0.75,
+    "CorrectionE": 0.6000000238418579,
+    "CorrectionF": 0.5
+  },
+  "SpellBreakValueData": {
+    "BreakValueCustom": 0.0,
+    "BreakValue_UltraLow": 75.0,
+    "BreakValue_VeryLow": 100.0,
+    "BreakValue_Low": 150.0,
+    "BreakValue_Normal": 200.0,
+    "BreakValue_High": 325.0,
+    "BreakValue_VeryHigh": 625.0,
+    "BreakValue_UltraHigh": 825.0
+  },
+  "ItemConfigData": [
+    {
+      "ItemID": 1101301,
+      "Level": 1
+    },
+    {
+      "ItemID": 1101301,
+      "Level": 2
+    },
+    {
+      "ItemID": 1101301,
+      "Level": 3
+    },
+    {
+      "ItemID": 1101301,
+      "Level": 4
+    },
+    {
+      "ItemID": 1101301,
+      "Level": 5
+    },
+    {
+      "ItemID": 1101301,
+      "Level": 6
+    },
+    {
+      "ItemID": 1101301,
+      "Level": 7
+    },
+    {
+      "ItemID": 1101301,
+      "Level": 8
+    },
+    {
+      "ItemID": 1101301,
+      "Level": 9
+    },
+    {
+      "ItemID": 1101302,
+      "Level": 1
+    },
+    {
+      "ItemID": 1101302,
+      "Level": 2
+    },
+    {
+      "ItemID": 1101302,
+      "Level": 3
+    },
+    {
+      "ItemID": 1101302,
+      "Level": 4
+    },
+    {
+      "ItemID": 1101302,
+      "Level": 5
+    },
+    {
+      "ItemID": 1101302,
+      "Level": 6
+    },
+    {
+      "ItemID": 1101302,
+      "Level": 7
+    },
+    {
+      "ItemID": 1101302,
+      "Level": 8
+    },
+    {
+      "ItemID": 1101302,
+      "Level": 9
+    },
+    {
+      "ItemID": 1102301,
+      "Level": 1
+    },
+    {
+      "ItemID": 1102301,
+      "Level": 2
+    },
+    {
+      "ItemID": 1102301,
+      "Level": 3
+    },
+    {
+      "ItemID": 1102301,
+      "Level": 4
+    },
+    {
+      "ItemID": 1102301,
+      "Level": 5
+    },
+    {
+      "ItemID": 1102301,
+      "Level": 6
+    },
+    {
+      "ItemID": 1102301,
+      "Level": 7
+    },
+    {
+      "ItemID": 1102301,
+      "Level": 8
+    },
+    {
+      "ItemID": 1102301,
+      "Level": 9
+    },
+    {
+      "ItemID": 1103301,
+      "Level": 1
+    },
+    {
+      "ItemID": 1103301,
+      "Level": 2
+    },
+    {
+      "ItemID": 1103301,
+      "Level": 3
+    },
+    {
+      "ItemID": 1103301,
+      "Level": 4
+    },
+    {
+      "ItemID": 1103301,
+      "Level": 5
+    },
+    {
+      "ItemID": 1103301,
+      "Level": 6
+    },
+    {
+      "ItemID": 1103301,
+      "Level": 7
+    },
+    {
+      "ItemID": 1103301,
+      "Level": 8
+    },
+    {
+      "ItemID": 1103301,
+      "Level": 9
+    },
+    {
+      "ItemID": 1103302,
+      "Level": 1
+    },
+    {
+      "ItemID": 1103302,
+      "Level": 2
+    },
+    {
+      "ItemID": 1103302,
+      "Level": 3
+    },
+    {
+      "ItemID": 1103302,
+      "Level": 4
+    },
+    {
+      "ItemID": 1103302,
+      "Level": 5
+    },
+    {
+      "ItemID": 1103302,
+      "Level": 6
+    },
+    {
+      "ItemID": 1103302,
+      "Level": 7
+    },
+    {
+      "ItemID": 1103302,
+      "Level": 8
+    },
+    {
+      "ItemID": 1103302,
+      "Level": 9
+    },
+    {
+      "ItemID": 1103303,
+      "Level": 1
+    },
+    {
+      "ItemID": 1103303,
+      "Level": 2
+    },
+    {
+      "ItemID": 1103303,
+      "Level": 3
+    },
+    {
+      "ItemID": 1103303,
+      "Level": 4
+    },
+    {
+      "ItemID": 1103303,
+      "Level": 5
+    },
+    {
+      "ItemID": 1103303,
+      "Level": 6
+    },
+    {
+      "ItemID": 1103303,
+      "Level": 7
+    },
+    {
+      "ItemID": 1103303,
+      "Level": 8
+    },
+    {
+      "ItemID": 1103303,
+      "Level": 9
+    },
+    {
+      "ItemID": 1201301,
+      "Level": 1
+    },
+    {
+      "ItemID": 1201301,
+      "Level": 2
+    },
+    {
+      "ItemID": 1201301,
+      "Level": 3
+    },
+    {
+      "ItemID": 1201301,
+      "Level": 4
+    },
+    {
+      "ItemID": 1201301,
+      "Level": 5
+    },
+    {
+      "ItemID": 1201301,
+      "Level": 6
+    },
+    {
+      "ItemID": 1201301,
+      "Level": 7
+    },
+    {
+      "ItemID": 1201301,
+      "Level": 8
+    },
+    {
+      "ItemID": 1201301,
+      "Level": 9
+    },
+    {
+      "ItemID": 1301301,
+      "Level": 1
+    },
+    {
+      "ItemID": 1301301,
+      "Level": 2
+    },
+    {
+      "ItemID": 1301301,
+      "Level": 3
+    },
+    {
+      "ItemID": 1301301,
+      "Level": 4
+    },
+    {
+      "ItemID": 1301301,
+      "Level": 5
+    },
+    {
+      "ItemID": 1301301,
+      "Level": 6
+    },
+    {
+      "ItemID": 1301301,
+      "Level": 7
+    },
+    {
+      "ItemID": 1301301,
+      "Level": 8
+    },
+    {
+      "ItemID": 1301301,
+      "Level": 9
+    },
+    {
+      "ItemID": 1302301,
+      "Level": 1
+    },
+    {
+      "ItemID": 1302301,
+      "Level": 2
+    },
+    {
+      "ItemID": 1302301,
+      "Level": 3
+    },
+    {
+      "ItemID": 1302301,
+      "Level": 4
+    },
+    {
+      "ItemID": 1302301,
+      "Level": 5
+    },
+    {
+      "ItemID": 1302301,
+      "Level": 6
+    },
+    {
+      "ItemID": 1302301,
+      "Level": 7
+    },
+    {
+      "ItemID": 1302301,
+      "Level": 8
+    },
+    {
+      "ItemID": 1302301,
+      "Level": 9
+    },
+    {
+      "ItemID": 1302302,
+      "Level": 1
+    },
+    {
+      "ItemID": 1302302,
+      "Level": 2
+    },
+    {
+      "ItemID": 1302302,
+      "Level": 3
+    },
+    {
+      "ItemID": 1302302,
+      "Level": 4
+    },
+    {
+      "ItemID": 1302302,
+      "Level": 5
+    },
+    {
+      "ItemID": 1302302,
+      "Level": 6
+    },
+    {
+      "ItemID": 1302302,
+      "Level": 7
+    },
+    {
+      "ItemID": 1302302,
+      "Level": 8
+    },
+    {
+      "ItemID": 1302302,
+      "Level": 9
+    },
+    {
+      "ItemID": 1401301,
+      "Level": 1
+    },
+    {
+      "ItemID": 1401301,
+      "Level": 2
+    },
+    {
+      "ItemID": 1401301,
+      "Level": 3
+    },
+    {
+      "ItemID": 1401301,
+      "Level": 4
+    },
+    {
+      "ItemID": 1401301,
+      "Level": 5
+    },
+    {
+      "ItemID": 1401301,
+      "Level": 6
+    },
+    {
+      "ItemID": 1401301,
+      "Level": 7
+    },
+    {
+      "ItemID": 1401301,
+      "Level": 8
+    },
+    {
+      "ItemID": 1401301,
+      "Level": 9
+    },
+    {
+      "ItemID": 1401302,
+      "Level": 1
+    },
+    {
+      "ItemID": 1401302,
+      "Level": 2
+    },
+    {
+      "ItemID": 1401302,
+      "Level": 3
+    },
+    {
+      "ItemID": 1401302,
+      "Level": 4
+    },
+    {
+      "ItemID": 1401302,
+      "Level": 5
+    },
+    {
+      "ItemID": 1401302,
+      "Level": 6
+    },
+    {
+      "ItemID": 1401302,
+      "Level": 7
+    },
+    {
+      "ItemID": 1401302,
+      "Level": 8
+    },
+    {
+      "ItemID": 1401302,
+      "Level": 9
+    },
+    {
+      "ItemID": 1402301,
+      "Level": 1
+    },
+    {
+      "ItemID": 1402301,
+      "Level": 2
+    },
+    {
+      "ItemID": 1402301,
+      "Level": 3
+    },
+    {
+      "ItemID": 1402301,
+      "Level": 4
+    },
+    {
+      "ItemID": 1402301,
+      "Level": 5
+    },
+    {
+      "ItemID": 1402301,
+      "Level": 6
+    },
+    {
+      "ItemID": 1402301,
+      "Level": 7
+    },
+    {
+      "ItemID": 1402301,
+      "Level": 8
+    },
+    {
+      "ItemID": 1402301,
+      "Level": 9
+    },
+    {
+      "ItemID": 1403301,
+      "Level": 1
+    },
+    {
+      "ItemID": 1403301,
+      "Level": 2
+    },
+    {
+      "ItemID": 1403301,
+      "Level": 3
+    },
+    {
+      "ItemID": 1403301,
+      "Level": 4
+    },
+    {
+      "ItemID": 1403301,
+      "Level": 5
+    },
+    {
+      "ItemID": 1403301,
+      "Level": 6
+    },
+    {
+      "ItemID": 1403301,
+      "Level": 7
+    },
+    {
+      "ItemID": 1403301,
+      "Level": 8
+    },
+    {
+      "ItemID": 1403301,
+      "Level": 9
+    },
+    {
+      "ItemID": 1403302,
+      "Level": 1
+    },
+    {
+      "ItemID": 1403302,
+      "Level": 2
+    },
+    {
+      "ItemID": 1403302,
+      "Level": 3
+    },
+    {
+      "ItemID": 1403302,
+      "Level": 4
+    },
+    {
+      "ItemID": 1403302,
+      "Level": 5
+    },
+    {
+      "ItemID": 1403302,
+      "Level": 6
+    },
+    {
+      "ItemID": 1403302,
+      "Level": 7
+    },
+    {
+      "ItemID": 1403302,
+      "Level": 8
+    },
+    {
+      "ItemID": 1403302,
+      "Level": 9
+    },
+    {
+      "ItemID": 1403304,
+      "Level": 1
+    },
+    {
+      "ItemID": 1403304,
+      "Level": 2
+    },
+    {
+      "ItemID": 1403304,
+      "Level": 3
+    },
+    {
+      "ItemID": 1403304,
+      "Level": 4
+    },
+    {
+      "ItemID": 1403304,
+      "Level": 5
+    },
+    {
+      "ItemID": 1403304,
+      "Level": 6
+    },
+    {
+      "ItemID": 1403304,
+      "Level": 7
+    },
+    {
+      "ItemID": 1403304,
+      "Level": 8
+    },
+    {
+      "ItemID": 1403304,
+      "Level": 9
+    },
+    {
+      "ItemID": 3101001,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101002,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101003,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101004,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101005,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101006,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101007,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101008,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101009,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101010,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101011,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101012,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101013,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101014,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101015,
+      "Level": 1
+    },
+    {
+      "ItemID": 3102001,
+      "Level": 1
+    },
+    {
+      "ItemID": 3102002,
+      "Level": 1
+    },
+    {
+      "ItemID": 3102003,
+      "Level": 1
+    },
+    {
+      "ItemID": 3102004,
+      "Level": 1
+    },
+    {
+      "ItemID": 3102005,
+      "Level": 1
+    },
+    {
+      "ItemID": 3102006,
+      "Level": 1
+    },
+    {
+      "ItemID": 3102007,
+      "Level": 1
+    },
+    {
+      "ItemID": 3103001,
+      "Level": 1
+    },
+    {
+      "ItemID": 3103002,
+      "Level": 1
+    },
+    {
+      "ItemID": 3103003,
+      "Level": 1
+    },
+    {
+      "ItemID": 3103004,
+      "Level": 1
+    },
+    {
+      "ItemID": 3201001,
+      "Level": 1
+    },
+    {
+      "ItemID": 3201002,
+      "Level": 1
+    },
+    {
+      "ItemID": 3201003,
+      "Level": 1
+    },
+    {
+      "ItemID": 3201004,
+      "Level": 1
+    },
+    {
+      "ItemID": 3301001,
+      "Level": 1
+    },
+    {
+      "ItemID": 3301002,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401001,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401002,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401003,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401004,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401005,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401006,
+      "Level": 1
+    },
+    {
+      "ItemID": 3403001,
+      "Level": 1
+    },
+    {
+      "ItemID": 3403002,
+      "Level": 1
+    },
+    {
+      "ItemID": 3403003,
+      "Level": 1
+    },
+    {
+      "ItemID": 3403004,
+      "Level": 1
+    },
+    {
+      "ItemID": 3403005,
+      "Level": 1
+    },
+    {
+      "ItemID": 3403006,
+      "Level": 1
+    },
+    {
+      "ItemID": 3403007,
+      "Level": 1
+    },
+    {
+      "ItemID": 1000001,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101021,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101023,
+      "Level": 1
+    },
+    {
+      "ItemID": 3301004,
+      "Level": 1
+    },
+    {
+      "ItemID": 3101025,
+      "Level": 1
+    },
+    {
+      "ItemID": 1101108,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401007,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401008,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401009,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401010,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401011,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401012,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401013,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401014,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401015,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401016,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401017,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401020,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401021,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401022,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401023,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401024,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401025,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401026,
+      "Level": 1
+    },
+    {
+      "ItemID": 3401027,
+      "Level": 1
+    }
+  ],
+  "ClearCDByItemConfig": [
+    102,
+    5
+  ],
+  "MaxUltraAndActionPoint": [
+    600,
+    600
+  ],
+  "RollActionPoint": 100,
+  "ReconverActionPointBySec": [
+    5,
+    5
+  ],
+  "ActionAndUltraReconverPointByHp": [
+    1,
+    2,
+    5
+  ],
+  "DungeonAndBattleLimitActionPoint": 40,
+  "AutoRecoverAPWaitingTimeInBattle": 1.0,
+  "AutoRecoverAPWaitingTime": 1.0,
+  "RandomEventHandLimit": 1,
+  "RandomEventRefreshTime": [
+    10,
+    120
+  ],
+  "RandomEventFinishLimit": 1,
+  "RandomEventHideCD": 10,
+  "RandomEventFindSes": 120,
+  "RandomEventFindDis": 30,
+  "GatherRandomPointFarRadius": 11.0,
+  "GatherRandomPointNearRadius": 7.0,
+  "GatherPointRandomMaxCount": 1,
+  "GatherRefreshDurationSecond": 600.0,
+  "InlayUnLockNeedStar": 3,
+  "UpgradeStarNeedItem": [
+    {
+      "ItemID": 101,
+      "Count": 1
+    }
+  ],
+  "UpgradeStarLevelTips": [
+    10000,
+    10001,
+    10002,
+    10003,
+    10004
+  ],
+  "WeaponStrengthNeedItem": [
+    220,
+    221,
+    222
+  ],
+  "ArmorStrengthNeedItem": [
+    200,
+    201,
+    202
+  ],
+  "StrengthExpExchangeRate": 0.6000000238418579,
+  "RiddleTreasureLimitCountEveryDay": 50,
+  "RiddleTreasureLimitRewardPoolID": 3,
+  "SceneTreasureExistTime": 60,
+  "SystemRefreshTime": 4,
+  "CharacterLevelUpNeedItem": [
+    190,
+    191,
+    192
+  ],
+  "InscriptionChangeItem": [
+    {
+      "ItemID": 101,
+      "Count": 10
+    }
+  ],
+  "GiftMaxCount": 500,
+  "Character_Default_Star": 0,
+  "Character_Default_Level": 1,
+  "Equip_Default_StrengLevel": 0,
+  "Weapon_Default_Star": 1,
+  "WeaponMaxStar": 5,
+  "Poster_Default_Star": 1,
+  "Fashion_Suit_Count": 3,
+  "SwirlCount": 5
+}

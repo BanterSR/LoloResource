@@ -3,13 +3,32 @@
     "Datas": [
       {
         "ID": 1000,
+        "Index": 0,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "TextID": 1000,
         "IconID": 1000,
+        "IsFree": false,
         "Method1ID": 1000,
+        "ConsumeItem1ID": 0,
+        "Method1Count": 0,
+        "ConsumeItem1Num": 0,
         "ConsumeItem2ID": 104,
         "Method2Count": 10,
         "ConsumeItem2Num": 8,
         "MaxTimes": 50,
+        "CharacterID1": 0,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
+        "VideoID1": 0,
+        "VideoID2": 0,
+        "VideoID3": 0,
+        "PracticeCharacterID1": 0,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 400,
         "NewUIGachaType": 1,
         "NewShowType": 1
@@ -17,8 +36,11 @@
       {
         "ID": 2000,
         "Index": 5,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "TextID": 2000,
         "IconID": 2000,
+        "IsFree": false,
         "Method1ID": 2000,
         "ConsumeItem1ID": 104,
         "Method1Count": 1,
@@ -26,6 +48,17 @@
         "ConsumeItem2ID": 104,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
+        "CharacterID1": 0,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
+        "VideoID1": 0,
+        "VideoID2": 0,
+        "VideoID3": 0,
+        "PracticeCharacterID1": 0,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
         "OptionalNum": 300,
         "OptionalPoolID": 500,
         "BigGuaranteePoolID": 400,
@@ -39,6 +72,7 @@
         "ClosingTime": "2025-09-18 23:59:59",
         "TextID": 2001,
         "IconID": 2001,
+        "IsFree": false,
         "Method1ID": 2001,
         "ConsumeItem1ID": 104,
         "Method1Count": 1,
@@ -46,6 +80,19 @@
         "ConsumeItem2ID": 104,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
+        "CharacterID1": 0,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
+        "VideoID1": 0,
+        "VideoID2": 0,
+        "VideoID3": 0,
+        "PracticeCharacterID1": 0,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 2001,
         "NewUIGachaType": 2,
         "NewShowType": 1
@@ -53,8 +100,11 @@
       {
         "ID": 2002,
         "Index": 6,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "TextID": 2002,
         "IconID": 2002,
+        "IsFree": false,
         "Method1ID": 2002,
         "ConsumeItem1ID": 104,
         "Method1Count": 1,
@@ -62,6 +112,19 @@
         "ConsumeItem2ID": 104,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
+        "CharacterID1": 0,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
+        "VideoID1": 0,
+        "VideoID2": 0,
+        "VideoID3": 0,
+        "PracticeCharacterID1": 0,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 210,
         "NewUIGachaType": 2,
         "NewShowType": 1
@@ -73,6 +136,7 @@
         "ClosingTime": "2025-04-14 23:59:59",
         "TextID": 3000,
         "IconID": 3000,
+        "IsFree": false,
         "Method1ID": 3000,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -80,9 +144,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 401004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 401004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 401004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3000,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -94,6 +168,7 @@
         "ClosingTime": "2025-04-29 23:59:59",
         "TextID": 3001,
         "IconID": 3001,
+        "IsFree": false,
         "Method1ID": 3001,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -101,9 +176,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 101003,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 101003,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 101003,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3001,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -115,6 +200,7 @@
         "ClosingTime": "2025-05-13 23:59:59",
         "TextID": 3002,
         "IconID": 3002,
+        "IsFree": false,
         "Method1ID": 3002,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -122,9 +208,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 201002,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 201002,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 201002,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3002,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -136,6 +232,7 @@
         "ClosingTime": "2025-06-06 23:59:59",
         "TextID": 3003,
         "IconID": 3003,
+        "IsFree": false,
         "Method1ID": 3003,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -143,9 +240,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 402002,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 402002,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 402002,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3003,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -157,6 +264,7 @@
         "ClosingTime": "2025-07-03 23:59:59",
         "TextID": 3004,
         "IconID": 3004,
+        "IsFree": false,
         "Method1ID": 3004,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -164,9 +272,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 301004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 301004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 301004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3004,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -178,6 +296,7 @@
         "ClosingTime": "2025-07-31 23:59:59",
         "TextID": 3006,
         "IconID": 3006,
+        "IsFree": false,
         "Method1ID": 3006,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -185,9 +304,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 302003,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 302003,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 302003,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3006,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -199,6 +328,7 @@
         "ClosingTime": "2025-08-14 23:59:59",
         "TextID": 3007,
         "IconID": 3007,
+        "IsFree": false,
         "Method1ID": 3007,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -206,9 +336,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 101004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 101004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 101004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3007,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -220,6 +360,7 @@
         "ClosingTime": "2025-09-04 23:59:59",
         "TextID": 3008,
         "IconID": 3008,
+        "IsFree": false,
         "Method1ID": 3008,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -227,9 +368,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 401003,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 401003,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 401003,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3008,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -241,6 +392,7 @@
         "ClosingTime": "2025-09-25 23:59:59",
         "TextID": 3010,
         "IconID": 3010,
+        "IsFree": false,
         "Method1ID": 3010,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -248,9 +400,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 403004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 403004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 403004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3010,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -262,6 +424,7 @@
         "ClosingTime": "2025-10-16 23:59:59",
         "TextID": 3011,
         "IconID": 3011,
+        "IsFree": false,
         "Method1ID": 3011,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -269,9 +432,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 401002,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 401002,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 401002,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3011,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -283,6 +456,7 @@
         "ClosingTime": "2025-11-12 23:59:59",
         "TextID": 3013,
         "IconID": 3013,
+        "IsFree": false,
         "Method1ID": 3013,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -290,9 +464,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 202004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 202004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 202004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3013,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -304,6 +488,7 @@
         "ClosingTime": "2026-01-07 23:59:59",
         "TextID": 3016,
         "IconID": 3016,
+        "IsFree": false,
         "Method1ID": 3016,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -311,9 +496,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 201003,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 201003,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 201003,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3016,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -325,6 +520,7 @@
         "ClosingTime": "2026-03-04 23:59:59",
         "TextID": 3019,
         "IconID": 3019,
+        "IsFree": false,
         "Method1ID": 3019,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -332,9 +528,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 401005,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 401005,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 401005,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3019,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -346,6 +552,7 @@
         "ClosingTime": "2026-04-29 23:59:59",
         "TextID": 3021,
         "IconID": 3021,
+        "IsFree": false,
         "Method1ID": 3021,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -353,9 +560,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 302004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 302004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 302004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3021,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -367,6 +584,7 @@
         "ClosingTime": "2026-08-13 23:59:59",
         "TextID": 3022,
         "IconID": 3022,
+        "IsFree": false,
         "Method1ID": 3022,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -374,29 +592,96 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 301003,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
+        "VideoID1": 0,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 301003,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3022,
+        "NewUIGachaType": 3,
+        "NewShowType": 1
+      },
+      {
+        "ID": 3023,
+        "Index": 3,
+        "OpeningTime": "2026-11-05 00:00:00",
+        "ClosingTime": "2026-12-03 23:59:59",
+        "TextID": 3023,
+        "IconID": 3023,
+        "IsFree": false,
+        "Method1ID": 3023,
+        "ConsumeItem1ID": 110,
+        "Method1Count": 1,
+        "ConsumeItem1Num": 1,
+        "ConsumeItem2ID": 110,
+        "Method2Count": 10,
+        "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
+        "CharacterID1": 0,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
+        "VideoID1": 0,
+        "VideoID2": 0,
+        "VideoID3": 0,
+        "PracticeCharacterID1": 0,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
+        "BigGuaranteePoolID": 3023,
         "NewUIGachaType": 3,
         "NewShowType": 1
       },
       {
         "ID": 4000,
         "Index": 7,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "TextID": 4000,
         "IconID": 4000,
+        "IsFree": false,
         "Method1ID": 4000,
+        "ConsumeItem1ID": 0,
+        "Method1Count": 0,
+        "ConsumeItem1Num": 0,
         "ConsumeItem2ID": 107,
         "Method2Count": 10,
         "ConsumeItem2Num": 3600,
+        "MaxTimes": 0,
+        "CharacterID1": 0,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
+        "VideoID1": 0,
+        "VideoID2": 0,
+        "VideoID3": 0,
+        "PracticeCharacterID1": 0,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
+        "BigGuaranteePoolID": 0,
         "NewUIGachaType": 5,
         "NewShowType": 2
       },
       {
         "ID": 9000,
         "Index": 1,
+        "OpeningTime": "",
+        "ClosingTime": "",
         "TextID": 9000,
         "IconID": 9000,
+        "IsFree": false,
+        "Method1ID": 0,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
         "ConsumeItem1Num": 1,
@@ -404,6 +689,15 @@
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
         "MaxTimes": 70,
+        "CharacterID1": 0,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
+        "VideoID1": 0,
+        "VideoID2": 0,
+        "VideoID3": 0,
+        "PracticeCharacterID1": 0,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
         "CardPoolRange": [
           3000,
           3001,
@@ -420,6 +714,9 @@
           3019,
           3021
         ],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
+        "BigGuaranteePoolID": 0,
         "NewUIGachaType": 6,
         "NewShowType": 4
       },
@@ -430,12 +727,24 @@
         "ClosingTime": "2026-05-27 23:59:59",
         "TextID": 9001,
         "IconID": 9001,
+        "IsFree": false,
+        "Method1ID": 0,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
         "ConsumeItem1Num": 1,
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
+        "CharacterID1": 0,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
+        "VideoID1": 0,
+        "VideoID2": 0,
+        "VideoID3": 0,
+        "PracticeCharacterID1": 0,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
         "CardPoolRange": [
           3000,
           3001,
@@ -452,6 +761,9 @@
           3019,
           3021
         ],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
+        "BigGuaranteePoolID": 0,
         "NewUIGachaType": 10,
         "NewShowType": 4
       },
@@ -462,6 +774,7 @@
         "ClosingTime": "2025-07-10 23:59:59",
         "TextID": 3000,
         "IconID": 3000,
+        "IsFree": false,
         "Method1ID": 3000,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -469,9 +782,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 401004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 401004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 401004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3000,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -483,6 +806,7 @@
         "ClosingTime": "2025-09-04 23:59:59",
         "TextID": 3001,
         "IconID": 3001,
+        "IsFree": false,
         "Method1ID": 3001,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -490,9 +814,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 101003,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 101003,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 101003,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3001,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -504,6 +838,7 @@
         "ClosingTime": "2025-10-30 23:59:59",
         "TextID": 3002,
         "IconID": 3002,
+        "IsFree": false,
         "Method1ID": 3002,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -511,9 +846,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 201002,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 201002,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 201002,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3002,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -525,6 +870,7 @@
         "ClosingTime": "2025-11-27 23:59:59",
         "TextID": 3003,
         "IconID": 3003,
+        "IsFree": false,
         "Method1ID": 3003,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -532,9 +878,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 402002,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 402002,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 402002,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3003,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -546,6 +902,7 @@
         "ClosingTime": "2025-12-17 23:59:59",
         "TextID": 3004,
         "IconID": 3004,
+        "IsFree": false,
         "Method1ID": 3004,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -553,9 +910,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 301004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 301004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 301004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3004,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -567,6 +934,7 @@
         "ClosingTime": "2026-01-28 23:59:59",
         "TextID": 3006,
         "IconID": 3006,
+        "IsFree": false,
         "Method1ID": 3006,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -574,9 +942,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 302003,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 302003,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 302003,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3006,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -588,6 +966,7 @@
         "ClosingTime": "2026-02-11 23:59:59",
         "TextID": 3007,
         "IconID": 3007,
+        "IsFree": false,
         "Method1ID": 3007,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -595,9 +974,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 101004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 101004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 101004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3007,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -609,6 +998,7 @@
         "ClosingTime": "2026-05-13 23:59:59",
         "TextID": 3008,
         "IconID": 3008,
+        "IsFree": false,
         "Method1ID": 3008,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -616,9 +1006,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 401003,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 401003,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 401003,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3008,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -630,6 +1030,7 @@
         "ClosingTime": "2026-06-10 23:59:59",
         "TextID": 3010,
         "IconID": 3010,
+        "IsFree": false,
         "Method1ID": 3010,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -637,9 +1038,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 403004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 403004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 403004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3010,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -651,6 +1062,7 @@
         "ClosingTime": "2026-07-01 23:59:59",
         "TextID": 3011,
         "IconID": 3011,
+        "IsFree": false,
         "Method1ID": 3011,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -658,9 +1070,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 401002,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 401002,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 401002,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3011,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -672,6 +1094,7 @@
         "ClosingTime": "2026-07-22 23:59:59",
         "TextID": 3013,
         "IconID": 3013,
+        "IsFree": false,
         "Method1ID": 3013,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -679,9 +1102,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 202004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 202004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 202004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3013,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -693,6 +1126,7 @@
         "ClosingTime": "2026-08-12 23:59:59",
         "TextID": 3016,
         "IconID": 3016,
+        "IsFree": false,
         "Method1ID": 3016,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -700,9 +1134,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 201003,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 201003,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 201003,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3016,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -714,6 +1158,7 @@
         "ClosingTime": "2026-09-02 23:59:59",
         "TextID": 3019,
         "IconID": 3019,
+        "IsFree": false,
         "Method1ID": 3019,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -721,9 +1166,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 401005,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 401005,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 401005,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3019,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -735,6 +1190,7 @@
         "ClosingTime": "2026-09-23 23:59:59",
         "TextID": 3021,
         "IconID": 3021,
+        "IsFree": false,
         "Method1ID": 3021,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -742,9 +1198,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 302004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 302004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 302004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3021,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -756,6 +1222,7 @@
         "ClosingTime": "2026-03-25 23:59:59",
         "TextID": 3020,
         "IconID": 3020,
+        "IsFree": false,
         "Method1ID": 3020,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -763,9 +1230,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 401004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 401004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 401004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3020,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -777,6 +1254,7 @@
         "ClosingTime": "2026-10-14 23:59:59",
         "TextID": 3001,
         "IconID": 3001,
+        "IsFree": false,
         "Method1ID": 3001,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -784,9 +1262,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 101003,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 101003,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 101003,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3001,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -798,6 +1286,7 @@
         "ClosingTime": "2026-11-04 23:59:59",
         "TextID": 3002,
         "IconID": 3002,
+        "IsFree": false,
         "Method1ID": 3002,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -805,9 +1294,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 201002,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 201002,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 201002,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3002,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -819,6 +1318,7 @@
         "ClosingTime": "2026-11-25 23:59:59",
         "TextID": 3003,
         "IconID": 3003,
+        "IsFree": false,
         "Method1ID": 3003,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -826,9 +1326,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 402002,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 402002,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 402002,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3003,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -840,6 +1350,7 @@
         "ClosingTime": "2026-12-16 23:59:59",
         "TextID": 3004,
         "IconID": 3004,
+        "IsFree": false,
         "Method1ID": 3004,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -847,9 +1358,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 301004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 301004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 301004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3004,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -861,6 +1382,7 @@
         "ClosingTime": "2027-01-06 23:59:59",
         "TextID": 3006,
         "IconID": 3006,
+        "IsFree": false,
         "Method1ID": 3006,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -868,9 +1390,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 302003,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 302003,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 302003,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3006,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -882,6 +1414,7 @@
         "ClosingTime": "2027-01-27 23:59:59",
         "TextID": 3007,
         "IconID": 3007,
+        "IsFree": false,
         "Method1ID": 3007,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -889,9 +1422,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 101004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 101004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 101004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3007,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -903,6 +1446,7 @@
         "ClosingTime": "2027-02-17 23:59:59",
         "TextID": 3008,
         "IconID": 3008,
+        "IsFree": false,
         "Method1ID": 3008,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -910,9 +1454,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 401003,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 401003,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 401003,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3008,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -924,6 +1478,7 @@
         "ClosingTime": "2027-03-10 23:59:59",
         "TextID": 3010,
         "IconID": 3010,
+        "IsFree": false,
         "Method1ID": 3010,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -931,9 +1486,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 403004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 403004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 403004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3010,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -945,6 +1510,7 @@
         "ClosingTime": "2027-03-31 23:59:59",
         "TextID": 3011,
         "IconID": 3011,
+        "IsFree": false,
         "Method1ID": 3011,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -952,9 +1518,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 401002,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 401002,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 401002,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3011,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -966,6 +1542,7 @@
         "ClosingTime": "2027-04-21 23:59:59",
         "TextID": 3013,
         "IconID": 3013,
+        "IsFree": false,
         "Method1ID": 3013,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -973,9 +1550,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 202004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 202004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 202004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3013,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -987,6 +1574,7 @@
         "ClosingTime": "2027-05-12 23:59:59",
         "TextID": 3016,
         "IconID": 3016,
+        "IsFree": false,
         "Method1ID": 3016,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -994,9 +1582,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 201003,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 201003,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 201003,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3016,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -1008,6 +1606,7 @@
         "ClosingTime": "2027-06-02 23:59:59",
         "TextID": 3019,
         "IconID": 3019,
+        "IsFree": false,
         "Method1ID": 3019,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -1015,9 +1614,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 401005,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 401005,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 401005,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3019,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -1029,6 +1638,7 @@
         "ClosingTime": "2027-06-23 23:59:59",
         "TextID": 3021,
         "IconID": 3021,
+        "IsFree": false,
         "Method1ID": 3021,
         "ConsumeItem1ID": 110,
         "Method1Count": 1,
@@ -1036,9 +1646,19 @@
         "ConsumeItem2ID": 110,
         "Method2Count": 10,
         "ConsumeItem2Num": 10,
+        "MaxTimes": 0,
         "CharacterID1": 302004,
+        "CharacterID2": 0,
+        "CharacterID3": 0,
         "VideoID1": 302004,
+        "VideoID2": 0,
+        "VideoID3": 0,
         "PracticeCharacterID1": 302004,
+        "PracticeCharacterID2": 0,
+        "PracticeCharacterID3": 0,
+        "CardPoolRange": [],
+        "OptionalNum": 0,
+        "OptionalPoolID": 0,
         "BigGuaranteePoolID": 3021,
         "NewUIGachaType": 3,
         "NewShowType": 1
@@ -1440,6 +2060,26 @@
           },
           {
             "FreeGachaPoolID": 3022
+          }
+        ]
+      },
+      {
+        "ID": 3023,
+        "Items": [
+          {
+            "FreeGachaPoolID": 100
+          },
+          {
+            "FreeGachaPoolID": 200
+          },
+          {
+            "FreeGachaPoolID": 300
+          },
+          {
+            "FreeGachaPoolID": 400
+          },
+          {
+            "FreeGachaPoolID": 3023
           }
         ]
       },
@@ -1951,7 +2591,10 @@
         "ID": 1,
         "Items": [
           {
-            "ItemID": 102001
+            "ItemID": 102001,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -1959,172 +2602,340 @@
         "ID": 100,
         "Items": [
           {
-            "ItemID": 10030
+            "ItemID": 10030,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10080
+            "ItemID": 10080,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10010
+            "ItemID": 10010,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10100
+            "ItemID": 10100,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10120
+            "ItemID": 10120,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10170
+            "ItemID": 10170,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10190
+            "ItemID": 10190,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10210
+            "ItemID": 10210,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10240
+            "ItemID": 10240,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11010
+            "ItemID": 11010,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10350
+            "ItemID": 10350,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10390
+            "ItemID": 10390,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10410
+            "ItemID": 10410,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10460
+            "ItemID": 10460,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10540
+            "ItemID": 10540,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10620
+            "ItemID": 10620,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10650
+            "ItemID": 10650,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10720
+            "ItemID": 10720,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10750
+            "ItemID": 10750,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10760
+            "ItemID": 10760,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10870
+            "ItemID": 10870,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11030
+            "ItemID": 11030,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10810
+            "ItemID": 10810,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10850
+            "ItemID": 10850,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10530
+            "ItemID": 10530,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11050
+            "ItemID": 11050,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11060
+            "ItemID": 11060,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11200
+            "ItemID": 11200,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11210
+            "ItemID": 11210,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11220
+            "ItemID": 11220,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11230
+            "ItemID": 11230,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11240
+            "ItemID": 11240,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11250
+            "ItemID": 11250,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11260
+            "ItemID": 11260,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11270
+            "ItemID": 11270,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11280
+            "ItemID": 11280,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11290
+            "ItemID": 11290,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11300
+            "ItemID": 11300,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11310
+            "ItemID": 11310,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11320
+            "ItemID": 11320,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11330
+            "ItemID": 11330,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11340
+            "ItemID": 11340,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11350
+            "ItemID": 11350,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11360
+            "ItemID": 11360,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11370
+            "ItemID": 11370,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11380
+            "ItemID": 11380,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11390
+            "ItemID": 11390,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11120
+            "ItemID": 11120,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11080
+            "ItemID": 11080,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11400
+            "ItemID": 11400,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11410
+            "ItemID": 11410,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11420
+            "ItemID": 11420,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11430
+            "ItemID": 11430,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11440
+            "ItemID": 11440,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11450
+            "ItemID": 11450,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10300
+            "ItemID": 10300,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2132,76 +2943,148 @@
         "ID": 200,
         "Items": [
           {
-            "ItemID": 10040
+            "ItemID": 10040,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10180
+            "ItemID": 10180,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10200
+            "ItemID": 10200,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10220
+            "ItemID": 10220,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10270
+            "ItemID": 10270,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10320
+            "ItemID": 10320,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10380
+            "ItemID": 10380,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10840
+            "ItemID": 10840,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10770
+            "ItemID": 10770,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10880
+            "ItemID": 10880,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11090
+            "ItemID": 11090,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11100
+            "ItemID": 11100,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11110
+            "ItemID": 11110,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10670
+            "ItemID": 10670,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11130
+            "ItemID": 11130,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10740
+            "ItemID": 10740,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10160
+            "ItemID": 10160,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11170
+            "ItemID": 11170,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10420
+            "ItemID": 10420,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10090
+            "ItemID": 10090,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11190
+            "ItemID": 11190,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 12000
+            "ItemID": 12000,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10340
+            "ItemID": 10340,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 12030
+            "ItemID": 12030,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2209,28 +3092,52 @@
         "ID": 210,
         "Items": [
           {
-            "ItemID": 10040
+            "ItemID": 10040,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10180
+            "ItemID": 10180,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10200
+            "ItemID": 10200,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10220
+            "ItemID": 10220,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10270
+            "ItemID": 10270,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10320
+            "ItemID": 10320,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10380
+            "ItemID": 10380,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10840
+            "ItemID": 10840,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2238,52 +3145,100 @@
         "ID": 220,
         "Items": [
           {
-            "ItemID": 10770
+            "ItemID": 10770,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10880
+            "ItemID": 10880,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11090
+            "ItemID": 11090,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11100
+            "ItemID": 11100,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11110
+            "ItemID": 11110,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10670
+            "ItemID": 10670,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11130
+            "ItemID": 11130,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10740
+            "ItemID": 10740,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10160
+            "ItemID": 10160,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11170
+            "ItemID": 11170,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10420
+            "ItemID": 10420,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10090
+            "ItemID": 10090,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 11190
+            "ItemID": 11190,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 12000
+            "ItemID": 12000,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 10340
+            "ItemID": 10340,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 12030
+            "ItemID": 12030,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2291,22 +3246,40 @@
         "ID": 300,
         "Items": [
           {
-            "ItemID": 101001
+            "ItemID": 101001,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 102001
+            "ItemID": 102001,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 403002
+            "ItemID": 403002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 102002
+            "ItemID": 102002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 201001
+            "ItemID": 201001,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 103002
+            "ItemID": 103002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2314,28 +3287,52 @@
         "ID": 400,
         "Items": [
           {
-            "ItemID": 302002
+            "ItemID": 302002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 101002
+            "ItemID": 101002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 403001
+            "ItemID": 403001,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 402003
+            "ItemID": 402003,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 401001
+            "ItemID": 401001,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 301002
+            "ItemID": 301002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 202001
+            "ItemID": 202001,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 401004
+            "ItemID": 401004,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2343,25 +3340,46 @@
         "ID": 500,
         "Items": [
           {
-            "ItemID": 302002
+            "ItemID": 302002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 101002
+            "ItemID": 101002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 403001
+            "ItemID": 403001,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 402003
+            "ItemID": 402003,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 401001
+            "ItemID": 401001,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 301002
+            "ItemID": 301002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 202001
+            "ItemID": 202001,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2369,25 +3387,46 @@
         "ID": 2001,
         "Items": [
           {
-            "ItemID": 302002
+            "ItemID": 302002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 101002
+            "ItemID": 101002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 403001
+            "ItemID": 403001,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 402003
+            "ItemID": 402003,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 401001
+            "ItemID": 401001,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 301002
+            "ItemID": 301002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 202001
+            "ItemID": 202001,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2395,7 +3434,10 @@
         "ID": 3000,
         "Items": [
           {
-            "ItemID": 401004
+            "ItemID": 401004,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2403,7 +3445,10 @@
         "ID": 3001,
         "Items": [
           {
-            "ItemID": 101003
+            "ItemID": 101003,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2411,7 +3456,10 @@
         "ID": 3002,
         "Items": [
           {
-            "ItemID": 201002
+            "ItemID": 201002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2419,7 +3467,10 @@
         "ID": 3003,
         "Items": [
           {
-            "ItemID": 402002
+            "ItemID": 402002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2427,7 +3478,10 @@
         "ID": 3004,
         "Items": [
           {
-            "ItemID": 301004
+            "ItemID": 301004,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2435,7 +3489,10 @@
         "ID": 3006,
         "Items": [
           {
-            "ItemID": 302003
+            "ItemID": 302003,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2443,7 +3500,10 @@
         "ID": 3007,
         "Items": [
           {
-            "ItemID": 101004
+            "ItemID": 101004,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2451,7 +3511,10 @@
         "ID": 3008,
         "Items": [
           {
-            "ItemID": 401003
+            "ItemID": 401003,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2459,7 +3522,10 @@
         "ID": 3010,
         "Items": [
           {
-            "ItemID": 403004
+            "ItemID": 403004,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2467,7 +3533,10 @@
         "ID": 3011,
         "Items": [
           {
-            "ItemID": 401002
+            "ItemID": 401002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2475,7 +3544,10 @@
         "ID": 3013,
         "Items": [
           {
-            "ItemID": 202004
+            "ItemID": 202004,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2483,7 +3555,10 @@
         "ID": 3016,
         "Items": [
           {
-            "ItemID": 201003
+            "ItemID": 201003,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2491,7 +3566,10 @@
         "ID": 3018,
         "Items": [
           {
-            "ItemID": 401005
+            "ItemID": 401005,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2499,7 +3577,10 @@
         "ID": 3019,
         "Items": [
           {
-            "ItemID": 401005
+            "ItemID": 401005,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2507,7 +3588,10 @@
         "ID": 3020,
         "Items": [
           {
-            "ItemID": 401004
+            "ItemID": 401004,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2515,7 +3599,10 @@
         "ID": 3021,
         "Items": [
           {
-            "ItemID": 302004
+            "ItemID": 302004,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2523,7 +3610,21 @@
         "ID": 3022,
         "Items": [
           {
-            "ItemID": 301003
+            "ItemID": 301003,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
+          }
+        ]
+      },
+      {
+        "ID": 3023,
+        "Items": [
+          {
+            "ItemID": 202002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2531,7 +3632,10 @@
         "ID": 5000,
         "Items": [
           {
-            "ItemID": 10040
+            "ItemID": 10040,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2539,7 +3643,10 @@
         "ID": 5001,
         "Items": [
           {
-            "ItemID": 10180
+            "ItemID": 10180,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2547,7 +3654,10 @@
         "ID": 5002,
         "Items": [
           {
-            "ItemID": 10200
+            "ItemID": 10200,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2555,7 +3665,10 @@
         "ID": 5003,
         "Items": [
           {
-            "ItemID": 10220
+            "ItemID": 10220,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2563,7 +3676,10 @@
         "ID": 5004,
         "Items": [
           {
-            "ItemID": 10270
+            "ItemID": 10270,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2571,7 +3687,10 @@
         "ID": 5005,
         "Items": [
           {
-            "ItemID": 10320
+            "ItemID": 10320,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2579,7 +3698,10 @@
         "ID": 5006,
         "Items": [
           {
-            "ItemID": 10380
+            "ItemID": 10380,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2587,7 +3709,10 @@
         "ID": 5007,
         "Items": [
           {
-            "ItemID": 10840
+            "ItemID": 10840,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2595,7 +3720,10 @@
         "ID": 5008,
         "Items": [
           {
-            "ItemID": 10770
+            "ItemID": 10770,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2603,7 +3731,10 @@
         "ID": 5009,
         "Items": [
           {
-            "ItemID": 10880
+            "ItemID": 10880,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2611,7 +3742,10 @@
         "ID": 5010,
         "Items": [
           {
-            "ItemID": 11090
+            "ItemID": 11090,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2619,7 +3753,10 @@
         "ID": 5011,
         "Items": [
           {
-            "ItemID": 11100
+            "ItemID": 11100,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2627,7 +3764,10 @@
         "ID": 5012,
         "Items": [
           {
-            "ItemID": 11110
+            "ItemID": 11110,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2635,7 +3775,10 @@
         "ID": 5013,
         "Items": [
           {
-            "ItemID": 10670
+            "ItemID": 10670,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2643,7 +3786,10 @@
         "ID": 5014,
         "Items": [
           {
-            "ItemID": 11130
+            "ItemID": 11130,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2651,7 +3797,10 @@
         "ID": 5015,
         "Items": [
           {
-            "ItemID": 10740
+            "ItemID": 10740,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2659,7 +3808,10 @@
         "ID": 5016,
         "Items": [
           {
-            "ItemID": 10160
+            "ItemID": 10160,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2667,7 +3819,10 @@
         "ID": 5017,
         "Items": [
           {
-            "ItemID": 11170
+            "ItemID": 11170,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2675,7 +3830,10 @@
         "ID": 5018,
         "Items": [
           {
-            "ItemID": 10420
+            "ItemID": 10420,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2683,7 +3841,10 @@
         "ID": 5019,
         "Items": [
           {
-            "ItemID": 10090
+            "ItemID": 10090,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2691,7 +3852,10 @@
         "ID": 5020,
         "Items": [
           {
-            "ItemID": 11190
+            "ItemID": 11190,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2699,7 +3863,10 @@
         "ID": 5021,
         "Items": [
           {
-            "ItemID": 12000
+            "ItemID": 12000,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2707,7 +3874,10 @@
         "ID": 5022,
         "Items": [
           {
-            "ItemID": 10340
+            "ItemID": 10340,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2715,7 +3885,10 @@
         "ID": 5023,
         "Items": [
           {
-            "ItemID": 12030
+            "ItemID": 12030,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2723,7 +3896,10 @@
         "ID": 40000,
         "Items": [
           {
-            "ItemID": 401
+            "ItemID": 401,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -2731,280 +3907,556 @@
         "ID": 40001,
         "Items": [
           {
-            "ItemID": 5042901
+            "ItemID": 5042901,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042902
+            "ItemID": 5042902,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042903
+            "ItemID": 5042903,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042904
+            "ItemID": 5042904,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042905
+            "ItemID": 5042905,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042906
+            "ItemID": 5042906,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042907
+            "ItemID": 5042907,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042908
+            "ItemID": 5042908,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042909
+            "ItemID": 5042909,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042910
+            "ItemID": 5042910,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042911
+            "ItemID": 5042911,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042912
+            "ItemID": 5042912,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042913
+            "ItemID": 5042913,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042914
+            "ItemID": 5042914,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042915
+            "ItemID": 5042915,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042916
+            "ItemID": 5042916,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042917
+            "ItemID": 5042917,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042918
+            "ItemID": 5042918,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042919
+            "ItemID": 5042919,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042920
+            "ItemID": 5042920,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042921
+            "ItemID": 5042921,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042922
+            "ItemID": 5042922,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042923
+            "ItemID": 5042923,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042924
+            "ItemID": 5042924,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042925
+            "ItemID": 5042925,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042926
+            "ItemID": 5042926,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042927
+            "ItemID": 5042927,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042928
+            "ItemID": 5042928,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042929
+            "ItemID": 5042929,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042930
+            "ItemID": 5042930,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042931
+            "ItemID": 5042931,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042932
+            "ItemID": 5042932,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042933
+            "ItemID": 5042933,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042934
+            "ItemID": 5042934,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042935
+            "ItemID": 5042935,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042936
+            "ItemID": 5042936,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5042937
+            "ItemID": 5042937,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043001
+            "ItemID": 5043001,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043002
+            "ItemID": 5043002,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043003
+            "ItemID": 5043003,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043004
+            "ItemID": 5043004,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043005
+            "ItemID": 5043005,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043006
+            "ItemID": 5043006,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043007
+            "ItemID": 5043007,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043008
+            "ItemID": 5043008,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043009
+            "ItemID": 5043009,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043010
+            "ItemID": 5043010,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043011
+            "ItemID": 5043011,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043012
+            "ItemID": 5043012,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043013
+            "ItemID": 5043013,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043014
+            "ItemID": 5043014,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043015
+            "ItemID": 5043015,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043016
+            "ItemID": 5043016,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043017
+            "ItemID": 5043017,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043018
+            "ItemID": 5043018,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043019
+            "ItemID": 5043019,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043020
+            "ItemID": 5043020,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043021
+            "ItemID": 5043021,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043022
+            "ItemID": 5043022,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043023
+            "ItemID": 5043023,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043024
+            "ItemID": 5043024,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043025
+            "ItemID": 5043025,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043026
+            "ItemID": 5043026,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043027
+            "ItemID": 5043027,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043028
+            "ItemID": 5043028,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043029
+            "ItemID": 5043029,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043030
+            "ItemID": 5043030,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043031
+            "ItemID": 5043031,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043032
+            "ItemID": 5043032,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043033
+            "ItemID": 5043033,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043034
+            "ItemID": 5043034,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043035
+            "ItemID": 5043035,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043036
+            "ItemID": 5043036,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043037
+            "ItemID": 5043037,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043038
+            "ItemID": 5043038,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043039
+            "ItemID": 5043039,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043040
+            "ItemID": 5043040,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043041
+            "ItemID": 5043041,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043042
+            "ItemID": 5043042,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043043
+            "ItemID": 5043043,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043125
+            "ItemID": 5043125,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043126
+            "ItemID": 5043126,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043127
+            "ItemID": 5043127,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043128
+            "ItemID": 5043128,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043129
+            "ItemID": 5043129,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043130
+            "ItemID": 5043130,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043131
+            "ItemID": 5043131,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043132
+            "ItemID": 5043132,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043443
+            "ItemID": 5043443,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043444
+            "ItemID": 5043444,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043445
+            "ItemID": 5043445,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 5043446
+            "ItemID": 5043446,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -3012,232 +4464,460 @@
         "ID": 40002,
         "Items": [
           {
-            "ItemID": 1101401
+            "ItemID": 1101401,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1101402
+            "ItemID": 1101402,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1101403
+            "ItemID": 1101403,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1101404
+            "ItemID": 1101404,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1101405
+            "ItemID": 1101405,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1101406
+            "ItemID": 1101406,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1102401
+            "ItemID": 1102401,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1102402
+            "ItemID": 1102402,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1102403
+            "ItemID": 1102403,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1102404
+            "ItemID": 1102404,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1102405
+            "ItemID": 1102405,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1102406
+            "ItemID": 1102406,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1103401
+            "ItemID": 1103401,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1103402
+            "ItemID": 1103402,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1103403
+            "ItemID": 1103403,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1103404
+            "ItemID": 1103404,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1103405
+            "ItemID": 1103405,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1103406
+            "ItemID": 1103406,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1103407
+            "ItemID": 1103407,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1104401
+            "ItemID": 1104401,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1104402
+            "ItemID": 1104402,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1104403
+            "ItemID": 1104403,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1104404
+            "ItemID": 1104404,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1104405
+            "ItemID": 1104405,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1201401
+            "ItemID": 1201401,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1201402
+            "ItemID": 1201402,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1201403
+            "ItemID": 1201403,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1201404
+            "ItemID": 1201404,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1201405
+            "ItemID": 1201405,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1201406
+            "ItemID": 1201406,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1201407
+            "ItemID": 1201407,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1202401
+            "ItemID": 1202401,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1202402
+            "ItemID": 1202402,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1202403
+            "ItemID": 1202403,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1202404
+            "ItemID": 1202404,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1202405
+            "ItemID": 1202405,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1202406
+            "ItemID": 1202406,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1202407
+            "ItemID": 1202407,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1302401
+            "ItemID": 1302401,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1302402
+            "ItemID": 1302402,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1302403
+            "ItemID": 1302403,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1302404
+            "ItemID": 1302404,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1302405
+            "ItemID": 1302405,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1302406
+            "ItemID": 1302406,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1302407
+            "ItemID": 1302407,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1303401
+            "ItemID": 1303401,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1303402
+            "ItemID": 1303402,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1303403
+            "ItemID": 1303403,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1303404
+            "ItemID": 1303404,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1303405
+            "ItemID": 1303405,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1303406
+            "ItemID": 1303406,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1303407
+            "ItemID": 1303407,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1401401
+            "ItemID": 1401401,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1401402
+            "ItemID": 1401402,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1401403
+            "ItemID": 1401403,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1401404
+            "ItemID": 1401404,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1401405
+            "ItemID": 1401405,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1401406
+            "ItemID": 1401406,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1401407
+            "ItemID": 1401407,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1401408
+            "ItemID": 1401408,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1402401
+            "ItemID": 1402401,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1402402
+            "ItemID": 1402402,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1402403
+            "ItemID": 1402403,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1402404
+            "ItemID": 1402404,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1402405
+            "ItemID": 1402405,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1402406
+            "ItemID": 1402406,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1402407
+            "ItemID": 1402407,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403401
+            "ItemID": 1403401,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403402
+            "ItemID": 1403402,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403403
+            "ItemID": 1403403,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403404
+            "ItemID": 1403404,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403405
+            "ItemID": 1403405,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403406
+            "ItemID": 1403406,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403407
+            "ItemID": 1403407,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403408
+            "ItemID": 1403408,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403409
+            "ItemID": 1403409,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -3245,236 +4925,460 @@
         "ID": 40003,
         "Items": [
           {
-            "ItemID": 1101501
+            "ItemID": 1101501,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1101502
+            "ItemID": 1101502,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1101503
+            "ItemID": 1101503,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1101504
+            "ItemID": 1101504,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1101505
+            "ItemID": 1101505,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1101506
+            "ItemID": 1101506,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1102501
+            "ItemID": 1102501,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1102502
+            "ItemID": 1102502,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1102503
+            "ItemID": 1102503,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1102504
+            "ItemID": 1102504,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1102505
+            "ItemID": 1102505,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1102506
+            "ItemID": 1102506,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1103501
+            "ItemID": 1103501,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1103502
+            "ItemID": 1103502,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1103503
+            "ItemID": 1103503,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1103504
+            "ItemID": 1103504,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1103505
+            "ItemID": 1103505,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 1103506,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1103507
+            "ItemID": 1103507,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1104501
+            "ItemID": 1104501,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1104502
+            "ItemID": 1104502,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1104503
+            "ItemID": 1104503,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1104504
+            "ItemID": 1104504,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1104505
+            "ItemID": 1104505,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1201501
+            "ItemID": 1201501,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1201502
+            "ItemID": 1201502,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1201503
+            "ItemID": 1201503,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1201504
+            "ItemID": 1201504,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1201505
+            "ItemID": 1201505,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1201506
+            "ItemID": 1201506,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1201507
+            "ItemID": 1201507,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1202501
+            "ItemID": 1202501,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1202502
+            "ItemID": 1202502,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1202503
+            "ItemID": 1202503,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1202504
+            "ItemID": 1202504,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1202505
+            "ItemID": 1202505,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1202506
+            "ItemID": 1202506,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1202507
+            "ItemID": 1202507,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1302501
+            "ItemID": 1302501,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1302502
+            "ItemID": 1302502,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1302503
+            "ItemID": 1302503,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1302504
+            "ItemID": 1302504,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1302505
+            "ItemID": 1302505,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1302506
+            "ItemID": 1302506,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1302507
+            "ItemID": 1302507,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1303501
+            "ItemID": 1303501,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1303502
+            "ItemID": 1303502,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1303503
+            "ItemID": 1303503,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1303504
+            "ItemID": 1303504,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1303505
+            "ItemID": 1303505,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1303506
+            "ItemID": 1303506,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1303507
+            "ItemID": 1303507,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1401501
+            "ItemID": 1401501,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1401502
+            "ItemID": 1401502,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1401503
+            "ItemID": 1401503,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1401504
+            "ItemID": 1401504,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1401505
+            "ItemID": 1401505,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 1401506,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 1401507,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1401508
+            "ItemID": 1401508,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1402501
+            "ItemID": 1402501,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1402502
+            "ItemID": 1402502,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1402503
+            "ItemID": 1402503,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1402504
+            "ItemID": 1402504,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1402505
+            "ItemID": 1402505,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1402506
+            "ItemID": 1402506,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1402507
+            "ItemID": 1402507,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403501
+            "ItemID": 1403501,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403502
+            "ItemID": 1403502,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403503
+            "ItemID": 1403503,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403504
+            "ItemID": 1403504,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403505
+            "ItemID": 1403505,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403506
+            "ItemID": 1403506,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403507
+            "ItemID": 1403507,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 1403508
+            "ItemID": 1403508,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 1403509,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           }
         ]
       },
@@ -3513,25 +5417,39 @@
           },
           {
             "ItemID": 4200232,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 4200233,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 4200262,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 4200263,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 4200302
+            "ItemID": 4200302,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 4200303
+            "ItemID": 4200303,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 4200311,
@@ -3571,64 +5489,111 @@
           },
           {
             "ItemID": 4200372,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 4200373,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 4100052
+            "ItemID": 4100052,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 4100053
+            "ItemID": 4100053,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 4100062,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 4100063,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 4100092
+            "ItemID": 4100092,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 4100093
+            "ItemID": 4100093,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 4100142
+            "ItemID": 4100142,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 4100143
+            "ItemID": 4100143,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 4100152,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 4100153,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 4100192
+            "ItemID": 4100192,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 4100193
+            "ItemID": 4100193,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 4610011
+            "ItemID": 4610011,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 4610041
+            "ItemID": 4610041,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
-            "ItemID": 4610081
+            "ItemID": 4610081,
+            "IsOptional": false,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 4645002,
-            "IsOptional": true
+            "IsOptional": true,
+            "OpeningTime": "",
+            "ClosingTime": ""
           },
           {
             "ItemID": 4200662,

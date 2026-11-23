@@ -5,18 +5,29 @@
         "ID": 10010,
         "TextID": 1,
         "IconID": 100,
+        "PreTaskID": 0,
         "VirualWeaponID": 1101201,
         "UseCharacterPoolID": 1,
+        "StartVoiceID": 0,
         "AssetFullName": "Level/Mission/TestSceneBattle001/MissionBattle_11010",
+        "ReviseLevel": 0,
+        "MonsterLevel": 0,
+        "RecommendLv": 0,
         "NewUnlockTaskType": 4,
         "NewTaskType": 4
       },
       {
         "ID": 10011,
         "TextID": 2,
+        "IconID": 0,
         "PreTaskID": 10010,
         "VirualWeaponID": 1101301,
         "UseCharacterPoolID": 1,
+        "StartVoiceID": 0,
+        "AssetFullName": "",
+        "ReviseLevel": 0,
+        "MonsterLevel": 0,
+        "RecommendLv": 0,
         "NewUnlockTaskType": 4,
         "NewTaskType": 4
       }
@@ -29,17 +40,21 @@
         "BattleWeaponCharacterPoolGroupInfo": [
           {
             "Index": 1,
+            "CharacterID": 0,
             "NewWeaponType": 1,
             "NewCharacterType": 1
           },
           {
             "Index": 2,
+            "CharacterID": 0,
             "NewWeaponType": 3,
             "NewCharacterType": 1
           },
           {
             "Index": 3,
-            "CharacterID": 401001
+            "CharacterID": 401001,
+            "NewWeaponType": 0,
+            "NewCharacterType": 0
           }
         ]
       },
@@ -48,19 +63,27 @@
         "BattleWeaponCharacterPoolGroupInfo": [
           {
             "Index": 1,
-            "CharacterID": 101001
+            "CharacterID": 101001,
+            "NewWeaponType": 0,
+            "NewCharacterType": 0
           },
           {
             "Index": 2,
-            "CharacterID": 101002
+            "CharacterID": 101002,
+            "NewWeaponType": 0,
+            "NewCharacterType": 0
           },
           {
             "Index": 3,
-            "CharacterID": 101003
+            "CharacterID": 101003,
+            "NewWeaponType": 0,
+            "NewCharacterType": 0
           },
           {
             "Index": 4,
-            "CharacterID": 102001
+            "CharacterID": 102001,
+            "NewWeaponType": 0,
+            "NewCharacterType": 0
           }
         ]
       }

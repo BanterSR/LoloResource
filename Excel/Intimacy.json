@@ -3,7 +3,8 @@
     "Datas": [
       {
         "ID": 1,
-        "IntimacyLevel": 1
+        "IntimacyLevel": 1,
+        "IntimacyConditionValue": 0
       },
       {
         "ID": 2,
@@ -27,164 +28,219 @@
       {
         "ID": 1,
         "IntimacyLevel": 1,
+        "UnlockItemID": 0,
         "LabelTextID": 1001,
         "IconID": 1001
       },
       {
         "ID": 2,
         "IntimacyLevel": 1,
+        "UnlockItemID": 0,
         "LabelTextID": 1002,
         "IconID": 1002
       },
       {
         "ID": 3,
         "IntimacyLevel": 1,
-        "LabelTextID": 1003
+        "UnlockItemID": 0,
+        "LabelTextID": 1003,
+        "IconID": 0
       },
       {
         "ID": 4,
         "IntimacyLevel": 1,
-        "LabelTextID": 1004
+        "UnlockItemID": 0,
+        "LabelTextID": 1004,
+        "IconID": 0
       },
       {
         "ID": 5,
         "IntimacyLevel": 1,
-        "LabelTextID": 1005
+        "UnlockItemID": 0,
+        "LabelTextID": 1005,
+        "IconID": 0
       },
       {
         "ID": 6,
         "IntimacyLevel": 1,
-        "LabelTextID": 1006
+        "UnlockItemID": 0,
+        "LabelTextID": 1006,
+        "IconID": 0
       },
       {
         "ID": 7,
         "IntimacyLevel": 1,
-        "LabelTextID": 1007
+        "UnlockItemID": 0,
+        "LabelTextID": 1007,
+        "IconID": 0
       },
       {
         "ID": 8,
         "IntimacyLevel": 1,
-        "LabelTextID": 1008
+        "UnlockItemID": 0,
+        "LabelTextID": 1008,
+        "IconID": 0
       },
       {
         "ID": 9,
         "IntimacyLevel": 1,
-        "LabelTextID": 1009
+        "UnlockItemID": 0,
+        "LabelTextID": 1009,
+        "IconID": 0
       },
       {
         "ID": 10,
         "IntimacyLevel": 1,
-        "LabelTextID": 1010
+        "UnlockItemID": 0,
+        "LabelTextID": 1010,
+        "IconID": 0
       },
       {
         "ID": 2001,
         "IntimacyLevel": 2,
+        "UnlockItemID": 0,
         "LabelTextID": 2001,
         "IconID": 2001
       },
       {
         "ID": 2002,
         "IntimacyLevel": 2,
+        "UnlockItemID": 0,
         "LabelTextID": 2002,
         "IconID": 2002
       },
       {
         "ID": 2003,
         "IntimacyLevel": 2,
-        "LabelTextID": 2003
+        "UnlockItemID": 0,
+        "LabelTextID": 2003,
+        "IconID": 0
       },
       {
         "ID": 2004,
         "IntimacyLevel": 2,
-        "LabelTextID": 2004
+        "UnlockItemID": 0,
+        "LabelTextID": 2004,
+        "IconID": 0
       },
       {
         "ID": 2005,
         "IntimacyLevel": 2,
-        "LabelTextID": 2005
+        "UnlockItemID": 0,
+        "LabelTextID": 2005,
+        "IconID": 0
       },
       {
         "ID": 2006,
         "IntimacyLevel": 2,
-        "LabelTextID": 2006
+        "UnlockItemID": 0,
+        "LabelTextID": 2006,
+        "IconID": 0
       },
       {
         "ID": 2007,
         "IntimacyLevel": 2,
-        "LabelTextID": 2007
+        "UnlockItemID": 0,
+        "LabelTextID": 2007,
+        "IconID": 0
       },
       {
         "ID": 2008,
         "IntimacyLevel": 2,
-        "LabelTextID": 2008
+        "UnlockItemID": 0,
+        "LabelTextID": 2008,
+        "IconID": 0
       },
       {
         "ID": 2009,
         "IntimacyLevel": 2,
-        "LabelTextID": 2009
+        "UnlockItemID": 0,
+        "LabelTextID": 2009,
+        "IconID": 0
       },
       {
         "ID": 2010,
         "IntimacyLevel": 2,
-        "LabelTextID": 2010
+        "UnlockItemID": 0,
+        "LabelTextID": 2010,
+        "IconID": 0
       },
       {
         "ID": 3001,
         "IntimacyLevel": 3,
+        "UnlockItemID": 0,
         "LabelTextID": 3001,
         "IconID": 3001
       },
       {
         "ID": 3002,
         "IntimacyLevel": 3,
+        "UnlockItemID": 0,
         "LabelTextID": 3002,
         "IconID": 3002
       },
       {
         "ID": 3003,
         "IntimacyLevel": 3,
+        "UnlockItemID": 0,
         "LabelTextID": 3003,
         "IconID": 3003
       },
       {
         "ID": 3004,
         "IntimacyLevel": 3,
-        "LabelTextID": 3004
+        "UnlockItemID": 0,
+        "LabelTextID": 3004,
+        "IconID": 0
       },
       {
         "ID": 3005,
         "IntimacyLevel": 3,
-        "LabelTextID": 3005
+        "UnlockItemID": 0,
+        "LabelTextID": 3005,
+        "IconID": 0
       },
       {
         "ID": 3006,
         "IntimacyLevel": 3,
-        "LabelTextID": 3006
+        "UnlockItemID": 0,
+        "LabelTextID": 3006,
+        "IconID": 0
       },
       {
         "ID": 3007,
         "IntimacyLevel": 3,
-        "LabelTextID": 3007
+        "UnlockItemID": 0,
+        "LabelTextID": 3007,
+        "IconID": 0
       },
       {
         "ID": 3008,
         "IntimacyLevel": 3,
-        "LabelTextID": 3008
+        "UnlockItemID": 0,
+        "LabelTextID": 3008,
+        "IconID": 0
       },
       {
         "ID": 3009,
         "IntimacyLevel": 3,
-        "LabelTextID": 3009
+        "UnlockItemID": 0,
+        "LabelTextID": 3009,
+        "IconID": 0
       },
       {
         "ID": 3010,
         "IntimacyLevel": 3,
-        "LabelTextID": 3010
+        "UnlockItemID": 0,
+        "LabelTextID": 3010,
+        "IconID": 0
       },
       {
         "ID": 3011,
         "IntimacyLevel": 3,
-        "LabelTextID": 3011
+        "UnlockItemID": 0,
+        "LabelTextID": 3011,
+        "IconID": 0
       }
     ]
   }

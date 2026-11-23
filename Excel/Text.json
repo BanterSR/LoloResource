@@ -25,7 +25,7 @@
         "ChineseSimplified": "需要下载{0}个文件，总大小为{1}MB",
         "ChineseTraditional": "需要下载{0}个文件，总大小为{1}MB",
         "English": "{0} files need to be downloaded, total size: {1}MB.",
-        "Japanese": "データをダウンロードします。ファイル数：{0}\u3000サイズ： {1}MB",
+        "Japanese": "データをダウンロードします。ファイル数：{0}　サイズ： {1}MB",
         "Korea": "{0}개의 파일({1}MB )을 다운로드해야 합니다."
       },
       {
@@ -121,20 +121,20 @@
       {
         "ID": 14,
         "Key": "Text_Friend_OnLine",
-        "ChineseSimplified": "\u003C#FF6D25\u003E在线\u003C/color\u003E",
-        "ChineseTraditional": "\u003C#FF6D25\u003E在线\u003C/color\u003E",
-        "English": "\u003C#FF6D25\u003EOnline\u003C/color\u003E",
-        "Japanese": "\u003C#FF6D25\u003Eオンライン\u003C/color\u003E",
-        "Korea": "\u003C#FF6D25\u003E접속 중\u003C/color\u003E"
+        "ChineseSimplified": "<#FF6D25>在线</color>",
+        "ChineseTraditional": "<#FF6D25>在线</color>",
+        "English": "<#FF6D25>Online</color>",
+        "Japanese": "<#FF6D25>オンライン</color>",
+        "Korea": "<#FF6D25>접속 중</color>"
       },
       {
         "ID": 15,
         "Key": "Text_Friend_UnLine",
-        "ChineseSimplified": "\u003C#949494\u003E离线\u003C/color\u003E",
-        "ChineseTraditional": "\u003C#949494\u003E离线\u003C/color\u003E",
-        "English": "\u003C#949494\u003EOffline\u003C/color\u003E",
-        "Japanese": "\u003C#949494\u003Eオフライン\u003C/color\u003E",
-        "Korea": "\u003C#949494\u003E미접속\u003C/color\u003E"
+        "ChineseSimplified": "<#949494>离线</color>",
+        "ChineseTraditional": "<#949494>离线</color>",
+        "English": "<#949494>Offline</color>",
+        "Japanese": "<#949494>オフライン</color>",
+        "Korea": "<#949494>미접속</color>"
       },
       {
         "ID": 16,
@@ -205,6 +205,7 @@
         "ChineseSimplified": "级",
         "ChineseTraditional": "级",
         "English": "Lv.",
+        "Japanese": "",
         "Korea": "레벨"
       },
       {
@@ -213,6 +214,7 @@
         "ChineseSimplified": "编号",
         "ChineseTraditional": "编号",
         "English": "Code",
+        "Japanese": "",
         "Korea": "번호"
       },
       {
@@ -427,7 +429,7 @@
         "Key": "Tip_Dungeon_Fail",
         "ChineseSimplified": "战斗失败返回至原来的世界",
         "ChineseTraditional": "副本战斗失败",
-        "English": "As you\u0027ve lost the battle, you\u0027re returning to your original world now. Train up and challenge again later!",
+        "English": "As you've lost the battle, you're returning to your original world now. Train up and challenge again later!",
         "Japanese": "ステージ戦闘失敗",
         "Korea": "전투 실패, 곧 기존의 세계로 돌아갑니다. 더욱 강해진 후 다시 도전해 보세요!"
       },
@@ -481,7 +483,7 @@
         "Key": "Tips_Quest_Teleport",
         "ChineseSimplified": "当前空间不在此世界，是否需要立即切换到目标世界",
         "ChineseTraditional": "当前空间不在此世界，是否需要立即切换到目标世界",
-        "English": "This field doesn\u0027t belong to the current world. Switch to the target world now?",
+        "English": "This field doesn't belong to the current world. Switch to the target world now?",
         "Japanese": "該当フィールドの場所に転移します。よろしいですか？",
         "Korea": "현재 필드는 해당 세계에 속하지 않습니다. 즉시 목표 세계로 이동하시겠습니까?"
       },
@@ -1227,6 +1229,7 @@
         "ID": 137,
         "Key": "Tips_Ability_LevelUp_Success",
         "ChineseSimplified": "能力提升",
+        "ChineseTraditional": "",
         "English": "Ability improved.",
         "Japanese": "能力上昇",
         "Korea": "재능 상승"
@@ -1353,7 +1356,7 @@
         "Key": "Tips_ChangeChannel_ChannelID_SameBefore",
         "ChineseSimplified": "输入频道和当前一样",
         "ChineseTraditional": "输入频道和当前一样",
-        "English": "You\u0027re already in this channel.",
+        "English": "You're already in this channel.",
         "Japanese": "現在チャンネルの番号です",
         "Korea": "현재 채널과 동일한 채널 ID를 입력하였습니다."
       },
@@ -1461,7 +1464,7 @@
         "Key": "Tips_Chat_Input_Fast",
         "ChineseSimplified": "聊天速度过快！！！",
         "ChineseTraditional": "聊天速度过快！！！",
-        "English": "Slow down—you\u0027re messaging too fast!",
+        "English": "Slow down—you're messaging too fast!",
         "Japanese": "チャット速度が速すぎます！！！",
         "Korea": "메시지 발송 속도가 너무 빠릅니다!"
       },
@@ -1902,7 +1905,7 @@
         "Key": "Text_Shop_Item_Have",
         "ChineseSimplified": "已获得该物品，无法重复购买！",
         "ChineseTraditional": "已获得该物品，无法重复购买！",
-        "English": "You\u0027ve already bought this item—no duplicate purchases allowed!",
+        "English": "You've already bought this item—no duplicate purchases allowed!",
         "Japanese": "入手済みのアイテムです。再度購入することはできません！",
         "Korea": "이미 획득한 아이템을 중복 구매할 수 없습니다."
       },
@@ -2107,11 +2110,11 @@
       {
         "ID": 235,
         "Key": "Tips_Mission_Complete",
-        "ChineseSimplified": "\u003C#FFDC26\u003E完成 [{0}]\u003C/color\u003E",
-        "ChineseTraditional": "\u003C#FFDC26\u003E完成 [{0}]\u003C/color\u003E",
-        "English": "\u003C#FFDC26\u003EComplete [{0}]\u003C/color\u003E",
-        "Japanese": "\u003C#FFDC26\u003E [{0}]\u003C/color\u003Eをクリアしました",
-        "Korea": "\u003C#FFDC26\u003E[{0}] 완료\u003C/color\u003E"
+        "ChineseSimplified": "<#FFDC26>完成 [{0}]</color>",
+        "ChineseTraditional": "<#FFDC26>完成 [{0}]</color>",
+        "English": "<#FFDC26>Complete [{0}]</color>",
+        "Japanese": "<#FFDC26> [{0}]</color>をクリアしました",
+        "Korea": "<#FFDC26>[{0}] 완료</color>"
       },
       {
         "ID": 236,
@@ -2262,7 +2265,7 @@
         "Key": "Tips_Campsite_Near",
         "ChineseSimplified": "附近已经有篝火",
         "ChineseTraditional": "附近已经有篝火",
-        "English": "There\u0027s already a campfire nearby.",
+        "English": "There's already a campfire nearby.",
         "Japanese": "近くに焚き火がすでに存在しています",
         "Korea": "주변에 모닥불이 존재합니다."
       },
@@ -2467,7 +2470,11 @@
       {
         "ID": 275,
         "Key": "Text_Quest_Type_SideQuest",
-        "Japanese": "サブクエスト"
+        "ChineseSimplified": "",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "サブクエスト",
+        "Korea": ""
       },
       {
         "ID": 276,
@@ -2582,7 +2589,7 @@
         "Key": "Text_SceneCollection_Book",
         "ChineseSimplified": "书籍手册",
         "ChineseTraditional": "书籍手册",
-        "English": "Books \u0026 Handbooks",
+        "English": "Books & Handbooks",
         "Japanese": "文献手帳",
         "Korea": "서적 수첩"
       },
@@ -3040,6 +3047,7 @@
         "ID": 339,
         "Key": "Text_Armor_Star_LevelUp",
         "ChineseSimplified": "模块星级升级",
+        "ChineseTraditional": "",
         "English": "Module star rating increased.",
         "Japanese": "モジュールランクアップ",
         "Korea": "모듈 성급 상승"
@@ -3058,7 +3066,7 @@
         "Key": "Text_Ability_Info",
         "ChineseSimplified": "小助手\\r\n距离获得SSR探索员还差{0}次扭蛋",
         "ChineseTraditional": "小助手\\r\n距离获得SSR角色还差{0}次扭蛋",
-        "English": "Assistant:\\r\nYou\u0027re only {0} gacha pulls away from getting an SSR Adventurer!",
+        "English": "Assistant:\\r\nYou're only {0} gacha pulls away from getting an SSR Adventurer!",
         "Japanese": "アシスト\\r\nSSRキャラ入手までガチャ{0}回",
         "Korea": "도우미\\r\n앞으로 가샤폰을 {0}회 더 뽑을 시, SSR 프론티어 확정 출현"
       },
@@ -3462,6 +3470,7 @@
         "ID": 386,
         "Key": "Text_Weapon_Star_LevelUp",
         "ChineseSimplified": "武器星级升级",
+        "ChineseTraditional": "",
         "English": "Weapon Star Up",
         "Japanese": "武器ランクアップ",
         "Korea": "무기 성급 상승"
@@ -3641,7 +3650,9 @@
         "ID": 406,
         "Key": "Text_Gacha_Close",
         "ChineseSimplified": "卡池关闭中",
+        "ChineseTraditional": "",
         "English": "Card pool is closed.",
+        "Japanese": "",
         "Korea": "보상풀 미개방"
       },
       {
@@ -3649,7 +3660,7 @@
         "Key": "Text_TeamGamePlay_Add_HaveTeam",
         "ChineseSimplified": "你已加入了其他游戏厅，要退出并加入此游戏厅吗？",
         "ChineseTraditional": "你已加入了其他游戏厅，要退出并加入此游戏厅吗？",
-        "English": "You\u0027ve joined another game room. Exit and join this one?",
+        "English": "You've joined another game room. Exit and join this one?",
         "Japanese": "你已加入了其他游戏厅，要退出并加入此游戏厅吗？",
         "Korea": "이미 다른 게임방에 가입하였습니다. 기존 게임방에서 퇴장 후 해당 게임방에 가입하시겠습니까?"
       },
@@ -3657,21 +3668,27 @@
         "ID": 408,
         "Key": "Text_TeamCreateName_Empty",
         "ChineseSimplified": "队伍名称不能为空",
+        "ChineseTraditional": "",
         "English": "Team name cannot be empty.",
+        "Japanese": "",
         "Korea": "팀 이름을 입력하지 않았습니다."
       },
       {
         "ID": 409,
         "Key": "Text_Friend_Transform_Text",
         "ChineseSimplified": "是否传送到好友旁边？",
+        "ChineseTraditional": "",
         "English": "Teleport next to your friend?",
+        "Japanese": "",
         "Korea": "친구 주변으로 워프하시겠습니까?"
       },
       {
         "ID": 410,
         "Key": "Tips_TeamGamePlay_OnlyMainCity",
         "ChineseSimplified": "游戏厅只能在罗塔花园广场使用",
+        "ChineseTraditional": "",
         "English": "Game room access limited to Rota Garden Plaza.",
+        "Japanese": "",
         "Korea": "게임방은 로타 에덴광장에서만 사용할 수 있습니다."
       },
       {
@@ -3689,12 +3706,17 @@
         "ChineseSimplified": "图签未解锁",
         "ChineseTraditional": "图签未解锁",
         "English": "Map Marker feature locked.",
+        "Japanese": "",
         "Korea": "도감 미해금"
       },
       {
         "ID": 413,
         "Key": "Text_Friend_TransformError_Text",
-        "ChineseSimplified": "副本中不能使用该功能"
+        "ChineseSimplified": "副本中不能使用该功能",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 414,
@@ -3925,6 +3947,7 @@
         "ID": 452,
         "Key": "Text_Ability_Unlock",
         "ChineseSimplified": "能力激活",
+        "ChineseTraditional": "",
         "English": "Ability Activated",
         "Japanese": "能力解放",
         "Korea": "재능 활성화"
@@ -4159,7 +4182,7 @@
         "Key": "GuideScene_Dead_Info",
         "ChineseSimplified": "生命值耗尽倒下，还要继续战斗吗？",
         "ChineseTraditional": "生命值耗尽倒下，还要继续战斗吗？",
-        "English": "You\u0027re down with 0 HP. Do you want to keep fighting?",
+        "English": "You're down with 0 HP. Do you want to keep fighting?",
         "Japanese": "キャラのHPが0になり倒れました。引き続き戦闘を行いますか？",
         "Korea": "생명력이 소진되어 쓰러졌습니다. 전투를 계속하시겠습니까?"
       },
@@ -4403,7 +4426,8 @@
         "ChineseSimplified": "座椅",
         "ChineseTraditional": "座椅",
         "English": "Chair",
-        "Japanese": "いす"
+        "Japanese": "いす",
+        "Korea": ""
       },
       {
         "ID": 506,
@@ -4411,7 +4435,8 @@
         "ChineseSimplified": "返回起点",
         "ChineseTraditional": "返回起点",
         "English": "Return to Start",
-        "Japanese": "スタートに戻る"
+        "Japanese": "スタートに戻る",
+        "Korea": ""
       },
       {
         "ID": 507,
@@ -4419,7 +4444,8 @@
         "ChineseSimplified": "排行榜",
         "ChineseTraditional": "排行榜",
         "English": "Ranking",
-        "Japanese": "ランキング"
+        "Japanese": "ランキング",
+        "Korea": ""
       },
       {
         "ID": 508,
@@ -4489,7 +4515,7 @@
         "Key": "Event100091_Step1",
         "ChineseSimplified": "询问之后的工作",
         "ChineseTraditional": "询问之后的工作",
-        "English": "Ask about what\u0027s next.",
+        "English": "Ask about what's next.",
         "Japanese": "次の仕事について聞く",
         "Korea": "이후의 업무에 관해 문의"
       },
@@ -4588,7 +4614,7 @@
         "Key": "Event101061_Step4",
         "ChineseSimplified": "诗的想法",
         "ChineseTraditional": "诗的想法",
-        "English": "Shirley\u0027s Idea",
+        "English": "Shirley's Idea",
         "Japanese": "詩の考え",
         "Korea": "엘의 관점"
       },
@@ -4748,11 +4774,11 @@
       {
         "ID": 544,
         "Key": "Tips_AreaSetting_NearInfo",
-        "ChineseSimplified": "附近发现可激活的\u003Ccolor=blue\u003E区域装置\u003C/color\u003E",
-        "ChineseTraditional": "附近发现可激活的\u003Ccolor=blue\u003E区域装置\u003C/color\u003E",
-        "English": "Activatable \u003Ccolor=blue\u003EArea Terminal\u003C/color\u003E detected nearby.",
-        "Japanese": "付近に登録が可能な\u003Ccolor=blue\u003Eランドマーク\u003C/color\u003Eを見つけました",
-        "Korea": "주변에 활성화 가능한 \u003Ccolor=blue\u003E구역 장치\u003C/color\u003E가 있습니다."
+        "ChineseSimplified": "附近发现可激活的<color=blue>区域装置</color>",
+        "ChineseTraditional": "附近发现可激活的<color=blue>区域装置</color>",
+        "English": "Activatable <color=blue>Area Terminal</color> detected nearby.",
+        "Japanese": "付近に登録が可能な<color=blue>ランドマーク</color>を見つけました",
+        "Korea": "주변에 활성화 가능한 <color=blue>구역 장치</color>가 있습니다."
       },
       {
         "ID": 545,
@@ -4784,18 +4810,18 @@
       {
         "ID": 548,
         "Key": "Tips_CollectionItem_NearInfo",
-        "ChineseSimplified": "附近有可拍摄的\u003Ccolor=red\u003E纸风车\u003C/color\u003E",
-        "ChineseTraditional": "附近有可拍摄的\u003Ccolor=red\u003E纸风车\u003C/color\u003E",
-        "English": "There\u0027s a \u003Ccolor=red\u003Epaper pinwheel\u003C/color\u003E nearby ready for photography.",
-        "Japanese": "付近に撮影可能な\u003Ccolor=red\u003Eかざぐるま\u003C/color\u003Eがあります",
-        "Korea": "주변에 촬영 가능한 \u003Ccolor=red\u003E바람개비\u003C/color\u003E가 있습니다."
+        "ChineseSimplified": "附近有可拍摄的<color=red>纸风车</color>",
+        "ChineseTraditional": "附近有可拍摄的<color=red>纸风车</color>",
+        "English": "There's a <color=red>paper pinwheel</color> nearby ready for photography.",
+        "Japanese": "付近に撮影可能な<color=red>かざぐるま</color>があります",
+        "Korea": "주변에 촬영 가능한 <color=red>바람개비</color>가 있습니다."
       },
       {
         "ID": 549,
         "Key": "Tips_RecoverDefaultSettings",
         "ChineseSimplified": "恢复默认设置后需要重启游戏才能生效！\n是否恢复设置？",
         "ChineseTraditional": "恢复默认设置后需要重启游戏才能生效！\n是否恢复设置？",
-        "English": "You\u0027ll need to restart the game for default settings to apply.\nReset now?",
+        "English": "You'll need to restart the game for default settings to apply.\nReset now?",
         "Japanese": "ゲームを再起動する必要があります。\nよろしいですか？",
         "Korea": "기본값으로 설정한 후 게임에 재접속해야 적용됩니다.\n기본값으로 설정하시겠습니까?"
       },
@@ -4914,14 +4940,14 @@
         "ChineseTraditional": "是否将照片存储到本地相册？点击“确定”以申请相册权限，点击“取消”退出。",
         "English": "Save the photo to your local album? Tap Confirm to grant access, or Cancel to exit.",
         "Japanese": "是否将照片存储到本地相册？点击“确定”以申请相册权限，点击“取消”退出。",
-        "Korea": "해당 이미지를 로컬에 저장하시겠습니까? \u0027확인\u0027을 탭하여 앨범 권한을 요청하거나, \u0027취소\u0027를 탭하여 창을 닫으세요."
+        "Korea": "해당 이미지를 로컬에 저장하시겠습니까? '확인'을 탭하여 앨범 권한을 요청하거나, '취소'를 탭하여 창을 닫으세요."
       },
       {
         "ID": 563,
         "Key": "Text_More_RepeatedTimes",
         "ChineseSimplified": "请不要重复发送聊天内容 .",
         "ChineseTraditional": "请不要重复发送聊天内容 .",
-        "English": "Please don\u0027t send duplicate messages.",
+        "English": "Please don't send duplicate messages.",
         "Japanese": "同じ内容を繰り返し送信しないでください",
         "Korea": "같은 내용을 중복 발송하지 말아주세요."
       },
@@ -4940,7 +4966,7 @@
         "ChineseSimplified": "是否跳转到discord论坛？",
         "ChineseTraditional": "是否跳转到discord论坛？",
         "English": "Jump to the Discord forum?",
-        "Japanese": "『開放空間：Over\u00A0Field』公式Discordサーバーへ移動します。よろしいですか？",
+        "Japanese": "『開放空間：Over Field』公式Discordサーバーへ移動します。よろしいですか？",
         "Korea": "Discord 포럼으로 이동하시겠습니까?"
       },
       {
@@ -4974,6 +5000,7 @@
         "ID": 569,
         "Key": "Tips_CameraCapture_Success",
         "ChineseSimplified": "拍摄成功",
+        "ChineseTraditional": "",
         "English": "Photo taken",
         "Japanese": "撮影成功",
         "Korea": "촬영 성공"
@@ -4982,7 +5009,8 @@
         "ID": 570,
         "Key": "Tips_CameraCapture_TooClose",
         "ChineseSimplified": "距离太近了，可以尝试离远一些",
-        "English": "You\u0027re too close. Try taking a few steps back.",
+        "ChineseTraditional": "",
+        "English": "You're too close. Try taking a few steps back.",
         "Japanese": "被写体から少し離れてください",
         "Korea": "너무 가깝습니다. 조금 멀리서 시도해 보세요."
       },
@@ -4990,7 +5018,8 @@
         "ID": 571,
         "Key": "Tips_CameraCapture_TooFar",
         "ChineseSimplified": "距离太远了，可以尝试靠近一些",
-        "English": "You\u0027re too far. Try getting closer for a better shot.",
+        "ChineseTraditional": "",
+        "English": "You're too far. Try getting closer for a better shot.",
         "Japanese": "被写体に少し近づいてください",
         "Korea": "너무 멉니다. 조금 가까이 다가가 보세요."
       },
@@ -4998,6 +5027,7 @@
         "ID": 572,
         "Key": "Tips_CameraCapture_Blocked",
         "ChineseSimplified": "似乎被其他东西挡住了",
+        "ChineseTraditional": "",
         "English": "Something seems to be blocking the view.",
         "Japanese": "被写体が障害物に遮られています",
         "Korea": "무언가에 가려진 것 같네요."
@@ -5006,6 +5036,7 @@
         "ID": 573,
         "Key": "Tips_CameraCapture_OutOfAngle",
         "ChineseSimplified": "从这个角度似乎有点看不清...",
+        "ChineseTraditional": "",
         "English": "Hard to see clearly from this angle…",
         "Japanese": "角度を調整してください",
         "Korea": "이 각도에서는 잘 보이지 않네요…"
@@ -5222,7 +5253,7 @@
         "Key": "Tips_Fishing_Location_Fail",
         "ChineseSimplified": "此处不能钓鱼",
         "ChineseTraditional": "此处不能钓鱼",
-        "English": "You can\u0027t fish here.",
+        "English": "You can't fish here.",
         "Japanese": "ここでは釣りができません",
         "Korea": "여기에서 낚시를 할 수 없습니다."
       },
@@ -5249,7 +5280,7 @@
         "Key": "Tips_Fishing_Weapon_Fail",
         "ChineseSimplified": "鱼竿耐久度不足",
         "ChineseTraditional": "鱼竿耐久度不足",
-        "English": "Your fishing rod\u0027s durability is too low.",
+        "English": "Your fishing rod's durability is too low.",
         "Japanese": "釣り竿の耐久度が不足しています",
         "Korea": "낚싯대 내구도가 부족합니다."
       },
@@ -5258,7 +5289,7 @@
         "Key": "Tips_Quest_Delegate_Title",
         "ChineseSimplified": "{0}的委托",
         "ChineseTraditional": "{0}的委托",
-        "English": "{0}\u0027s Commission",
+        "English": "{0}'s Commission",
         "Japanese": "{0}の依頼",
         "Korea": "{0}의 의뢰"
       },
@@ -5285,7 +5316,7 @@
         "Key": "Text_Player_ChangeAppearance_Same_Title",
         "ChineseSimplified": "准备更换{0}和预设一样",
         "ChineseTraditional": "准备更换{0}和预设一样",
-        "English": "You\u0027ve picked the same {0} as the preset.",
+        "English": "You've picked the same {0} as the preset.",
         "Japanese": "すでに使用中の{0}です",
         "Korea": "교체하려는 {0}이(가) 프리셋과 동일합니다."
       },
@@ -5310,11 +5341,11 @@
       {
         "ID": 607,
         "Key": "Text_Vitality_Buy_Title",
-        "ChineseSimplified": "消费\u003C#05AFFF\u003E{0}\u003C/color\u003E{1}购买\u003C#05AFFF\u003E{2}\u003C/color\u003E{3}，可购买次数：\u003C#05AFFF\u003E{4}\u003C/color\u003E/{5}",
-        "ChineseTraditional": "消费\u003C#05AFFF\u003E{0}\u003C/color\u003E{1}购买\u003C#05AFFF\u003E{2}\u003C/color\u003E{3}，可购买次数：\u003C#05AFFF\u003E{4}\u003C/color\u003E/{5}",
-        "English": "Spent \u003C#05AFFF\u003E{0}\u003C/color\u003E {1} to purchase \u003C#05AFFF\u003E{2}\u003C/color\u003E {3}. Remaining purchases: \u003C#05AFFF\u003E{4}\u003C/color\u003E/{5}",
-        "Japanese": "{1}x\u003C#05AFFF\u003E{0}\u003C/color\u003Eを消費して{3}x\u003C#05AFFF\u003E{2}\u003C/color\u003Eを購入します。購入可能回数残り：\u003C#05AFFF\u003E{4}\u003C/color\u003E/{5}",
-        "Korea": "\u003C#05AFFF\u003E{0}\u003C/color\u003E {1}(으)로 \u003C#05AFFF\u003E{2}\u003C/color\u003E {3} 구매. 구매 가능 횟수: \u003C#05AFFF\u003E{4}\u003C/color\u003E/{5}"
+        "ChineseSimplified": "消费<#05AFFF>{0}</color>{1}购买<#05AFFF>{2}</color>{3}，可购买次数：<#05AFFF>{4}</color>/{5}",
+        "ChineseTraditional": "消费<#05AFFF>{0}</color>{1}购买<#05AFFF>{2}</color>{3}，可购买次数：<#05AFFF>{4}</color>/{5}",
+        "English": "Spent <#05AFFF>{0}</color> {1} to purchase <#05AFFF>{2}</color> {3}. Remaining purchases: <#05AFFF>{4}</color>/{5}",
+        "Japanese": "{1}x<#05AFFF>{0}</color>を消費して{3}x<#05AFFF>{2}</color>を購入します。購入可能回数残り：<#05AFFF>{4}</color>/{5}",
+        "Korea": "<#05AFFF>{0}</color> {1}(으)로 <#05AFFF>{2}</color> {3} 구매. 구매 가능 횟수: <#05AFFF>{4}</color>/{5}"
       },
       {
         "ID": 608,
@@ -5364,20 +5395,20 @@
       {
         "ID": 613,
         "Key": "Tips_Challenge_Type_Info",
-        "ChineseSimplified": "发现了新的限时挑战\u003Ccolor=red\u003E{0}\u003C/color\u003E",
-        "ChineseTraditional": "发现了新的限时挑战\u003Ccolor=red\u003E{0}\u003C/color\u003E",
-        "English": "New limited-time challenge discovered: \u003Ccolor=red\u003E{0}\u003C/color\u003E",
-        "Japanese": "チャレンジ\u003Ccolor=red\u003E{0}\u003C/color\u003Eを発見しました",
-        "Korea": "새로운 스피드 도전 \u003Ccolor=red\u003E{0}\u003C/color\u003E을(를) 발견하였습니다."
+        "ChineseSimplified": "发现了新的限时挑战<color=red>{0}</color>",
+        "ChineseTraditional": "发现了新的限时挑战<color=red>{0}</color>",
+        "English": "New limited-time challenge discovered: <color=red>{0}</color>",
+        "Japanese": "チャレンジ<color=red>{0}</color>を発見しました",
+        "Korea": "새로운 스피드 도전 <color=red>{0}</color>을(를) 발견하였습니다."
       },
       {
         "ID": 614,
         "Key": "Tips_Riddle_Type_Info",
-        "ChineseSimplified": "发现了新的世界挑战\u003Ccolor=red\u003E{0}\u003C/color\u003E",
-        "ChineseTraditional": "发现了新的世界挑战\u003Ccolor=red\u003E{0}\u003C/color\u003E",
-        "English": "New world challenge discovered: \u003Ccolor=red\u003E{0}\u003C/color\u003E",
-        "Japanese": "謎解き\u003Ccolor=red\u003E{0}\u003C/color\u003Eを発見しました",
-        "Korea": "새로운 월드 도전 \u003Ccolor=red\u003E{0}\u003C/color\u003E을(를) 발견하였습니다."
+        "ChineseSimplified": "发现了新的世界挑战<color=red>{0}</color>",
+        "ChineseTraditional": "发现了新的世界挑战<color=red>{0}</color>",
+        "English": "New world challenge discovered: <color=red>{0}</color>",
+        "Japanese": "謎解き<color=red>{0}</color>を発見しました",
+        "Korea": "새로운 월드 도전 <color=red>{0}</color>을(를) 발견하였습니다."
       },
       {
         "ID": 615,
@@ -5551,7 +5582,13 @@
         "Korea": "{0} 클리어 후 개방됩니다!"
       },
       {
-        "ID": 634
+        "ID": 634,
+        "Key": "",
+        "ChineseSimplified": "",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 635,
@@ -5585,7 +5622,7 @@
         "Key": "Tips_Shop_Guest_Pay",
         "ChineseSimplified": "游客账号不允许充值，请先绑定渠道",
         "ChineseTraditional": "游客账号不允许充值，请先绑定渠道",
-        "English": "You can\u0027t top up with a guest account. Bind your account to proceed.",
+        "English": "You can't top up with a guest account. Bind your account to proceed.",
         "Japanese": "ゲストアカウントからのチャージはできません。アカウント登録を行ってください",
         "Korea": "게스트 계정으로 충전할 수 없습니다. 먼저 계정을 연동해 주세요."
       },
@@ -5612,7 +5649,7 @@
         "Key": "Tips_HotUpdate_iOS_Config",
         "ChineseSimplified": "由于技术调整，您的设备性能暂不支持本次测试体验\n建议使用设备：运行内存6GB及以上机型",
         "ChineseTraditional": "由于技术调整，您的设备性能暂不支持本次测试体验\n建议使用设备：运行内存6GB及以上机型",
-        "English": "This test isn\u0027t currently supported on your device due to performance limits.\nWe recommend using a device with at least 6GB RAM.",
+        "English": "This test isn't currently supported on your device due to performance limits.\nWe recommend using a device with at least 6GB RAM.",
         "Japanese": "開発上の都合により、ご利用の端末は対応していません\n端末最低要件：RAM 6GBまたはそれ以上",
         "Korea": "기술적 조정으로 인해, 현재 사용 중인 기기의 성능이 이번 테스트 버전을 지원하지 않습니다.\n권장 사양: RAM 6GB 이상의 기기"
       },
@@ -5810,7 +5847,7 @@
         "Key": "Event1010341_咲",
         "ChineseSimplified": "咲的收获",
         "ChineseTraditional": "咲的收获",
-        "English": "Saki\u0027s Harvest",
+        "English": "Saki's Harvest",
         "Japanese": "咲の発見",
         "Korea": "사키의 수확"
       },
@@ -5819,7 +5856,7 @@
         "Key": "Event1010361_咲",
         "ChineseSimplified": "咲的想法",
         "ChineseTraditional": "咲的想法",
-        "English": "Saki\u0027s Idea",
+        "English": "Saki's Idea",
         "Japanese": "咲の考え",
         "Korea": "사키의 관점"
       },
@@ -5828,7 +5865,7 @@
         "Key": "Event1010441_咲",
         "ChineseSimplified": "咲的收获",
         "ChineseTraditional": "咲的收获",
-        "English": "Saki\u0027s Harvest",
+        "English": "Saki's Harvest",
         "Japanese": "咲の発見",
         "Korea": "사키의 수확"
       },
@@ -5846,7 +5883,7 @@
         "Key": "Event1010751_咲",
         "ChineseSimplified": "咲的近况",
         "ChineseTraditional": "咲的近况",
-        "English": "How Saki\u0027s Doing",
+        "English": "How Saki's Doing",
         "Japanese": "咲の状況",
         "Korea": "사키의 근황"
       },
@@ -5855,7 +5892,7 @@
         "Key": "Event1010911_咲",
         "ChineseSimplified": "咲的邀请",
         "ChineseTraditional": "咲的邀请",
-        "English": "Saki\u0027s Invitation",
+        "English": "Saki's Invitation",
         "Japanese": "咲に話しかける",
         "Korea": "사키의 초대"
       },
@@ -5873,7 +5910,7 @@
         "Key": "Event1010951_咲",
         "ChineseSimplified": "咲的邀请",
         "ChineseTraditional": "咲的邀请",
-        "English": "Saki\u0027s Invitation",
+        "English": "Saki's Invitation",
         "Japanese": "咲に話しかける",
         "Korea": "사키의 초대"
       },
@@ -5918,7 +5955,7 @@
         "Key": "Event1011081_咲",
         "ChineseSimplified": "咲的想法",
         "ChineseTraditional": "咲的想法",
-        "English": "Saki\u0027s Idea",
+        "English": "Saki's Idea",
         "Japanese": "咲の考え",
         "Korea": "사키의 관점"
       },
@@ -5927,7 +5964,7 @@
         "Key": "Event1011151_咲",
         "ChineseSimplified": "咲的情况",
         "ChineseTraditional": "咲的情况",
-        "English": "Saki\u0027s Condition",
+        "English": "Saki's Condition",
         "Japanese": "咲の状況",
         "Korea": "사키의 상황"
       },
@@ -5954,7 +5991,7 @@
         "Key": "Event1011271_咲",
         "ChineseSimplified": "咲的发现",
         "ChineseTraditional": "咲的发现",
-        "English": "Saki\u0027s Discovery",
+        "English": "Saki's Discovery",
         "Japanese": "咲の発見",
         "Korea": "사키의 발견"
       },
@@ -6746,7 +6783,7 @@
         "Key": "Text_Channel_Enter_Tips",
         "ChineseSimplified": "已进入世界{0}频道",
         "ChineseTraditional": "已进入世界{0}频道",
-        "English": "You\u0027ve entered the channel of World {0}.",
+        "English": "You've entered the channel of World {0}.",
         "Japanese": "フィールドチャンネル{0}に入りました",
         "Korea": "월드 채널 {0}에 입장하였습니다."
       },
@@ -6870,11 +6907,11 @@
       {
         "ID": 781,
         "Key": "Manual_Find_Tips",
-        "ChineseSimplified": "发现新的异变空间 {0}\u003Ccolor=red\u003E{1}\u003C/color\u003E",
-        "ChineseTraditional": "发现新的异变空间 {0}\u003Ccolor=red\u003E{1}\u003C/color\u003E",
-        "English": "Discovered new Aberrant Field {0}\u003Ccolor=red\u003E{1}\u003C/color\u003E",
-        "Japanese": "新しい異変フィールド「{0}\u003Ccolor=red\u003E{1}\u003C/color\u003E」を発見しました",
-        "Korea": "새로운 변이 공간 {0} \u003Ccolor=red\u003E{1}\u003C/color\u003E을(를) 발견하였습니다."
+        "ChineseSimplified": "发现新的异变空间 {0}<color=red>{1}</color>",
+        "ChineseTraditional": "发现新的异变空间 {0}<color=red>{1}</color>",
+        "English": "Discovered new Aberrant Field {0}<color=red>{1}</color>",
+        "Japanese": "新しい異変フィールド「{0}<color=red>{1}</color>」を発見しました",
+        "Korea": "새로운 변이 공간 {0} <color=red>{1}</color>을(를) 발견하였습니다."
       },
       {
         "ID": 782,
@@ -6953,7 +6990,7 @@
         "Key": "Tips_Quest_Delegate_Tip",
         "ChineseSimplified": "接受了{0}的委托",
         "ChineseTraditional": "接受了{0}的委托",
-        "English": "You\u0027ve accepted {0}\u0027s commission.",
+        "English": "You've accepted {0}'s commission.",
         "Japanese": "{0}からの依頼を引き受けました",
         "Korea": "{0}의 의뢰를 수락하였습니다."
       },
@@ -7025,7 +7062,7 @@
         "Key": "Player_GoldBuff_Other_Tips1",
         "ChineseSimplified": "感受到了来自{0}的欧气！",
         "ChineseTraditional": "感受到了来自{0}的欧气！",
-        "English": "You\u0027re bathing in {0}\u0027s blessed luck!",
+        "English": "You're bathing in {0}'s blessed luck!",
         "Japanese": "{0}からの幸運のオーラを探知！",
         "Korea": "{0}의 대박 기운을 느꼈습니다!"
       },
@@ -7131,11 +7168,11 @@
       {
         "ID": 810,
         "Key": "Text_Has_Accept_Quest",
-        "ChineseSimplified": "有可接受的\u003Ccolor=red\u003E主线剧情\u003C/color\u003E任务",
-        "ChineseTraditional": "有可接受的\u003Ccolor=red\u003E主线剧情\u003C/color\u003E任务",
-        "English": "A \u003Ccolor=red\u003EMain Story\u003C/color\u003E Quest is available.",
-        "Japanese": "受注可能な\u003Ccolor=red\u003Eメイン\u003C/color\u003Eクエストがあります",
-        "Korea": "수락 가능한 \u003Ccolor=red\u003E메인 스토리\u003C/color\u003E 퀘스트가 없습니다."
+        "ChineseSimplified": "有可接受的<color=red>主线剧情</color>任务",
+        "ChineseTraditional": "有可接受的<color=red>主线剧情</color>任务",
+        "English": "A <color=red>Main Story</color> Quest is available.",
+        "Japanese": "受注可能な<color=red>メイン</color>クエストがあります",
+        "Korea": "수락 가능한 <color=red>메인 스토리</color> 퀘스트가 없습니다."
       },
       {
         "ID": 811,
@@ -7185,20 +7222,20 @@
       {
         "ID": 816,
         "Key": "Tips_Unlock_BranchQuest",
-        "ChineseSimplified": "完成剧情\u0022序章\u0022后解锁",
-        "ChineseTraditional": "完成剧情\u0022序章\u0022后解锁",
+        "ChineseSimplified": "完成剧情\"序章\"后解锁",
+        "ChineseTraditional": "完成剧情\"序章\"后解锁",
         "English": "Complete the Prologue to unlock.",
         "Japanese": "メインストーリー「プロローグ」クリア後に解放",
-        "Korea": "스토리 \u0027서막\u0027 완료 후 해금"
+        "Korea": "스토리 '서막' 완료 후 해금"
       },
       {
         "ID": 817,
         "Key": "Tips_Unlock_DayQuest",
-        "ChineseSimplified": "完成剧情\u0022第1章\u0022后解锁",
-        "ChineseTraditional": "完成剧情\u0022第1章\u0022后解锁",
+        "ChineseSimplified": "完成剧情\"第1章\"后解锁",
+        "ChineseTraditional": "完成剧情\"第1章\"后解锁",
         "English": "Complete Chapter 1 to unlock.",
         "Japanese": "メインストーリー「第一章」クリア後に解放",
-        "Korea": "스토리 \u0027챕터 1\u0027 완료 후 해금"
+        "Korea": "스토리 '챕터 1' 완료 후 해금"
       },
       {
         "ID": 818,
@@ -7212,11 +7249,11 @@
       {
         "ID": 819,
         "Key": "MoonStone_Achieve_FinishTips",
-        "ChineseSimplified": "已完成\u003Ccolor=red\u003E星云树\u003C/color\u003E任务!",
-        "ChineseTraditional": "已完成\u003Ccolor=red\u003E星云树\u003C/color\u003E任务!",
-        "English": "\u003Ccolor=red\u003ENebula Tree\u003C/color\u003E Quest completed!",
-        "Japanese": "\u003Ccolor=red\u003Eラプラスツリー\u003C/color\u003Eクエストを達成しました!",
-        "Korea": "\u003Ccolor=red\u003E스타 트리\u003C/color\u003E 퀘스트 완료!"
+        "ChineseSimplified": "已完成<color=red>星云树</color>任务!",
+        "ChineseTraditional": "已完成<color=red>星云树</color>任务!",
+        "English": "<color=red>Nebula Tree</color> Quest completed!",
+        "Japanese": "<color=red>ラプラスツリー</color>クエストを達成しました!",
+        "Korea": "<color=red>스타 트리</color> 퀘스트 완료!"
       },
       {
         "ID": 820,
@@ -7251,7 +7288,7 @@
         "ChineseSimplified": "是否希望重新体验[模拟空间 瓶中小径]？",
         "ChineseTraditional": "是否希望重新体验[模拟空间 瓶中小径]？",
         "English": "Do you wish to re-play the [Simulated Field: Path in a Bottle]?",
-        "Japanese": "「模擬フィールド\u3000瓶詰めの小道」を再度体験しますか？",
+        "Japanese": "「模擬フィールド　瓶詰めの小道」を再度体験しますか？",
         "Korea": "다시 한 번 [가상 필드-유리병 속 오솔길]을 체험하시겠습니까?"
       },
       {
@@ -7259,7 +7296,7 @@
         "Key": "Text_Scene_InCurrentScene",
         "ChineseSimplified": "已在当前世界！",
         "ChineseTraditional": "已在当前世界！",
-        "English": "You\u0027re in this world already!",
+        "English": "You're in this world already!",
         "Japanese": "現在地のため、転送できませんでした",
         "Korea": "이미 해당 세계에 계십니다."
       },
@@ -7268,7 +7305,7 @@
         "Key": "Text_NpcDelegate_QuestFinish",
         "ChineseSimplified": "已完成{0}的委托 {1}",
         "ChineseTraditional": "已完成{0}的委托 {1}",
-        "English": "Completed {0}\u0027s commission: {1}.",
+        "English": "Completed {0}'s commission: {1}.",
         "Japanese": "{0}の依頼 {1}を達成しました",
         "Korea": "{0}의 의뢰 {1}을(를) 완료하였습니다."
       },
@@ -7293,20 +7330,20 @@
       {
         "ID": 828,
         "Key": "Character_Star_SkillEffect1",
-        "ChineseSimplified": "技能最大强化等级\u002B3",
-        "ChineseTraditional": "技能最大强化等级\u002B3",
-        "English": "Max Skill Enhancement Level \u002B3",
-        "Japanese": "スキルレベル上限\u002B3",
-        "Korea": "스킬 최대 강화 레벨 \u002B3"
+        "ChineseSimplified": "技能最大强化等级+3",
+        "ChineseTraditional": "技能最大强化等级+3",
+        "English": "Max Skill Enhancement Level +3",
+        "Japanese": "スキルレベル上限+3",
+        "Korea": "스킬 최대 강화 레벨 +3"
       },
       {
         "ID": 829,
         "Key": "Character_Star_SkillEffect2",
-        "ChineseSimplified": "技能最大强化等级\u002B1",
-        "ChineseTraditional": "技能最大强化等级\u002B1",
-        "English": "Max Skill Enhancement Level \u002B1",
-        "Japanese": "スキルレベル上限\u002B1",
-        "Korea": "스킬 최대 강화 레벨 \u002B1"
+        "ChineseSimplified": "技能最大强化等级+1",
+        "ChineseTraditional": "技能最大强化等级+1",
+        "English": "Max Skill Enhancement Level +1",
+        "Japanese": "スキルレベル上限+1",
+        "Korea": "스킬 최대 강화 레벨 +1"
       },
       {
         "ID": 830,
@@ -7331,7 +7368,7 @@
         "Key": "LifeWeapon_Npc_Unlock",
         "ChineseSimplified": "需要在雪莉的杂货店购买{0}",
         "ChineseTraditional": "需要在雪莉的杂货店购买{0}",
-        "English": "{0} is only available in Sherry\u0027s Grocery Store.",
+        "English": "{0} is only available in Sherry's Grocery Store.",
         "Japanese": "シェリーの雑貨屋から{0}を購入してください",
         "Korea": "세일리의 잡화점에서 {0} 구매 필요"
       },
@@ -7359,7 +7396,7 @@
         "ChineseSimplified": "图片保存成功！",
         "ChineseTraditional": "图片保存成功！",
         "English": "Image saved!",
-        "Japanese": "写真を保存しました\u00A0\u00A0",
+        "Japanese": "写真を保存しました  ",
         "Korea": "이미지 저장 성공!"
       },
       {
@@ -7394,7 +7431,7 @@
         "Key": "Tips_Fishing_Stop",
         "ChineseSimplified": "钓鱼已停止",
         "ChineseTraditional": "钓鱼已停止",
-        "English": "You\u0027ve stopped fishing.",
+        "English": "You've stopped fishing.",
         "Japanese": "釣りを中止しました",
         "Korea": "낚시가 중단되었습니다."
       },
@@ -7421,7 +7458,7 @@
         "Key": "Enter_MainCity_OtherChannel",
         "ChineseSimplified": "已进入其他探索员频道 {0}",
         "ChineseTraditional": "已进入其他探索员频道 {0}",
-        "English": "Entered Other Adventurer\u0027s Channel {0}",
+        "English": "Entered Other Adventurer's Channel {0}",
         "Japanese": "他のサルベージャーのチャンネル{0}に入りました",
         "Korea": "기타 프론티어의 채널 {0}에 입장하였습니다."
       },
@@ -7457,7 +7494,7 @@
         "Key": "Tips_Dungeon_NeedPlayerLevel",
         "ChineseSimplified": "警告！当前队长等级过低，强行挑战极度危险！",
         "ChineseTraditional": "当前队长等级过低，强行挑战极度危险！",
-        "English": "Warning: The current Captain\u0027s level is too low. This challenge is highly dangerous!",
+        "English": "Warning: The current Captain's level is too low. This challenge is highly dangerous!",
         "Japanese": "現在のリーダーランクでの挑戦は敗北の可能性があります！",
         "Korea": "경고! 리더 레벨이 너무 낮습니다. 도전 강행 시 위험에 빠질 수 있습니다!"
       },
@@ -7629,7 +7666,7 @@
         "ChineseSimplified": "当前频道： {0}",
         "ChineseTraditional": "当前频道： {0}",
         "English": "Current Channel: {0}",
-        "Japanese": "現在チャットルーム：\u00A0{0}",
+        "Japanese": "現在チャットルーム： {0}",
         "Korea": "현재 채널: {0}"
       },
       {
@@ -7734,9 +7771,9 @@
       {
         "ID": 877,
         "Key": "Text_Chat_Gacha_SSRCard",
-        "ChineseSimplified": "招募到了稀有探索员\u00A0[{0}]",
+        "ChineseSimplified": "招募到了稀有探索员 [{0}]",
         "ChineseTraditional": "招募到了稀有探索员[{0}]",
-        "English": "Recruited a rare Adventurer:\u00A0{0}",
+        "English": "Recruited a rare Adventurer: {0}",
         "Japanese": "募集からSSRサルベージャー[{0}]を入手しました",
         "Korea": "레어 프론티어 [{0}]을(를) 모집하였습니다."
       },
@@ -7961,7 +7998,7 @@
         "Key": "Enter_MainCity_SelfChannel_Title",
         "ChineseSimplified": "{0}的花园广场",
         "ChineseTraditional": "{0}的花园广场",
-        "English": "{0}\u0027s Garden Plaza",
+        "English": "{0}'s Garden Plaza",
         "Japanese": "{0}のガーデン・ロータ",
         "Korea": "{0}의 에덴광장"
       },
@@ -7972,7 +8009,7 @@
         "ChineseTraditional": "截图后分享",
         "English": "Screenshot and Share",
         "Japanese": "シェアモード",
-        "Korea": "캡쳐\u0026공유"
+        "Korea": "캡쳐&공유"
       },
       {
         "ID": 904,
@@ -8023,6 +8060,7 @@
         "ID": 909,
         "Key": "Text_Tips_Enter_ResourceIsland",
         "ChineseSimplified": "是否消耗钥匙，进入采集资源岛？",
+        "ChineseTraditional": "",
         "English": "Consume a key to enter the Resource Island?",
         "Japanese": "カギを消費して採集フィールドに入りますか？",
         "Korea": "열쇠를 사용하여 자원섬으로 이동하여 채집하시겠습니까?"
@@ -8041,7 +8079,7 @@
         "Key": "Text_AchieveQuest_Progress",
         "ChineseSimplified": "成就组的所有成就未完成",
         "ChineseTraditional": "成就组的所有成就未完成",
-        "English": "You haven\u0027t completed all the achievements in this group.",
+        "English": "You haven't completed all the achievements in this group.",
         "Japanese": "すべてのアチーブメントが未クリアです",
         "Korea": "업적 그룹의 업적이 전부 미달성 상태입니다."
       },
@@ -8059,7 +8097,7 @@
         "Key": "Text_Mail_QuestContent",
         "ChineseSimplified": "你有忘记领取的任务奖励，他探索队的[{0}]帮给你寄了过来",
         "ChineseTraditional": "你有忘记领取的任务奖励，他探索队的[{0}]帮给你寄了过来",
-        "English": "A quest reward you forgot to claim was mailed to you by another team\u0027s [{0}].",
+        "English": "A quest reward you forgot to claim was mailed to you by another team's [{0}].",
         "Japanese": "受け取り忘れたクエスト報酬が[{0}]から送られてきました",
         "Korea": "다른 탐색팀의 [{0}]님이 리더님께서 미처 수령하지 못한 퀘스트 보상을 보내왔습니다."
       },
@@ -8068,7 +8106,7 @@
         "Key": "Text_Mail_SceneContent",
         "ChineseSimplified": "你在探索过程中遗失的物品有其他探索队的[{0}]给你寄了过来",
         "ChineseTraditional": "你在探索过程中遗失的物品有其他探索队的[{0}]给你寄了过来",
-        "English": "Items you lost during exploration were mailed to you by another team\u0027s [{0}].",
+        "English": "Items you lost during exploration were mailed to you by another team's [{0}].",
         "Japanese": "探索中に失くした物品が[{0}]から送られてきました",
         "Korea": "다른 탐색팀의 [{0}]님이 리더님께서 탐색 중 분실한 아이템을 보내왔습니다."
       },
@@ -8259,7 +8297,7 @@
         "ChineseTraditional": "游戏后续内容需要下载完整资源包，大小约{0}MB，点击“确定”开始下载，“取消”将会退出游戏。",
         "English": "Download the full resource pack ({0} MB) to continue. Tap Confirm to proceed or Cancel to exit.",
         "Japanese": "游戏后续内容需要下载完整资源包，大小约{0}MB，点击“确定”开始下载，“取消”将会退出游戏。",
-        "Korea": "후속 콘텐츠는 전체 리소스팩(약 {0}MB)을 다운로드해야 체험할 수 있습니다. \u0027확인\u0027을 탭하면 다운로드가 시작되고, \u0027취소\u0027를 탭하면 게임을 종료합니다."
+        "Korea": "후속 콘텐츠는 전체 리소스팩(약 {0}MB)을 다운로드해야 체험할 수 있습니다. '확인'을 탭하면 다운로드가 시작되고, '취소'를 탭하면 게임을 종료합니다."
       },
       {
         "ID": 936,
@@ -8293,18 +8331,18 @@
         "Key": "Text_Mail_HomeTitle",
         "ChineseSimplified": "收到了新的点赞/访问！",
         "ChineseTraditional": "收到了新的点赞/访问！",
-        "English": "You\u0027ve got new likes/visits!",
+        "English": "You've got new likes/visits!",
         "Japanese": "收到了新的点赞/访问！",
-        "Korea": "새로운 \u0027좋아요\u0027/방문이 접수되었습니다!"
+        "Korea": "새로운 '좋아요'/방문이 접수되었습니다!"
       },
       {
         "ID": 940,
         "Key": "Text_Mail_HomeContent",
-        "ChineseSimplified": "在过去一段时间内您的个人花园广场总共收到了\u003Ccolor=#F97897FF\u003E\u003Cbr\u003E·{0}个新的访问\u003Cbr\u003E·{1}个新的点赞\u003C/color\u003E",
-        "ChineseTraditional": "在过去一段时间内您的个人花园广场总共收到了\u003Ccolor=#F97897FF\u003E\u003Cbr\u003E·{0}个新的访问\u003Cbr\u003E·{1}个新的点赞\u003C/color\u003E",
-        "English": "Recently, your personal Garden Plaza received\u003Ccolor=#F97897FF\u003E\u003Cbr\u003E·{0} new visits\u003Cbr\u003E·{1} new likes\u003C/color\u003E",
-        "Japanese": "在过去一段时间内您的个人花园广场总共收到了\u003Ccolor=#F97897FF\u003E\u003Cbr\u003E·{0}个新的访问\u003Cbr\u003E·{1}个新的点赞\u003C/color\u003E",
-        "Korea": "최근 일정 기간 동안 리더님의 개인 에덴광장에 총 \u003Ccolor=#F97897FF\u003E\u003Cbr\u003E·{0}회의 새 방문 및 \u003Cbr\u003E·{1}개의 \u0027좋아요\u0027\u003C/color\u003E가 접수되었습니다."
+        "ChineseSimplified": "在过去一段时间内您的个人花园广场总共收到了<color=#F97897FF><br>·{0}个新的访问<br>·{1}个新的点赞</color>",
+        "ChineseTraditional": "在过去一段时间内您的个人花园广场总共收到了<color=#F97897FF><br>·{0}个新的访问<br>·{1}个新的点赞</color>",
+        "English": "Recently, your personal Garden Plaza received<color=#F97897FF><br>·{0} new visits<br>·{1} new likes</color>",
+        "Japanese": "在过去一段时间内您的个人花园广场总共收到了<color=#F97897FF><br>·{0}个新的访问<br>·{1}个新的点赞</color>",
+        "Korea": "최근 일정 기간 동안 리더님의 개인 에덴광장에 총 <color=#F97897FF><br>·{0}회의 새 방문 및 <br>·{1}개의 '좋아요'</color>가 접수되었습니다."
       },
       {
         "ID": 941,
@@ -8409,6 +8447,7 @@
         "ID": 952,
         "Key": "Tips_Return_Button",
         "ChineseSimplified": "按下[回溯]按键可以回到3秒前的位置",
+        "ChineseTraditional": "",
         "English": "Tap [Backtrack] to return to your position 3 seconds ago.",
         "Japanese": "「遡り」を使用すると、3秒前にいた位置に戻ることができます",
         "Korea": "[회귀] 버튼을 탭하여 3초 전의 위치로 돌아갈 수 있습니다."
@@ -8417,7 +8456,8 @@
         "ID": 953,
         "Key": "Tips_First_World_Explore",
         "ChineseSimplified": "首次获得该物品后将会在世界探索中掉落",
-        "English": "Once you obtain this item, you\u0027ll recognize it from drops in world exploration.",
+        "ChineseTraditional": "",
+        "English": "Once you obtain this item, you'll recognize it from drops in world exploration.",
         "Japanese": "初回入手後、フィールド探索中で出現するようになります",
         "Korea": "처음 해당 아이템을 획득 후 월드 탐색 시 드롭됩니다."
       },
@@ -8451,11 +8491,11 @@
       {
         "ID": 957,
         "Key": "Text_Life_Achieve_FinishTips",
-        "ChineseSimplified": "已完成{0} \u003Ccolor=#FF39AD\u003E{1} ({2}/{3})\u003C/color\u003E",
-        "ChineseTraditional": "已完成{0} \u003Ccolor=#FF39AD\u003E{1} ({2}/{3})\u003C/color\u003E",
-        "English": "Completed {0} \u003Ccolor=#FF39AD\u003E{1} ({2}/{3})\u003C/color\u003E",
-        "Japanese": "{0} \u003Ccolor=#FF39AD\u003E{1} ({2}/{3})\u003C/color\u003E達成済み",
-        "Korea": "{0} 완료 \u003Ccolor=#FF39AD\u003E{1}({2}/{3})\u003C/color\u003E"
+        "ChineseSimplified": "已完成{0} <color=#FF39AD>{1} ({2}/{3})</color>",
+        "ChineseTraditional": "已完成{0} <color=#FF39AD>{1} ({2}/{3})</color>",
+        "English": "Completed {0} <color=#FF39AD>{1} ({2}/{3})</color>",
+        "Japanese": "{0} <color=#FF39AD>{1} ({2}/{3})</color>達成済み",
+        "Korea": "{0} 완료 <color=#FF39AD>{1}({2}/{3})</color>"
       },
       {
         "ID": 958,
@@ -8470,6 +8510,7 @@
         "ID": 959,
         "Key": "Text_Shop_Money_Char",
         "ChineseSimplified": "¥",
+        "ChineseTraditional": "",
         "English": "$",
         "Japanese": "¥",
         "Korea": "$"
@@ -8533,7 +8574,7 @@
         "Key": "Cooking_Fail_Tips1",
         "ChineseSimplified": "全烧糊了！",
         "ChineseTraditional": "全烧糊了！",
-        "English": "It\u0027s completely burnt!",
+        "English": "It's completely burnt!",
         "Japanese": "失敗しちゃった！",
         "Korea": "다 타버렸어요!"
       },
@@ -8578,7 +8619,7 @@
         "Key": "Spin_Fail_Tips2",
         "ChineseSimplified": "糟糕，失败了！",
         "ChineseTraditional": "糟糕，失败了！",
-        "English": "Shoot! It didn\u0027t work!",
+        "English": "Shoot! It didn't work!",
         "Japanese": "わっ！失敗しちゃった！",
         "Korea": "이런, 완전 망했어요!"
       },
@@ -8587,7 +8628,7 @@
         "Key": "Spin_Fail_Tips3",
         "ChineseSimplified": "缝反了……再试一次！",
         "ChineseTraditional": "缝反了……再试一次！",
-        "English": "Oops, sewed the wrong way… Let\u0027s try again!",
+        "English": "Oops, sewed the wrong way… Let's try again!",
         "Japanese": "縫う方向を間違えてしまった……もう一回！",
         "Korea": "반대로 꿰맸네요… 다시 해봐요!"
       },
@@ -8596,7 +8637,7 @@
         "Key": "Spin_Fail_Tips4",
         "ChineseSimplified": "被线缠住了！",
         "ChineseTraditional": "被线缠住了！",
-        "English": "I\u0027m all wrapped in thread!",
+        "English": "I'm all wrapped in thread!",
         "Japanese": "糸に絡まれた！",
         "Korea": "실이 엉켜버렸어요!"
       },
@@ -8641,7 +8682,7 @@
         "Key": "Make_Fail_Tips1",
         "ChineseSimplified": "不小心弄坏了。",
         "ChineseTraditional": "不小心弄坏了。",
-        "English": "Oops… it\u0027s broken.",
+        "English": "Oops… it's broken.",
         "Japanese": "ちょっと壊しちゃった。",
         "Korea": "실수로 망가뜨렸어요."
       },
@@ -8659,7 +8700,7 @@
         "Key": "Make_Fail_Tips3",
         "ChineseSimplified": "啊，散架了！",
         "ChineseTraditional": "啊，散架了！",
-        "English": "Oh no, it\u0027s falling to pieces!",
+        "English": "Oh no, it's falling to pieces!",
         "Japanese": "わっ！バラバラになった！",
         "Korea": "앗! 무너져 내렸어요!"
       },
@@ -8668,7 +8709,7 @@
         "Key": "Make_Fail_Tips4",
         "ChineseSimplified": "好像不是这样组装的？",
         "ChineseTraditional": "好像不是这样组装的？",
-        "English": "I don\u0027t think that\u0027s how it goes…",
+        "English": "I don't think that's how it goes…",
         "Japanese": "組み立て方が間違ってるかも。",
         "Korea": "이렇게 조립하는 게 아닌 것 같은데…"
       },
@@ -8695,7 +8736,7 @@
         "Key": "Fish_Fail_Tips3",
         "ChineseSimplified": "鱼饵被吃掉了……",
         "ChineseTraditional": "鱼饵被吃掉了……",
-        "English": "Bait\u0027s gone…",
+        "English": "Bait's gone…",
         "Japanese": "エサを食べられた……",
         "Korea": "미끼만 홀라당 먹혀버렸네요…"
       },
@@ -8775,6 +8816,7 @@
         "ID": 993,
         "Key": "Channel_State",
         "ChineseSimplified": "频道状态：",
+        "ChineseTraditional": "",
         "English": "Channel Status:",
         "Japanese": "チャンネル状態：",
         "Korea": "채널 상태:"
@@ -8783,6 +8825,7 @@
         "ID": 994,
         "Key": "Channel_State_Open",
         "ChineseSimplified": "开放中",
+        "ChineseTraditional": "",
         "English": "Open",
         "Japanese": "開放中",
         "Korea": "개방 중"
@@ -8791,6 +8834,7 @@
         "ID": 995,
         "Key": "Channel_State_Close",
         "ChineseSimplified": "私密状态",
+        "ChineseTraditional": "",
         "English": "Closed",
         "Japanese": "閉鎖中",
         "Korea": "닫는 중"
@@ -8799,6 +8843,7 @@
         "ID": 996,
         "Key": "Channel_Master",
         "ChineseSimplified": "频道主人：",
+        "ChineseTraditional": "",
         "English": "Channel Host:",
         "Japanese": "チャンネル主：",
         "Korea": "채널 주인:"
@@ -8807,6 +8852,7 @@
         "ID": 997,
         "Key": "Channel_ID",
         "ChineseSimplified": "频道ID：",
+        "ChineseTraditional": "",
         "English": "Channel ID:",
         "Japanese": "チャンネルID：",
         "Korea": "채널 ID:"
@@ -8815,14 +8861,16 @@
         "ID": 998,
         "Key": "Likes",
         "ChineseSimplified": "点赞的次数：",
+        "ChineseTraditional": "",
         "English": "Total Likes:",
         "Japanese": "いいねの回数：",
-        "Korea": "좋아요\u0027 획득 횟수:"
+        "Korea": "좋아요' 획득 횟수:"
       },
       {
         "ID": 999,
         "Key": "Number_Of_Times_Visited",
         "ChineseSimplified": "被访问的次数：",
+        "ChineseTraditional": "",
         "English": "Total Visits:",
         "Japanese": "訪問された回数：",
         "Korea": "타인 방문 횟수:"
@@ -8858,6 +8906,7 @@
         "ID": 1003,
         "Key": "Channel_Owner",
         "ChineseSimplified": "的花园广场",
+        "ChineseTraditional": "",
         "English": "s Garden Plaza",
         "Japanese": "のガーデン・ロータ",
         "Korea": "의 에덴광장"
@@ -8875,14 +8924,16 @@
         "ID": 1005,
         "Key": "Like_Tips",
         "ChineseSimplified": "已给{0}的花园广场点赞",
-        "English": "You liked {0}\u0027s Garden Plaza.",
+        "ChineseTraditional": "",
+        "English": "You liked {0}'s Garden Plaza.",
         "Japanese": "{0}のガーデン・ロータをいいねしました",
-        "Korea": "{0}의 에덴광장에 \u0027좋아요\u0027를 남겼습니다."
+        "Korea": "{0}의 에덴광장에 '좋아요'를 남겼습니다."
       },
       {
         "ID": 1006,
         "Key": "ERRORLOG_TEXT",
         "ChineseSimplified": "游戏发生了意外的错误，请截图上报官方能极大的帮助我们更好的完善游戏:",
+        "ChineseTraditional": "",
         "English": "An unexpected error occurred. Please take a screenshot and report it to help us improve the game:",
         "Japanese": "エラーが発生しました。エラー報告の際に画像をご添付いただけると幸いです。",
         "Korea": "예기치 못한 오류가 발생하였습니다. 운영진에 스크린샷을 보내주시면, 저희가 게임을 개선하는 데 큰 도움이 됩니다."
@@ -8927,7 +8978,8 @@
         "ID": 1011,
         "Key": "Tips_Halloween_Pumpkin",
         "ChineseSimplified": "使用南瓜的辉光灼烧敌人",
-        "English": "Use the pumpkin\u0027s glow to burn enemies.",
+        "ChineseTraditional": "",
+        "English": "Use the pumpkin's glow to burn enemies.",
         "Japanese": "カボチャの明かりは敵にダメージを与える",
         "Korea": "호박의 밝은 빛으로 적에게 화상을 입힐 수 있습니다."
       },
@@ -8935,6 +8987,7 @@
         "ID": 1012,
         "Key": "Tips_Halloween_Lantern",
         "ChineseSimplified": "放下夜灯，辉光能够灼烧敌人",
+        "ChineseTraditional": "",
         "English": "Place the nightlight—its glow will burn enemies.",
         "Japanese": "ランタンを置くと、明かりの届く範囲内の敵はダメージを受ける",
         "Korea": "무드등을 내려놓고, 밝은 빛으로 적에게 화상을 입힐 수 있습니다."
@@ -8943,6 +8996,7 @@
         "ID": 1013,
         "Key": "Tips_Halloween_Candle",
         "ChineseSimplified": "使用蜡烛的辉光灼烧敌人",
+        "ChineseTraditional": "",
         "English": "Use the candlelight to burn enemies.",
         "Japanese": "ロウソクの明かりは敵にダメージを与える",
         "Korea": "촛불의 밝은 빛으로 적에게 화상을 입힐 수 있습니다."
@@ -8951,6 +9005,7 @@
         "ID": 1014,
         "Key": "Tips_Halloween_RedCandy",
         "ChineseSimplified": "暴击率大幅度提升了",
+        "ChineseTraditional": "",
         "English": "CRIT Rate greatly increased.",
         "Japanese": "会心率が大幅にアップ",
         "Korea": "치명타율이 대폭 증가했습니다."
@@ -8959,6 +9014,7 @@
         "ID": 1015,
         "Key": "Tips_Halloween_YellowCandy",
         "ChineseSimplified": "Break伤害大幅度提升了",
+        "ChineseTraditional": "",
         "English": "Break DMG greatly increased.",
         "Japanese": "ブレイクダメージが大幅にアップ",
         "Korea": "브레이크 피해가 대폭 증가했습니다."
@@ -9020,38 +9076,38 @@
       {
         "ID": 1022,
         "Key": "Tips_Dungeon_Consumption_Success",
-        "ChineseSimplified": "\u003C#FFDC26\u003E消耗 [{0}]x{1} 获得奖励\u003C/color\u003E",
-        "ChineseTraditional": "\u003C#FFDC26\u003E消耗 [{0}]x{1} 获得奖励\u003C/color\u003E",
-        "English": "\u003C#FFDC26\u003EConsume [{0}]×{1} to get the reward.\u003C/color\u003E",
-        "Japanese": "\u003C#FFDC26\u003E[{0}]x{1} を消費して報酬を獲得\u003C/color\u003E",
-        "Korea": "\u003C#FFDC26\u003E[{0}]x{1}개를 사용하여 보상 획득\u003C/color\u003E"
+        "ChineseSimplified": "<#FFDC26>消耗 [{0}]x{1} 获得奖励</color>",
+        "ChineseTraditional": "<#FFDC26>消耗 [{0}]x{1} 获得奖励</color>",
+        "English": "<#FFDC26>Consume [{0}]×{1} to get the reward.</color>",
+        "Japanese": "<#FFDC26>[{0}]x{1} を消費して報酬を獲得</color>",
+        "Korea": "<#FFDC26>[{0}]x{1}개를 사용하여 보상 획득</color>"
       },
       {
         "ID": 1023,
         "Key": "Tips_Dungeon_Consumption_Treasure",
-        "ChineseSimplified": "\u003C#FFDC26\u003E消耗 [{0}]x{1} 开启宝箱\u003C/color\u003E",
-        "ChineseTraditional": "\u003C#FFDC26\u003E消耗 [{0}]x{1} 开启宝箱\u003C/color\u003E",
-        "English": "\u003C#FFDC26\u003EConsume [{0}]×{1} to open the chest.\u003C/color\u003E",
-        "Japanese": "\u003C#FFDC26\u003E[{0}]x{1} を消費して宝箱を開ける\u003C/color\u003E",
-        "Korea": "\u003C#FFDC26\u003E[{0}]x{1}개를 사용하여 상자 오픈\u003C/color\u003E"
+        "ChineseSimplified": "<#FFDC26>消耗 [{0}]x{1} 开启宝箱</color>",
+        "ChineseTraditional": "<#FFDC26>消耗 [{0}]x{1} 开启宝箱</color>",
+        "English": "<#FFDC26>Consume [{0}]×{1} to open the chest.</color>",
+        "Japanese": "<#FFDC26>[{0}]x{1} を消費して宝箱を開ける</color>",
+        "Korea": "<#FFDC26>[{0}]x{1}개를 사용하여 상자 오픈</color>"
       },
       {
         "ID": 1024,
         "Key": "Tips_Dungeon_Consumption_Success_ItemNotEnough",
-        "ChineseSimplified": "\u003C#FFDC26\u003E道具 [{0}]不足，无法获得奖励\u003C/color\u003E",
-        "ChineseTraditional": "\u003C#FFDC26\u003E道具 [{0}]不足，无法获得奖励\u003C/color\u003E",
-        "English": "\u003C#FFDC26\u003ENot enough [{0}] to get the reward.\u003C/color\u003E",
-        "Japanese": "\u003C#FFDC26\u003E [{0}] が不足しているため、報酬を獲得できません\u003C/color\u003E",
-        "Korea": "\u003C#FFDC26\u003E[{0}] 부족, 보상을 획득할 수 없습니다.\u003C/color\u003E"
+        "ChineseSimplified": "<#FFDC26>道具 [{0}]不足，无法获得奖励</color>",
+        "ChineseTraditional": "<#FFDC26>道具 [{0}]不足，无法获得奖励</color>",
+        "English": "<#FFDC26>Not enough [{0}] to get the reward.</color>",
+        "Japanese": "<#FFDC26> [{0}] が不足しているため、報酬を獲得できません</color>",
+        "Korea": "<#FFDC26>[{0}] 부족, 보상을 획득할 수 없습니다.</color>"
       },
       {
         "ID": 1025,
         "Key": "Tips_Dungeon_Consumption_Treasure_ItemNotEnough",
-        "ChineseSimplified": "\u003C#FFDC26\u003E道具 [{0}]不足，无法开启宝箱\u003C/color\u003E",
-        "ChineseTraditional": "\u003C#FFDC26\u003E道具 [{0}]不足，无法开启宝箱\u003C/color\u003E",
-        "English": "\u003C#FFDC26\u003ENot enough [{0}] to open the chest.\u003C/color\u003E",
-        "Japanese": "\u003C#FFDC26\u003E [{0}] が不足しているため、宝箱を開けることはできません\u003C/color\u003E",
-        "Korea": "\u003C#FFDC26\u003E[{0}] 부족, 상자를 오픈할 수 없습니다.\u003C/color\u003E"
+        "ChineseSimplified": "<#FFDC26>道具 [{0}]不足，无法开启宝箱</color>",
+        "ChineseTraditional": "<#FFDC26>道具 [{0}]不足，无法开启宝箱</color>",
+        "English": "<#FFDC26>Not enough [{0}] to open the chest.</color>",
+        "Japanese": "<#FFDC26> [{0}] が不足しているため、宝箱を開けることはできません</color>",
+        "Korea": "<#FFDC26>[{0}] 부족, 상자를 오픈할 수 없습니다.</color>"
       },
       {
         "ID": 1026,
@@ -9373,7 +9429,7 @@
         "Key": "Text_Emotion_Learning_Tips",
         "ChineseSimplified": "已经学会了{0}的[{1}]",
         "ChineseTraditional": "已经学会了{0}的[{1}]",
-        "English": "You\u0027ve learned [{1}] from {0}.",
+        "English": "You've learned [{1}] from {0}.",
         "Japanese": "已经学会了{0}的[{1}]",
         "Korea": "{0}의 [{1}]을(를) 습득하였습니다."
       },
@@ -9390,7 +9446,9 @@
         "ID": 1063,
         "Key": "Text_Banned",
         "ChineseSimplified": "账号已被封禁，解封时间为{0}",
+        "ChineseTraditional": "",
         "English": "Your account is banned until: {0}.",
+        "Japanese": "",
         "Korea": "계정이 정지되었습니다. 정지 해제 시간: {0}"
       },
       {
@@ -9407,7 +9465,7 @@
         "Key": "Text_Gacha_UpItem_Null",
         "ChineseSimplified": "尚未选定愿望物品是否继续招募？",
         "ChineseTraditional": "尚未选定愿望物品是否继续招募？",
-        "English": "You haven\u0027t selected an item you wish to get. Proceed with the recruitment?",
+        "English": "You haven't selected an item you wish to get. Proceed with the recruitment?",
         "Japanese": "尚未选定愿望物品是否继续招募？",
         "Korea": "위시 리스트를 선택하지 않고 모집하시겠습니까?"
       },
@@ -9434,7 +9492,7 @@
         "Key": "Text_Gacha_UpItem_ok",
         "ChineseSimplified": "选定后在获得该物品前无法更改是否确认？",
         "ChineseTraditional": "选定后在获得该物品前无法更改是否确认？",
-        "English": "You can\u0027t change your choice before obtaining the item. Confirm your selection?",
+        "English": "You can't change your choice before obtaining the item. Confirm your selection?",
         "Japanese": "选定后在获得该物品前无法更改是否确认？",
         "Korea": "선택 후 해당 아이템을 획득하기 전까지 위시 리스트를 변경할 수 없습니다. 계속하시겠습니까?"
       },
@@ -9496,7 +9554,9 @@
         "ID": 1075,
         "Key": "Text_ExtraQuest",
         "ChineseSimplified": "【外传】",
+        "ChineseTraditional": "",
         "English": "[Gaiden]",
+        "Japanese": "",
         "Korea": "[번외]"
       },
       {
@@ -9586,6 +9646,7 @@
         "ChineseSimplified": "是否消费100金币将必杀槽恢复至满状态？",
         "ChineseTraditional": "是否消费100金币将必杀槽恢复至满状态？",
         "English": "Spend 100 gold to fully restore the Ultimate Skill gauge?",
+        "Japanese": "",
         "Korea": "100 코인을 사용하여 필살기 게이지를 가득 채우시겠습니까?"
       },
       {
@@ -9603,6 +9664,7 @@
         "ChineseSimplified": "必杀技能量已满",
         "ChineseTraditional": "必杀技能量已满",
         "English": "Ultimate Skill gauge is full.",
+        "Japanese": "",
         "Korea": "필살기 에너지가 가득 찼습니다."
       },
       {
@@ -9611,6 +9673,7 @@
         "ChineseSimplified": "永久",
         "ChineseTraditional": "永久",
         "English": "Permanent",
+        "Japanese": "",
         "Korea": "영구"
       },
       {
@@ -9619,6 +9682,7 @@
         "ChineseSimplified": "剩余{0}天",
         "ChineseTraditional": "剩余{0}天",
         "English": "{0}d left",
+        "Japanese": "",
         "Korea": "남은 시간: {0}일"
       },
       {
@@ -9627,6 +9691,7 @@
         "ChineseSimplified": "是否尝试进入当前活跃的热门频道",
         "ChineseTraditional": "是否尝试进入当前活跃的热门频道",
         "English": "Try joining the most active channel now?",
+        "Japanese": "",
         "Korea": "현재 활약도가 높은 인기 채널에 입장하시겠습니까?"
       },
       {
@@ -9643,7 +9708,8 @@
         "Key": "Text_Enter_PlayerHome",
         "ChineseSimplified": "是否进入对方的家园频道？",
         "ChineseTraditional": "是否进入对方的家园频道？",
-        "English": "Enter the player\u0027s Home Channel?",
+        "English": "Enter the player's Home Channel?",
+        "Japanese": "",
         "Korea": "상대방의 홈 채널에 입장하시겠습니까?"
       },
       {
@@ -9651,7 +9717,8 @@
         "Key": "Text_Scene_NotInCurrentScene",
         "ChineseSimplified": "不在当前场景",
         "ChineseTraditional": "不在当前场景",
-        "English": "You\u0027re not in that scene.",
+        "English": "You're not in that scene.",
+        "Japanese": "",
         "Korea": "해당 맵에 계시지 않습니다."
       },
       {
@@ -9660,6 +9727,7 @@
         "ChineseSimplified": "追踪成功",
         "ChineseTraditional": "追踪成功",
         "English": "Tracking successful.",
+        "Japanese": "",
         "Korea": "추적 성공"
       },
       {
@@ -9710,9 +9778,11 @@
       {
         "ID": 1100,
         "Key": "Text_Android_Vulkan_Tips",
-        "ChineseSimplified": "当前设备运行在性能较低的OPENGL模式,可在(游戏-\u003E渲染模式)进行手动调整",
-        "English": "The device is running in low-performance OPENGL mode. You can change it manually under Game \u003E Rendering Mode.",
-        "Korea": "현재 디바이스가 저성능 OPENGL 모드로 실행 중입니다. (게임-\u003E렌더링 모드) 화면에서 수동 조정 가능"
+        "ChineseSimplified": "当前设备运行在性能较低的OPENGL模式,可在(游戏->渲染模式)进行手动调整",
+        "ChineseTraditional": "",
+        "English": "The device is running in low-performance OPENGL mode. You can change it manually under Game > Rendering Mode.",
+        "Japanese": "",
+        "Korea": "현재 디바이스가 저성능 OPENGL 모드로 실행 중입니다. (게임->렌더링 모드) 화면에서 수동 조정 가능"
       },
       {
         "ID": 1101,
@@ -9727,28 +9797,36 @@
         "ID": 1102,
         "Key": "Tips_Activity_Invite_Text1",
         "ChineseSimplified": "邀请",
+        "ChineseTraditional": "",
         "English": "Invite",
+        "Japanese": "",
         "Korea": "초대"
       },
       {
         "ID": 1103,
         "Key": "Tips_Activity_Invite_Text2",
         "ChineseSimplified": "新玩家充值活动",
+        "ChineseTraditional": "",
         "English": "New Player Top-Up Event",
+        "Japanese": "",
         "Korea": "신규 유저 충전 이벤트"
       },
       {
         "ID": 1104,
         "Key": "Tips_Swiming_Text",
         "ChineseSimplified": "游泳中无法进行的动作",
-        "English": "Can\u0027t perform this action while swimming.",
+        "ChineseTraditional": "",
+        "English": "Can't perform this action while swimming.",
+        "Japanese": "",
         "Korea": "수영 중에 취할 수 없는 액션입니다."
       },
       {
         "ID": 1105,
         "Key": "Tips_TransientClose_Text",
         "ChineseSimplified": "暂时关闭",
+        "ChineseTraditional": "",
         "English": "Currently unavailable.",
+        "Japanese": "",
         "Korea": "닫힘"
       },
       {
@@ -9810,7 +9888,7 @@
         "Key": "Event1060111_直辉",
         "ChineseSimplified": "美食节在哪？",
         "ChineseTraditional": "美食节在哪？",
-        "English": "Where\u0027s the Food Festival?",
+        "English": "Where's the Food Festival?",
         "Japanese": "美食节在哪？",
         "Korea": "미식 축제는 어디서 열리나요?"
       },
@@ -9819,7 +9897,7 @@
         "Key": "Tips_WarmaTips",
         "ChineseSimplified": "发现沃玛的小彩蛋",
         "ChineseTraditional": "发现沃玛的小彩蛋",
-        "English": "You discovered Warma\u0027s little secret!",
+        "English": "You discovered Warma's little secret!",
         "Japanese": "发现沃玛的小彩蛋",
         "Korea": "워마의 히든 콘텐츠 발견"
       },
@@ -9846,7 +9924,7 @@
         "Key": "Event220022_咲",
         "ChineseSimplified": "[外传]询问咲的故乡",
         "ChineseTraditional": "[外传]询问咲的故乡",
-        "English": "[Gaiden] Ask about Saki\u0027s hometown",
+        "English": "[Gaiden] Ask about Saki's hometown",
         "Japanese": "[外传]询问咲的故乡",
         "Korea": "[번외] 사키의 고향에 대해 묻기"
       },
@@ -9855,9 +9933,9 @@
         "Key": "Event220023_咲",
         "ChineseSimplified": "[外传]询问“那个”",
         "ChineseTraditional": "[外传]询问“那个”",
-        "English": "[Gaiden] Ask about \u0022that\u0022",
+        "English": "[Gaiden] Ask about \"that\"",
         "Japanese": "[外传]询问“那个”",
-        "Korea": "[번외] \u0027그것\u0027에 관해 묻기"
+        "Korea": "[번외] '그것'에 관해 묻기"
       },
       {
         "ID": 1118,
@@ -9873,7 +9951,7 @@
         "Key": "Event220032_咲",
         "ChineseSimplified": "[外传]天目神社是？",
         "ChineseTraditional": "[外传]天目神社是？",
-        "English": "[Gaiden] What\u0027s Sky Eye Shrine?",
+        "English": "[Gaiden] What's Sky Eye Shrine?",
         "Japanese": "[外传]天目神社是？",
         "Korea": "[번외] 텐모쿠 신사?"
       },
@@ -10215,7 +10293,7 @@
         "Key": "Text_Tips5_Value",
         "ChineseSimplified": "敌人头上出现【！】表示已经察觉到你",
         "ChineseTraditional": "敌人头上出现！表示已经察觉到你",
-        "English": "If you see [!] above an enemy, they\u0027ve noticed you.",
+        "English": "If you see [!] above an enemy, they've noticed you.",
         "Japanese": "敵の頭上に表示される「！」は、敵があなたに気付いたことを意味します",
         "Korea": "적의 머리 위에 [ ! ] 표식이 뜨면, 프론티어의 존재를 눈치챘다는 것을 의미합니다."
       },
@@ -10233,7 +10311,7 @@
         "Key": "Text_Tips6_Value",
         "ChineseSimplified": "在攻击出招的时候受到攻击会造成Counter伤害",
         "ChineseTraditional": "在攻击出招的时候受到攻击会造成Counter伤害",
-        "English": "You\u0027ll receive Counter DMG if you\u0027re hit while attacking.",
+        "English": "You'll receive Counter DMG if you're hit while attacking.",
         "Japanese": "攻撃時に相手から攻撃を受けた場合はカウンターダメージが発生します",
         "Korea": "공격을 시전하는 중에 피격 시 카운터 피해를 받습니다."
       },
@@ -10305,7 +10383,7 @@
         "Key": "Text_Tips10_Value",
         "ChineseSimplified": "武器的硬直越大一般伤害也越高",
         "ChineseTraditional": "武器的硬直越大一般伤害也越高",
-        "English": "Generally, the greater the weapon\u0027s Hitstun, the higher its damage.",
+        "English": "Generally, the greater the weapon's Hitstun, the higher its damage.",
         "Japanese": "攻撃硬直が大きい武器ほど、大ダメージを与えることができます",
         "Korea": "일반적으로 무기의 경직 속성이 높을수록, 더 많은 피해를 입힐 수 있습니다."
       },
@@ -10331,6 +10409,7 @@
         "ID": 2023,
         "Key": "Text_Tips12",
         "ChineseSimplified": "派生攻击",
+        "ChineseTraditional": "",
         "English": "Derived Attack",
         "Japanese": "派生攻撃",
         "Korea": "파생 공격"
@@ -10339,6 +10418,7 @@
         "ID": 2024,
         "Key": "Text_Tips12_Value",
         "ChineseSimplified": "翻滚或回溯后立即按普攻释放的攻击",
+        "ChineseTraditional": "",
         "English": "Normal attacks that are launched right after your character rolls or backtracks.",
         "Japanese": "回避後、または遡り後にすぐ行う通常攻撃のこと",
         "Korea": "대시/회귀 후 바로 [일반 공격] 버튼을 탭하여 시전하는 공격입니다."
@@ -10357,7 +10437,7 @@
         "Key": "Text_Tips13_Value",
         "ChineseSimplified": "装饰品只能布置在玩家自己的频道。在【切换频道】中选择【我的频道】进入后可布置装饰品",
         "ChineseTraditional": "装饰品只能布置在玩家自己的频道。在【切换频道】中选择【我的频道】进入后可布置装饰品",
-        "English": "Ornaments can only be placed in your own channel. Go to [Switch Channel] \u003E [My Channel] to set them up.",
+        "English": "Ornaments can only be placed in your own channel. Go to [Switch Channel] > [My Channel] to set them up.",
         "Japanese": "装饰品只能布置在玩家自己的频道。在【切换频道】中选择【我的频道】进入后可布置装饰品",
         "Korea": "장식품은 본인의 채널에만 배치할 수 있습니다. [채널 변경] - [나의 채널] 화면에서 장식품을 배치할 수 있습니다."
       },
@@ -10365,6 +10445,7 @@
         "ID": 2027,
         "Key": "Text_Tips14",
         "ChineseSimplified": "落地边缘保护",
+        "ChineseTraditional": "",
         "English": "Anti-Fall Protection",
         "Japanese": "落地边缘保护",
         "Korea": "착지 보호 메커니즘"
@@ -10373,6 +10454,7 @@
         "ID": 2028,
         "Key": "Text_Tips14_Value",
         "ChineseSimplified": "跳跃快要落地时如果放开摇杆则角色能更容易的站在边缘不会滑落",
+        "ChineseTraditional": "",
         "English": "Let go of the joystick just before landing to make it easier to stay on ledges.",
         "Japanese": "跳跃快要落地时如果放开摇杆则角色能更容易的站在边缘不会滑落",
         "Korea": "점프 후 착지 직전에 조이스틱에서 손을 떼면, 캐릭터가 쉽게 추락하지 않습니다."
@@ -10381,6 +10463,7 @@
         "ID": 2029,
         "Key": "Text_Tips15",
         "ChineseSimplified": "暴击平衡",
+        "ChineseTraditional": "",
         "English": "Crit DMG Balance",
         "Japanese": "落地边缘保护",
         "Korea": "치명타 밸런스"
@@ -10389,6 +10472,7 @@
         "ID": 2030,
         "Key": "Text_Tips15_Value",
         "ChineseSimplified": "暴击时伤害必定按最大平衡值计算！",
+        "ChineseTraditional": "",
         "English": "Critical hit damage is always calculated at the maximum balance value!",
         "Japanese": "跳跃快要落地时如果放开摇杆则角色能更容易的站在边缘不会滑落",
         "Korea": "치명타 피해는 무조건 최대 밸런스 수치에 따라 계산됩니다."
@@ -10397,14 +10481,18 @@
         "ID": 2100,
         "Key": "Text_Home_LikesUndersupply",
         "ChineseSimplified": "剩余点赞数不足！",
-        "English": "You\u0027ve run out of Likes to give!",
-        "Korea": "더 이상 \u0027좋아요\u0027를 보낼 수 없습니다."
+        "ChineseTraditional": "",
+        "English": "You've run out of Likes to give!",
+        "Japanese": "",
+        "Korea": "더 이상 '좋아요'를 보낼 수 없습니다."
       },
       {
         "ID": 2101,
         "Key": "Text_Friend_Self",
         "ChineseSimplified": "无法查看自己",
-        "English": "You can\u0027t view your own profile.",
+        "ChineseTraditional": "",
+        "English": "You can't view your own profile.",
+        "Japanese": "",
         "Korea": "본인의 정보를 확인할 수 없습니다."
       },
       {
@@ -10421,7 +10509,8 @@
         "Key": "Text_Disassemble_HighQuality",
         "ChineseSimplified": "分解物品中有高品质道具是否确认分解？",
         "ChineseTraditional": "分解物品中有高品质道具是否确认分解？",
-        "English": "You\u0027re about to dismantle a high-quality item. Confirm to proceed?",
+        "English": "You're about to dismantle a high-quality item. Confirm to proceed?",
+        "Japanese": "",
         "Korea": "높은 등급의 아이템이 선택되었습니다. 그래도 분해하시겠습니까?"
       },
       {
@@ -10475,6 +10564,7 @@
         "ChineseSimplified": "使用自己的邀请码",
         "ChineseTraditional": "使用自己的邀请码",
         "English": "Cannot use your own invitation code.",
+        "Japanese": "",
         "Korea": "본인의 초대 코드 사용"
       },
       {
@@ -10483,6 +10573,7 @@
         "ChineseSimplified": "本周活跃度已达上限",
         "ChineseTraditional": "本周活跃度已达上限",
         "English": "Weekly activity cap reached.",
+        "Japanese": "",
         "Korea": "이번 주의 활약도가 상한에 도달하였습니다."
       },
       {
@@ -10491,6 +10582,7 @@
         "ChineseSimplified": "您的账号已经解除绑定",
         "ChineseTraditional": "您的账号已经解除绑定",
         "English": "Your account has been unbound.",
+        "Japanese": "",
         "Korea": "계정 연동 상태가 해제되었습니다."
       },
       {
@@ -10498,7 +10590,8 @@
         "Key": "UnBandingNotBand",
         "ChineseSimplified": "当前账号和官网账号并未绑定",
         "ChineseTraditional": "当前账号和官网账号并未绑定",
-        "English": "Your account isn\u0027t bound to the account on the official website.",
+        "English": "Your account isn't bound to the account on the official website.",
+        "Japanese": "",
         "Korea": "현재 계정이 공식 사이트 계정과 연동되지 않았습니다."
       },
       {
@@ -10507,6 +10600,7 @@
         "ChineseSimplified": "账号解除绑定失败",
         "ChineseTraditional": "账号解除绑定失败",
         "English": "Failed to unbind account.",
+        "Japanese": "",
         "Korea": "계정 연동 해제 실패"
       },
       {
@@ -10522,14 +10616,18 @@
         "ID": 2115,
         "Key": "Tips_Banned_Action",
         "ChineseSimplified": "当前世界无法使用该动作哦",
-        "English": "You can\u0027t perform that action in this world.",
+        "ChineseTraditional": "",
+        "English": "You can't perform that action in this world.",
+        "Japanese": "",
         "Korea": "현재 세계에서 해당 액션을 할 수 없습니다."
       },
       {
         "ID": 2116,
         "Key": "Tips_Reconnect",
         "ChineseSimplified": "重新连接",
+        "ChineseTraditional": "",
         "English": "Reconnect",
+        "Japanese": "",
         "Korea": "재연결"
       },
       {
@@ -10547,6 +10645,7 @@
         "ChineseSimplified": "账号绑定失败",
         "ChineseTraditional": "账号绑定失败",
         "English": "Failed to bind account.",
+        "Japanese": "",
         "Korea": "계정 연동 실패"
       },
       {
@@ -10555,6 +10654,7 @@
         "ChineseSimplified": "账号重复绑定",
         "ChineseTraditional": "账号重复绑定",
         "English": "Account already bound.",
+        "Japanese": "",
         "Korea": "계정 중복 연동"
       },
       {
@@ -10563,6 +10663,7 @@
         "ChineseSimplified": "倒计时{0:N2}s后游戏开始",
         "ChineseTraditional": "倒计时{0:N2}s后游戏开始",
         "English": "Game starts in {0:N2}s.",
+        "Japanese": "",
         "Korea": "{0:N2}초 후 게임 시작"
       },
       {
@@ -10571,6 +10672,7 @@
         "ChineseSimplified": "确认要返回起点吗？",
         "ChineseTraditional": "确认要返回起点吗？",
         "English": "Return to the starting point?",
+        "Japanese": "",
         "Korea": "시작점으로 돌아가시겠습니까?"
       },
       {
@@ -10578,7 +10680,7 @@
         "Key": "Tip_TeamGameplay_GiveUp",
         "ChineseSimplified": "中途退出后无法获得任何奖励，游戏结束前无法创建或加入其他的游戏厅，是否确认退出？",
         "ChineseTraditional": "中途退出后无法获得任何奖励，游戏结束前无法创建或加入其他的游戏厅，是否确认退出？",
-        "English": "Exiting midway will forfeit all rewards. You won\u0027t be able to create or join another game room until the current game ends. Exit anyway?",
+        "English": "Exiting midway will forfeit all rewards. You won't be able to create or join another game room until the current game ends. Exit anyway?",
         "Japanese": "中途退出后无法获得任何奖励，游戏结束前无法创建或加入其他的游戏厅，是否确认退出？",
         "Korea": "중도에 퇴장할 경우, 아무런 보상도 주어지지 않으며, 게임 종료 전에 게임방 생성/가입이 불가능합니다. 퇴장하시겠습니까?"
       },
@@ -10586,7 +10688,9 @@
         "ID": 2123,
         "Key": "Tip_Config_NoSuit_Text",
         "ChineseSimplified": "游戏版本已更新，请重新登录！",
+        "ChineseTraditional": "",
         "English": "Game version updated! Please re-login to continue.",
+        "Japanese": "",
         "Korea": "게임 버전이 업데이트되었습니다. 다시 로그인하세요."
       },
       {
@@ -10630,7 +10734,7 @@
         "Key": "Tips_TeamGameplayGroup_RepeatJoin",
         "ChineseSimplified": "你已加入其他人的游戏厅",
         "ChineseTraditional": "你已加入其他人的游戏厅",
-        "English": "You have already joined another player\u0027s game room.",
+        "English": "You have already joined another player's game room.",
         "Japanese": "你已加入其他人的游戏厅",
         "Korea": "이미 다른 리더의 게임방에 가입하였습니다."
       },
@@ -10648,7 +10752,7 @@
         "Key": "Tips_TeamGameplayGroup_Ban",
         "ChineseSimplified": "是否将{0}移除，他将在一段时间内无法加入",
         "ChineseTraditional": "是否将{0}移除，他将在一段时间内无法加入",
-        "English": "Kick out {0} now? They won\u0027t be able to rejoin the room for a while.",
+        "English": "Kick out {0} now? They won't be able to rejoin the room for a while.",
         "Japanese": "是否将{0}移除，他将在一段时间内无法加入",
         "Korea": "{0}을(를) 추방하시겠습니까? 추방 시 해당 리더는 일정 기간 동안 본 오락실에 다시 가입할 수 없습니다."
       },
@@ -10666,7 +10770,7 @@
         "Key": "Tips_TeamGameplayGroup_JoinAfterBanned",
         "ChineseSimplified": "被房主移除后一段时间内无法再次加入",
         "ChineseTraditional": "被房主移除后一段时间内无法再次加入",
-        "English": "You\u0027ve been kicked out by the host and won\u0027t be able to join the room for a while.",
+        "English": "You've been kicked out by the host and won't be able to join the room for a while.",
         "Japanese": "被房主移除后一段时间内无法再次加入",
         "Korea": "게임방에서 추방당한 후 일정 기간 동안 다시 가입할 수 없습니다."
       },
@@ -10701,7 +10805,9 @@
         "ID": 2136,
         "Key": "Tips_TeamGameplayGroup_PlayerKickYou",
         "ChineseSimplified": "你被踢掉了",
+        "ChineseTraditional": "",
         "English": "You have been kicked out.",
+        "Japanese": "",
         "Korea": "추방당했습니다!"
       },
       {
@@ -10718,7 +10824,7 @@
         "Key": "Tips_TeamGameplayGroup_SelfJoin",
         "ChineseSimplified": "你加入了游戏厅",
         "ChineseTraditional": "你加入了游戏厅",
-        "English": "You\u0027ve joined the game room.",
+        "English": "You've joined the game room.",
         "Japanese": "你加入了游戏厅",
         "Korea": "게임방에 가입하였습니다."
       },
@@ -10772,7 +10878,7 @@
         "Key": "Tips_TeamGameplayGroup_GameCoinTip",
         "ChineseSimplified": "游戏币每3小时恢复1个,持有数达上限时不再恢复",
         "ChineseTraditional": "游戏币每3小时恢复1个,持有数达上限时不再恢复",
-        "English": "You gain 1 game coin every 3 hours. No recovery if you\u0027re at max capacity.",
+        "English": "You gain 1 game coin every 3 hours. No recovery if you're at max capacity.",
         "Japanese": "游戏币每3小时恢复1个,持有数达上限时不再恢复",
         "Korea": "게임 코인은 3시간마다 1개씩 회복되며, 소지 상한 도달 시 더 이상 회복되지 않습니다."
       },
@@ -10781,7 +10887,7 @@
         "Key": "Tips_TeamGameplayGroup_HostRepeatJoin",
         "ChineseSimplified": "你已创建了游戏厅，是否要解散当前游戏厅后加入？",
         "ChineseTraditional": "你已创建了游戏厅，是否要解散当前游戏厅后加入？",
-        "English": "You\u0027ve already created a game room. Disband it to join that one?",
+        "English": "You've already created a game room. Disband it to join that one?",
         "Japanese": "你已创建了游戏厅，是否要解散当前游戏厅后加入？",
         "Korea": "이미 게임방을 생성하였습니다. 기존 게임방을 해산하고, 해당 게임방에 가입하시겠습니까?"
       },
@@ -10789,1189 +10895,1882 @@
         "ID": 2201,
         "Key": "BeaconButton_Calling",
         "ChineseSimplified": "全员集合",
+        "ChineseTraditional": "",
         "English": "Rally",
+        "Japanese": "",
         "Korea": "전원 집합"
       },
       {
         "ID": 2202,
         "Key": "BeaconButton_Calling_Cancel",
         "ChineseSimplified": "取消集合",
+        "ChineseTraditional": "",
         "English": "Cancel Rally",
+        "Japanese": "",
         "Korea": "집합 취소"
       },
       {
         "ID": 2203,
         "Key": "BeaconButton_Change",
         "ChineseSimplified": "查看",
+        "ChineseTraditional": "",
         "English": "View",
+        "Japanese": "",
         "Korea": "보기"
       },
       {
         "ID": 2204,
         "Key": "BeaconButton_PickUp",
         "ChineseSimplified": "搬起",
+        "ChineseTraditional": "",
         "English": "Lift",
+        "Japanese": "",
         "Korea": "들기"
       },
       {
         "ID": 2205,
         "Key": "BeaconButton_Join",
         "ChineseSimplified": "加入",
+        "ChineseTraditional": "",
         "English": "Join",
+        "Japanese": "",
         "Korea": "가입"
       },
       {
         "ID": 2206,
         "Key": "BeaconButton_Quit",
         "ChineseSimplified": "退出游戏厅",
+        "ChineseTraditional": "",
         "English": "Leave Game Room",
+        "Japanese": "",
         "Korea": "게임방 퇴장"
       },
       {
         "ID": 2207,
         "Key": "BeaconButton_QuitAndJoin",
         "ChineseSimplified": "退出并加入",
+        "ChineseTraditional": "",
         "English": "Leave and Join",
+        "Japanese": "",
         "Korea": "퇴장 및 가입"
       },
       {
         "ID": 2208,
         "Key": "BeaconButton_Start",
         "ChineseSimplified": "开始",
+        "ChineseTraditional": "",
         "English": "Start",
+        "Japanese": "",
         "Korea": "시작"
       },
       {
         "ID": 2209,
         "Key": "BeaconButton_View",
         "ChineseSimplified": "查看详情",
+        "ChineseTraditional": "",
         "English": "View Details",
+        "Japanese": "",
         "Korea": "상세정보 보기"
       },
       {
         "ID": 2210,
         "Key": "Tips_Team_Name_Text",
         "ChineseSimplified": "{0}的游戏",
-        "English": "{0}\u0027s Game",
+        "ChineseTraditional": "",
+        "English": "{0}'s Game",
+        "Japanese": "",
         "Korea": "{0}의 게임"
       },
       {
         "ID": 2211,
         "Key": "BeaconTitle_Ready",
         "ChineseSimplified": "所有成员已就位，等待房主开启",
+        "ChineseTraditional": "",
         "English": "All members are ready. Waiting for the host to start.",
+        "Japanese": "",
         "Korea": "전체 멤버가 준비를 마쳤습니다. 게임방 주인이 게임을 시작하기를 기다려 주세요."
       },
       {
         "ID": 2212,
         "Key": "BeaconTitle_Starting",
         "ChineseSimplified": "{0} [游戏启动中]",
+        "ChineseTraditional": "",
         "English": "{0} [Game Starting]",
+        "Japanese": "",
         "Korea": "{0} [게임 시작 중]"
       },
       {
         "ID": 2213,
         "Key": "BeaconTitle_Calling",
         "ChineseSimplified": "未就位成员数：{0}",
+        "ChineseTraditional": "",
         "English": "Unready Members: {0}",
+        "Japanese": "",
         "Korea": "결석 인원수: {0}"
       },
       {
         "ID": 2214,
         "Key": "Tips_TeamGamePlay_InDungeon",
         "ChineseSimplified": "副本中不能使用",
+        "ChineseTraditional": "",
         "English": "Cannot use it in the dungeon.",
+        "Japanese": "",
         "Korea": "던전에서 사용할 수 없습니다."
       },
       {
         "ID": 2215,
         "Key": "Tips_Abyss_Team_SameCharacter",
         "ChineseSimplified": "深渊队伍异常",
+        "ChineseTraditional": "",
         "English": "Abyss team error.",
+        "Japanese": "",
         "Korea": "심연 팀 오류"
       },
       {
         "ID": 2216,
         "Key": "Tips_Shop_Grid_Error",
         "ChineseSimplified": "商品异常",
+        "ChineseTraditional": "",
         "English": "Item error.",
+        "Japanese": "",
         "Korea": "상품 오류"
       },
       {
         "ID": 2217,
         "Key": "BeaconTips_Calling_Channel",
         "ChineseSimplified": "全员集合，请尽快前往频道{0}",
+        "ChineseTraditional": "",
         "English": "All members, assemble at channel {0} ASAP.",
+        "Japanese": "",
         "Korea": "전원 집합! 지금 바로 채널 {0}(으)로!"
       },
       {
         "ID": 2218,
         "Key": "BeaconTips_Calling_InPlace",
         "ChineseSimplified": "全员集合，请尽快前往集合区",
+        "ChineseTraditional": "",
         "English": "All members, please head to the gathering area ASAP.",
+        "Japanese": "",
         "Korea": "전원 집합! 지금 바로 집합 구역으로!"
       },
       {
         "ID": 2219,
         "Key": "BeaconTips_Calling_SelfChannel",
         "ChineseSimplified": "全员集合，请尽快前往频道{0}",
+        "ChineseTraditional": "",
         "English": "All members, assemble at channel {0} ASAP.",
+        "Japanese": "",
         "Korea": "전원 집합! 지금 바로 채널 {0}(으)로!"
       },
       {
         "ID": 2220,
         "Key": "BeaconTips_Calling_SelfInPlace",
         "ChineseSimplified": "全员集合，请尽快前往集合区",
+        "ChineseTraditional": "",
         "English": "All members, please head to the gathering area ASAP.",
+        "Japanese": "",
         "Korea": "전원 집합! 지금 바로 집합 구역으로!"
       },
       {
         "ID": 2221,
         "Key": "BeaconTips_NoEnoughMember",
         "ChineseSimplified": "至少{0}位成员才可进行集合",
+        "ChineseTraditional": "",
         "English": "At least {0} members are required to initiate Rally.",
+        "Japanese": "",
         "Korea": "적어도 {0}명의 멤버가 있어야 집합할 수 있습니다."
       },
       {
         "ID": 2222,
         "Key": "ItemRecycled",
         "ChineseSimplified": "{0} 已回收",
+        "ChineseTraditional": "",
         "English": "{0} retrieved.",
+        "Japanese": "",
         "Korea": "{0} 회수 완료"
       },
       {
         "ID": 2223,
         "Key": "Text_Week1_Tips",
         "ChineseSimplified": "星期一",
+        "ChineseTraditional": "",
         "English": "Monday",
+        "Japanese": "",
         "Korea": "월요일"
       },
       {
         "ID": 2224,
         "Key": "Text_Week2_Tips",
         "ChineseSimplified": "星期二",
+        "ChineseTraditional": "",
         "English": "Tuesday",
+        "Japanese": "",
         "Korea": "화요일"
       },
       {
         "ID": 2225,
         "Key": "Text_Week3_Tips",
         "ChineseSimplified": "星期三",
+        "ChineseTraditional": "",
         "English": "Wednesday",
+        "Japanese": "",
         "Korea": "수요일"
       },
       {
         "ID": 2226,
         "Key": "Text_Week4_Tips",
         "ChineseSimplified": "星期四",
+        "ChineseTraditional": "",
         "English": "Thursday",
+        "Japanese": "",
         "Korea": "목요일"
       },
       {
         "ID": 2227,
         "Key": "Text_Week5_Tips",
         "ChineseSimplified": "星期五",
+        "ChineseTraditional": "",
         "English": "Friday",
+        "Japanese": "",
         "Korea": "금요일"
       },
       {
         "ID": 2228,
         "Key": "Text_Week6_Tips",
         "ChineseSimplified": "星期六",
+        "ChineseTraditional": "",
         "English": "Saturday",
+        "Japanese": "",
         "Korea": "토요일"
       },
       {
         "ID": 2229,
         "Key": "Text_Week7_Tips",
         "ChineseSimplified": "星期日",
+        "ChineseTraditional": "",
         "English": "Sunday",
+        "Japanese": "",
         "Korea": "일요일"
       },
       {
         "ID": 2230,
         "Key": "Text_Weather_Sun_Tips",
         "ChineseSimplified": "晴",
+        "ChineseTraditional": "",
         "English": "Sunny",
+        "Japanese": "",
         "Korea": "맑음"
       },
       {
         "ID": 2231,
         "Key": "Text_Weather_Rain_Tips",
         "ChineseSimplified": "雨",
+        "ChineseTraditional": "",
         "English": "Rainy",
+        "Japanese": "",
         "Korea": "비"
       },
       {
         "ID": 2232,
         "Key": "Text_Fashion_Coloring_Tips",
         "ChineseSimplified": "染色中。。。",
+        "ChineseTraditional": "",
         "English": "Dyeing in progress…",
+        "Japanese": "",
         "Korea": "염색 중…"
       },
       {
         "ID": 2233,
         "Key": "Text_Abyss_Unstable_End",
         "ChineseSimplified": "本期畸变区已结束",
+        "ChineseTraditional": "",
         "English": "The Anomaly Zone is closed for now.",
+        "Japanese": "",
         "Korea": "본 회차의 왜곡 구역이 종료되었습니다."
       },
       {
         "ID": 2234,
         "Key": "Text_HomeItem_ExceedHeightLimit",
         "ChineseSimplified": "超出堆叠高度上限{0}米",
+        "ChineseTraditional": "",
         "English": "Exceeded maximum stack height: {0} meters.",
+        "Japanese": "",
         "Korea": "적재 높이 상한을 {0}m 초과하였습니다."
       },
       {
         "ID": 2235,
         "Key": "Text_Password_Title_Tips",
         "ChineseSimplified": "修改密码",
+        "ChineseTraditional": "",
         "English": "Change Password",
+        "Japanese": "",
         "Korea": "비밀번호 변경"
       },
       {
         "ID": 2236,
         "Key": "Text_Password_Title1_Tips",
         "ChineseSimplified": "输入密码",
+        "ChineseTraditional": "",
         "English": "Enter Password",
+        "Japanese": "",
         "Korea": "비밀번호 입력"
       },
       {
         "ID": 2237,
         "Key": "Text_Shop_Dispatched_Name_Tips",
         "ChineseSimplified": "姓名为空",
+        "ChineseTraditional": "",
         "English": "Name field is empty.",
+        "Japanese": "",
         "Korea": "성명을 입력하지 않았습니다."
       },
       {
         "ID": 2238,
         "Key": "Text_Shop_Dispatched_Phone_Tips",
         "ChineseSimplified": "电话为空",
+        "ChineseTraditional": "",
         "English": "Phone number is empty.",
+        "Japanese": "",
         "Korea": "전화번호를 입력하지 않았습니다."
       },
       {
         "ID": 2239,
         "Key": "Text_Shop_Dispatched_Address_Tips",
         "ChineseSimplified": "地址为空",
+        "ChineseTraditional": "",
         "English": "Address is empty.",
+        "Japanese": "",
         "Korea": "주소를 입력하지 않았습니다."
       },
       {
         "ID": 2240,
         "Key": "Text_Shop_Dispatched_Time_Tips",
         "ChineseSimplified": "当期期间限定周期内仅支持统一发货，不分批发货，请于{0}前填写收货地址",
+        "ChineseTraditional": "",
         "English": "Only unified delivery is supported during this period—no split orders. Please fill in your address before {0}.",
+        "Japanese": "",
         "Korea": "해당 한정 주기에는 일괄 배송만 지원하며, 분할선적은 지원하지 않습니다. {0} 전에 배송 주소를 입력해 주세요."
       },
       {
         "ID": 2241,
         "Key": "Text_Shop_Dispatched_AddressOk_Tips",
         "ChineseSimplified": "您的收货信息是:{0} {1} {2} 请您确认信息是否正确。",
-        "English": "Your delivery info: {0} {1} {2}. Please confirm it\u0027s correct.",
+        "ChineseTraditional": "",
+        "English": "Your delivery info: {0} {1} {2}. Please confirm it's correct.",
+        "Japanese": "",
         "Korea": "배송 정보: {0} {1} {2}, 정보의 정확 여부를 확인해 주세요."
       },
       {
         "ID": 2242,
         "Key": "Text_Shop_Dispatched_Success_Tips",
         "ChineseSimplified": "您的订单已生成：{0}，建议截图保存。如需修改地址请联系人工客服。",
-        "English": "Your order has been created: {0}. It\u0027s recommended to take a screenshot. Contact customer support if you need to change address.",
+        "ChineseTraditional": "",
+        "English": "Your order has been created: {0}. It's recommended to take a screenshot. Contact customer support if you need to change address.",
+        "Japanese": "",
         "Korea": "생성된 주문서: {0}, 스크린샷을 저장해 두시길 권장드립니다. 주소 수정이 필요하신 경우, 고객센터에 연락 부탁드립니다."
       },
       {
         "ID": 2243,
         "Key": "Text_Shop_Dispatched_AddressOk1_Tips",
         "ChineseSimplified": "您的收货地址是{0}，如需修改地址请联系人工客服。",
+        "ChineseTraditional": "",
         "English": "Your delivery address is: {0}. Contact customer support if you need to change address.",
+        "Japanese": "",
         "Korea": "배송 주소: {0}, 주소 수정이 필요하신 경우, 고객센터에 연락 부탁드립니다."
       },
       {
         "ID": 2244,
         "Key": "Text_Password_Length_Tips",
         "ChineseSimplified": "请输入{0}位的数字作为密码",
+        "ChineseTraditional": "",
         "English": "Please enter a {0}-digit number as your password.",
+        "Japanese": "",
         "Korea": "{0}자리의 숫자로 된 비밀번호를 입력하세요."
       },
       {
         "ID": 2245,
         "Key": "Text_Fashion_Color_SelectPlan_Tips",
         "ChineseSimplified": "请选择时装位",
+        "ChineseTraditional": "",
         "English": "Please select a costume slot.",
+        "Japanese": "",
         "Korea": "코스튬 슬롯을 선택하세요."
       },
       {
         "ID": 2246,
         "Key": "Text_PhotoShare_DownFashion_Tips",
         "ChineseSimplified": "是否花费【{0}x{1}】下载当前染色方案，并覆盖所选染色槽位原方案",
+        "ChineseTraditional": "",
         "English": "Spend [{0}×{1}] to download this dye preset and overwrite the current one in the selected slot?",
+        "Japanese": "",
         "Korea": "[{0}x{1}]을(를) 사용하여 해당 염색 방안을 다운로드하고, 선택한 염색 슬롯의 기존 방안을 덮어쓰시겠습니까?"
       },
       {
         "ID": 2247,
         "Key": "Text_PhotoShare_Content1_Tips",
         "ChineseSimplified": "是否使用此相机参数",
+        "ChineseTraditional": "",
         "English": "Apply these camera settings?",
+        "Japanese": "",
         "Korea": "해당 카메라 설정을 적용하시겠습니까?"
       },
       {
         "ID": 2248,
         "Key": "Text_PhotoShare_Content2_Tips",
         "ChineseSimplified": "复制成功",
+        "ChineseTraditional": "",
         "English": "Text copied.",
+        "Japanese": "",
         "Korea": "복사 성공"
       },
       {
         "ID": 2249,
         "Key": "Text_PhotoShare_Content3_Tips",
         "ChineseSimplified": "搜索内容为空",
+        "ChineseTraditional": "",
         "English": "Search content is empty.",
+        "Japanese": "",
         "Korea": "검색 내용을 입력하지 않았습니다."
       },
       {
         "ID": 2250,
         "Key": "Text_PhotoShare_Content4_Tips",
         "ChineseSimplified": "标题不能为空",
+        "ChineseTraditional": "",
         "English": "Title cannot be empty.",
+        "Japanese": "",
         "Korea": "타이틀을 입력하지 않았습니다."
       },
       {
         "ID": 2251,
         "Key": "Text_PhotoShare_Content5_Tips",
         "ChineseSimplified": "是否删除照片？",
+        "ChineseTraditional": "",
         "English": "Delete the photo?",
+        "Japanese": "",
         "Korea": "이미지를 삭제하시겠습니까?"
       },
       {
         "ID": 2252,
         "Key": "Text_PhotoShare_Content6_Tips",
         "ChineseSimplified": "照片上传失败",
+        "ChineseTraditional": "",
         "English": "Failed to upload the photo.",
+        "Japanese": "",
         "Korea": "이미지 업로드 실패"
       },
       {
         "ID": 2253,
         "Key": "Text_PhotoShare_Content7_Tips",
         "ChineseSimplified": "输入框内容为空",
+        "ChineseTraditional": "",
         "English": "Input field is empty.",
+        "Japanese": "",
         "Korea": "입력창이 비어 있습니다."
       },
       {
         "ID": 2254,
         "Key": "Text_PhotoShare_Content8_Tips",
         "ChineseSimplified": "是否需要花费{0} 个{1}修改标签或者标题?",
+        "ChineseTraditional": "",
         "English": "Spend {1} x{0} to edit the tag or title?",
+        "Japanese": "",
         "Korea": "{0}개의 {1}을(를) 사용하여 태그/타이틀을 변경하시겠습니까?"
       },
       {
         "ID": 2255,
         "Key": "Text_PhotoShare_Content9_Tips",
         "ChineseSimplified": "照片分享今日上传数量已达上限",
+        "ChineseTraditional": "",
         "English": "Daily photo upload limit reached.",
+        "Japanese": "",
         "Korea": "오늘 더 이상 이미지를 업로드할 수 없습니다."
       },
       {
         "ID": 2256,
         "Key": "Text_BlessingTree_Buy_Tips",
         "ChineseSimplified": "是否消耗{1}x{0}激活？",
+        "ChineseTraditional": "",
         "English": "Consume {0}×{1} to activate?",
+        "Japanese": "",
         "Korea": "{0}x{1}을(를) 사용하여 활성화하시겠습니까?"
       },
       {
         "ID": 2257,
         "Key": "Text_Shop_Dispatched_NoItems_Tips",
         "ChineseSimplified": "没有可以发送的周边",
+        "ChineseTraditional": "",
         "English": "No merchandise available to send.",
+        "Japanese": "",
         "Korea": "발송 가능한 굿즈가 없습니다."
       },
       {
         "ID": 2258,
         "Key": "Text_PhotoShare_Fashion_Success_Tips",
         "ChineseSimplified": "下载染色方案成功",
+        "ChineseTraditional": "",
         "English": "Dye preset downloaded.",
+        "Japanese": "",
         "Korea": "염색 방안 다운로드 성공"
       },
       {
         "ID": 2259,
         "Key": "Text_Character_ItemSweep_Quick_Tips",
         "ChineseSimplified": "是否花费{0}X{1}兑换{2}X{3}？",
+        "ChineseTraditional": "",
         "English": "Spend {0}×{1} to exchange for {2}×{3}?",
+        "Japanese": "",
         "Korea": "{0}X{1}(으)로 {2}X{3}을(를) 교환하시겠습니까?"
       },
       {
         "ID": 2260,
         "Key": "Text_Character_ItemSweep_Diamond_Tips",
         "ChineseSimplified": "是否花费{0}X{1}购买{2}X{3}？",
+        "ChineseTraditional": "",
         "English": "Spend {0}×{1} to purchase {2}×{3}?",
+        "Japanese": "",
         "Korea": "{0}X{1}(으)로 {2}X{3}을(를) 구매하시겠습니까?"
       },
       {
         "ID": 2261,
         "Key": "Text_PhotoShare_Search_Tips",
         "ChineseSimplified": "搜索成功",
+        "ChineseTraditional": "",
         "English": "Search complete.",
+        "Japanese": "",
         "Korea": "검색 성공"
       },
       {
         "ID": 2262,
         "Key": "Text_PhotoShare_Self_Tips",
         "ChineseSimplified": "当前点击是自己的照片",
-        "English": "You\u0027re tapping on your own photo.",
+        "ChineseTraditional": "",
+        "English": "You're tapping on your own photo.",
+        "Japanese": "",
         "Korea": "본인의 이미지를 탭하였습니다."
       },
       {
         "ID": 2263,
         "Key": "RandomEventQuest_Tips",
-        "ChineseSimplified": "【祈愿任务】{0} \u003Ccolor=#c1e82c\u003E已完成\u003C/color\u003E",
-        "English": "[Wish Quest] {0} \u003Ccolor=#c1e82c\u003Ecompleted\u003C/color\u003E.",
-        "Korea": "[기원 퀘스트] {0} \u003Ccolor=#c1e82c\u003E완료함\u003C/color\u003E"
+        "ChineseSimplified": "【祈愿任务】{0} <color=#c1e82c>已完成</color>",
+        "ChineseTraditional": "",
+        "English": "[Wish Quest] {0} <color=#c1e82c>completed</color>.",
+        "Japanese": "",
+        "Korea": "[기원 퀘스트] {0} <color=#c1e82c>완료함</color>"
       },
       {
         "ID": 2264,
         "Key": "Text_Dungeon_Sweep_Tips",
         "ChineseSimplified": "需要通关一次正常模式",
+        "ChineseTraditional": "",
         "English": "You must clear it under Normal difficulty first.",
+        "Japanese": "",
         "Korea": "일반 모드를 1회 클리어해야 합니다."
       },
       {
         "ID": 2265,
         "Key": "Text_Dungeon_SweepStart_Tips",
         "ChineseSimplified": "是否开始扫荡一次？",
+        "ChineseTraditional": "",
         "English": "Start a quick raid now?",
+        "Japanese": "",
         "Korea": "소탕을 1회 진행하시겠습니까?"
       },
       {
         "ID": 2266,
         "Key": "Text_HomeItem_HasBarrier",
         "ChineseSimplified": "周围有障碍物，无法放置。",
+        "ChineseTraditional": "",
         "English": "Obstacle nearby; cannot place.",
+        "Japanese": "",
         "Korea": "주변에 장애물이 있어 배치할 수 없습니다."
       },
       {
         "ID": 2267,
         "Key": "Text_PhotoShare_Content10_Tips",
         "ChineseSimplified": "是否消耗{1}x{0}解锁染色方案？",
+        "ChineseTraditional": "",
         "English": "Consume {0}×{1} to unlock the dye preset?",
+        "Japanese": "",
         "Korea": "{0}x{1}을(를) 사용하여 염색 방안을 해금하시겠습니까?"
       },
       {
         "ID": 2268,
         "Key": "Text_Fashion_ColorPlan_UnLockSuccess",
         "ChineseSimplified": "时装染色方案解锁成功",
+        "ChineseTraditional": "",
         "English": "Costume dye preset unlocked.",
+        "Japanese": "",
         "Korea": "코스튬 염색 방안 해금 성공"
       },
       {
         "ID": 2269,
         "Key": "Text_BlessingTree_End",
         "ChineseSimplified": "当前祈愿树已过期",
+        "ChineseTraditional": "",
         "English": "This Wishing Tree has expired.",
+        "Japanese": "",
         "Korea": "해당 소원 트리가 만료되었습니다."
       },
       {
         "ID": 2270,
         "Key": "HomeItem_OutOfBounds",
         "ChineseSimplified": "超出放置区域",
+        "ChineseTraditional": "",
         "English": "Out of placement bounds.",
+        "Japanese": "",
         "Korea": "배치 구역을 벗어났습니다."
       },
       {
         "ID": 2271,
         "Key": "Text_PhotoShare_Content11_Tips",
         "ChineseSimplified": "分享码 {0}",
+        "ChineseTraditional": "",
         "English": "Share Code: {0}",
+        "Japanese": "",
         "Korea": "공유 코드: {0}"
       },
       {
         "ID": 2272,
         "Key": "Text_BlessingTreeCoinEmpty_Tips",
-        "ChineseSimplified": "祈愿石不足，可以到各个地图中探索获取"
+        "ChineseSimplified": "祈愿石不足，可以到各个地图中探索获取",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2273,
         "Key": "Text_PlayerFllower_Stop_Tips",
-        "ChineseSimplified": "跟随已停止"
+        "ChineseSimplified": "跟随已停止",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2274,
         "Key": "Text_FashionDye_RandomRefresh_Tips",
-        "ChineseSimplified": "是否刷新随机染色剂？"
+        "ChineseSimplified": "是否刷新随机染色剂？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2275,
         "Key": "Text_BlessingTreeCoinEmpty_ShopTips",
-        "ChineseSimplified": "{0}不足，是否跳转到商店？"
+        "ChineseSimplified": "{0}不足，是否跳转到商店？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2276,
         "Key": "Text_Setting_ButtonType_Tips",
-        "ChineseSimplified": "是否切换技能按钮布局？切换后需重登后生效。"
+        "ChineseSimplified": "是否切换技能按钮布局？切换后需重登后生效。",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2277,
         "Key": "Text_MechanismAreaBox_Tips",
-        "ChineseSimplified": "剩余{0}秒才可以开启"
+        "ChineseSimplified": "剩余{0}秒才可以开启",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2278,
         "Key": "Channel_State_Close1",
         "ChineseSimplified": "加密状态",
-        "Japanese": "閉鎖中"
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "閉鎖中",
+        "Korea": ""
       },
       {
         "ID": 2279,
         "Key": "Text_PhotoShare_Content12_Tips",
-        "ChineseSimplified": "照片活动上传时间已结束"
+        "ChineseSimplified": "照片活动上传时间已结束",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2280,
         "Key": "Text_PhotoShare_Content13_Tips",
-        "ChineseSimplified": "移入普通相册后将无法再次参加活动，并会删除活动标签，是否移入普通相册？"
+        "ChineseSimplified": "移入普通相册后将无法再次参加活动，并会删除活动标签，是否移入普通相册？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2500,
         "Key": "Text_PlaceCharacter",
-        "ChineseSimplified": "放置角色"
+        "ChineseSimplified": "放置角色",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2501,
         "Key": "Text_RecallCharacter",
-        "ChineseSimplified": "召回角色"
+        "ChineseSimplified": "召回角色",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2502,
         "Key": "Text_BlessingTree_No_Tips",
-        "ChineseSimplified": "没有可以打开的祈愿树"
+        "ChineseSimplified": "没有可以打开的祈愿树",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2503,
         "Key": "Text_CharacterLevel_ItemEnough_Tips",
-        "ChineseSimplified": "道具是充足的"
+        "ChineseSimplified": "道具是充足的",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2504,
         "Key": "Text_Friend_NoItemGift_Tips",
-        "ChineseSimplified": "没有礼物，无法赠礼"
+        "ChineseSimplified": "没有礼物，无法赠礼",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2505,
         "Key": "Text_Friend_NoGiftCount_Tips",
-        "ChineseSimplified": "赠礼次数不足"
+        "ChineseSimplified": "赠礼次数不足",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2506,
         "Key": "Text_Friend_GiftMaxCount_Tips",
-        "ChineseSimplified": "亲密度已达最大值"
+        "ChineseSimplified": "亲密度已达最大值",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2507,
         "Key": "Text_Friend_TagSame_Tips",
-        "ChineseSimplified": "设置没有变化"
+        "ChineseSimplified": "设置没有变化",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2508,
         "Key": "Text_Friend_IntimacyLevelItem_Tips",
-        "ChineseSimplified": "达到亲密度{0}阶段，且获得道具【{1}】解锁"
+        "ChineseSimplified": "达到亲密度{0}阶段，且获得道具【{1}】解锁",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2509,
         "Key": "Text_Friend_IntimacyLevel_Tips",
-        "ChineseSimplified": "达到亲密度{0}阶段解锁"
+        "ChineseSimplified": "达到亲密度{0}阶段解锁",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2510,
         "Key": "Text_Home_NoItem_Tips",
-        "ChineseSimplified": "该预设中没有装饰物。"
+        "ChineseSimplified": "该预设中没有装饰物。",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2511,
         "Key": "Text_Home_NoItem_Save_Tips",
-        "ChineseSimplified": "家园中没有自己的装饰物，无法保存预设。"
+        "ChineseSimplified": "家园中没有自己的装饰物，无法保存预设。",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2512,
         "Key": "Text_Home_Item_Save_Tips",
-        "ChineseSimplified": "确定保存预设？"
+        "ChineseSimplified": "确定保存预设？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2513,
         "Key": "Text_Friend_Tag_Success_Tips",
-        "ChineseSimplified": "设置成功"
+        "ChineseSimplified": "设置成功",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2514,
         "Key": "Text_Friend_Gift_Success_Tips",
-        "ChineseSimplified": "赠送成功，亲密度增加{0}"
+        "ChineseSimplified": "赠送成功，亲密度增加{0}",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2515,
         "Key": "Text_Fashion_Orn_Show_Tips",
-        "ChineseSimplified": "是否显示发饰？"
+        "ChineseSimplified": "是否显示发饰？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2516,
         "Key": "Text_Fashion_Orn_Hide_Tips",
-        "ChineseSimplified": "是否隐藏发饰？"
+        "ChineseSimplified": "是否隐藏发饰？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2517,
         "Key": "Text_Fashion_Braid_Show_Tips",
-        "ChineseSimplified": "是否显示发尾？"
+        "ChineseSimplified": "是否显示发尾？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2518,
         "Key": "Text_Fashion_Braid_Hide_Tips",
-        "ChineseSimplified": "是否隐藏发尾？"
+        "ChineseSimplified": "是否隐藏发尾？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2519,
         "Key": "Text_NoFriend_IntimacyGift_Tips",
-        "ChineseSimplified": "与当前对象并非好友，无法赠送!"
+        "ChineseSimplified": "与当前对象并非好友，无法赠送!",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2520,
         "Key": "Text_NoFriend_IntimacyTag_Tips",
-        "ChineseSimplified": "与当前对象并非好友，无法修改!"
+        "ChineseSimplified": "与当前对象并非好友，无法修改!",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2521,
         "Key": "Text_Friend_IntimacyGift_Title_Tips",
-        "ChineseSimplified": "正在向{0}赠送亲密度礼物"
+        "ChineseSimplified": "正在向{0}赠送亲密度礼物",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2522,
         "Key": "Text_Friend_IntimacyTagUnlock_Tips",
-        "ChineseSimplified": "亲密度达到2阶段，解锁亲密标签功能"
+        "ChineseSimplified": "亲密度达到2阶段，解锁亲密标签功能",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2523,
         "Key": "Text_Friend_IntimacyTagUnlock1_Tips",
-        "ChineseSimplified": "阶段2解锁标签编辑功能，请提高亲密度!\n"
+        "ChineseSimplified": "阶段2解锁标签编辑功能，请提高亲密度!\n",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2524,
         "Key": "Text_Home_Tips_ExceedPlaceDistance",
-        "ChineseSimplified": "放置距离太远"
+        "ChineseSimplified": "放置距离太远",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2525,
         "Key": "Text_Friend_IntimacyLevelInfo_Tips",
-        "ChineseSimplified": "当前亲密度（{0}阶）："
+        "ChineseSimplified": "当前亲密度（{0}阶）：",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2526,
         "Key": "Text_MoonImage_0_Tips",
-        "ChineseSimplified": "祈愿石碎片的信号似乎还很强烈"
+        "ChineseSimplified": "祈愿石碎片的信号似乎还很强烈",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2527,
         "Key": "Text_MoonImage_1_Tips",
-        "ChineseSimplified": "祈愿石碎片的信号似乎变得柔和"
+        "ChineseSimplified": "祈愿石碎片的信号似乎变得柔和",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2528,
         "Key": "Text_MoonImage_2_Tips",
-        "ChineseSimplified": "祈愿石碎片的信号似乎有些微弱"
+        "ChineseSimplified": "祈愿石碎片的信号似乎有些微弱",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2529,
         "Key": "Text_MoonImage_3_Tips",
-        "ChineseSimplified": "祈愿石碎片的信号似乎消散了……"
+        "ChineseSimplified": "祈愿石碎片的信号似乎消散了……",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2530,
         "Key": "Text_Fashion_UnColor",
-        "ChineseSimplified": "自定义色号"
+        "ChineseSimplified": "自定义色号",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2531,
         "Key": "Text_Fashion_UnColor_Empty",
-        "ChineseSimplified": "色号输入为空"
+        "ChineseSimplified": "色号输入为空",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2532,
         "Key": "Text_Fashion_UnColor_Error",
-        "ChineseSimplified": "色号输入错误"
+        "ChineseSimplified": "色号输入错误",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2533,
         "Key": "Text_Fashion_UnColor_Cast",
-        "ChineseSimplified": "是否消耗{0} * {1}染出自定义颜色？"
+        "ChineseSimplified": "是否消耗{0} * {1}染出自定义颜色？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2534,
         "Key": "Text_MainUI_Hide_Tips",
-        "ChineseSimplified": "主界面已隐藏，长按2秒钟，主界面显示出来"
+        "ChineseSimplified": "主界面已隐藏，长按2秒钟，主界面显示出来",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2535,
         "Key": "Text_MainUI_Show_Tips",
-        "ChineseSimplified": "主界面已显示"
+        "ChineseSimplified": "主界面已显示",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2536,
         "Key": "Text_MainUI_HideInfo_Tips",
-        "ChineseSimplified": "长按屏幕中心可以恢复显示，确定要隐藏HUD界面吗？"
+        "ChineseSimplified": "长按屏幕中心可以恢复显示，确定要隐藏HUD界面吗？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2537,
         "Key": "Text_ChairCharacter_PlaceSuccess",
-        "ChineseSimplified": "放置成功"
+        "ChineseSimplified": "放置成功",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2538,
         "Key": "Text_ChairCharacter_RecallSuccess",
-        "ChineseSimplified": "召回成功"
+        "ChineseSimplified": "召回成功",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2539,
         "Key": "Text_ChairCharacter_Tips_1",
-        "ChineseSimplified": "需要在纪念日中获取5个角色纪念章才能放置。"
+        "ChineseSimplified": "需要在纪念日中获取5个角色纪念章才能放置。",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2540,
         "Key": "Text_ChairCharacter_Tips_2",
-        "ChineseSimplified": "该角色在出战队伍中为队长角色，无法放置。"
+        "ChineseSimplified": "该角色在出战队伍中为队长角色，无法放置。",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2541,
         "Key": "Text_ChairCharacter_Tips_3",
-        "ChineseSimplified": "该角色已被放置，是否重新放置？"
+        "ChineseSimplified": "该角色已被放置，是否重新放置？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2542,
         "Key": "Text_ChairCharacter_Tips_4",
-        "ChineseSimplified": "回收装饰后角色也会被同时召回，是否回收？"
+        "ChineseSimplified": "回收装饰后角色也会被同时召回，是否回收？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2543,
         "Key": "Text_ChairCharacter_Tips_5",
-        "ChineseSimplified": "当前角色放置在罗塔花园中，是否将其召回？"
+        "ChineseSimplified": "当前角色放置在罗塔花园中，是否将其召回？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2544,
         "Key": "Text_ChairCharacter_Tips_6",
-        "ChineseSimplified": "该位置已被占用"
+        "ChineseSimplified": "该位置已被占用",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2545,
         "Key": "Text_ChairCharacter_Tips_7",
-        "ChineseSimplified": "该位置没有放置角色"
+        "ChineseSimplified": "该位置没有放置角色",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2546,
         "Key": "Text_ChairSwitchView",
-        "ChineseSimplified": "切换视角"
+        "ChineseSimplified": "切换视角",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2547,
         "Key": "Text_WithoutOwnHomeItem",
-        "ChineseSimplified": "没有自己的装饰物"
+        "ChineseSimplified": "没有自己的装饰物",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2548,
         "Key": "Text_WishList_Tips_1",
-        "ChineseSimplified": "我"
+        "ChineseSimplified": "我",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2549,
         "Key": "Text_WishList_Tips_2",
-        "ChineseSimplified": "{0}已下架"
+        "ChineseSimplified": "{0}已下架",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2550,
         "Key": "Text_WishList_Tips_3",
-        "ChineseSimplified": "是否赠送当前礼物？"
+        "ChineseSimplified": "是否赠送当前礼物？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2551,
         "Key": "Text_WishList_Tips_4",
-        "ChineseSimplified": "是否删除当前心愿单？"
+        "ChineseSimplified": "是否删除当前心愿单？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2552,
         "Key": "Text_WishList_Tips_5",
-        "ChineseSimplified": "心愿单删除成功！"
+        "ChineseSimplified": "心愿单删除成功！",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2553,
         "Key": "Text_WishList_Tips_6",
-        "ChineseSimplified": "是否保存当前物品到心愿单？"
+        "ChineseSimplified": "是否保存当前物品到心愿单？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2554,
         "Key": "Text_WishList_Tips_7",
-        "ChineseSimplified": "心愿单收藏成功！"
+        "ChineseSimplified": "心愿单收藏成功！",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2555,
         "Key": "Text_WishList_Tips_8",
-        "ChineseSimplified": "是否花费 ¥ {0} 购买 {1} X 1 赠送给好友 {2} ？"
+        "ChineseSimplified": "是否花费 ¥ {0} 购买 {1} X 1 赠送给好友 {2} ？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2556,
         "Key": "Text_WishList_Tips_9",
-        "ChineseSimplified": "赠送成功"
+        "ChineseSimplified": "赠送成功",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2557,
         "Key": "Text_WishList_Tips_10",
-        "ChineseSimplified": "好友赠送心愿单成功，刷新当前商店"
+        "ChineseSimplified": "好友赠送心愿单成功，刷新当前商店",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2558,
         "Key": "Text_MultiplayerAction_Tips_1",
-        "ChineseSimplified": "对方不是你的好友"
+        "ChineseSimplified": "对方不是你的好友",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2559,
         "Key": "Text_MultiplayerAction_Tips_2",
-        "ChineseSimplified": "好友亲密度不足"
+        "ChineseSimplified": "好友亲密度不足",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2560,
         "Key": "Text_MultiplayerAction_Tips_3",
-        "ChineseSimplified": "距离太远了"
+        "ChineseSimplified": "距离太远了",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2561,
         "Key": "Text_Character_Put_Tips",
-        "ChineseSimplified": "当前有角色放置在罗塔花园中，是否将其召回"
+        "ChineseSimplified": "当前有角色放置在罗塔花园中，是否将其召回",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2562,
         "Key": "Text_CHallenge_Rank_Tips",
-        "ChineseSimplified": "{0}位"
+        "ChineseSimplified": "{0}位",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2563,
         "Key": "Text_Abyss_Difficult_Choose_Tips",
-        "ChineseSimplified": "需要完成普通难度"
+        "ChineseSimplified": "需要完成普通难度",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2564,
         "Key": "Text_BossRush_Tips1",
-        "ChineseSimplified": "是否离开当前世界，不保留当前战斗记录"
+        "ChineseSimplified": "是否离开当前世界，不保留当前战斗记录",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2565,
         "Key": "Text_BossRush_Tips2",
-        "ChineseSimplified": "是否离开当前世界，战斗记录会被保留"
+        "ChineseSimplified": "是否离开当前世界，战斗记录会被保留",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2566,
         "Key": "Text_BossRush_Tips3",
-        "ChineseSimplified": "是否消耗{0}张{1}开启挑战"
+        "ChineseSimplified": "是否消耗{0}张{1}开启挑战",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2567,
         "Key": "Text_BossRush_Tips4",
-        "ChineseSimplified": "下一期总战力将于{0}开启"
+        "ChineseSimplified": "下一期总战力将于{0}开启",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2568,
         "Key": "Text_BossRush_Tips5",
-        "ChineseSimplified": "距离结算：{0}"
+        "ChineseSimplified": "距离结算：{0}",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2569,
         "Key": "Text_Chair_Tips_1",
-        "ChineseSimplified": "坐在椅子上不能进行此操作"
+        "ChineseSimplified": "坐在椅子上不能进行此操作",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2570,
         "Key": "Text_BossRush_Tips6",
-        "ChineseSimplified": "{0}.{1}.{2} {3}:{4} 开放"
+        "ChineseSimplified": "{0}.{1}.{2} {3}:{4} 开放",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2571,
         "Key": "Text_BossRush_Tips7",
-        "ChineseSimplified": "是否终止当前挑战，若当前评价已是最高，则保留当前成绩"
+        "ChineseSimplified": "是否终止当前挑战，若当前评价已是最高，则保留当前成绩",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2572,
         "Key": "Text_BossRush_Tips8",
-        "ChineseSimplified": "挑战时间结束"
+        "ChineseSimplified": "挑战时间结束",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2573,
         "Key": "Tips_Gathering_Weapon_CaNotUnEquip_Tips",
-        "ChineseSimplified": "当前状态无法解除工具！"
+        "ChineseSimplified": "当前状态无法解除工具！",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2574,
         "Key": "Text_BossRush_Tips9",
-        "ChineseSimplified": "请先通关前置难度"
+        "ChineseSimplified": "请先通关前置难度",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2575,
         "Key": "Text_BossRush_Tips10",
-        "ChineseSimplified": "该角色联合演练进行中，暂时无法调整装备(可等待挑战时间结束或主动终止挑战)"
+        "ChineseSimplified": "该角色联合演练进行中，暂时无法调整装备(可等待挑战时间结束或主动终止挑战)",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2576,
         "Key": "Text_BossRush_Tips11",
-        "ChineseSimplified": "前{0}% - {1}%"
+        "ChineseSimplified": "前{0}% - {1}%",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2577,
         "Key": "Text_BossRush_Tips12",
-        "ChineseSimplified": "前{0}%"
+        "ChineseSimplified": "前{0}%",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2578,
         "Key": "Text_BossRush_Tips13",
-        "ChineseSimplified": "挑战已结束"
+        "ChineseSimplified": "挑战已结束",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2579,
         "Key": "Text_WishList_Tips_11",
-        "ChineseSimplified": "{0}天后下架"
+        "ChineseSimplified": "{0}天后下架",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2580,
         "Key": "Text_WishList_Tips_12",
-        "ChineseSimplified": "心愿单数量已达最大"
+        "ChineseSimplified": "心愿单数量已达最大",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2581,
         "Key": "Music_item_Is_Used",
-        "ChineseSimplified": "当前乐器正被使用"
+        "ChineseSimplified": "当前乐器正被使用",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2582,
         "Key": "Can_Not_Play_Music_Tip",
-        "ChineseSimplified": "团队游戏准备期间无法使用乐器"
+        "ChineseSimplified": "团队游戏准备期间无法使用乐器",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2583,
         "Key": "Can_Not_Play_Music_Tip_2",
-        "ChineseSimplified": "无法与未被放下的乐器交互"
+        "ChineseSimplified": "无法与未被放下的乐器交互",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2584,
         "Key": "Abyss_Help_Info",
-        "ChineseSimplified": "【深渊普通】，【深渊困难】，【深渊极限】，都以各自难度下畸变区1~3的总成绩进行全服排名。\n【挑战排名】以挑战深渊的成绩进行全服排名。\n在深渊(极限)难度下进入排名前50可获得头衔，当排名改变时头衔也会进行改变(有1~2分钟延迟)"
+        "ChineseSimplified": "【深渊普通】，【深渊困难】，【深渊极限】，都以各自难度下畸变区1~3的总成绩进行全服排名。\n【挑战排名】以挑战深渊的成绩进行全服排名。\n在深渊(极限)难度下进入排名前50可获得头衔，当排名改变时头衔也会进行改变(有1~2分钟延迟)",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2585,
         "Key": "Text_BossRush_Tips14",
-        "ChineseSimplified": "挑战分数：{0}"
+        "ChineseSimplified": "挑战分数：{0}",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2586,
         "Key": "Text_BossRush_Tips15",
-        "ChineseSimplified": "挑战新分数：{0}"
+        "ChineseSimplified": "挑战新分数：{0}",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2587,
         "Key": "Text_BossRush_Tips16",
-        "ChineseSimplified": "挑战胜利，是否离开当前世界"
+        "ChineseSimplified": "挑战胜利，是否离开当前世界",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2588,
         "Key": "Text_BossRush_Tips17",
-        "ChineseSimplified": "所有难度开放后显示"
+        "ChineseSimplified": "所有难度开放后显示",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2589,
         "Key": "Text_BossRush_RankTips1",
-        "ChineseSimplified": "排名前1%"
+        "ChineseSimplified": "排名前1%",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2590,
         "Key": "Text_BossRush_RankTips2",
-        "ChineseSimplified": "排名1%~10%"
+        "ChineseSimplified": "排名1%~10%",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2591,
         "Key": "Text_BossRush_RankTips3",
-        "ChineseSimplified": "排名10%~20%"
+        "ChineseSimplified": "排名10%~20%",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2592,
         "Key": "Text_BossRush_RankTips4",
-        "ChineseSimplified": "排名20%~30%"
+        "ChineseSimplified": "排名20%~30%",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2593,
         "Key": "Text_BossRush_RankTips5",
-        "ChineseSimplified": "排名30%~50%"
+        "ChineseSimplified": "排名30%~50%",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2594,
         "Key": "Text_BossRush_RankTips6",
-        "ChineseSimplified": "排名50%~70%"
+        "ChineseSimplified": "排名50%~70%",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2595,
         "Key": "Text_BossRush_RankTips7",
-        "ChineseSimplified": "排名70%~100%"
+        "ChineseSimplified": "排名70%~100%",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2596,
         "Key": "Text_WishList_Tips_61",
-        "ChineseSimplified": "是否保存月卡到心愿单？"
+        "ChineseSimplified": "是否保存月卡到心愿单？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2597,
         "Key": "Text_WishList_Tips_62",
-        "ChineseSimplified": "是否保存通行证到心愿单？"
+        "ChineseSimplified": "是否保存通行证到心愿单？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2598,
         "Key": "Text_Close_Input_Tips",
-        "ChineseSimplified": "功能本日暂不开放，请耐心等待"
+        "ChineseSimplified": "功能本日暂不开放，请耐心等待",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2599,
         "Key": "Text_MiniGames_Restaurant_Tips_1",
-        "ChineseSimplified": "小游戏金币不足，完成通关任务或通过每日登录任务领取"
+        "ChineseSimplified": "小游戏金币不足，完成通关任务或通过每日登录任务领取",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2600,
         "Key": "Text_MiniGames_Restaurant_Tips_2",
-        "ChineseSimplified": "格子已满，请进行回收后尝试购买"
+        "ChineseSimplified": "格子已满，请进行回收后尝试购买",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2601,
         "Key": "Text_MiniGames_Restaurant_Tips_3",
-        "ChineseSimplified": "完成订单进度 {0}/9"
+        "ChineseSimplified": "完成订单进度 {0}/9",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2602,
         "Key": "Text_MiniGames_Restaurant_Tips_4",
-        "ChineseSimplified": "已完成所有订单，解锁下一关"
+        "ChineseSimplified": "已完成所有订单，解锁下一关",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2603,
         "Key": "Text_MiniGames_Restaurant_Tips_5",
-        "ChineseSimplified": "有新的格子解锁了"
+        "ChineseSimplified": "有新的格子解锁了",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2604,
         "Key": "Text_MiniGames_Restaurant_Tips_6",
-        "ChineseSimplified": "通关第{0}关后解锁此格子"
+        "ChineseSimplified": "通关第{0}关后解锁此格子",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2605,
         "Key": "Text_WishList_Tips_41",
-        "ChineseSimplified": "已在心愿单中"
+        "ChineseSimplified": "已在心愿单中",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2606,
         "Key": "Text_WishList_Tips_81",
-        "ChineseSimplified": "是否花费 {3} X {0} 购买 {1} X 1 赠送给好友 {2} ？"
+        "ChineseSimplified": "是否花费 {3} X {0} 购买 {1} X 1 赠送给好友 {2} ？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2607,
         "Key": "Text_KefuCenter_Tips",
-        "ChineseSimplified": "客服中心"
+        "ChineseSimplified": "客服中心",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2608,
         "Key": "Text_Friend_Alise_Success",
-        "ChineseSimplified": "修改好友备注成功"
+        "ChineseSimplified": "修改好友备注成功",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2609,
         "Key": "Text_Friend_Alise_Same",
-        "ChineseSimplified": "修改好友备注和之前的一样"
+        "ChineseSimplified": "修改好友备注和之前的一样",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2610,
         "Key": "Text_Friend_Alise_NoFriend",
-        "ChineseSimplified": "非好友不能修改备注"
+        "ChineseSimplified": "非好友不能修改备注",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2611,
         "Key": "Text_Vehicle_Full",
-        "ChineseSimplified": "位置已满"
+        "ChineseSimplified": "位置已满",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2612,
         "Key": "Text_Vehicle_Have",
-        "ChineseSimplified": "位置有人"
+        "ChineseSimplified": "位置有人",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2613,
         "Key": "Text_Vehicle_Fashion",
-        "ChineseSimplified": "载具上不能使用可以坐的时装"
+        "ChineseSimplified": "载具上不能使用可以坐的时装",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2614,
         "Key": "Text_Fashion_Vehicle",
-        "ChineseSimplified": "穿着带椅子的时装下不能使用载具"
+        "ChineseSimplified": "穿着带椅子的时装下不能使用载具",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2615,
         "Key": "Text_Vehicle_Chair",
-        "ChineseSimplified": "载具上不能使用坐椅子功能"
+        "ChineseSimplified": "载具上不能使用坐椅子功能",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2616,
         "Key": "Text_Chair_Vehicle",
-        "ChineseSimplified": "坐椅子情况下不能使用载具"
+        "ChineseSimplified": "坐椅子情况下不能使用载具",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2617,
         "Key": "Text_Vehicle_Gacha",
-        "ChineseSimplified": "载具上不能抽卡"
+        "ChineseSimplified": "载具上不能抽卡",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2618,
         "Key": "Text_Vehicle_Emotion",
-        "ChineseSimplified": "载具上不能播放动作"
+        "ChineseSimplified": "载具上不能播放动作",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2619,
         "Key": "Text_Vehicle_Camera",
-        "ChineseSimplified": "载具上不能打开相机"
+        "ChineseSimplified": "载具上不能打开相机",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2620,
         "Key": "Text_Vehicle_Home",
-        "ChineseSimplified": "载具上不能布置家具"
+        "ChineseSimplified": "载具上不能布置家具",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2621,
         "Key": "Text_Vehicle_LifeMake",
-        "ChineseSimplified": "载具上不能制作"
+        "ChineseSimplified": "载具上不能制作",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2622,
         "Key": "Text_Vehicle_Vehicle",
-        "ChineseSimplified": "载具上不能交互其他人的载具"
+        "ChineseSimplified": "载具上不能交互其他人的载具",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2623,
         "Key": "Text_Vehicle_MoreAction",
-        "ChineseSimplified": "载具上不能进行多人互动"
+        "ChineseSimplified": "载具上不能进行多人互动",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2624,
         "Key": "Text_Vehicle_Dungeon",
-        "ChineseSimplified": "副本中不能使用载具"
+        "ChineseSimplified": "副本中不能使用载具",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2625,
         "Key": "Text_Vehicle_Gather",
-        "ChineseSimplified": "载具上不能采集"
+        "ChineseSimplified": "载具上不能采集",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2626,
         "Key": "Text_Vehicle_NoVehicle",
-        "ChineseSimplified": "未装备载具"
+        "ChineseSimplified": "未装备载具",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2627,
         "Key": "Text_Vehicle_NoTranform",
-        "ChineseSimplified": "载具下不能传送"
+        "ChineseSimplified": "载具下不能传送",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2628,
         "Key": "Text_Vehicle_Tips",
-        "ChineseSimplified": "载具"
+        "ChineseSimplified": "载具",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2629,
@@ -11985,240 +12784,424 @@
       {
         "ID": 2630,
         "Key": "Text_Friend_Off_Time1",
-        "ChineseSimplified": "{0}小时内"
+        "ChineseSimplified": "{0}小时内",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2631,
         "Key": "Text_Friend_Off_Time2",
-        "ChineseSimplified": "{0}天前"
+        "ChineseSimplified": "{0}天前",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2632,
         "Key": "Text_Friend_Off_Time3",
-        "ChineseSimplified": "30天以上"
+        "ChineseSimplified": "30天以上",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2633,
         "Key": "Text_WishList_Tips_82",
-        "ChineseSimplified": "是否花费 \u003C#FF0000\u003E\u003Cs\u003E{0} X {1}\u003C/color\u003E\u003C/s\u003E {2} X {3} 购买 {4} X 1 赠送给好友 {5} ？"
+        "ChineseSimplified": "是否花费 <#FF0000><s>{0} X {1}</color></s> {2} X {3} 购买 {4} X 1 赠送给好友 {5} ？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2634,
         "Key": "Text_QuickArmor_No",
-        "ChineseSimplified": "没有合适的防具"
+        "ChineseSimplified": "没有合适的防具",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2635,
         "Key": "Text_QuickArmor_Selected",
-        "ChineseSimplified": "已选择"
+        "ChineseSimplified": "已选择",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2636,
         "Key": "Text_TreasureMap_Use",
-        "ChineseSimplified": "是否使用藏宝图？"
+        "ChineseSimplified": "是否使用藏宝图？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2637,
         "Key": "Text_TreasureMap_Tf",
-        "ChineseSimplified": "是否使用藏宝图，并且传送到此场景？"
+        "ChineseSimplified": "是否使用藏宝图，并且传送到此场景？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2638,
         "Key": "Text_Catcher_Use",
-        "ChineseSimplified": "捕捉器只能在场景战斗中使用！"
+        "ChineseSimplified": "捕捉器只能在场景战斗中使用！",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2639,
         "Key": "Text_Shop_LimitShopTips",
-        "ChineseSimplified": "需要解锁{0} 任意格子"
+        "ChineseSimplified": "需要解锁{0} 任意格子",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2640,
         "Key": "Text_Shop_LimitShopPos",
-        "ChineseSimplified": " {0}号"
+        "ChineseSimplified": " {0}号",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2641,
         "Key": "Text_Pet_MaxCount",
-        "ChineseSimplified": "宠物背包已满"
+        "ChineseSimplified": "宠物背包已满",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2642,
         "Key": "Text_Archaeology_Book_Collected",
-        "ChineseSimplified": "\u003CU\u003E已收集\u003C/U\u003E"
+        "ChineseSimplified": "<U>已收集</U>",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2643,
         "Key": "Text_Archaeology_Book_UnCollect",
-        "ChineseSimplified": "未收集"
+        "ChineseSimplified": "未收集",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2644,
         "Key": "Text_Pet_NameSuccess",
-        "ChineseSimplified": "宠物修改名称成功"
+        "ChineseSimplified": "宠物修改名称成功",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2645,
         "Key": "Text_Pet_Out",
-        "ChineseSimplified": "宠物变更成功"
+        "ChineseSimplified": "宠物变更成功",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2646,
         "Key": "Text_Pet_Playing",
-        "ChineseSimplified": "已经在玩中。。。"
+        "ChineseSimplified": "已经在玩中。。。",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2647,
         "Key": "Text_Pet_Playing_Is",
-        "ChineseSimplified": "是否放出去玩一玩？"
+        "ChineseSimplified": "是否放出去玩一玩？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2648,
         "Key": "Text_Pet_NoPlaying_Is",
-        "ChineseSimplified": "是否收回外面的宠物？"
+        "ChineseSimplified": "是否收回外面的宠物？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2649,
         "Key": "Text_Pet_Selected_No",
-        "ChineseSimplified": "当前宠物为空"
+        "ChineseSimplified": "当前宠物为空",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2650,
         "Key": "Text_Pet_UnOpen",
-        "ChineseSimplified": "当前宠物未开放"
+        "ChineseSimplified": "当前宠物未开放",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2651,
         "Key": "Text_Pet_CatchFail",
-        "ChineseSimplified": "抓宠失败"
+        "ChineseSimplified": "抓宠失败",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2652,
         "Key": "Text_Pet_Drop",
-        "ChineseSimplified": "是否放生选中的宠物？"
+        "ChineseSimplified": "是否放生选中的宠物？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2653,
         "Key": "Text_Pet_SelectedTitle1",
-        "ChineseSimplified": "完整度"
+        "ChineseSimplified": "完整度",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2654,
         "Key": "Text_Pet_SelectedTitle2",
-        "ChineseSimplified": "增益属性类型"
+        "ChineseSimplified": "增益属性类型",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2655,
         "Key": "Text_Pet_SelectedTitle3",
-        "ChineseSimplified": "灰物特长"
+        "ChineseSimplified": "灰物特长",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2656,
         "Key": "Text_Gacha_EndTme",
-        "ChineseSimplified": "招募时间：{0}月{1}日 00:00 ~ {2}月{3}日 23:59"
+        "ChineseSimplified": "招募时间：{0}月{1}日 00:00 ~ {2}月{3}日 23:59",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2657,
         "Key": "Text_Gacha_EndTme1",
-        "ChineseSimplified": "活动时间：{0}月{1}日 00:00 ~ {2}月{3}日 23:59"
+        "ChineseSimplified": "活动时间：{0}月{1}日 00:00 ~ {2}月{3}日 23:59",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2658,
         "Key": "Text_Gacha_ChooseCharacter1",
-        "ChineseSimplified": "自选一名限定\u003C#FF6600\u003ESSR\u003C/color\u003E探索员招募概率提升。"
+        "ChineseSimplified": "自选一名限定<#FF6600>SSR</color>探索员招募概率提升。",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2659,
         "Key": "Text_Gacha_ChooseCharacter2",
-        "ChineseSimplified": "招募70次内必定获取自选探索员，后续抽取概率提升。"
+        "ChineseSimplified": "招募70次内必定获取自选探索员，后续抽取概率提升。",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2660,
         "Key": "Text_Gacha_ChoosePoster1",
-        "ChineseSimplified": "自选一款\u003C#FF6600\u003E映象\u003C/color\u003E招募概率提升。"
+        "ChineseSimplified": "自选一款<#FF6600>映象</color>招募概率提升。",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2661,
         "Key": "Text_Gacha_ChoosePoster2",
-        "ChineseSimplified": "招募70次内必定获取自选映象，后续抽取概率提升。"
+        "ChineseSimplified": "招募70次内必定获取自选映象，后续抽取概率提升。",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2662,
         "Key": "Text_Gacha_ChooseCharacter_Title",
-        "ChineseSimplified": "自选限定UP探索员"
+        "ChineseSimplified": "自选限定UP探索员",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2663,
         "Key": "Text_Gacha_ChoosePoster_Title",
-        "ChineseSimplified": "自选UP映象"
+        "ChineseSimplified": "自选UP映象",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2664,
         "Key": "Text_Gacha_ChooseCharacter_Btn",
-        "ChineseSimplified": "选择UP探索员"
+        "ChineseSimplified": "选择UP探索员",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2665,
         "Key": "Text_Gacha_ChoosePoster_Title_Btn",
-        "ChineseSimplified": "选择UP映象"
+        "ChineseSimplified": "选择UP映象",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2666,
         "Key": "Text_Gacha_ChoosePool_Text",
-        "ChineseSimplified": "是否选择当前卡池？"
+        "ChineseSimplified": "是否选择当前卡池？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2667,
         "Key": "Text_Npc_OpenActivity",
-        "ChineseSimplified": "打开活动"
+        "ChineseSimplified": "打开活动",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2668,
         "Key": "Text_Npc_SWFResult",
-        "ChineseSimplified": "离开结算"
+        "ChineseSimplified": "离开结算",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2669,
         "Key": "Text_SWFResult_Info",
-        "ChineseSimplified": "是否离开副本，显示结算？"
+        "ChineseSimplified": "是否离开副本，显示结算？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2670,
         "Key": "Text_Npc_Gomoku",
-        "ChineseSimplified": "五子棋"
+        "ChineseSimplified": "五子棋",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2671,
         "Key": "Tips_OnClearCache",
-        "ChineseSimplified": "是否清除缓存数据，清除后游戏会关闭，需要手动启动？"
+        "ChineseSimplified": "是否清除缓存数据，清除后游戏会关闭，需要手动启动？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2672,
         "Key": "Tips_Gomoku_Tips",
-        "ChineseSimplified": "游戏进行中"
+        "ChineseSimplified": "游戏进行中",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2673,
         "Key": "Tips_Gomoku_Tips1",
-        "ChineseSimplified": "是否放弃此次奖励？"
+        "ChineseSimplified": "是否放弃此次奖励？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2674,
         "Key": "Tips_Gomoku_Tips2",
-        "ChineseSimplified": "当前奖励应该领完或者没有奖励"
+        "ChineseSimplified": "当前奖励应该领完或者没有奖励",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2675,
         "Key": "Tips_Gomoku_Tips3",
-        "ChineseSimplified": "我要认输"
+        "ChineseSimplified": "我要认输",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 2700,
         "Key": "Text_Quest_ExtraChapter_Tips",
         "ChineseSimplified": "{0} 重新登陆后解锁！",
         "ChineseTraditional": "{0} 08:00（UTC 8）重新登入後解鎖！",
-        "English": "Unlock after logging in again on {0} (UTC\u002B8)!",
-        "Japanese": "{0}（UTC\u002B8）に再ログイン後にアンロック！",
+        "English": "Unlock after logging in again on {0} (UTC+8)!",
+        "Japanese": "{0}（UTC+8）に再ログイン後にアンロック！",
         "Korea": "{0}（UTC 8）다시로그인하면잠금해제됩니다!"
       },
       {
@@ -12233,224 +13216,389 @@
       {
         "ID": 3000,
         "Key": "Text_GemDuelGachaUp_Desc",
-        "ChineseSimplified": "招募{0}次内必出\u003C#D200FF\u003E当期UP卡牌\u003C/color\u003E"
+        "ChineseSimplified": "招募{0}次内必出<#D200FF>当期UP卡牌</color>",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10000,
         "Key": "Text_MsgCode_BadReq1_Tips",
         "ChineseSimplified": "月亮币已收集",
+        "ChineseTraditional": "",
         "English": "Moon Coin collected.",
+        "Japanese": "",
         "Korea": "문 코인 수집 완료"
       },
       {
         "ID": 10001,
         "Key": "Text_MsgCode_BadReq2_Tips",
         "ChineseSimplified": "动作未交互",
+        "ChineseTraditional": "",
         "English": "No interaction triggered.",
+        "Japanese": "",
         "Korea": "액션 상호작용 미완료"
       },
       {
         "ID": 10002,
         "Key": "Text_MsgCode_BadReq3_Tips",
         "ChineseSimplified": "奖励发送失败",
+        "ChineseTraditional": "",
         "English": "Failed to send rewards.",
+        "Japanese": "",
         "Korea": "보상 발송 실패"
       },
       {
         "ID": 10003,
         "Key": "Text_MsgCode_BadReq4_Tips",
         "ChineseSimplified": "动作已交互",
+        "ChineseTraditional": "",
         "English": "Interaction complete.",
+        "Japanese": "",
         "Korea": "액션 상호작용 완료"
       },
       {
         "ID": 10004,
         "Key": "MoonQuest_Tips1000",
-        "ChineseSimplified": "祈愿信标的光芒凝结成了「祈愿石碎片」"
+        "ChineseSimplified": "祈愿信标的光芒凝结成了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10005,
         "Key": "MoonQuest_Tips1101",
-        "ChineseSimplified": "击杀怪物时掉落了「祈愿石碎片」"
+        "ChineseSimplified": "击杀怪物时掉落了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10006,
         "Key": "MoonQuest_Tips1102",
-        "ChineseSimplified": "任务奖励了额外的「祈愿石碎片」"
+        "ChineseSimplified": "任务奖励了额外的「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10007,
         "Key": "MoonQuest_Tips1103",
-        "ChineseSimplified": "消耗体力，意外凝结了「祈愿石碎片」"
+        "ChineseSimplified": "消耗体力，意外凝结了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10008,
         "Key": "MoonQuest_Tips1104",
-        "ChineseSimplified": "赶海时，意外发现了「祈愿石碎片」"
+        "ChineseSimplified": "赶海时，意外发现了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10009,
         "Key": "MoonQuest_Tips1105",
-        "ChineseSimplified": "采集时，意外发现了「祈愿石碎片」"
+        "ChineseSimplified": "采集时，意外发现了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10010,
         "Key": "MoonQuest_Tips1106",
-        "ChineseSimplified": "伐木时，意外发现了「祈愿石碎片」"
+        "ChineseSimplified": "伐木时，意外发现了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10011,
         "Key": "MoonQuest_Tips1107",
-        "ChineseSimplified": "挖矿时，意外发现了「祈愿石碎片」"
+        "ChineseSimplified": "挖矿时，意外发现了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10012,
         "Key": "MoonQuest_Tips1108",
-        "ChineseSimplified": "捕虫时，意外发现了「祈愿石碎片」"
+        "ChineseSimplified": "捕虫时，意外发现了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10013,
         "Key": "MoonQuest_Tips1109",
-        "ChineseSimplified": "装水时，意外发现了「祈愿石碎片」"
+        "ChineseSimplified": "装水时，意外发现了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10014,
         "Key": "MoonQuest_Tips1110",
-        "ChineseSimplified": "拾取时，意外发现了「祈愿石碎片」"
+        "ChineseSimplified": "拾取时，意外发现了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10015,
         "Key": "MoonQuest_Tips1111",
-        "ChineseSimplified": "钓鱼时，意外发现了「祈愿石碎片」"
+        "ChineseSimplified": "钓鱼时，意外发现了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10016,
         "Key": "MoonQuest_Tips1112",
-        "ChineseSimplified": "制作手工艺品时，意外做出了「祈愿石碎片」"
+        "ChineseSimplified": "制作手工艺品时，意外做出了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10017,
         "Key": "MoonQuest_Tips1113",
-        "ChineseSimplified": "制作家具时，意外做出了「祈愿石碎片」"
+        "ChineseSimplified": "制作家具时，意外做出了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10018,
         "Key": "MoonQuest_Tips1114",
-        "ChineseSimplified": "制作纺织品时，意外做出了「祈愿石碎片」"
+        "ChineseSimplified": "制作纺织品时，意外做出了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10019,
         "Key": "MoonQuest_Tips1115",
-        "ChineseSimplified": "加工手工艺品时，意外做出了「祈愿石碎片」"
+        "ChineseSimplified": "加工手工艺品时，意外做出了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10020,
-        "ChineseSimplified": "加工家具时，意外做出了「祈愿石碎片」"
+        "Key": "",
+        "ChineseSimplified": "加工家具时，意外做出了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10021,
         "Key": "MoonQuest_Tips1117",
-        "ChineseSimplified": "加工纺织品时，意外做出了「祈愿石碎片」"
+        "ChineseSimplified": "加工纺织品时，意外做出了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10022,
         "Key": "MoonQuest_Tips1118",
-        "ChineseSimplified": "烹饪时，从食材中发现了「祈愿石碎片」"
+        "ChineseSimplified": "烹饪时，从食材中发现了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10023,
         "Key": "MoonQuest_Tips1119",
-        "ChineseSimplified": "招募时收到了慰劳品「祈愿石碎片」"
+        "ChineseSimplified": "招募时收到了慰劳品「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10024,
         "Key": "MoonQuest_Tips1120",
-        "ChineseSimplified": "从补给箱中意外发现了「祈愿石碎片」"
+        "ChineseSimplified": "从补给箱中意外发现了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10025,
         "Key": "MoonQuest_Tips1121",
-        "ChineseSimplified": "有人很喜欢你的花园，送来了「祈愿石碎片」"
+        "ChineseSimplified": "有人很喜欢你的花园，送来了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 10026,
         "Key": "MoonQuest_Tips1122",
-        "ChineseSimplified": "装点花园时，意外发现了「祈愿石碎片」"
+        "ChineseSimplified": "装点花园时，意外发现了「祈愿石碎片」",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 20000,
         "Key": "Text_Turntable_Item_NotEnough",
-        "ChineseSimplified": "扭蛋币不足，是否前往购买？"
+        "ChineseSimplified": "扭蛋币不足，是否前往购买？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 20001,
         "Key": "Text_Turntable_All_Reward_Got",
-        "ChineseSimplified": "您已获取所有奖励!"
+        "ChineseSimplified": "您已获取所有奖励!",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 20002,
         "Key": "Text_Turntable_Current_Process",
-        "ChineseSimplified": "全部主题款抽到时剩余扭蛋奖励都将赠送({0}/{1})"
+        "ChineseSimplified": "全部主题款抽到时剩余扭蛋奖励都将赠送({0}/{1})",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 20003,
         "Key": "Text_Tunrtable_Cannot_DrawTen",
-        "ChineseSimplified": "剩余奖励不足，无法十连抽。"
+        "ChineseSimplified": "剩余奖励不足，无法十连抽。",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 20004,
         "Key": "Text_Turntable_SingleDiscountTip",
-        "ChineseSimplified": "是否使用{0}菱石兑换1折扭蛋币并进行抽取？"
+        "ChineseSimplified": "是否使用{0}菱石兑换1折扭蛋币并进行抽取？",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 30000,
         "Key": "Text_Forbidden_Reason_Report",
-        "ChineseSimplified": "监测到玩家举报，"
+        "ChineseSimplified": "监测到玩家举报，",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 30001,
         "Key": "Text_Forbidden_Reason_PlugIn",
-        "ChineseSimplified": "监测到恶意使用外挂，"
+        "ChineseSimplified": "监测到恶意使用外挂，",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 30002,
         "Key": "Text_Forbidden_Reason_Chat",
-        "ChineseSimplified": "监测到不雅言论，"
+        "ChineseSimplified": "监测到不雅言论，",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 30003,
         "Key": "Text_Forbidden_Reason_Politics",
-        "ChineseSimplified": "监测到政治敏感，"
+        "ChineseSimplified": "监测到政治敏感，",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 30004,
         "Key": "Text_Forbidden_Reason_Privacy",
-        "ChineseSimplified": "监测到泄露他人隐私，"
+        "ChineseSimplified": "监测到泄露他人隐私，",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 30005,
         "Key": "Text_Forbidden_Reason_Nickname",
-        "ChineseSimplified": "监测到违规昵称，"
+        "ChineseSimplified": "监测到违规昵称，",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 30006,
         "Key": "Text_Forbidden_Reason_Sign",
-        "ChineseSimplified": "监测到违规签名，"
+        "ChineseSimplified": "监测到违规签名，",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 30007,
         "Key": "Text_Forbidden_Reason_Ad",
-        "ChineseSimplified": "监测到广告营销，"
+        "ChineseSimplified": "监测到广告营销，",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 30008,
         "Key": "Text_Forbidden_Reason_Fraud",
-        "ChineseSimplified": "监测到诈骗信息，"
+        "ChineseSimplified": "监测到诈骗信息，",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       },
       {
         "ID": 40009,
         "Key": "Restaurant_Game_Random",
-        "ChineseSimplified": "随机关卡"
+        "ChineseSimplified": "随机关卡",
+        "ChineseTraditional": "",
+        "English": "",
+        "Japanese": "",
+        "Korea": ""
       }
     ]
   }

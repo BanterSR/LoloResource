@@ -4,120 +4,217 @@
       {
         "ID": 10001,
         "ObjectID": 10301,
+        "NewGardenActivities": 0,
         "ActivityInteractionItem": [
           {
             "Index": 1,
+            "SpecialType": 0,
             "RewardPoolGroupID": 5040701,
             "OutputCeiling": 20,
-            "ResetType": 1
+            "ResetType": 1,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 2,
+            "SpecialType": 0,
             "RewardPoolGroupID": 5040702,
             "OutputCeiling": 20,
-            "ResetType": 1
+            "ResetType": 1,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 3,
+            "SpecialType": 0,
             "RewardPoolGroupID": 5040703,
             "OutputCeiling": 10,
-            "ResetType": 1
+            "ResetType": 1,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 4,
+            "SpecialType": 0,
             "RewardPoolGroupID": 5040704,
             "OutputCeiling": 3,
-            "ResetType": 1
+            "ResetType": 1,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 5,
+            "SpecialType": 0,
             "RewardPoolGroupID": 5040705,
             "OutputCeiling": 10,
-            "ResetType": 1
+            "ResetType": 1,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 6,
+            "SpecialType": 0,
             "RewardPoolGroupID": 5040706,
             "OutputCeiling": 10,
-            "ResetType": 1
+            "ResetType": 1,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 7,
+            "SpecialType": 0,
             "RewardPoolGroupID": 5040707,
             "OutputCeiling": 3,
-            "ResetType": 1
+            "ResetType": 1,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 8,
             "SpecialType": 1,
             "RewardPoolGroupID": 5040708,
-            "OutputCeiling": 3
+            "OutputCeiling": 3,
+            "ResetType": 0,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 9,
             "SpecialType": 1,
             "RewardPoolGroupID": 5040709,
-            "OutputCeiling": 3
+            "OutputCeiling": 3,
+            "ResetType": 0,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 10,
             "SpecialType": 1,
             "RewardPoolGroupID": 5040710,
-            "OutputCeiling": 3
+            "OutputCeiling": 3,
+            "ResetType": 0,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 11,
             "SpecialType": 1,
             "RewardPoolGroupID": 5040711,
-            "OutputCeiling": 1
+            "OutputCeiling": 1,
+            "ResetType": 0,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 12,
             "SpecialType": 1,
             "RewardPoolGroupID": 5040712,
-            "OutputCeiling": 1
+            "OutputCeiling": 1,
+            "ResetType": 0,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 13,
             "SpecialType": 1,
             "RewardPoolGroupID": 5040713,
-            "OutputCeiling": 2
+            "OutputCeiling": 2,
+            "ResetType": 0,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 14,
             "SpecialType": 1,
             "RewardPoolGroupID": 5040714,
-            "OutputCeiling": 1
+            "OutputCeiling": 1,
+            "ResetType": 0,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 15,
             "SpecialType": 1,
             "RewardPoolGroupID": 5040715,
-            "OutputCeiling": 2
+            "OutputCeiling": 2,
+            "ResetType": 0,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 16,
             "SpecialType": 1,
             "RewardPoolGroupID": 5040716,
-            "OutputCeiling": 2
+            "OutputCeiling": 2,
+            "ResetType": 0,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 17,
             "SpecialType": 1,
             "RewardPoolGroupID": 5040717,
-            "OutputCeiling": 1
+            "OutputCeiling": 1,
+            "ResetType": 0,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 18,
             "SpecialType": 1,
             "RewardPoolGroupID": 5040718,
-            "OutputCeiling": 2
+            "OutputCeiling": 2,
+            "ResetType": 0,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           },
           {
             "Index": 19,
             "SpecialType": 1,
             "RewardPoolGroupID": 5040719,
-            "OutputCeiling": 1
+            "OutputCeiling": 1,
+            "ResetType": 0,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
+          },
+          {
+            "Index": 20,
+            "SpecialType": 1,
+            "RewardPoolGroupID": 5040720,
+            "OutputCeiling": 1,
+            "ResetType": 0,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
+          },
+          {
+            "Index": 21,
+            "SpecialType": 1,
+            "RewardPoolGroupID": 5040721,
+            "OutputCeiling": 1,
+            "ResetType": 0,
+            "Daily": 0,
+            "Weekly": 0,
+            "Monthly": 0
           }
         ]
       }
@@ -130,6 +227,7 @@
         "FullServerActivityItem": [
           {
             "Index": 1,
+            "CompletionCount": 0,
             "FullServerActivityRewardItem": [
               {
                 "ItemID": 11020,
@@ -196,6 +294,7 @@
           {
             "Index": 1,
             "AchieveConditionID": 80509001,
+            "HiddenState": false,
             "RecallActivityRewardItem": [
               {
                 "ItemID": 5173,
@@ -206,6 +305,7 @@
           {
             "Index": 2,
             "AchieveConditionID": 80509002,
+            "HiddenState": false,
             "RecallActivityRewardItem": [
               {
                 "ItemID": 110,
@@ -216,6 +316,7 @@
           {
             "Index": 3,
             "AchieveConditionID": 80509003,
+            "HiddenState": false,
             "RecallActivityRewardItem": [
               {
                 "ItemID": 110,
@@ -226,6 +327,7 @@
           {
             "Index": 4,
             "AchieveConditionID": 80509004,
+            "HiddenState": false,
             "RecallActivityRewardItem": [
               {
                 "ItemID": 118,
@@ -236,6 +338,7 @@
           {
             "Index": 5,
             "AchieveConditionID": 80509005,
+            "HiddenState": false,
             "RecallActivityRewardItem": [
               {
                 "ItemID": 118,
@@ -246,12 +349,14 @@
           {
             "Index": 6,
             "AchieveConditionID": 80509006,
-            "HiddenState": true
+            "HiddenState": true,
+            "RecallActivityRewardItem": []
           },
           {
             "Index": 7,
             "AchieveConditionID": 80509000,
-            "HiddenState": true
+            "HiddenState": true,
+            "RecallActivityRewardItem": []
           }
         ]
       },
@@ -262,6 +367,7 @@
           {
             "Index": 1,
             "AchieveConditionID": 80509011,
+            "HiddenState": false,
             "RecallActivityRewardItem": [
               {
                 "ItemID": 109,
@@ -272,6 +378,7 @@
           {
             "Index": 2,
             "AchieveConditionID": 80509012,
+            "HiddenState": false,
             "RecallActivityRewardItem": [
               {
                 "ItemID": 118,
@@ -282,6 +389,7 @@
           {
             "Index": 3,
             "AchieveConditionID": 80509013,
+            "HiddenState": false,
             "RecallActivityRewardItem": [
               {
                 "ItemID": 125,
@@ -292,6 +400,7 @@
           {
             "Index": 4,
             "AchieveConditionID": 80509014,
+            "HiddenState": false,
             "RecallActivityRewardItem": [
               {
                 "ItemID": 1502,
@@ -302,6 +411,7 @@
           {
             "Index": 5,
             "AchieveConditionID": 80509015,
+            "HiddenState": false,
             "RecallActivityRewardItem": [
               {
                 "ItemID": 107,
@@ -312,6 +422,7 @@
           {
             "Index": 6,
             "AchieveConditionID": 80509016,
+            "HiddenState": false,
             "RecallActivityRewardItem": [
               {
                 "ItemID": 102,
@@ -322,7 +433,8 @@
           {
             "Index": 7,
             "AchieveConditionID": 80509017,
-            "HiddenState": true
+            "HiddenState": true,
+            "RecallActivityRewardItem": []
           }
         ]
       }

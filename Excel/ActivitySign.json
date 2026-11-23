@@ -2082,6 +2082,74 @@
             ]
           }
         ]
+      },
+      {
+        "ID": 2028,
+        "ActivitySignItem": [
+          {
+            "Days": 1,
+            "ActivitySignRewardItem": [
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Days": 2,
+            "ActivitySignRewardItem": [
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Days": 3,
+            "ActivitySignRewardItem": [
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Days": 4,
+            "ActivitySignRewardItem": [
+              {
+                "ItemID": 110,
+                "ItemNum": 2
+              }
+            ]
+          },
+          {
+            "Days": 5,
+            "ActivitySignRewardItem": [
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Days": 6,
+            "ActivitySignRewardItem": [
+              {
+                "ItemID": 110,
+                "ItemNum": 1
+              }
+            ]
+          },
+          {
+            "Days": 7,
+            "ActivitySignRewardItem": [
+              {
+                "ItemID": 110,
+                "ItemNum": 3
+              }
+            ]
+          }
+        ]
       }
     ]
   }

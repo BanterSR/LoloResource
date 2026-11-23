@@ -3,7 +3,10 @@
     "Datas": [
       {
         "ID": 1,
-        "UpgradeLevelByProficiency": 10000
+        "UpgradeLevelByProficiency": 10000,
+        "NeedItemID": 0,
+        "NeedItemCount": 0,
+        "LifeGatherLevelAchieve": []
       }
     ]
   },
@@ -12,6 +15,7 @@
       {
         "ID": 20200001,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -39,6 +43,7 @@
       {
         "ID": 20200002,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -66,6 +71,7 @@
       {
         "ID": 20300001,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -93,6 +99,7 @@
       {
         "ID": 20300002,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -120,6 +127,7 @@
       {
         "ID": 20500001,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -147,6 +155,7 @@
       {
         "ID": 20500002,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -174,6 +183,7 @@
       {
         "ID": 20400001,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -201,6 +211,7 @@
       {
         "ID": 20400002,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -228,6 +239,7 @@
       {
         "ID": 20400003,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -255,6 +267,7 @@
       {
         "ID": 20400004,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -282,6 +295,7 @@
       {
         "ID": 20400005,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -309,6 +323,7 @@
       {
         "ID": 20400006,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -336,6 +351,7 @@
       {
         "ID": 20400007,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -363,6 +379,7 @@
       {
         "ID": 20400008,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -390,6 +407,7 @@
       {
         "ID": 20400009,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -417,6 +435,7 @@
       {
         "ID": 20400010,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -444,6 +463,7 @@
       {
         "ID": 20400011,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -471,6 +491,7 @@
       {
         "ID": 20400012,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -498,6 +519,7 @@
       {
         "ID": 20400013,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -525,6 +547,7 @@
       {
         "ID": 20400014,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -552,6 +575,7 @@
       {
         "ID": 20400015,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -579,6 +603,7 @@
       {
         "ID": 20400016,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -606,6 +631,7 @@
       {
         "ID": 20400017,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -633,6 +659,7 @@
       {
         "ID": 20400018,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -660,6 +687,7 @@
       {
         "ID": 20400019,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -687,6 +715,7 @@
       {
         "ID": 20400020,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -714,6 +743,7 @@
       {
         "ID": 20400021,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -741,6 +771,7 @@
       {
         "ID": 20400022,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -768,6 +799,7 @@
       {
         "ID": 20400023,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -795,6 +827,7 @@
       {
         "ID": 20400024,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -822,6 +855,7 @@
       {
         "ID": 20100003,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -843,11 +877,13 @@
             "AchieveConditionID": 121000034,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100004,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -869,11 +905,13 @@
             "AchieveConditionID": 121000044,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100005,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -895,11 +933,13 @@
             "AchieveConditionID": 121000054,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100006,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -921,11 +961,13 @@
             "AchieveConditionID": 121000064,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100007,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -947,11 +989,13 @@
             "AchieveConditionID": 121000074,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100008,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -973,11 +1017,13 @@
             "AchieveConditionID": 121000084,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100009,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -999,11 +1045,13 @@
             "AchieveConditionID": 121000094,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100010,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1025,11 +1073,13 @@
             "AchieveConditionID": 121000104,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100011,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1051,11 +1101,13 @@
             "AchieveConditionID": 121000114,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100012,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1077,11 +1129,13 @@
             "AchieveConditionID": 121000124,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100013,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1103,11 +1157,13 @@
             "AchieveConditionID": 121000134,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100014,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1129,11 +1185,13 @@
             "AchieveConditionID": 121000144,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100015,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1155,11 +1213,13 @@
             "AchieveConditionID": 121000154,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100016,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1181,11 +1241,13 @@
             "AchieveConditionID": 121000164,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100017,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1207,11 +1269,13 @@
             "AchieveConditionID": 121000174,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100018,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1233,11 +1297,13 @@
             "AchieveConditionID": 121000184,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100019,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1259,11 +1325,13 @@
             "AchieveConditionID": 121000194,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100020,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1285,11 +1353,13 @@
             "AchieveConditionID": 121000204,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100021,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1311,11 +1381,13 @@
             "AchieveConditionID": 121000214,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100022,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1337,11 +1409,13 @@
             "AchieveConditionID": 121000224,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100023,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1363,11 +1437,13 @@
             "AchieveConditionID": 121000234,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100024,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1389,11 +1465,13 @@
             "AchieveConditionID": 121000244,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100025,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1415,11 +1493,13 @@
             "AchieveConditionID": 121000254,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100026,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1441,11 +1521,13 @@
             "AchieveConditionID": 121000264,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100027,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1467,11 +1549,13 @@
             "AchieveConditionID": 121000274,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100028,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1493,11 +1577,13 @@
             "AchieveConditionID": 121000284,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100029,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1519,11 +1605,13 @@
             "AchieveConditionID": 121000294,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100030,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1545,11 +1633,13 @@
             "AchieveConditionID": 121000304,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100031,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1571,11 +1661,13 @@
             "AchieveConditionID": 121000314,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100032,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1597,11 +1689,13 @@
             "AchieveConditionID": 121000324,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100033,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1623,11 +1717,13 @@
             "AchieveConditionID": 121000334,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100034,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1649,11 +1745,13 @@
             "AchieveConditionID": 121000344,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20600001,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1681,6 +1779,7 @@
       {
         "ID": 20600002,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1708,6 +1807,7 @@
       {
         "ID": 20600003,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1735,6 +1835,7 @@
       {
         "ID": 20600004,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1762,6 +1863,7 @@
       {
         "ID": 20600005,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1789,6 +1891,7 @@
       {
         "ID": 20600006,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1816,6 +1919,7 @@
       {
         "ID": 20600007,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1843,6 +1947,7 @@
       {
         "ID": 20600008,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1870,6 +1975,7 @@
       {
         "ID": 20600009,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1897,6 +2003,7 @@
       {
         "ID": 20600010,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1924,6 +2031,7 @@
       {
         "ID": 20600011,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1951,6 +2059,7 @@
       {
         "ID": 20600012,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -1978,6 +2087,7 @@
       {
         "ID": 20600013,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2005,6 +2115,7 @@
       {
         "ID": 20600014,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2032,6 +2143,7 @@
       {
         "ID": 20600015,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2059,6 +2171,7 @@
       {
         "ID": 20600016,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2086,6 +2199,7 @@
       {
         "ID": 20600017,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2113,6 +2227,7 @@
       {
         "ID": 20600018,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2140,6 +2255,7 @@
       {
         "ID": 20600019,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2167,6 +2283,7 @@
       {
         "ID": 20600020,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2194,6 +2311,7 @@
       {
         "ID": 20600021,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2221,6 +2339,7 @@
       {
         "ID": 20600022,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2248,6 +2367,7 @@
       {
         "ID": 20600023,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2275,6 +2395,7 @@
       {
         "ID": 20600024,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2302,6 +2423,7 @@
       {
         "ID": 20600025,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2329,6 +2451,7 @@
       {
         "ID": 20600026,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2356,6 +2479,7 @@
       {
         "ID": 20600027,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2383,6 +2507,7 @@
       {
         "ID": 20100101,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2404,11 +2529,13 @@
             "AchieveConditionID": 121001014,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100102,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2430,11 +2557,13 @@
             "AchieveConditionID": 121001024,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100103,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2456,11 +2585,13 @@
             "AchieveConditionID": 121001034,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100104,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2482,11 +2613,13 @@
             "AchieveConditionID": 121001044,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100105,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2508,11 +2641,13 @@
             "AchieveConditionID": 121001054,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100106,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2534,11 +2669,13 @@
             "AchieveConditionID": 121001064,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100107,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2560,11 +2697,13 @@
             "AchieveConditionID": 121001074,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100201,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2586,11 +2725,13 @@
             "AchieveConditionID": 121002014,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100202,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2612,11 +2753,13 @@
             "AchieveConditionID": 121002024,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100203,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2638,11 +2781,13 @@
             "AchieveConditionID": 121002034,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100204,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2664,11 +2809,13 @@
             "AchieveConditionID": 121002044,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100205,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2690,11 +2837,13 @@
             "AchieveConditionID": 121002054,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100206,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2716,11 +2865,13 @@
             "AchieveConditionID": 121002064,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100207,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2742,10 +2893,13 @@
             "AchieveConditionID": 121002074,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100301,
+        "IsShow": false,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2767,10 +2921,13 @@
             "AchieveConditionID": 121003014,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100302,
+        "IsShow": false,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2792,10 +2949,13 @@
             "AchieveConditionID": 121003024,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100303,
+        "IsShow": false,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2817,10 +2977,13 @@
             "AchieveConditionID": 121003034,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100304,
+        "IsShow": false,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2842,10 +3005,13 @@
             "AchieveConditionID": 121003044,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100305,
+        "IsShow": false,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2867,10 +3033,13 @@
             "AchieveConditionID": 121003054,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100306,
+        "IsShow": false,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2892,10 +3061,13 @@
             "AchieveConditionID": 121003064,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100307,
+        "IsShow": false,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2917,11 +3089,13 @@
             "AchieveConditionID": 121003074,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100401,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2943,11 +3117,13 @@
             "AchieveConditionID": 121004014,
             "RewardID": 10140
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100402,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2969,11 +3145,13 @@
             "AchieveConditionID": 121004024,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100403,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -2995,11 +3173,13 @@
             "AchieveConditionID": 121004034,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100404,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3021,11 +3201,13 @@
             "AchieveConditionID": 121004044,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100405,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3047,11 +3229,13 @@
             "AchieveConditionID": 121004054,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100406,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3073,11 +3257,13 @@
             "AchieveConditionID": 121004064,
             "RewardID": 10240
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20100407,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3099,11 +3285,13 @@
             "AchieveConditionID": 121004074,
             "RewardID": 10340
           }
-        ]
+        ],
+        "NewGatherType": 0
       },
       {
         "ID": 20400101,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3131,6 +3319,7 @@
       {
         "ID": 20400102,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3158,6 +3347,7 @@
       {
         "ID": 20400103,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3185,6 +3375,7 @@
       {
         "ID": 20400104,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3212,6 +3403,7 @@
       {
         "ID": 20400105,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3239,6 +3431,7 @@
       {
         "ID": 20400106,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3266,6 +3459,7 @@
       {
         "ID": 20400107,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3293,6 +3487,7 @@
       {
         "ID": 20400201,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3320,6 +3515,7 @@
       {
         "ID": 20400202,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3347,6 +3543,7 @@
       {
         "ID": 20400203,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3374,6 +3571,7 @@
       {
         "ID": 20400204,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3401,6 +3599,7 @@
       {
         "ID": 20400205,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3428,6 +3627,7 @@
       {
         "ID": 20400206,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3455,6 +3655,7 @@
       {
         "ID": 20400207,
         "IsShow": true,
+        "NeedFormulaItemID": 0,
         "GatherLevel": 1,
         "NeedItemID": 11,
         "NeedItemCount": 1,
@@ -3490,91 +3691,131 @@
             "Level": 1,
             "IconID": 36100,
             "TextID": 36101,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.0,
+            "SpellParam2": 0.0,
             "NeedGatherLevel": 1,
             "NeedTime": 1800,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 1000
+            "NeedCurrencyCount": 1000,
+            "LifeGatherNeedItem": []
           },
           {
             "Level": 2,
             "IconID": 36100,
             "TextID": 36102,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.0,
+            "SpellParam2": 0.0,
             "NeedGatherLevel": 2,
             "NeedTime": 3600,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 2000
+            "NeedCurrencyCount": 2000,
+            "LifeGatherNeedItem": []
           },
           {
             "Level": 3,
             "IconID": 36100,
             "TextID": 36103,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.0,
+            "SpellParam2": 0.0,
             "NeedGatherLevel": 3,
             "NeedTime": 7200,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 3000
+            "NeedCurrencyCount": 3000,
+            "LifeGatherNeedItem": []
           },
           {
             "Level": 4,
             "IconID": 36100,
             "TextID": 36104,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.0,
+            "SpellParam2": 0.0,
             "NeedGatherLevel": 4,
             "NeedTime": 14400,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 5000
+            "NeedCurrencyCount": 5000,
+            "LifeGatherNeedItem": []
           },
           {
             "Level": 5,
             "IconID": 36100,
             "TextID": 36105,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.0,
+            "SpellParam2": 0.0,
             "NeedGatherLevel": 5,
             "NeedTime": 21600,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 10000
+            "NeedCurrencyCount": 10000,
+            "LifeGatherNeedItem": []
           },
           {
             "Level": 6,
             "IconID": 36100,
             "TextID": 36106,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.0,
+            "SpellParam2": 0.0,
             "NeedGatherLevel": 6,
             "NeedTime": 32400,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 15000
+            "NeedCurrencyCount": 15000,
+            "LifeGatherNeedItem": []
           },
           {
             "Level": 7,
             "IconID": 36100,
             "TextID": 36107,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.0,
+            "SpellParam2": 0.0,
             "NeedGatherLevel": 7,
             "NeedTime": 43200,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 20000
+            "NeedCurrencyCount": 20000,
+            "LifeGatherNeedItem": []
           },
           {
             "Level": 8,
             "IconID": 36100,
             "TextID": 36108,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.0,
+            "SpellParam2": 0.0,
             "NeedGatherLevel": 8,
             "NeedTime": 86400,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 25000
+            "NeedCurrencyCount": 25000,
+            "LifeGatherNeedItem": []
           },
           {
             "Level": 9,
             "IconID": 36100,
             "TextID": 36109,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.0,
+            "SpellParam2": 0.0,
             "NeedGatherLevel": 9,
             "NeedTime": 129600,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 30000
+            "NeedCurrencyCount": 30000,
+            "LifeGatherNeedItem": []
           },
           {
             "Level": 10,
             "IconID": 36100,
             "TextID": 36110,
+            "NewLifeSpellEffectType": 0,
+            "SpellParam1": 0.0,
+            "SpellParam2": 0.0,
             "NeedGatherLevel": 10,
             "NeedTime": 259200,
             "NeedCurrencyID": 101,
-            "NeedCurrencyCount": 40000
+            "NeedCurrencyCount": 40000,
+            "LifeGatherNeedItem": []
           }
         ]
       }

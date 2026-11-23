@@ -208,6 +208,7 @@
         "BattleCostItem": 131,
         "CostItemRecover": 3,
         "BattleTime": 3600,
+        "NextSeason": 0,
         "StageNameTextID": 1014
       }
     ]
@@ -222,30 +223,51 @@
             "IconID": 10011,
             "DungeonID": 940001,
             "BeginDay": 1,
+            "Scroe": 0,
             "MaxHP": 2600000,
+            "NewElementType1": 0,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10012,
             "IconID": 10012,
             "DungeonID": 940002,
             "BeginDay": 2,
+            "Scroe": 0,
             "MaxHP": 6240000,
+            "NewElementType1": 0,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10013,
             "IconID": 10013,
             "DungeonID": 940003,
             "BeginDay": 3,
+            "Scroe": 0,
             "MaxHP": 30000000,
+            "NewElementType1": 0,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           }
         ]
       },
@@ -257,30 +279,51 @@
             "IconID": 10021,
             "DungeonID": 940101,
             "BeginDay": 1,
+            "Scroe": 0,
             "MaxHP": 25000000,
+            "NewElementType1": 0,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10022,
             "IconID": 10022,
             "DungeonID": 940102,
             "BeginDay": 2,
+            "Scroe": 0,
             "MaxHP": 50000000,
+            "NewElementType1": 0,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10023,
             "IconID": 10023,
             "DungeonID": 940103,
             "BeginDay": 3,
+            "Scroe": 0,
             "MaxHP": 200000000,
+            "NewElementType1": 0,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           }
         ]
       },
@@ -292,30 +335,51 @@
             "IconID": 10011,
             "DungeonID": 940001,
             "BeginDay": 1,
+            "Scroe": 0,
             "MaxHP": 25000000,
+            "NewElementType1": 0,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10012,
             "IconID": 10012,
             "DungeonID": 940002,
             "BeginDay": 2,
+            "Scroe": 0,
             "MaxHP": 50000000,
+            "NewElementType1": 0,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10013,
             "IconID": 10013,
             "DungeonID": 940003,
             "BeginDay": 3,
+            "Scroe": 0,
             "MaxHP": 200000000,
+            "NewElementType1": 0,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           }
         ]
       },
@@ -327,33 +391,51 @@
             "IconID": 10021,
             "DungeonID": 940101,
             "BeginDay": 1,
+            "Scroe": 0,
             "MaxHP": 25000000,
             "NewElementType1": 1,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10022,
             "IconID": 10022,
             "DungeonID": 940102,
             "BeginDay": 2,
+            "Scroe": 0,
             "MaxHP": 50000000,
             "NewElementType1": 1,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10023,
             "IconID": 10023,
             "DungeonID": 940103,
             "BeginDay": 3,
+            "Scroe": 0,
             "MaxHP": 400000000,
             "NewElementType1": 1,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           }
         ]
       },
@@ -365,33 +447,51 @@
             "IconID": 10011,
             "DungeonID": 940001,
             "BeginDay": 1,
+            "Scroe": 0,
             "MaxHP": 25000000,
             "NewElementType1": 3,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10012,
             "IconID": 10012,
             "DungeonID": 940002,
             "BeginDay": 2,
+            "Scroe": 0,
             "MaxHP": 50000000,
             "NewElementType1": 3,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10013,
             "IconID": 10013,
             "DungeonID": 940003,
             "BeginDay": 3,
+            "Scroe": 0,
             "MaxHP": 500000000,
             "NewElementType1": 3,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           }
         ]
       },
@@ -403,33 +503,51 @@
             "IconID": 10021,
             "DungeonID": 940101,
             "BeginDay": 1,
+            "Scroe": 0,
             "MaxHP": 25000000,
             "NewElementType1": 2,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10022,
             "IconID": 10022,
             "DungeonID": 940102,
             "BeginDay": 2,
+            "Scroe": 0,
             "MaxHP": 50000000,
             "NewElementType1": 2,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10023,
             "IconID": 10023,
             "DungeonID": 940103,
             "BeginDay": 3,
+            "Scroe": 0,
             "MaxHP": 400000000,
             "NewElementType1": 2,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           }
         ]
       },
@@ -441,33 +559,51 @@
             "IconID": 10011,
             "DungeonID": 940001,
             "BeginDay": 1,
+            "Scroe": 0,
             "MaxHP": 25000000,
             "NewElementType1": 4,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10012,
             "IconID": 10012,
             "DungeonID": 940002,
             "BeginDay": 2,
+            "Scroe": 0,
             "MaxHP": 50000000,
             "NewElementType1": 4,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10013,
             "IconID": 10013,
             "DungeonID": 940003,
             "BeginDay": 3,
+            "Scroe": 0,
             "MaxHP": 500000000,
             "NewElementType1": 4,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           }
         ]
       },
@@ -479,33 +615,51 @@
             "IconID": 10021,
             "DungeonID": 940101,
             "BeginDay": 1,
+            "Scroe": 0,
             "MaxHP": 25000000,
             "NewElementType1": 5,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10022,
             "IconID": 10022,
             "DungeonID": 940102,
             "BeginDay": 2,
+            "Scroe": 0,
             "MaxHP": 50000000,
             "NewElementType1": 5,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10023,
             "IconID": 10023,
             "DungeonID": 940103,
             "BeginDay": 3,
+            "Scroe": 0,
             "MaxHP": 400000000,
             "NewElementType1": 5,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           }
         ]
       },
@@ -517,33 +671,51 @@
             "IconID": 10011,
             "DungeonID": 940001,
             "BeginDay": 1,
+            "Scroe": 0,
             "MaxHP": 25000000,
             "NewElementType1": 1,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10012,
             "IconID": 10012,
             "DungeonID": 940002,
             "BeginDay": 2,
+            "Scroe": 0,
             "MaxHP": 50000000,
             "NewElementType1": 1,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10013,
             "IconID": 10013,
             "DungeonID": 940003,
             "BeginDay": 3,
+            "Scroe": 0,
             "MaxHP": 500000000,
             "NewElementType1": 1,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           }
         ]
       },
@@ -555,33 +727,51 @@
             "IconID": 10021,
             "DungeonID": 940101,
             "BeginDay": 1,
+            "Scroe": 0,
             "MaxHP": 25000000,
             "NewElementType1": 3,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10022,
             "IconID": 10022,
             "DungeonID": 940102,
             "BeginDay": 2,
+            "Scroe": 0,
             "MaxHP": 50000000,
             "NewElementType1": 3,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10023,
             "IconID": 10023,
             "DungeonID": 940103,
             "BeginDay": 3,
+            "Scroe": 0,
             "MaxHP": 400000000,
             "NewElementType1": 3,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           }
         ]
       },
@@ -593,33 +783,51 @@
             "IconID": 10011,
             "DungeonID": 940001,
             "BeginDay": 1,
+            "Scroe": 0,
             "MaxHP": 25000000,
             "NewElementType1": 2,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10012,
             "IconID": 10012,
             "DungeonID": 940002,
             "BeginDay": 2,
+            "Scroe": 0,
             "MaxHP": 50000000,
             "NewElementType1": 2,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10013,
             "IconID": 10013,
             "DungeonID": 940003,
             "BeginDay": 3,
+            "Scroe": 0,
             "MaxHP": 500000000,
             "NewElementType1": 2,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           }
         ]
       },
@@ -631,33 +839,51 @@
             "IconID": 10021,
             "DungeonID": 940101,
             "BeginDay": 1,
+            "Scroe": 0,
             "MaxHP": 25000000,
             "NewElementType1": 4,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10022,
             "IconID": 10022,
             "DungeonID": 940102,
             "BeginDay": 2,
+            "Scroe": 0,
             "MaxHP": 50000000,
             "NewElementType1": 4,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10023,
             "IconID": 10023,
             "DungeonID": 940103,
             "BeginDay": 3,
+            "Scroe": 0,
             "MaxHP": 400000000,
             "NewElementType1": 4,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           }
         ]
       },
@@ -669,33 +895,51 @@
             "IconID": 10011,
             "DungeonID": 940001,
             "BeginDay": 1,
+            "Scroe": 0,
             "MaxHP": 25000000,
             "NewElementType1": 5,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10012,
             "IconID": 10012,
             "DungeonID": 940002,
             "BeginDay": 2,
+            "Scroe": 0,
             "MaxHP": 50000000,
             "NewElementType1": 5,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10013,
             "IconID": 10013,
             "DungeonID": 940003,
             "BeginDay": 3,
+            "Scroe": 0,
             "MaxHP": 500000000,
             "NewElementType1": 5,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           }
         ]
       },
@@ -707,33 +951,51 @@
             "IconID": 10021,
             "DungeonID": 940101,
             "BeginDay": 1,
+            "Scroe": 0,
             "MaxHP": 25000000,
             "NewElementType1": 1,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10022,
             "IconID": 10022,
             "DungeonID": 940102,
             "BeginDay": 2,
+            "Scroe": 0,
             "MaxHP": 50000000,
             "NewElementType1": 1,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           },
           {
             "TextID": 10023,
             "IconID": 10023,
             "DungeonID": 940103,
             "BeginDay": 3,
+            "Scroe": 0,
             "MaxHP": 400000000,
             "NewElementType1": 1,
+            "NewUpTag1": 0,
             "NewUpTag2": 1,
             "NewUpTag3": 2,
-            "NewUpTag4": 3
+            "NewUpTag4": 3,
+            "NewUpDamageType1": 0,
+            "NewUpDamageType2": 0,
+            "NewUpDamageType3": 0,
+            "NewUpDamageType4": 0
           }
         ]
       }

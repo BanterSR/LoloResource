@@ -6,21 +6,24 @@
         "ItemID": 1007001,
         "ExcavateTime": 12,
         "SuccessRate": 500,
-        "CollectionID": 7000110
+        "CollectionID": 7000110,
+        "Items": []
       },
       {
         "ID": 1007002,
         "ItemID": 1007002,
         "ExcavateTime": 8,
         "SuccessRate": 800,
-        "CollectionID": 7000120
+        "CollectionID": 7000120,
+        "Items": []
       },
       {
         "ID": 1007003,
         "ItemID": 1007003,
         "ExcavateTime": 5,
         "SuccessRate": 1000,
-        "CollectionID": 7000130
+        "CollectionID": 7000130,
+        "Items": []
       }
     ]
   }

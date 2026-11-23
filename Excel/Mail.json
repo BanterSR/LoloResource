@@ -4,7 +4,9 @@
       {
         "ID": 1,
         "ItemID": 500,
-        "TextID": 1
+        "TextID": 1,
+        "Day": 0,
+        "NewMailType": 0
       },
       {
         "ID": 2,
@@ -17,6 +19,7 @@
         "ID": 3,
         "ItemID": 502,
         "TextID": 3,
+        "Day": 0,
         "NewMailType": 2
       },
       {
@@ -28,35 +31,44 @@
       },
       {
         "ID": 5,
+        "ItemID": 0,
         "TextID": 5,
         "Day": 30,
         "NewMailType": 4
       },
       {
         "ID": 6,
+        "ItemID": 0,
         "TextID": 6,
         "Day": 30,
         "NewMailType": 4
       },
       {
         "ID": 7,
+        "ItemID": 0,
         "TextID": 7,
+        "Day": 0,
         "NewMailType": 5
       },
       {
         "ID": 8,
+        "ItemID": 0,
         "TextID": 8,
+        "Day": 0,
         "NewMailType": 6
       },
       {
         "ID": 9,
+        "ItemID": 0,
         "TextID": 9,
         "Day": 30,
         "NewMailType": 7
       },
       {
         "ID": 10,
+        "ItemID": 0,
         "TextID": 10,
+        "Day": 0,
         "NewMailType": 4
       },
       {
@@ -68,6 +80,7 @@
       },
       {
         "ID": 12,
+        "ItemID": 0,
         "TextID": 12,
         "Day": 30,
         "NewMailType": 4
@@ -81,12 +94,16 @@
       },
       {
         "ID": 14,
+        "ItemID": 0,
         "TextID": 14,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 15,
+        "ItemID": 0,
         "TextID": 15,
+        "Day": 0,
         "NewMailType": 4
       },
       {
@@ -98,26 +115,35 @@
       },
       {
         "ID": 17,
+        "ItemID": 0,
         "TextID": 17,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 18,
+        "ItemID": 0,
         "TextID": 18,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 19,
+        "ItemID": 0,
         "TextID": 19,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 20,
+        "ItemID": 0,
         "TextID": 20,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 21,
+        "ItemID": 0,
         "TextID": 21,
         "Day": 365,
         "NewMailType": 4
@@ -126,395 +152,546 @@
         "ID": 22,
         "ItemID": 507,
         "TextID": 22,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 23,
         "ItemID": 506,
         "TextID": 23,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 24,
         "ItemID": 507,
         "TextID": 24,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 25,
+        "ItemID": 0,
         "TextID": 25,
         "Day": 60,
         "NewMailType": 4
       },
       {
         "ID": 26,
+        "ItemID": 0,
         "TextID": 26,
         "Day": 60,
         "NewMailType": 4
       },
       {
         "ID": 27,
+        "ItemID": 0,
         "TextID": 27,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 101001,
+        "ItemID": 0,
         "TextID": 101001,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 101002,
+        "ItemID": 0,
         "TextID": 101002,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 101003,
+        "ItemID": 0,
         "TextID": 101003,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 101004,
+        "ItemID": 0,
         "TextID": 101004,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 102001,
+        "ItemID": 0,
         "TextID": 102001,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 102002,
+        "ItemID": 0,
         "TextID": 102002,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 102003,
+        "ItemID": 0,
         "TextID": 102003,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 102004,
+        "ItemID": 0,
         "TextID": 102004,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 103001,
+        "ItemID": 0,
         "TextID": 103001,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 103002,
+        "ItemID": 0,
         "TextID": 103002,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 201001,
+        "ItemID": 0,
         "TextID": 201001,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 201002,
+        "ItemID": 0,
         "TextID": 201002,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 201003,
+        "ItemID": 0,
         "TextID": 201003,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 202001,
+        "ItemID": 0,
         "TextID": 202001,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 202002,
+        "ItemID": 0,
         "TextID": 202002,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 202003,
+        "ItemID": 0,
         "TextID": 202003,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 202004,
+        "ItemID": 0,
         "TextID": 202004,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 301002,
+        "ItemID": 0,
         "TextID": 301002,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 301003,
+        "ItemID": 0,
         "TextID": 301003,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 301004,
+        "ItemID": 0,
         "TextID": 301004,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 302001,
+        "ItemID": 0,
         "TextID": 302001,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 302002,
+        "ItemID": 0,
         "TextID": 302002,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 302003,
+        "ItemID": 0,
         "TextID": 302003,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 302004,
+        "ItemID": 0,
         "TextID": 302004,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 401001,
+        "ItemID": 0,
         "TextID": 401001,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 401002,
+        "ItemID": 0,
         "TextID": 401002,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 401003,
+        "ItemID": 0,
         "TextID": 401003,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 401004,
+        "ItemID": 0,
         "TextID": 401004,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 401005,
+        "ItemID": 0,
         "TextID": 401005,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 402001,
+        "ItemID": 0,
         "TextID": 402001,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 402002,
+        "ItemID": 0,
         "TextID": 402002,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 402003,
+        "ItemID": 0,
         "TextID": 402003,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 403001,
+        "ItemID": 0,
         "TextID": 403001,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 403002,
+        "ItemID": 0,
         "TextID": 403002,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 403003,
+        "ItemID": 0,
         "TextID": 403003,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 403004,
+        "ItemID": 0,
         "TextID": 403004,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 1010011,
+        "ItemID": 0,
         "TextID": 1010011,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 1010021,
+        "ItemID": 0,
         "TextID": 1010021,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 1010031,
+        "ItemID": 0,
         "TextID": 1010031,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 1010041,
+        "ItemID": 0,
         "TextID": 1010041,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 1020011,
+        "ItemID": 0,
         "TextID": 1020011,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 1020021,
+        "ItemID": 0,
         "TextID": 1020021,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 1020031,
+        "ItemID": 0,
         "TextID": 1020031,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 1020041,
+        "ItemID": 0,
         "TextID": 1020041,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 1030011,
+        "ItemID": 0,
         "TextID": 1030011,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 1030021,
+        "ItemID": 0,
         "TextID": 1030021,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 2010011,
+        "ItemID": 0,
         "TextID": 2010011,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 2010021,
+        "ItemID": 0,
         "TextID": 2010021,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 2010031,
+        "ItemID": 0,
         "TextID": 2010031,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 2020011,
+        "ItemID": 0,
         "TextID": 2020011,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 2020021,
+        "ItemID": 0,
         "TextID": 2020021,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 2020031,
+        "ItemID": 0,
         "TextID": 2020031,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 2020041,
+        "ItemID": 0,
         "TextID": 2020041,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 3010021,
+        "ItemID": 0,
         "TextID": 3010021,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 3010031,
+        "ItemID": 0,
         "TextID": 3010031,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 3010041,
+        "ItemID": 0,
         "TextID": 3010041,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 3020011,
+        "ItemID": 0,
         "TextID": 3020011,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 3020021,
+        "ItemID": 0,
         "TextID": 3020021,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 3020031,
+        "ItemID": 0,
         "TextID": 3020031,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 3020041,
+        "ItemID": 0,
         "TextID": 3020041,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 4010011,
+        "ItemID": 0,
         "TextID": 4010011,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 4010021,
+        "ItemID": 0,
         "TextID": 4010021,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 4010031,
+        "ItemID": 0,
         "TextID": 4010031,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 4010041,
+        "ItemID": 0,
         "TextID": 4010041,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 4010051,
+        "ItemID": 0,
         "TextID": 4010051,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 4020011,
+        "ItemID": 0,
         "TextID": 4020011,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 4020021,
+        "ItemID": 0,
         "TextID": 4020021,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 4020031,
+        "ItemID": 0,
         "TextID": 4020031,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 4030011,
+        "ItemID": 0,
         "TextID": 4030011,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 4030021,
+        "ItemID": 0,
         "TextID": 4030021,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 4030031,
+        "ItemID": 0,
         "TextID": 4030031,
+        "Day": 0,
         "NewMailType": 4
       },
       {
         "ID": 4030041,
+        "ItemID": 0,
         "TextID": 4030041,
+        "Day": 0,
         "NewMailType": 4
       }
     ]

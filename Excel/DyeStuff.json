@@ -2,7 +2,11 @@
   "DyeData": {
     "Datas": [
       {
-        "ID": 401
+        "ID": 401,
+        "ColorR": 0,
+        "ColorG": 0,
+        "ColorB": 0,
+        "NewDyeType": 0
       },
       {
         "ID": 402,
@@ -13,6 +17,9 @@
       },
       {
         "ID": 403,
+        "ColorR": 0,
+        "ColorG": 0,
+        "ColorB": 0,
         "NewDyeType": 1
       },
       {
@@ -25,34 +32,41 @@
       {
         "ID": 405,
         "ColorR": 255,
+        "ColorG": 0,
+        "ColorB": 0,
         "NewDyeType": 1
       },
       {
         "ID": 406,
         "ColorR": 255,
         "ColorG": 216,
+        "ColorB": 0,
         "NewDyeType": 1
       },
       {
         "ID": 407,
         "ColorR": 72,
         "ColorG": 255,
+        "ColorB": 0,
         "NewDyeType": 1
       },
       {
         "ID": 408,
+        "ColorR": 0,
         "ColorG": 244,
         "ColorB": 255,
         "NewDyeType": 1
       },
       {
         "ID": 409,
+        "ColorR": 0,
         "ColorG": 63,
         "ColorB": 255,
         "NewDyeType": 1
       },
       {
         "ID": 410,
+        "ColorR": 0,
         "ColorG": 160,
         "ColorB": 255,
         "NewDyeType": 1
@@ -60,6 +74,7 @@
       {
         "ID": 411,
         "ColorR": 125,
+        "ColorG": 0,
         "ColorB": 255,
         "NewDyeType": 1
       },
@@ -157,11 +172,15 @@
       {
         "ID": 813,
         "ColorR": 193,
+        "ColorG": 0,
+        "ColorB": 0,
         "NewDyeType": 1
       },
       {
         "ID": 814,
         "ColorR": 101,
+        "ColorG": 0,
+        "ColorB": 0,
         "NewDyeType": 1
       },
       {
@@ -215,6 +234,7 @@
       },
       {
         "ID": 824,
+        "ColorR": 0,
         "ColorG": 21,
         "ColorB": 141,
         "NewDyeType": 1
@@ -341,6 +361,7 @@
       {
         "ID": 846,
         "ColorR": 120,
+        "ColorG": 0,
         "ColorB": 76,
         "NewDyeType": 1
       },
@@ -375,12 +396,14 @@
       {
         "ID": 853,
         "ColorR": 106,
+        "ColorG": 0,
         "ColorB": 122,
         "NewDyeType": 1
       },
       {
         "ID": 854,
         "ColorR": 66,
+        "ColorG": 0,
         "ColorB": 125,
         "NewDyeType": 1
       },
@@ -442,7 +465,9 @@
       },
       {
         "ID": 865,
+        "ColorR": 0,
         "ColorG": 82,
+        "ColorB": 0,
         "NewDyeType": 1
       },
       {

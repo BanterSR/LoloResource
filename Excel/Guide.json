@@ -6,7 +6,9 @@
         "Index": 1,
         "TextID": 1001,
         "IconID": 1001,
-        "GuideGroupID": 1001
+        "GuideGroupID": 1001,
+        "ItemUnLock": 0,
+        "QuestUnLock": 0
       },
       {
         "ID": 1002,
@@ -14,7 +16,8 @@
         "TextID": 1002,
         "IconID": 1002,
         "GuideGroupID": 1002,
-        "ItemUnLock": 131
+        "ItemUnLock": 131,
+        "QuestUnLock": 0
       },
       {
         "ID": 1003,
@@ -22,6 +25,7 @@
         "TextID": 1003,
         "IconID": 1003,
         "GuideGroupID": 1003,
+        "ItemUnLock": 0,
         "QuestUnLock": 100013
       }
     ]
@@ -32,22 +36,28 @@
         "ID": 1001,
         "GuideGroupItem": [
           {
-            "IconID": 100101
+            "IconID": 100101,
+            "TextID": 0
           },
           {
-            "IconID": 100102
+            "IconID": 100102,
+            "TextID": 0
           },
           {
-            "IconID": 100103
+            "IconID": 100103,
+            "TextID": 0
           },
           {
-            "IconID": 100104
+            "IconID": 100104,
+            "TextID": 0
           },
           {
-            "IconID": 100105
+            "IconID": 100105,
+            "TextID": 0
           },
           {
-            "IconID": 100106
+            "IconID": 100106,
+            "TextID": 0
           }
         ]
       },
@@ -55,19 +65,24 @@
         "ID": 1002,
         "GuideGroupItem": [
           {
-            "IconID": 100201
+            "IconID": 100201,
+            "TextID": 0
           },
           {
-            "IconID": 100202
+            "IconID": 100202,
+            "TextID": 0
           },
           {
-            "IconID": 100203
+            "IconID": 100203,
+            "TextID": 0
           },
           {
-            "IconID": 100204
+            "IconID": 100204,
+            "TextID": 0
           },
           {
-            "IconID": 100205
+            "IconID": 100205,
+            "TextID": 0
           }
         ]
       },
@@ -75,16 +90,20 @@
         "ID": 1003,
         "GuideGroupItem": [
           {
-            "IconID": 100301
+            "IconID": 100301,
+            "TextID": 0
           },
           {
-            "IconID": 100302
+            "IconID": 100302,
+            "TextID": 0
           },
           {
-            "IconID": 100303
+            "IconID": 100303,
+            "TextID": 0
           },
           {
-            "IconID": 100304
+            "IconID": 100304,
+            "TextID": 0
           }
         ]
       }

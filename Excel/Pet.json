@@ -4,6 +4,8 @@
       {
         "ID": 200001001,
         "MonsterID": 1001,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 50,
         "Pow": 75,
         "Str": 35,
@@ -14,11 +16,17 @@
         "ReleaseReward": [
           10002,
           10003
-        ]
+        ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
+        "NewSpecialFeature": 0
       },
       {
         "ID": 200001002,
         "MonsterID": 1002,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 25,
         "Pow": 20,
         "Str": 15,
@@ -29,11 +37,17 @@
         "ReleaseReward": [
           10002,
           10003
-        ]
+        ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
+        "NewSpecialFeature": 0
       },
       {
         "ID": 200001003,
         "MonsterID": 1003,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 44,
         "Pow": 50,
         "Str": 45,
@@ -44,12 +58,17 @@
         "ReleaseReward": [
           10002,
           10003
-        ]
+        ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
+        "NewSpecialFeature": 0
       },
       {
         "ID": 200001004,
         "MonsterID": 1004,
         "DecisionCapture": true,
+        "RuleID": 0,
         "Hp": 70,
         "Pow": 110,
         "Str": 80,
@@ -65,12 +84,15 @@
         "Parma": [
           500
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 1
       },
       {
         "ID": 200001005,
         "MonsterID": 1005,
         "DecisionCapture": true,
+        "RuleID": 0,
         "Hp": 50,
         "Pow": 85,
         "Str": 85,
@@ -86,12 +108,15 @@
           1000,
           1
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 52
       },
       {
         "ID": 200001006,
         "MonsterID": 1006,
         "DecisionCapture": true,
+        "RuleID": 0,
         "Hp": 50,
         "Pow": 50,
         "Str": 62,
@@ -106,12 +131,15 @@
         "Parma": [
           3000
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 6
       },
       {
         "ID": 200001007,
         "MonsterID": 1007,
         "DecisionCapture": true,
+        "RuleID": 0,
         "Hp": 75,
         "Pow": 80,
         "Str": 95,
@@ -127,12 +155,15 @@
         "Parma": [
           1
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 4
       },
       {
         "ID": 200001008,
         "MonsterID": 1008,
         "DecisionCapture": true,
+        "RuleID": 0,
         "Hp": 65,
         "Pow": 50,
         "Str": 35,
@@ -149,12 +180,15 @@
           2000,
           1
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 56
       },
       {
         "ID": 200001009,
         "MonsterID": 1009,
         "DecisionCapture": true,
+        "RuleID": 0,
         "Hp": 90,
         "Pow": 50,
         "Str": 34,
@@ -170,12 +204,15 @@
           2000,
           1
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 50
       },
       {
         "ID": 200001010,
         "MonsterID": 1010,
         "DecisionCapture": true,
+        "RuleID": 0,
         "Hp": 100,
         "Pow": 130,
         "Str": 100,
@@ -192,12 +229,15 @@
         "Parma": [
           1000
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 9
       },
       {
         "ID": 200001011,
         "MonsterID": 1011,
         "DecisionCapture": true,
+        "RuleID": 0,
         "Hp": 75,
         "Pow": 105,
         "Str": 75,
@@ -213,12 +253,15 @@
         "Parma": [
           1000
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 7
       },
       {
         "ID": 200001012,
         "MonsterID": 1012,
         "DecisionCapture": true,
+        "RuleID": 0,
         "Hp": 39,
         "Pow": 52,
         "Str": 43,
@@ -234,12 +277,15 @@
           2000,
           3
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 50
       },
       {
         "ID": 200001013,
         "MonsterID": 1013,
         "DecisionCapture": true,
+        "RuleID": 0,
         "Hp": 60,
         "Pow": 55,
         "Str": 90,
@@ -256,12 +302,15 @@
           1000,
           1
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 51
       },
       {
         "ID": 200001014,
         "MonsterID": 1014,
         "DecisionCapture": true,
+        "RuleID": 0,
         "Hp": 35,
         "Pow": 65,
         "Str": 85,
@@ -277,11 +326,15 @@
           1500,
           1
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 53
       },
       {
         "ID": 200001015,
         "MonsterID": 1015,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 72,
         "Pow": 95,
         "Str": 67,
@@ -294,11 +347,17 @@
           10001,
           10002,
           10003
-        ]
+        ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
+        "NewSpecialFeature": 0
       },
       {
         "ID": 200001016,
         "MonsterID": 1016,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 89,
         "Pow": 145,
         "Str": 90,
@@ -311,11 +370,17 @@
           10001,
           10002,
           10003
-        ]
+        ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
+        "NewSpecialFeature": 0
       },
       {
         "ID": 200001017,
         "MonsterID": 1017,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 55,
         "Pow": 85,
         "Str": 55,
@@ -327,11 +392,17 @@
           10001,
           10002,
           10003
-        ]
+        ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
+        "NewSpecialFeature": 0
       },
       {
         "ID": 200001018,
         "MonsterID": 1018,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 75,
         "Pow": 95,
         "Str": 60,
@@ -347,12 +418,15 @@
         "Parma": [
           500
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 3
       },
       {
         "ID": 200001019,
         "MonsterID": 1019,
         "DecisionCapture": true,
+        "RuleID": 0,
         "Hp": 80,
         "Pow": 45,
         "Str": 65,
@@ -369,11 +443,15 @@
           2000,
           1
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001020,
         "MonsterID": 1020,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 75,
         "Pow": 105,
         "Str": 75,
@@ -385,11 +463,17 @@
           10001,
           10002,
           10003
-        ]
+        ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
+        "NewSpecialFeature": 0
       },
       {
         "ID": 200001021,
         "MonsterID": 1021,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 75,
         "Pow": 115,
         "Str": 65,
@@ -402,11 +486,17 @@
           10001,
           10002,
           10003
-        ]
+        ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
+        "NewSpecialFeature": 0
       },
       {
         "ID": 200001022,
         "MonsterID": 1022,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 59,
         "Pow": 40,
         "Str": 60,
@@ -418,11 +508,17 @@
           10001,
           10002,
           10003
-        ]
+        ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
+        "NewSpecialFeature": 0
       },
       {
         "ID": 200001101,
         "MonsterID": 1101,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 72,
         "Pow": 80,
         "Str": 49,
@@ -434,11 +530,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001102,
         "MonsterID": 1102,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 50,
         "Pow": 60,
         "Str": 95,
@@ -451,11 +552,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001103,
         "MonsterID": 1103,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 62,
         "Pow": 55,
         "Str": 50,
@@ -467,11 +573,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001104,
         "MonsterID": 1104,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 49,
         "Pow": 55,
         "Str": 42,
@@ -483,11 +594,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001105,
         "MonsterID": 1105,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 50,
         "Pow": 75,
         "Str": 35,
@@ -499,11 +615,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001106,
         "MonsterID": 1106,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 70,
         "Pow": 75,
         "Str": 60,
@@ -515,11 +636,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001107,
         "MonsterID": 1107,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 100,
         "Pow": 134,
         "Str": 110,
@@ -533,11 +659,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001108,
         "MonsterID": 1108,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 67,
         "Pow": 89,
         "Str": 116,
@@ -550,11 +681,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001109,
         "MonsterID": 1109,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 60,
         "Pow": 55,
         "Str": 90,
@@ -567,11 +703,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001110,
         "MonsterID": 1110,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 105,
         "Pow": 105,
         "Str": 75,
@@ -584,11 +725,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001111,
         "MonsterID": 1111,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 55,
         "Pow": 90,
         "Str": 80,
@@ -600,11 +746,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001112,
         "MonsterID": 1112,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 70,
         "Pow": 75,
         "Str": 60,
@@ -617,11 +768,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001113,
         "MonsterID": 1113,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 40,
         "Pow": 30,
         "Str": 50,
@@ -634,11 +790,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001114,
         "MonsterID": 1114,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 45,
         "Pow": 60,
         "Str": 45,
@@ -650,11 +811,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001115,
         "MonsterID": 1115,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 85,
         "Pow": 80,
         "Str": 90,
@@ -667,11 +833,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001116,
         "MonsterID": 1116,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 50,
         "Pow": 105,
         "Str": 125,
@@ -684,11 +855,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001201,
         "MonsterID": 1201,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 40,
         "Pow": 30,
         "Str": 50,
@@ -700,11 +876,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001202,
         "MonsterID": 1202,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 59,
         "Pow": 74,
         "Str": 50,
@@ -716,11 +897,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001203,
         "MonsterID": 1203,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 105,
         "Pow": 140,
         "Str": 95,
@@ -733,11 +919,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001204,
         "MonsterID": 1204,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 160,
         "Pow": 110,
         "Str": 65,
@@ -750,12 +941,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001205,
         "MonsterID": 1205,
         "DecisionCapture": true,
+        "RuleID": 0,
         "Hp": 135,
         "Pow": 85,
         "Str": 40,
@@ -770,11 +965,15 @@
         "Parma": [
           30
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 6
       },
       {
         "ID": 200001206,
         "MonsterID": 1206,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 135,
         "Pow": 85,
         "Str": 40,
@@ -786,11 +985,16 @@
           10002,
           10003
         ],
+        "Parma": [],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001207,
         "MonsterID": 1207,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 64,
         "Pow": 76,
         "Str": 48,
@@ -808,11 +1012,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001208,
         "MonsterID": 1208,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 90,
         "Pow": 85,
         "Str": 100,
@@ -831,11 +1039,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001209,
         "MonsterID": 1209,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 45,
         "Pow": 55,
         "Str": 45,
@@ -853,11 +1065,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001210,
         "MonsterID": 1210,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 50,
         "Pow": 70,
         "Str": 55,
@@ -874,11 +1090,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001211,
         "MonsterID": 1211,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 40,
         "Pow": 30,
         "Str": 50,
@@ -895,11 +1115,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001212,
         "MonsterID": 1212,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 50,
         "Pow": 50,
         "Str": 50,
@@ -916,11 +1140,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001213,
         "MonsterID": 1213,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 107,
         "Pow": 139,
         "Str": 139,
@@ -939,11 +1167,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001214,
         "MonsterID": 1214,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 25,
         "Pow": 35,
         "Str": 70,
@@ -960,11 +1192,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001215,
         "MonsterID": 1215,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 45,
         "Pow": 80,
         "Str": 100,
@@ -981,11 +1217,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001216,
         "MonsterID": 1216,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 70,
         "Pow": 90,
         "Str": 70,
@@ -1003,11 +1243,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001217,
         "MonsterID": 1217,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 100,
         "Pow": 100,
         "Str": 100,
@@ -1026,11 +1270,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001301,
         "MonsterID": 1301,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 65,
         "Pow": 76,
         "Str": 84,
@@ -1047,11 +1295,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001302,
         "MonsterID": 1302,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 68,
         "Pow": 105,
         "Str": 65,
@@ -1068,11 +1320,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001303,
         "MonsterID": 1303,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 90,
         "Pow": 50,
         "Str": 34,
@@ -1089,11 +1345,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001304,
         "MonsterID": 1304,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 75,
         "Pow": 100,
         "Str": 95,
@@ -1110,11 +1370,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001305,
         "MonsterID": 1305,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 65,
         "Pow": 80,
         "Str": 140,
@@ -1132,11 +1396,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001306,
         "MonsterID": 1306,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 120,
         "Pow": 70,
         "Str": 120,
@@ -1155,11 +1423,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001307,
         "MonsterID": 1307,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 75,
         "Pow": 90,
         "Str": 50,
@@ -1177,11 +1449,22 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200002051,
         "MonsterID": 912051,
+        "DecisionCapture": false,
+        "RuleID": 0,
+        "Hp": 0,
+        "Pow": 0,
+        "Str": 0,
+        "Int": 0,
+        "Dex": 0,
+        "Luc": 0,
+        "Rarity": 0,
         "ReleaseReward": [
           0
         ],
@@ -1190,11 +1473,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001401,
         "MonsterID": 1401,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 60,
         "Pow": 90,
         "Str": 55,
@@ -1212,11 +1499,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001402,
         "MonsterID": 1402,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 70,
         "Pow": 40,
         "Str": 50,
@@ -1233,11 +1524,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001403,
         "MonsterID": 1403,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 70,
         "Pow": 90,
         "Str": 90,
@@ -1256,11 +1551,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001404,
         "MonsterID": 1404,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 80,
         "Pow": 100,
         "Str": 200,
@@ -1279,11 +1578,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001405,
         "MonsterID": 1405,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 41,
         "Pow": 64,
         "Str": 45,
@@ -1300,11 +1603,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001406,
         "MonsterID": 1406,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 106,
         "Pow": 75,
         "Str": 65,
@@ -1322,11 +1629,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001407,
         "MonsterID": 1407,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 60,
         "Pow": 100,
         "Str": 85,
@@ -1344,11 +1655,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001408,
         "MonsterID": 1408,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 250,
         "Pow": 5,
         "Str": 5,
@@ -1365,11 +1680,15 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       },
       {
         "ID": 200001409,
         "MonsterID": 1409,
+        "DecisionCapture": false,
+        "RuleID": 0,
         "Hp": 70,
         "Pow": 40,
         "Str": 50,
@@ -1386,6 +1705,8 @@
           0,
           0
         ],
+        "NewPetAttackType": 0,
+        "NewPetDefendType": 0,
         "NewSpecialFeature": 8
       }
     ]
@@ -1395,6 +1716,10 @@
       {
         "ID": 110,
         "NewPetNatureType": 5,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 5,
         "SkilledBuffValue": [
           1000
@@ -1407,6 +1732,10 @@
       {
         "ID": 111,
         "NewPetNatureType": 6,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 5,
         "SkilledBuffValue": [
           1000
@@ -1419,6 +1748,10 @@
       {
         "ID": 112,
         "NewPetNatureType": 7,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 5,
         "SkilledBuffValue": [
           1000
@@ -1431,6 +1764,10 @@
       {
         "ID": 113,
         "NewPetNatureType": 8,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 5,
         "SkilledBuffValue": [
           1000
@@ -1443,6 +1780,10 @@
       {
         "ID": 120,
         "NewPetNatureType": 9,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 6,
         "SkilledBuffValue": [
           2000
@@ -1455,6 +1796,10 @@
       {
         "ID": 121,
         "NewPetNatureType": 10,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 6,
         "SkilledBuffValue": [
           2000
@@ -1467,6 +1812,10 @@
       {
         "ID": 122,
         "NewPetNatureType": 11,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 6,
         "SkilledBuffValue": [
           2000
@@ -1479,6 +1828,10 @@
       {
         "ID": 123,
         "NewPetNatureType": 12,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 6,
         "SkilledBuffValue": [
           2000
@@ -1491,6 +1844,10 @@
       {
         "ID": 130,
         "NewPetNatureType": 13,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 7,
         "SkilledBuffValue": [
           500
@@ -1503,6 +1860,10 @@
       {
         "ID": 131,
         "NewPetNatureType": 14,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 7,
         "SkilledBuffValue": [
           500
@@ -1515,6 +1876,10 @@
       {
         "ID": 132,
         "NewPetNatureType": 15,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 7,
         "SkilledBuffValue": [
           500
@@ -1527,6 +1892,10 @@
       {
         "ID": 133,
         "NewPetNatureType": 16,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 7,
         "SkilledBuffValue": [
           500
@@ -1539,6 +1908,10 @@
       {
         "ID": 140,
         "NewPetNatureType": 17,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 8,
         "SkilledBuffValue": [
           1000
@@ -1551,6 +1924,10 @@
       {
         "ID": 141,
         "NewPetNatureType": 18,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 8,
         "SkilledBuffValue": [
           1000
@@ -1563,6 +1940,10 @@
       {
         "ID": 142,
         "NewPetNatureType": 19,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 8,
         "SkilledBuffValue": [
           1000
@@ -1575,6 +1956,10 @@
       {
         "ID": 143,
         "NewPetNatureType": 20,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 8,
         "SkilledBuffValue": [
           1000
@@ -1587,6 +1972,10 @@
       {
         "ID": 150,
         "NewPetNatureType": 21,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 9,
         "SkilledBuffValue": [
           500
@@ -1599,6 +1988,10 @@
       {
         "ID": 151,
         "NewPetNatureType": 22,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 9,
         "SkilledBuffValue": [
           500
@@ -1611,6 +2004,10 @@
       {
         "ID": 152,
         "NewPetNatureType": 23,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 9,
         "SkilledBuffValue": [
           500
@@ -1623,6 +2020,10 @@
       {
         "ID": 153,
         "NewPetNatureType": 24,
+        "NewBuffType": 0,
+        "BuffValue": 0,
+        "NewDebuffType": 0,
+        "DebuffValue": 0,
         "NewSkilledBuffType": 9,
         "SkilledBuffValue": [
           500
@@ -1756,6 +2157,8 @@
       },
       {
         "ID": 100050,
+        "PositiveEffect": 0,
+        "ReverseEffect": 0,
         "TextID": 100050
       }
     ]
